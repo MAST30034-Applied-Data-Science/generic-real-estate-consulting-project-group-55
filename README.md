@@ -1,2 +1,4 @@
 # Generic Real Estate Consulting Project
-Groups should generate their own suitable `README.md`.
+
+## Requirement
+You should use 'pip install -r requirement.txt' at first.
