@@ -1,38 +1,50 @@
 import requests
 import pandas as pd 
 import numpy as np
-
+import re
+import time
 url = "https://api.domain.com.au/v1/listings/residential/_search?ids=1&api_key=key_fc2838ab4862c055e9db3d585b2a18d4"
-datas =[]
 #get k page data
-for k in range(2):
-    data = { "listingType":"Rent", "pageNumber": k,  "pageSize": 20, "locations":[{"state":"VIC"}]}
-    resp = requests.post(url, data= str(data))
-    #get json
-    datas_part = resp.json()
-    datas.extend(datas_part)
-#get dataframe
-rent_data = pd.DataFrame(columns = ['price', 'state', 'propertyType','bathrooms','bedrooms','carspaces','region','suburb', 'postcode','dateListed'])
-
-for i in range(len(datas)):
-    if 'displayPrice' not in  datas[i]['listing']['priceDetails']:
+def get_data(url):
+    datas =[]
+    for k in range(50):
+        data = { "listingType":"Rent", "pageNumber": k,  "pageSize": 20, "locations":[{"state":"VIC"}]}
+        resp = requests.post(url, data= str(data))
+        #get json
+        datas_part = resp.json()
+        datas.extend(datas_part)
+    return datas
+#
+datas = get_data(url)
+#get dataframe columns
+def get_columns(datas):
+    if 'displayPrice' not in  datas['listing']['priceDetails']:
         price = 0
-    if 'state'  not in  datas[i]['listing']['propertyDetails']:
+    if 'state'  not in  datas['listing']['propertyDetails']:
         state = 'null'
     for j in ['price', 'state', 'propertyType','bathrooms','bedrooms','carspaces','region','suburb', 'postcode','dateListed']:
-        if j not in datas[i]['listing']['propertyDetails']:
-            datas[i]['listing']['propertyDetails'][j] = 0    
-    price = datas[i]['listing']['priceDetails']['displayPrice']
-    state = datas[i]['listing']['propertyDetails']['state']
-    propertyType = datas[i]['listing']['propertyDetails']['propertyType']
-    bathrooms = datas[i]['listing']['propertyDetails']['bathrooms']
-    bedrooms = datas[i]['listing']['propertyDetails']['bedrooms']
-    carspaces = datas[i]['listing']['propertyDetails']['carspaces']
-    region = datas[i]['listing']['propertyDetails']['region']
-    suburb = datas[i]['listing']['propertyDetails']['suburb']
-    postcode = datas[i]['listing']['propertyDetails']['postcode']
-    dateListed = datas[i]['listing']['dateListed']
-    c = [price,state,propertyType,bathrooms,bedrooms, carspaces,region,suburb,postcode,dateListed]
-    rent_data.loc[len(rent_data.index)] = c
+        if j not in datas['listing']['propertyDetails']:
+            datas['listing']['propertyDetails'][j] = 0    
+    price = datas['listing']['priceDetails']['displayPrice']
+    price =''.join(re.findall(r"\d+\.?\d*",price))
+    state = datas['listing']['propertyDetails']['state']
+    propertyType = datas['listing']['propertyDetails']['propertyType']
+    bathrooms = datas['listing']['propertyDetails']['bathrooms']
+    bedrooms = datas['listing']['propertyDetails']['bedrooms']
+    carspaces = datas['listing']['propertyDetails']['carspaces']
+    region = datas['listing']['propertyDetails']['region']
+    suburb = datas['listing']['propertyDetails']['suburb']
+    postcode = datas['listing']['propertyDetails']['postcode']
+    dateListed = datas['listing']['dateListed']
+    listingSlug = datas['listing']
+    return [price,state,propertyType,bathrooms,bedrooms, carspaces,region,suburb,postcode,dateListed, listingSlug]
 
-rent_data.to_csv("rent_data")
+def data_frame(datas):
+    #get dataframe
+    rent_data = pd.DataFrame(columns = ['price', 'state', 'propertyType','bathrooms','bedrooms','carspaces','region','suburb', 'postcode','dateListed','listingSlug'])
+    for i in range(len(datas)):
+        rent_data.loc[len(rent_data.index)] = get_columns(datas[i])
+    return rent_data
+time = time.strftime('%Y-%m-%d %H:%M:%S',time.localtime(time.time()))[:10]
+path = 'rent_time' + time
+data_frame(datas).to_csv("/home/ads/generic-real-estate-consulting-project-group-55/rent_data/" + path)
