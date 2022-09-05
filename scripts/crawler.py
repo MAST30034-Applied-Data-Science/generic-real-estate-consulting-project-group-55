@@ -207,7 +207,7 @@ class AusRent():
                                 legend_opts=opts.LegendOpts(is_show=True))
                )
 
-        pie.render(f"data{os.sep}raw{os.sep} + {distinct} Property Type Counts.html")
+        pie.render(f"data{os.sep}raw{os.sep}{distinct} Property Type Counts.html")
 
     def vis_bar(self, df, distinct):
         x_vals = list(df.groupby('Type').groups.keys())
@@ -224,7 +224,7 @@ class AusRent():
                                     name='Property Types', axislabel_opts=opts.LabelOpts(rotate=0)),
                                 yaxis_opts=opts.AxisOpts(name='Average Rent'))
                )
-        bar.render(f'data{os.sep}raw{os.sep} + {distinct} Property Rent Averages.html')
+        bar.render(f'data{os.sep}raw{os.sep}{distinct} Property Rent Averages.html')
 
     def query_project(self):
         self.open()
