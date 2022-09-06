@@ -36,7 +36,7 @@ def get_columns(datas):
     suburb = datas['listing']['propertyDetails']['suburb']
     postcode = datas['listing']['propertyDetails']['postcode']
     dateListed = datas['listing']['dateListed']
-    listingSlug = datas['listing']
+    listingSlug = datas['listing']['listingSlug']
     return [price,state,propertyType,bathrooms,bedrooms, carspaces,region,suburb,postcode,dateListed, listingSlug]
 
 def data_frame(datas):
