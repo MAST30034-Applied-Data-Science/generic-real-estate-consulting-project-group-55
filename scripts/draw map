@@ -1,0 +1,20 @@
+import openrouteservice as ors
+import folium
+
+client = ors.Client(key='5b3ce3597851110001cf624834e3138a2f8e44bcbf7c85983d0c767c')
+# type the coordinates u need
+coordinates = [[13.42731, 52.51088], [13.384116, 52.533558]]
+"""
+function: draw route map, return route
+param datas : map, route
+"""
+def mapping(coordinates, client):
+    map = folium.Map(location=[52.521861, 13.40744], tiles='cartodbpositron', zoom_start=13)
+    route = client.directions(
+        coordinates=coordinates,
+        profile='driving-car',
+        format='geojson',
+        validate=False,
+        )
+    folium.PolyLine(locations=[list(reversed(coord)) for coord in route['features'][0]['geometry']['coordinates']]).add_to(m)
+    return route, map
