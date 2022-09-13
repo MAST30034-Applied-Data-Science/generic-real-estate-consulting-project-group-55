@@ -27,7 +27,9 @@ if (pages < 1):
 
 
 class AusRent():
-    # Initialize the class
+    """
+    This function is used to get the raw data from the website.
+    """
     def __init__(self):
         self.url = 'https://www.domain.com.au/?mode=rent'
         service = ChromeService(
@@ -40,10 +42,16 @@ class AusRent():
         self.region = region
         self.pages = pages
         # Open domain.com.au with rent tab
-
+        
+    """
+    This function is used to open the url from the website.
+    """
     def open(self):
         self.wd.get(self.url)
 
+    """
+    This function is used to search the region and get the raw data from the website.
+    """
     def input(self):
         element = WebDriverWait(self.wd, 10).until(
             EC.presence_of_element_located((By.ID, "fe-pa-domain-home-typeahead-input")))
@@ -60,7 +68,10 @@ class AusRent():
             By.ID, 'search-results-sort-by-filter-item-1')
         element.click()
         time.sleep(1)
-
+        
+    """
+    This function is used to get the raw datas needed.
+    """
     def get_raw_data(self):
         # Initialize the data frame and related lists
         df = pd.DataFrame()
@@ -155,8 +166,10 @@ class AusRent():
         # Save the raw data
         # df.to_csv(str(self.region).lower().replace(' ', '_').replace(',', '') + '_raw_data.csv')
         return df
-
-    # Data processing & cleaning
+    
+    """
+    This function is used to preprocess the raw data and save them to csv.
+    """
     def clean_data(self):
         df = self.get_raw_data()
         # Drop the rows with NaN values
@@ -188,13 +201,19 @@ class AusRent():
         df.to_csv(f"data{os.sep}raw{os.sep}" + str(self.region).lower().replace(
             ' ', '_').replace(',', '') + '_cleaned_data.csv')
         return df
-
+    
+    """
+    This function is used to print the info in terminal.
+    """
     def vis_data(self, df):
         print("-" * 50, 'Property Type Counts', '-' * 50)
         print(df.groupby('Type').size().to_string())
         print("-" * 49, 'Property Rent Averages', '-' * 49)
         print(df.groupby('Type')['Price'].mean().round(2).to_string())
 
+    """
+    This function is used to plot the data types.
+    """
     def vis_pie(self, df, distinct):
         cate = df.groupby('Type').groups.keys()
         counts = df.groupby('Type').count()
@@ -208,7 +227,10 @@ class AusRent():
                )
 
         pie.render(f"data{os.sep}raw{os.sep}{distinct} Property Type Counts.html")
-
+        
+    """
+    This function is used to plot the data averages.
+    """
     def vis_bar(self, df, distinct):
         x_vals = list(df.groupby('Type').groups.keys())
         xlen = len(x_vals)
@@ -225,7 +247,10 @@ class AusRent():
                                 yaxis_opts=opts.AxisOpts(name='Average Rent'))
                )
         bar.render(f'data{os.sep}raw{os.sep}{distinct} Property Rent Averages.html')
-
+    
+    """
+    This function is the main function to run the program.
+    """
     def query_project(self):
         self.open()
         self.input()
@@ -235,13 +260,13 @@ class AusRent():
         self.vis_data(df)
         self.vis_pie(df, region)
         self.vis_bar(df, region)
-
-        # Finishing
-
+    
+    """
+    This function is used to sleep before closing the program.
+    """
     def __del__(self):
         time.sleep(10)
         self.wd.close()
-
 
 if __name__ == '__main__':
     query = AusRent()
