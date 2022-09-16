@@ -4,7 +4,7 @@ from pandas import DataFrame
 import pandas as pd
 import math
 import time
-client = ors.Client(key='5b3ce3597851110001cf624834e3138a2f8e44bcbf7c85983d0c767c')
+client = ors.Client(key='5b3ce3597851110001cf624870643fbddbce4ab4bce606d31c4fe1d8')
 # type the coordinates u need
 # coordinates = 
 """
@@ -22,8 +22,13 @@ def mapping(coordinates, client):
     folium.PolyLine(locations=[list(reversed(coord)) for coord in route['features'][0]['geometry']['coordinates']]).add_to(map)
     return route, map
 
-rent = pd.read_csv("/home/ads/generic-real-estate-consulting-project-group-55/rent_data/renew(15)")
+
+#Please note that due to the daily limit of the website and the limit of the number of reads per minute, it is recommended to read only ten rental data at a time
+rent = pd.read_csv("/home/ads/generic-real-estate-consulting-project-group-55/rent_data/renew(15)", index_col=0)
+rent = rent[30:40].reset_index(drop=True)
 train = pd.read_excel("/home/ads/generic-real-estate-consulting-project-group-55/data/raw/train_station_19to20.xlsx")
+
+
 """
 function: calculate coordinates' distance
 param datas : durations, distances
@@ -35,6 +40,7 @@ def cal_distance(coordinates, client):
     metrics=['distance', 'duration'],
     validate=False,
     )
+    time.sleep(2)
     return matrix['durations'], matrix['distances']
 # the unit of distance is m, the unit of durations is seconds
 
@@ -71,7 +77,6 @@ def get_coordinates(rent, train):
             coor_part.append([rent["longitude"][i], rent["latitude"][i]])
             coor_part.extend(coordinates[k*times(len(coordinates))[0]:(k+1)*times(len(coordinates))[0]])
             matrix = cal_distance(coor_part, client)
-            time.sleep(4)
             distances = distances + matrix[1][0][1:]
             durations = durations + matrix[0][0][1:]
         index = distances.index(min(distances))
@@ -93,4 +98,4 @@ def data_frame(rent, train):
     return df
 
 df = data_frame(rent, train)
-df.to_csv("/home/ads/generic-real-estate-consulting-project-group-55/data/raw/distances_durations", index=False)
+df.to_csv("/home/ads/generic-real-estate-consulting-project-group-55/data/raw/distances_durations(4)", index=False)
