@@ -22,8 +22,8 @@ def mapping(coordinates, client):
     folium.PolyLine(locations=[list(reversed(coord)) for coord in route['features'][0]['geometry']['coordinates']]).add_to(map)
     return route, map
 
-rent = pd.read_csv("/home/ads/generic-real-estate-consulting-project-group-55/rent_data/renew(15)")
-train = pd.read_excel("/home/ads/generic-real-estate-consulting-project-group-55/data/raw/train_station_19to20.xlsx")
+rent = pd.read_csv("/home/jnniu/Group55/generic-real-estate-consulting-project-group-55/rent_data/renew(15)")
+train = pd.read_excel("/home/jnniu/Group55/generic-real-estate-consulting-project-group-55/data/raw/train_station_19to20.xlsx")
 """
 function: calculate coordinates' distance
 param datas : durations, distances
@@ -93,4 +93,4 @@ def data_frame(rent, train):
     return df
 
 df = data_frame(rent, train)
-df.to_csv("/home/ads/generic-real-estate-consulting-project-group-55/data/raw/distances_durations", index=False)
+df.to_csv("/home/jnniu/Group55/generic-real-estate-consulting-project-group-55/data/raw/distances_durations", index=False)
