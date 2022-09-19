@@ -4,26 +4,15 @@ from pandas import DataFrame
 import pandas as pd
 import math
 import time
-client = ors.Client(key='5b3ce3597851110001cf624834e3138a2f8e44bcbf7c85983d0c767c')
-# type the coordinates u need
-# coordinates = 
-"""
-function: draw route map, return route
-param datas : map, route
-"""
-def mapping(coordinates, client):
-    map = folium.Map(location=[37.50, 144.58], tiles='cartodbpositron', zoom_start=13)
-    route = client.directions(
-        coordinates=coordinates,
-        profile='driving-car',
-        format='geojson',
-        validate=False,
-        )
-    folium.PolyLine(locations=[list(reversed(coord)) for coord in route['features'][0]['geometry']['coordinates']]).add_to(map)
-    return route, map
+client = ors.Client(key='5b3ce3597851110001cf6248d3629fc815a24f0582ed2410062c812f')
 
-rent = pd.read_csv("/home/jnniu/Group55/generic-real-estate-consulting-project-group-55/rent_data/renew(15)")
-train = pd.read_excel("/home/jnniu/Group55/generic-real-estate-consulting-project-group-55/data/raw/train_station_19to20.xlsx")
+
+#Please note that due to the daily limit of the website and the limit of the number of reads per minute, it is recommended to read only ten rental data at a time
+rent = pd.read_csv("/home/ads/generic-real-estate-consulting-project-group-55/rent_data/renew(15)", index_col=0)
+rent = rent[250:280].reset_index(drop=True)
+train = pd.read_excel("/home/ads/generic-real-estate-consulting-project-group-55/data/raw/train_station_20to21.xlsx")
+
+
 """
 function: calculate coordinates' distance
 param datas : durations, distances
@@ -35,6 +24,7 @@ def cal_distance(coordinates, client):
     metrics=['distance', 'duration'],
     validate=False,
     )
+    time.sleep(2.5)
     return matrix['durations'], matrix['distances']
 # the unit of distance is m, the unit of durations is seconds
 
@@ -71,7 +61,6 @@ def get_coordinates(rent, train):
             coor_part.append([rent["longitude"][i], rent["latitude"][i]])
             coor_part.extend(coordinates[k*times(len(coordinates))[0]:(k+1)*times(len(coordinates))[0]])
             matrix = cal_distance(coor_part, client)
-            time.sleep(4)
             distances = distances + matrix[1][0][1:]
             durations = durations + matrix[0][0][1:]
         index = distances.index(min(distances))
@@ -93,4 +82,4 @@ def data_frame(rent, train):
     return df
 
 df = data_frame(rent, train)
-df.to_csv("/home/jnniu/Group55/generic-real-estate-consulting-project-group-55/data/raw/distances_durations", index=False)
+df.to_csv("/home/ads/generic-real-estate-consulting-project-group-55/data/raw/distances_durations(25)", index=False)
