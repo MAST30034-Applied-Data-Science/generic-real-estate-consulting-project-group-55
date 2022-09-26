@@ -5,14 +5,14 @@ import re
 import time
 import os
 api = os.environ.get('api')
-url = "https://api.domain.com.au/v1/listings/residential/_search?ids=1&api_key=" + api
-#get k page data
-"""
-function: download data
-param datas: the requested data
-"""
+url = "https://api.domain.com.au/v1/listings/residential/_search?ids=1&api_key=key_fc2838ab4862c055e9db3d585b2a18d4"
+# get k page data
 
 def get_data(url):
+    """
+    function: download data
+    param datas: the requested data
+    """
     datas =[]
     for k in range(50):
         data = { "listingType":"Rent", "pageNumber": k,  "pageSize": 20, "locations":[{"state":"VIC"}]}
@@ -23,12 +23,13 @@ def get_data(url):
     return datas
 datas = get_data(url)
 #get dataframe columns
-"""
-function: select the required columns
-param datas: required columns
-"""
+
 
 def get_columns(datas):
+    """
+    function: select the required columns
+    param datas: required columns
+    """
     if 'displayPrice' not in  datas['listing']['priceDetails']:
         price = 0
     if 'state'  not in  datas['listing']['propertyDetails']:
@@ -51,15 +52,17 @@ def get_columns(datas):
     latitude = datas['listing']['propertyDetails']['latitude']
     longitude = datas['listing']['propertyDetails']['longitude']
     return [price,state,propertyType,bathrooms,bedrooms, carspaces,region,suburb,postcode,dateListed, listingSlug, latitude, longitude]
-"""
-function: put the required columns into a dataframe
-param datas: dataframe
-"""
+
 def data_frame(datas):
-    #get dataframe
+    """
+    function: put the required columns into a dataframe
+    param datas: dataframe
+    """
+    # get dataframe
     rent_data = pd.DataFrame(columns = ['price', 'state', 'propertyType','bathrooms','bedrooms','carspaces','region','suburb', 'postcode','dateListed','listingSlug', 'latitude', 'longitude'])
     for i in range(len(datas)):
         rent_data.loc[len(rent_data.index)] = get_columns(datas[i])
+    rent_data.reset_index(drop = False)
     return rent_data
 time = time.strftime('%Y-%m-%d %H:%M:%S',time.localtime(time.time()))[:10]
 path = 'rent_time' + time
