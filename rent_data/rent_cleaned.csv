@@ -102,7 +102,6 @@ Unnamed: 0,price,state,propertyType,bathrooms,bedrooms,carspaces,region,suburb,p
 101,295.0,VIC,ApartmentUnitFlat,1,1,1,Eastern Suburbs,GLEN IRIS,3146,2022-09-09T16:44:46,12-70-edgar-street-north-glen-iris-vic-3146-16082708,-37.84948,145.04686
 102,490.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,BRUNSWICK,3056,2022-09-09T16:38:14,208-34-union-street-brunswick-vic-3056-16082673,-37.7734833,144.958557
 103,410.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,ABBOTSFORD,3067,2022-09-09T16:38:08,509a-1-acacia-place-abbotsford-vic-3067-16082671,-37.8116341,145.013641
-104,2500.0,VIC,House,2,5,1,Melbourne Region,ALBERT PARK,3206,2022-09-09T16:36:40,136-richardson-street-albert-park-vic-3206-16082666,-37.84538,144.953461
 105,770.0,VIC,ApartmentUnitFlat,2,2,2,Eastern Suburbs,GLEN IRIS,3146,2022-09-09T16:33:25,2-49-osborne-avenue-glen-iris-vic-3146-16082650,-37.85263,145.047119
 106,650.0,VIC,House,1,3,2,Eastern Suburbs,UPWEY,3158,2022-09-09T16:31:08,64-ferguson-street-upwey-vic-3158-16082642,-37.90636,145.326859
 107,560.0,VIC,House,1,3,1,Melbourne Region,ESSENDON,3040,2022-09-09T16:20:02,1a-ogilvie-st-essendon-vic-3040-16082587,-37.7539024,144.891663
@@ -320,7 +319,6 @@ Unnamed: 0,price,state,propertyType,bathrooms,bedrooms,carspaces,region,suburb,p
 329,480.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,DOCKLANDS,3008,2022-09-07T09:45:38,1811-8-marmion-pl-docklands-vic-3008-16076987,-37.813343,144.942535
 330,495.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,MCKINNON,3204,2022-09-07T09:43:56,8-66-bent-street-mckinnon-vic-3204-16076976,-37.9116669,145.039063
 331,425.0,VIC,House,1,2,0,Melbourne Region,RICHMOND,3121,2022-09-07T09:37:11,89-elizabeth-street-richmond-vic-3121-16076960,-37.8112221,144.99559
-332,2200.0,VIC,House,3,5,2,Melbourne Region,TOORAK,3142,2022-09-07T09:36:31,99-grange-road-toorak-vic-3142-16076958,-37.83302,145.011856
 333,575.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,SOUTH YARRA,3141,2022-09-07T09:16:33,4-209-domain-road-south-yarra-vic-3141-16076900,-37.8344765,144.983871
 334,550.0,VIC,ApartmentUnitFlat,1,2,0,Melbourne Region,MELBOURNE,3000,2022-09-07T09:07:22,2205-22-24-jane-bell-lane-melbourne-vic-3000-16076879,-37.81022,144.966263
 335,625.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,BRUNSWICK,3056,2022-09-07T08:40:16,7-213-219-brunswick-road-brunswick-vic-3056-16076842,-37.77722,144.962814
@@ -389,7 +387,6 @@ Unnamed: 0,price,state,propertyType,bathrooms,bedrooms,carspaces,region,suburb,p
 403,340.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,CARNEGIE,3163,2022-09-06T11:30:18,9-1264-glen-huntly-road-carnegie-vic-3163-16075104,-37.89026,145.04747
 404,410.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,SANDRINGHAM,3191,2022-09-06T11:25:39,6-36-edward-street-sandringham-vic-3191-16075086,-37.96132,145.014526
 405,400.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,ARMADALE,3143,2022-09-06T11:14:05,4-597-orrong-road-armadale-vic-3143-16075042,-37.8522,145.0116
-406,9504.128,VIC,House,2,5,3,Melbourne Region,MALVERN EAST,3145,2022-09-06T11:02:36,41-chadstone-road-malvern-east-vic-3145-16074988,-37.88359,145.078522
 407,495.0,VIC,House,2,4,2,Melbourne Region,NORLANE,3214,2022-09-06T10:56:33,83-waitara-grove-norlane-vic-3214-16074961,-38.0915833,144.347931
 408,385.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,IVANHOE,3079,2022-09-06T10:50:12,108-56-myrtle-street-ivanhoe-vic-3079-16074928,-37.7546234,145.053177
 409,460.0,VIC,House,1,2,1,Melbourne Region,GEELONG WEST,3218,2022-09-06T10:47:17,36-mcdougall-street-geelong-west-vic-3218-16074920,-38.13723,144.339432
@@ -423,9 +420,7 @@ Unnamed: 0,price,state,propertyType,bathrooms,bedrooms,carspaces,region,suburb,p
 438,380.0,VIC,Townhouse,2,3,2,Melbourne Region,WILLIAMS LANDING,3027,2022-09-05T16:32:18,13-draconis-lane-williams-landing-vic-3027-16073635,-37.8580475,144.754272
 439,480.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,SOUTH YARRA,3141,2022-09-05T16:31:03,2c-381-toorak-road-south-yarra-vic-3141-16073632,-37.8398666,145.001541
 440,780.0,VIC,House,1,2,0,Melbourne Region,ST KILDA,3182,2022-09-05T16:30:37,61-acland-street-st-kilda-vic-3182-16073629,-37.86604,144.977051
-441,5602.433,VIC,ApartmentUnitFlat,2,3,1,Eastern Suburbs,SURREY HILLS,3127,2022-09-05T16:10:48,1-15-union-road-surrey-hills-vic-3127-16073535,-37.8341675,145.0961
 442,695.0,VIC,ApartmentUnitFlat,2,3,1,Eastern Suburbs,GLEN IRIS,3146,2022-09-05T15:58:49,2-5-ellis-road-glen-iris-vic-3146-16073465,-37.8612556,145.045883
-443,2800.0,VIC,ApartmentUnitFlat,3,3,2,Melbourne Region,MELBOURNE,3004,2022-09-05T15:56:25,18e-481-st-kilda-road-melbourne-vic-3004-16073449,-37.8421135,144.97876
 444,720.0,VIC,House,1,3,1,Melbourne Region,COBURG,3058,2022-09-05T15:45:49,100-clarendon-street-coburg-vic-3058-16073408,-37.7479134,144.953552
 445,295.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,CARNEGIE,3163,2022-09-05T15:40:42,9-55-blackwood-street-carnegie-vic-3163-16073375,-37.88719,145.06189
 446,685.0,VIC,House,1,2,0,Melbourne Region,PRAHRAN,3181,2022-09-05T15:40:26,93-chomley-street-prahran-vic-3181-16073373,-37.8556747,145.00563
@@ -452,7 +447,6 @@ Unnamed: 0,price,state,propertyType,bathrooms,bedrooms,carspaces,region,suburb,p
 467,650.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,PORT MELBOURNE,3207,2022-09-05T13:37:26,6d-9-beach-street-port-melbourne-vic-3207-16072776,-37.84382,144.940231
 468,470.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,CAULFIELD NORTH,3161,2022-09-05T13:35:24,3-20-malvern-grove-caulfield-north-vic-3161-16072766,-37.8686562,145.029266
 469,425.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,ELWOOD,3184,2022-09-05T13:07:00,1-3-goldsmith-st-elwood-vic-3184-16072668,-37.87689,144.984085
-470,2800.0,VIC,ApartmentUnitFlat,2,3,2,Melbourne Region,ST KILDA,3182,2022-09-05T12:56:15,2401-14-16-the-esplanade-st-kilda-vic-3182-16072629,-37.8650169,144.974686
 471,430.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,BRUNSWICK WEST,3055,2022-09-05T12:29:27,601-5-olive-york-way-brunswick-west-vic-3055-15143998,-37.7587357,144.939041
 472,1500.0,VIC,House,2,3,1,Melbourne Region,SOUTH YARRA,3141,2022-09-05T12:23:06,22-davis-avenue-south-yarra-vic-3141-16072495,-37.8411,144.990433
 473,810.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,ALBERT PARK,3206,2022-09-05T12:20:42,9-123-beaconsfield-parade-albert-park-vic-3206-16072484,-37.8486938,144.951111
@@ -477,7 +471,6 @@ Unnamed: 0,price,state,propertyType,bathrooms,bedrooms,carspaces,region,suburb,p
 492,450.0,VIC,ApartmentUnitFlat,1,2,1,Eastern Suburbs,BOX HILL,3128,2022-09-04T22:53:45,408-2-elland-avenue-box-hill-vic-3128-11439410,-37.8166847,145.123489
 493,400.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,ELSTERNWICK,3185,2022-09-04T21:57:51,304-17-gordon-street-elsternwick-vic-3185-16071640,-37.8835068,145.000473
 494,475.0,VIC,Townhouse,1,2,1,Melbourne Region,HUGHESDALE,3166,2022-09-04T11:41:07,1-14-bletchley-road-hughesdale-vic-3166-16071580,-37.8943062,145.0827
-495,3000.0,VIC,ApartmentUnitFlat,3,3,2,Melbourne Region,BRIGHTON,3186,2022-09-03T13:00:53,9-9-11-adamson-street-brighton-vic-3186-16071478,-37.9152565,144.999176
 496,950.0,VIC,Townhouse,3,3,0,Melbourne Region,WEST MELBOURNE,3003,2022-09-03T10:23:55,260-adderley-street-west-melbourne-vic-3003-16071421,-37.80769,144.944016
 497,1450.0,VIC,Townhouse,3,4,2,Melbourne Region,PORT MELBOURNE,3207,2022-09-03T09:16:21,207-esplanade-west-port-melbourne-vic-3207-16071401,-37.8384933,144.943832
 498,600.0,VIC,House,2,4,2,Melbourne Region,GROVEDALE,3216,2022-09-03T06:31:03,75-pethajohn-parade-grovedale-vic-3216-16071375,-38.20744,144.316132
@@ -508,7 +501,6 @@ Unnamed: 0,price,state,propertyType,bathrooms,bedrooms,carspaces,region,suburb,p
 526,535.0,VIC,ApartmentUnitFlat,1,2,2,Eastern Suburbs,MONT ALBERT,3127,2022-09-02T09:52:31,107-801-whitehorse-road-mont-albert-vic-3127-16069503,-37.81625,145.111069
 527,400.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,BRUNSWICK,3056,2022-09-02T09:49:28,307-1c-michael-street-brunswick-vic-3056-16069494,-37.77294,144.960922
 528,430.0,VIC,ApartmentUnitFlat,1,2,1,Eastern Suburbs,GLEN IRIS,3146,2022-09-02T09:34:36,8-1512-malvern-road-glen-iris-vic-3146-16069445,-37.8542175,145.049011
-529,3500.0,VIC,House,4,5,3,Melbourne Region,BRIGHTON,3186,2022-09-02T09:20:18,1-20-kent-avenue-brighton-vic-3186-16069407,-37.8959427,144.986725
 530,410.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,MALVERN EAST,3145,2022-09-02T09:14:26,205-2a-clarence-street-malvern-east-vic-3145-16069391,-37.8749466,145.041626
 531,400.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,HAMPTON EAST,3188,2022-09-01T21:28:13,11-290-south-road-hampton-east-vic-3188-16069282,-37.93272,145.027222
 532,695.0,VIC,House,1,2,2,Melbourne Region,CAULFIELD SOUTH,3162,2022-09-01T18:17:48,24-brooklyn-avenue-caulfield-south-vic-3162-16069207,-37.8947449,145.023346
@@ -570,7 +562,6 @@ Unnamed: 0,price,state,propertyType,bathrooms,bedrooms,carspaces,region,suburb,p
 593,450.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,PRAHRAN,3181,2022-08-30T15:06:44,48-321-chapel-street-prahran-vic-3181-16064313,-37.8475266,144.993759
 594,360.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,PRAHRAN,3181,2022-08-30T14:23:52,203-72-high-street-prahran-vic-3181-16064123,-37.85135,144.98819
 595,375.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,MALVERN EAST,3145,2022-08-30T14:03:25,104-226-waverley-road-malvern-east-vic-3145-16064029,-37.8768425,145.053253
-596,2500.0,VIC,ApartmentUnitFlat,3,3,2,Melbourne Region,MELBOURNE,3000,2022-08-30T13:28:24,5401-464-collins-street-melbourne-vic-3000-16063884,-37.8175621,144.958588
 597,550.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,COLLINGWOOD,3066,2022-08-30T13:06:18,2-61-little-oxford-street-collingwood-vic-3066-16061683,-37.8046227,144.983887
 598,595.0,VIC,ApartmentUnitFlat,3,5,2,Melbourne Region,CLAYTON,3168,2022-08-30T13:01:25,2-17-sarton-road-clayton-vic-3168-14970451,-37.9186974,145.143875
 599,650.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,TOORAK,3142,2022-08-30T12:23:34,4-151-canterbury-road-toorak-vic-3142-16063497,-37.8418236,145.010468
@@ -840,7 +831,6 @@ Unnamed: 0,price,state,propertyType,bathrooms,bedrooms,carspaces,region,suburb,p
 881,320.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,ESSENDON,3040,2022-08-31T10:10:30,2-16-lyon-street-essendon-vic-3040-16065350,-37.7526741,144.9047
 882,570.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,BALACLAVA,3183,2022-08-31T09:47:09,g10-43-45-the-avenue-balaclava-vic-3183-16065263,-37.8719978,144.998154
 883,445.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,BRUNSWICK EAST,3057,2022-08-31T09:26:24,2-20-lyndhurst-crescent-brunswick-east-vic-3057-16065203,-37.7613449,144.978165
-884,2500.0,VIC,House,2,4,2,Melbourne Region,TOORAK,3142,2022-08-31T09:19:01,21-iona-avenue-toorak-vic-3142-16065186,-37.8486977,145.016113
 885,1200.0,VIC,ApartmentUnitFlat,2,3,2,Melbourne Region,PRAHRAN,3181,2022-08-31T09:07:21,502-283-high-street-prahran-vic-3181-16065163,-37.85229,144.997681
 886,780.0,VIC,House,1,4,1,Melbourne Region,THORNBURY,3071,2022-08-31T08:39:26,23-clyde-street-thornbury-vic-3071-16065124,-37.7608337,145.007034
 887,525.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,PRAHRAN,3181,2022-08-31T08:35:02,201-323-dandenong-road-prahran-vic-3181-16065119,-37.8595619,145.009277
@@ -877,7 +867,6 @@ Unnamed: 0,price,state,propertyType,bathrooms,bedrooms,carspaces,region,suburb,p
 920,250.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,MURRUMBEENA,3163,2022-08-30T12:12:53,6-28-ardyne-street-murrumbeena-vic-3163-16063604,-37.8933144,145.068649
 921,550.0,VIC,House,2,4,2,Melbourne Region,BENTLEIGH,3204,2022-08-30T12:06:51,11-plym-street-bentleigh-vic-3204-16063582,-37.93164,145.036133
 922,1200.0,VIC,ApartmentUnitFlat,1,3,1,Melbourne Region,SOUTH YARRA,3141,2022-08-30T12:04:22,4-67-walsh-street-south-yarra-vic-3141-16063567,-37.8362656,144.984955
-923,2500.0,VIC,House,3,4,3,Melbourne Region,TOORAK,3142,2022-08-30T12:00:35,24-montalto-avenue-toorak-vic-3142-16063542,-37.84391,145.012543
 925,825.0,VIC,Townhouse,2,3,2,Eastern Suburbs,HAWTHORN,3122,2022-08-30T11:46:19,2-16-liddiard-street-hawthorn-vic-3122-16063478,-37.8193,145.037613
 926,310.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,MURRUMBEENA,3163,2022-08-30T11:39:12,10-18-gerald-street-murrumbeena-vic-3163-16063451,-37.895462,145.069885
 927,350.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,WINDSOR,3181,2022-08-30T11:38:35,10-k7-high-street-windsor-vic-3181-16063444,-37.8506851,144.983292
@@ -1027,7 +1016,6 @@ Unnamed: 0,price,state,propertyType,bathrooms,bedrooms,carspaces,region,suburb,p
 1077,550.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,SANDRINGHAM,3191,2022-09-15T13:16:33,5-186-bay-rd-sandringham-vic-3191-16090981,-37.9542656,145.019531
 1078,350.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,ST KILDA EAST,3183,2022-09-15T13:06:48,207-171-173-inkerman-street-st-kilda-east-vic-3183-16090952,-37.8651733,144.988647
 1079,750.0,VIC,House,1,3,4,Eastern Suburbs,CANTERBURY,3126,2022-09-15T13:01:18,2-rubens-grove-canterbury-vic-3126-16090938,-37.8217125,145.066544
-1080,3000.0,VIC,ApartmentUnitFlat,3,3,3,Melbourne Region,ST KILDA,3182,2022-09-15T12:50:09,1204-14-16-the-esplanade-st-kilda-vic-3182-16090888,-37.8650169,144.974686
 1081,350.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,MALVERN EAST,3145,2022-09-15T12:41:45,4-11-tooronga-road-malvern-east-vic-3145-16090865,-37.8721657,145.038208
 1082,470.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,SOUTH YARRA,3141,2022-09-15T12:39:01,1402-229-toorak-road-south-yarra-vic-3141-16090852,-37.8388863,144.9947
 1083,750.0,VIC,House,2,4,1,Melbourne Region,ABERFELDIE,3040,2022-09-15T12:34:56,35-clifton-street-aberfeldie-vic-3040-16090841,-37.7600021,144.8905
@@ -1148,7 +1136,6 @@ Unnamed: 0,price,state,propertyType,bathrooms,bedrooms,carspaces,region,suburb,p
 1227,260.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,CARLTON,3053,2022-09-14T10:06:55,505-139-bouverie-street-carlton-vic-3053-14377358,-37.8032265,144.961655
 1229,350.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,ELWOOD,3184,2022-09-14T10:04:52,14-193-brighton-road-elwood-vic-3184-16088112,-37.8786049,144.992874
 1230,450.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,ST KILDA,3182,2022-09-14T10:04:51,4c-21-the-esplanade-st-kilda-vic-3182-16088109,-37.86599,144.975418
-1231,3000.0,VIC,ApartmentUnitFlat,3,3,2,Melbourne Region,TOORAK,3142,2022-09-14T10:03:58,9-744-orrong-road-toorak-vic-3142-15923220,-37.8384781,145.014832
 1232,475.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,TOORAK,3142,2022-09-14T10:03:13,11-51-53-grange-road-toorak-vic-3142-16088102,-37.83655,145.010864
 1233,380.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,FITZROY NORTH,3068,2022-09-14T09:54:35,2-12-brennand-street-fitzroy-north-vic-3068-14628144,-37.7850342,144.993958
 1234,465.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,COLLINGWOOD,3066,2022-09-14T09:53:22,108-3-11-hoddle-street-collingwood-vic-3066-16088068,-37.8091,144.991135
