@@ -5,7 +5,7 @@ import re
 import time
 import os
 api = os.environ.get('api')
-url = "https://api.domain.com.au/v1/listings/residential/_search?ids=1&api_key=key_fc2838ab4862c055e9db3d585b2a18d4"
+url = "https://api.domain.com.au/v1/listings/residential/_search?ids=1&api_key="+ api
 # get k page data
 
 def get_data(url):
@@ -66,4 +66,4 @@ def data_frame(datas):
     return rent_data
 time = time.strftime('%Y-%m-%d %H:%M:%S',time.localtime(time.time()))[:10]
 path = 'rent_time' + time
-data_frame(datas).to_csv("/home/ads/generic-real-estate-consulting-project-group-55/rent_data/" + path, index=False)
+data_frame(datas).to_csv("../rent_data/" + path, index=False)
