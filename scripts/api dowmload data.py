@@ -14,6 +14,7 @@ def get_data(url):
     param datas: the requested data
     """
     datas =[]
+    # download domain data
     for k in range(50):
         data = { "listingType":"Rent", "pageNumber": k,  "pageSize": 20, "locations":[{"state":"VIC"}]}
         resp = requests.post(url, data= str(data))
@@ -30,13 +31,15 @@ def get_columns(datas):
     function: select the required columns
     param datas: required columns
     """
+    # check null data
     if 'displayPrice' not in  datas['listing']['priceDetails']:
         price = 0
     if 'state'  not in  datas['listing']['propertyDetails']:
         state = 'null'
     for j in ['price', 'state', 'propertyType','bathrooms','bedrooms','carspaces','region','suburb', 'postcode','dateListed', 'listingSlug', 'latitude', 'longitude']:
         if j not in datas['listing']['propertyDetails']:
-            datas['listing']['propertyDetails'][j] = 0    
+            datas['listing']['propertyDetails'][j] = 0
+    # create each column
     price = datas['listing']['priceDetails']['displayPrice']
     price =''.join(re.findall(r"\d+\.?\d*",price))
     state = datas['listing']['propertyDetails']['state']
@@ -64,6 +67,7 @@ def data_frame(datas):
         rent_data.loc[len(rent_data.index)] = get_columns(datas[i])
     rent_data.reset_index(drop = False)
     return rent_data
+# mark with time
 time = time.strftime('%Y-%m-%d %H:%M:%S',time.localtime(time.time()))[:10]
 path = 'rent_time' + time
 data_frame(datas).to_csv("../rent_data/" + path, index=False)
