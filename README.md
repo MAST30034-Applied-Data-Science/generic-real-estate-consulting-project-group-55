@@ -2,7 +2,7 @@
 
 Our goal is to explore the following three questions:
 
-1. What are the most important internal and external features in predicting rental prices? 
+1. What are the most important internal and external features in predicting rental prices?
 2. What are the top 10 suburbs with the highest predicted growth rate?
 3. What are the most liveable and affordable suburbs according to your chosen metrics?
 
@@ -50,9 +50,10 @@ Note: p1_renew_api_data.ipynb combines the previous data and new data we got fro
 
 ### Part 2
 
-1. Run p2_population_forecast, p2_affluence.ipynb and p2_openrouteservice.ipynb.
+1. Run p2_population_forecast and p2_affluence.ipynb.
 2. Run the name of files starts from p2_distance _duration.ipynb.
 3. Run p2_combine.ipynb.
+4. Run p2_openrouteservice.ipynb.
 
 ### Part 3
 
