@@ -1,5 +1,0 @@
-import pandas as pd 
-renew = pd.read_csv("/home/ads/generic-real-estate-consulting-project-group-55/rent_data/renew_final", index_col=0)
-renew = renew.drop(renew[renew['price']>10000].index)
-renew.to_csv("/home/ads/generic-real-estate-consulting-project-group-55/rent_data/renew_processing", index = False)
-
