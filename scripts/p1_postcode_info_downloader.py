@@ -43,4 +43,4 @@ for element in HTML_data:
 dataFrame = pd.DataFrame(data=data, columns=list_header)
 
 # Converting DataFrame into CSV file
-dataFrame.to_csv('../data/raw/postcode_info.csv')
+dataFrame.to_csv(f"data{os.sep}raw{os.sep}" +  'postcode_info.csv')
