@@ -16,7 +16,7 @@ Domain Data (12/07/2022 - 01/10/2022)
 
 ## External Data we used
 
-1. Park
+1. Park (The coordinates of the park are applied through Spatial DataShare)
 2. School
 3. Population
 4. Yearly Income
