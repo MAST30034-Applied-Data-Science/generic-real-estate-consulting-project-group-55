@@ -50,6 +50,7 @@ Note: p1_renew_api_data.ipynb combines the previous data and new data we got fro
 
 ### Part 2
 
+### important: should run the p2_distance_duration_park, The code here is related to park_coord.csv.
 1. Run p2_population_forecast and p2_affluence.ipynb.
 2. Run the name of files starts from p2_distance _duration.ipynb.
 3. Run p2_combine.ipynb.
