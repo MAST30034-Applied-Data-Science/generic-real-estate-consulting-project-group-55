@@ -64,4 +64,4 @@ Note: p1_renew_api_data.ipynb combines the previous data and new data we got fro
 
 ### Part 4
 
-p4_summary.ipynb shows the summary of three main questions.
+p4_summary.ipynb shows the summary of weekly progress and three main questions.
