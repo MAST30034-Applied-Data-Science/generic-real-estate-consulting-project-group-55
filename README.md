@@ -26,32 +26,31 @@ Domain Data (12/07/2022 - 01/10/2022)
 ## Coding part - naming files (Both scirpts and notebooks)
 
 - p1(part 1): Data Downloader & Data Pre-processing
-  p1_api_download_data.py: Download domain data.
-  p1_mall_info_downloader.py: Download the information of shopping malls.
-  
-  p1_postcode_info_downloader.py: Dowload the information of postcode.
-  p1_external_data_download.ipynb: Download all needed the external data sets.
-  p1_external_data_preprocess: External data pre-processing.
-  p1_renew_api_data.ipynb: Combine all data from domain and remove the duplicates.
+  - p1_api_download_data.py: Download domain data.
+  - p1_mall_info_downloader.py: Download the information of shopping malls.
+  - p1_postcode_info_downloader.py: Dowload the information of postcode.
+  - p1_external_data_download.ipynb: Download all needed the external data sets.
+  - p1_external_data_preprocess: External data pre-processing.
+  - p1_renew_api_data.ipynb: Combine all data from domain and remove the duplicates.
   
 - p2(part 2): Data Analysis
-  p2_population_forecast.ipynb: Analysis of population forecast.
-  p2_affluence.ipynb: Analysis of affluence (yearly income).
-  p2_distance_duration_CBD.ipynb: Use Openrouteservice to calculate the duration and distance between CBD and house.
-  p2_distance_duration_park.ipynb: Use Openrouteservice to calculate the duration and distance between the parks and house.
-  p2_distance_duration_train.ipynb: Use Openrouteservice to calculate the duration and distance between the train stations and house
-  p2_combine.ipynb: Combine the duration and distance of schools or malls.
-  p2_openrouteservice.ipynb: Code of Openrouteservice.
+  - p2_population_forecast.ipynb: Analysis of population forecast.
+  - p2_affluence.ipynb: Analysis of affluence (yearly income).
+  - p2_distance_duration_CBD.ipynb: Use Openrouteservice to calculate the duration and distance between CBD and house.
+  - p2_distance_duration_park.ipynb: Use Openrouteservice to calculate the duration and distance between the parks and house.
+  - p2_distance_duration_train.ipynb: Use Openrouteservice to calculate the duration and distance between the train stations and house.
+  - p2_combine.ipynb: Combine the duration and distance of schools or malls.
+  - p2_openrouteservice.ipynb: Code of Openrouteservice.
   
 - p3(part 3): Three main quesitons
-  p3_internal_features.ipynb: Anaylsis of internal features of domain data.
-  p3_external_features.ipynb: Anaylsis of external features of domain data.
-  p3_prediction.ipynb: Modelling (predicted growth rate).
-  p3_liveable.ipynb: Find the most liveable areas.
-  p3_affordable.ipynb: Find the most affordable areas.
+  - p3_internal_features.ipynb: Anaylsis of internal features of domain data.
+  - p3_external_features.ipynb: Anaylsis of external features of domain data.
+  - p3_prediction.ipynb: Modelling (predicted growth rate).
+  - p3_liveable.ipynb: Find the most liveable areas.
+  - p3_affordable.ipynb: Find the most affordable areas.
 
 - p4(part 4): Summary
-  p4_summary.ipynb: Summary of weekly progress and three main questions.
+  - p4_summary.ipynb: Summary of weekly progress and three main questions.
   
 ## Running Order
 
@@ -73,12 +72,12 @@ Note: p1_renew_api_data.ipynb combines the previous data and new data we got fro
 
 ### Part 2
 
-### important: should run the p2_distance_duration_park, The code here is related to park_coord.csv.
-
 1. Run p2_population_forecast.ipynb and p2_affluence.ipynb.
 2. Run the name of files starts from p2_distance_duration.ipynb.
 3. Run p2_combine.ipynb.
 4. Run p2_openrouteservice.ipynb.
+
+Note: Must run the p2_distance_duration_park! The code here is related to park_coord.csv.
 
 ### Part 3
 
