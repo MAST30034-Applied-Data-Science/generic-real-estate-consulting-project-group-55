@@ -1,0 +1,1221 @@
+,rent_address,school_name,min_distance,min_duration,postcode,price
+0,612-408-lonsdale-street-melbourne-vic-3000-16079773,Kyneton Primary School,803.16,97.51,3000,350.0
+1,3510-442-elizabeth-st-melbourne-vic-3000-16076491,Romsey Primary School,725.97,85.92,3000,680.0
+2,1211-260-spencer-street-melbourne-vic-3000-16065974,Flemington Primary School,587.48,83.94,3000,700.0
+3,9-15-rankins-lane-melbourne-vic-3000-16076773,Chiltern Primary School,783.18,112.83,3000,900.0
+4,3002-288-spencer-st-melbourne-vic-3000-16081949,Flemington Primary School,414.76,85.82,3000,510.0
+5,2205-22-24-jane-bell-lane-melbourne-vic-3000-16076879,Wandiligong Primary School,585.41,86.18,3000,550.0
+6,711-422-collins-street-melbourne-vic-3000-16087505,Highton Primary School,773.98,93.67,3000,400.0
+7,911-408-lonsdale-street-melbourne-vic-3000-16084620,Kyneton Primary School,803.16,97.51,3000,330.0
+8,504-350-la-trobe-street-melbourne-vic-3000-15302782,Heidelberg Primary School,601.61,100.8,3000,395.0
+9,1715-220-spencer-street-melbourne-vic-3000-16071670,Flemington Primary School,717.34,104.58,3000,600.0
+10,2108-288-spencer-street-melbourne-vic-3000-15572564,Flemington Primary School,414.76,85.82,3000,350.0
+11,1211-200-spencer-street-melbourne-vic-3000-16073870,Grovedale Primary School,777.07,107.94,3000,480.0
+12,1411-120-a-beckett-st-melbourne-vic-3000-16062428,Hamilton (Gray Street) Primary School,779.59,108.64,3000,680.0
+13,104-300-swanston-street-melbourne-vic-3000-13671355,Wandiligong Primary School,738.7,122.97,3000,550.0
+14,202a-441-lonsdale-street-melbourne-vic-3000-16090002,Kyneton Primary School,663.88,93.05,3000,300.0
+15,217-339-swanston-st-melbourne-vic-3000-16055041,Hawthorn West Primary School,856.7,122.51,3000,380.0
+16,3108-500-elizabeth-st-melbourne-vic-3000-16055187,Kyneton Primary School,805.19,91.54,3000,410.0
+17,102-9-bligh-place-melbourne-vic-3000-16071806,Huntly Primary School,943.37,138.09,3000,600.0
+18,1605-565-flinders-street-melbourne-vic-3000-16080390,Highton Primary School,1215.01,163.91,3000,500.0
+19,1112-333-351-exhibition-street-melbourne-vic-3000-16082372,Wandiligong Primary School,684.39,101.74,3000,600.0
+20,unit-1713-200-spencer-st-melbourne-vic-3000-16069309,Grovedale Primary School,777.07,107.94,3000,440.0
+21,502-118-russell-street-melbourne-vic-3000-16090549,Grovedale Primary School,437.87,68.33,3000,620.0
+22,1505-250-elizabeth-street-melbourne-vic-3000-16078181,Kyneton Primary School,866.52,101.11,3000,520.0
+23,918-422-collins-st-melbourne-vic-3000-16084005,Highton Primary School,773.98,93.67,3000,600.0
+24,1901-368-st-kilda-road-melbourne-vic-3000-16073890,Colac Primary School,1358.0,194.95,3000,1800.0
+25,4-180-little-collins-street-melbourne-vic-3000-16080818,Grovedale Primary School,563.53,86.12,3000,500.0
+26,11a-131-lonsdale-sreet-melbourne-vic-3000-16084984,Wandiligong Primary School,581.62,96.74,3000,350.0
+27,55-1-albert-road-melbourne-vic-3000-16054304,Colac Primary School,692.34,121.92,3000,950.0
+28,2201-288-spencer-street-melbourne-vic-3000-15831027,Flemington Primary School,414.76,85.82,3000,400.0
+29,2311-601-little-lonsdale-street-melbourne-vic-3000-16089250,Flemington Primary School,268.75,50.78,3000,625.0
+30,101-25-33-wills-street-melbourne-vic-3000-14868152,Hawthorn West Primary School,673.46,104.39,3000,400.0
+31,2905b-11-rose-lane-melbourne-vic-3000-16074279,Flemington Primary School,797.74,128.92,3000,575.0
+32,2104-38-rose-lane-melbourne-vic-3000-16035456,Footscray Primary School,422.08,62.18,3000,550.0
+33,602-118-franklin-street-melbourne-vic-3000-16082578,Bellbrae Primary School,828.84,98.91,3000,330.0
+34,1007-238-flinders-st-melbourne-vic-3000-16066003,Bellbrae Primary School,1293.22,155.69,3000,320.0
+35,1206-118-russell-street-melbourne-vic-3000-16062720,Grovedale Primary School,437.87,68.33,3000,550.0
+36,3-27-flinders-lane-melbourne-vic-3000-16072122,Hawthorn West Primary School,576.04,83.88,3000,420.0
+37,57-243-collins-street-melbourne-vic-3000-16089287,Bellbrae Primary School,1085.74,129.92,3000,400.0
+38,2004-288-spencer-street-melbourne-vic-3000-16076141,Flemington Primary School,414.76,85.82,3000,360.0
+39,203-33-cliveden-close-east-melbourne-vic-3002-16087803,Grovedale Primary School,1061.73,158.01,3002,380.0
+40,12-174-george-street-east-melbourne-vic-3002-14217723,Warrnambool West Primary School,1112.79,144.02,3002,495.0
+41,38-400-victoria-parade-east-melbourne-vic-3002-12863768,Warrnambool West Primary School,370.06,52.63,3002,770.0
+42,po9p-191-powlett-street-east-melbourne-vic-3002-16088441,St Andrews Primary School,560.21,79.74,3002,675.0
+43,1306v-296-victoria-parade-east-melbourne-vic-3002-16067034,Dromana Primary School,775.67,118.84,3002,750.0
+44,12-vale-street-east-melbourne-vic-3002-16070321,Heidelberg Primary School,809.24,136.68,3002,1150.0
+45,unit-13p-189-powlett-st-east-melbourne-vic-3002-16078040,California Gully Primary School,593.84,87.81,3002,600.0
+46,8-108-george-street-east-melbourne-vic-3002-16049735,Grovedale Primary School,1027.14,145.33,3002,450.0
+47,104-150-clarendon-street-east-melbourne-vic-3002-16076278,Dromana Primary School,635.23,91.48,3002,950.0
+48,7-126-wellington-parade-east-melbourne-vic-3002-16061003,Grovedale Primary School,942.59,139.86,3002,1800.0
+49,1105-162-albert-street-east-melbourne-vic-3002-16084999,St Andrews Primary School,673.8,100.71,3002,420.0
+50,23-2-wellington-crescent-east-melbourne-vic-3002-16080787,Grovedale Primary School,1240.62,178.28,3002,750.0
+51,4-23-albert-street-east-melbourne-vic-3002-16083380,Heathcote Primary School,543.1,73.36,3002,475.0
+52,13-86-hotham-street-east-melbourne-vic-3002-16065438,Berwick Primary School,936.68,136.61,3002,450.0
+53,p08p-191-powlett-street-east-melbourne-vic-3002-16061199,St Andrews Primary School,558.16,79.25,3002,625.0
+54,9-322-albert-street-east-melbourne-vic-3002-16087584,Echuca Primary School,671.88,99.34,3002,990.0
+55,107k-211-powlett-street-east-melbourne-vic-3002-16085151,St Andrews Primary School,515.41,68.99,3002,550.0
+56,201-65-dudley-street-west-melbourne-vic-3003-16076288,Gisborne Primary School,643.08,89.26,3003,420.0
+57,78-hawke-street-west-melbourne-vic-3003-16084403,Dromana Primary School,1067.02,139.27,3003,1100.0
+58,g02-135-roden-street-west-melbourne-vic-3003-15657129,Dromana Primary School,911.56,126.13,3003,580.0
+59,603-spencer-street-west-melbourne-vic-3003-16065963,Dromana Primary School,885.1,119.82,3003,525.0
+60,260-adderley-street-west-melbourne-vic-3003-16071421,Dromana Primary School,1172.9,148.27,3003,950.0
+61,503-9-dryburgh-street-west-melbourne-vic-3003-16063432,Warrnambool West Primary School,1377.36,186.49,3003,500.0
+62,303-250-st-kilda-road-melbourne-vic-3004-16068286,Castlemaine Primary School,784.76,169.58,3004,1395.0
+63,405-15-queens-road-melbourne-vic-3004-16074877,Cavendish Primary School,545.4,75.0,3004,550.0
+64,309-77-queens-road-melbourne-vic-3004-15339268,Ballarat Primary School (Dana Street),500.32,86.98,3004,430.0
+65,902-133-russell-st-melbourne-vic-3004-16078264,Hawthorn West Primary School,378.38,57.73,3004,650.0
+66,1312-35-albert-rd-melbourne-vic-3004-16053245,Cavendish Primary School,413.82,78.22,3004,570.0
+67,1413-610-st-kilda-rd-melbourne-vic-3004-16090064,Ballarat Primary School (Dana Street),443.79,78.84,3004,425.0
+68,104-12-queens-road-melbourne-vic-3004-16055021,Colac Primary School,457.89,78.21,3004,440.0
+69,405-442-st-kilda-road-melbourne-vic-3004-16057221,Colac Primary School,586.69,108.8,3004,380.0
+70,314-499-st-kilda-road-melbourne-vic-3004-16071284,California Gully Primary School,714.01,63.79,3004,900.0
+71,517-74-queens-road-melbourne-vic-3004-16040056,Ballarat Primary School (Dana Street),444.64,78.96,3004,450.0
+72,113-350-st-kilda-road-melbourne-vic-3004-16063679,Colac Primary School,1323.18,196.61,3004,1500.0
+73,1507-12-queens-rd-melbourne-vic-3004-16081919,Colac Primary School,457.89,78.21,3004,700.0
+74,19-73-queens-road-melbourne-vic-3004-16052308,Ballarat Primary School (Dana Street),410.68,74.07,3004,580.0
+75,1701a-60-dorcas-street-southbank-vic-3006-16053477,Cavendish Primary School,738.57,135.53,3006,400.0
+76,1510-1-freshwater-place-southbank-vic-3006-16089972,Campbells Creek Primary School,1135.5,182.94,3006,640.0
+77,1008-80-clarendon-street-southbank-vic-3006-16070358,Beaufort Primary School,908.65,126.19,3006,650.0
+78,3606-45-clarke-street-southbank-vic-3006-16052560,Beaufort Primary School,931.7,129.89,3006,650.0
+79,2204-250-city-road-southbank-vic-3006-16047014,Beaufort Primary School,1348.24,174.32,3006,475.0
+80,705-26-southgate-avenue-southbank-vic-3006-16080371,Creswick Primary School,1428.75,225.09,3006,530.0
+81,1306-285-city-road-southbank-vic-3006-16077906,Beaufort Primary School,785.62,104.33,3006,500.0
+82,level-35-3501-7-riverside-quay-southbank-vic-3006-16059042,Castlemaine Primary School,1277.86,197.27,3006,850.0
+83,3402-61-haig-street-southbank-vic-3006-15171750,Beaufort Primary School,703.28,112.52,3006,395.0
+84,602-250-city-road-southbank-vic-3006-16085393,Beaufort Primary School,1348.24,174.32,3006,385.0
+85,104-285-city-road-southbank-vic-3006-16088546,Beaufort Primary School,785.62,104.33,3006,550.0
+86,48-183-city-road-southbank-vic-3006-16088421,Colac Primary School,1028.27,141.28,3006,750.0
+87,1603-250-city-road-southbank-vic-3006-16085712,Beaufort Primary School,1348.24,174.32,3006,400.0
+88,1112-8-mccrae-street-docklands-vic-3008-16086787,Warrandyte Primary School,1283.73,236.68,3008,445.0
+89,1209-8-pearl-river-rd-docklands-vic-3008-16076547,Beaufort Primary School,555.83,88.81,3008,420.0
+90,1811-8-marmion-pl-docklands-vic-3008-16076987,Cudgee Primary School,319.53,66.79,3008,480.0
+91,1202-8-joseph-road-footscray-vic-3011-16068802,Campbells Creek Primary School,568.21,77.66,3011,485.0
+92,1305-8-joseph-road-footscray-vic-3011-16068917,Campbells Creek Primary School,568.21,77.66,3011,490.0
+93,705-8-joseph-road-footscray-vic-3011-16069015,Campbells Creek Primary School,568.21,77.66,3011,475.0
+94,1303-8-joseph-road-footscray-vic-3011-16080780,Campbells Creek Primary School,568.21,77.66,3011,490.0
+95,1608-8-joseph-road-footscray-vic-3011-16066840,Campbells Creek Primary School,568.21,77.66,3011,500.0
+96,1003-8-joseph-road-footscray-vic-3011-16084073,Campbells Creek Primary School,568.21,77.66,3011,480.0
+97,609-2-joseph-road-footscray-vic-3011-15372330,Campbells Creek Primary School,610.37,82.72,3011,800.0
+98,1402-8-joseph-road-footscray-vic-3011-16066763,Campbells Creek Primary School,568.21,77.66,3011,485.0
+99,807-2-joseph-road-footscray-vic-3011-16073204,Campbells Creek Primary School,610.37,82.72,3011,390.0
+100,1201-8-joseph-road-footscray-vic-3011-16066987,Campbells Creek Primary School,568.21,77.66,3011,485.0
+101,1102-6-joseph-road-footscray-vic-3011-15336314,Campbells Creek Primary School,559.68,76.64,3011,550.0
+102,18-bell-street-seddon-vic-3011-16090272,Avoca Primary School,643.59,93.45,3011,560.0
+103,2308-6-joseph-road-footscray-vic-3011-16080066,Campbells Creek Primary School,559.68,76.64,3011,400.0
+104,2003-8-joseph-road-footscray-vic-3011-16078798,Campbells Creek Primary School,568.21,77.66,3011,520.0
+105,1603-8-joseph-road-footscray-vic-3011-16066608,Campbells Creek Primary School,568.21,77.66,3011,490.0
+106,1-82-ashley-street-west-footscray-vic-3012-16073237,St Andrews Primary School,614.61,106.65,3012,395.0
+107,313-110-roberts-street-west-footscray-vic-3012-16070615,Campbells Creek Primary School,419.56,70.93,3012,550.0
+108,18-pitt-street-west-footscray-vic-3012-16076032,Avoca Primary School,1002.1,104.71,3012,590.0
+109,2-248-francis-street-yarraville-vic-3013-16063967,Wodonga Primary School,601.46,72.65,3013,550.0
+110,65-francis-street-yarraville-vic-3013-16065715,Berwick Primary School,1091.08,131.31,3013,550.0
+111,38-urwin-street-yarraville-vic-3013-16068181,Wodonga Primary School,1168.07,126.12,3013,490.0
+112,1-16-vernon-street-south-kingsville-vic-3015-16075648,Colac Primary School,1360.51,234.11,3015,475.0
+113,7-11-15-basil-street-newport-vic-3015-16061402,Warrandyte Primary School,464.53,80.13,3015,600.0
+114,27-anzac-crescent-williamstown-vic-3016-16066020,Belmont Primary School,735.37,117.16,3016,1350.0
+115,10-gellibrand-street-williamstown-vic-3016-16061167,Ballarat Primary School (Dana Street),1355.32,160.43,3016,530.0
+116,1-27-mcbain-st-altona-vic-3018-16090275,Alberton Primary School,579.19,60.56,3018,500.0
+117,10-3-robin-street-altona-vic-3018-16073665,Bacchus Marsh Primary School,1069.71,135.88,3018,280.0
+118,390-duke-street-sunshine-north-vic-3020-15333130,Beaufort Primary School,1174.62,96.6,3020,650.0
+119,rear-25-alfreida-st-st-albans-vic-3021-16048249,Eltham Primary School,660.57,116.08,3021,250.0
+120,403-118-cairnlea-drive-cairnlea-vic-3023-16061980,Alberton Primary School,970.28,104.42,3023,390.0
+121,16-macedon-close-caroline-springs-vic-3023-16072871,Avoca Primary School,744.75,109.36,3023,450.0
+122,61a-fifth-avenue-altona-north-vic-3025-16086328,Bacchus Marsh Primary School,350.76,62.18,3025,570.0
+123,80c-first-ave-altona-north-vic-3025-16056452,Belmont Primary School,921.92,133.37,3025,725.0
+124,13-draconis-lane-williams-landing-vic-3027-16073635,Cheltenham Primary School,3196.04,420.72,3027,380.0
+125,37-hoddle-way-altona-meadows-vic-3028-16090729,Allansford and District Primary School,408.34,45.15,3028,400.0
+126,35-hoffman-cr-truganina-vic-3029-16066267,Alberton Primary School,2999.23,283.35,3029,500.0
+127,37-award-crescent-truganina-vic-3029-16058731,Cheltenham Primary School,1253.57,162.31,3029,410.0
+128,35-stratus-street-tarneit-vic-3029-16073803,Avenel Primary School,3411.55,363.55,3029,360.0
+129,33-stratus-street-tarneit-vic-3029-16073774,Avenel Primary School,3411.55,363.55,3029,360.0
+130,9-garland-terrace-point-cook-vic-3030-15364222,Bacchus Marsh Primary School,660.75,97.83,3030,420.0
+131,25-living-cres-point-cook-vic-3030-16054167,Bacchus Marsh Primary School,396.2,64.51,3030,420.0
+132,4-121-wellington-st-flemington-vic-3031-16065041,Doncaster Primary School,323.49,52.53,3031,415.0
+133,25-wolseley-parade-kensington-vic-3031-16065752,Echuca Primary School,339.31,65.43,3031,995.0
+134,16f-54-la-scala-avenue-maribyrnong-vic-3032-14989099,Berwick Primary School,838.62,127.31,3032,410.0
+135,1-28-ormond-road-ascot-vale-vic-3032-16052047,Warrandyte Primary School,568.0,94.6,3032,300.0
+136,21-330-sydenham-road-sydenham-vic-3037-16086162,Newport Lakes Primary School,928.73,136.42,3037,390.0
+137,105-333-ascot-vale-rd-moonee-ponds-vic-3039-16083963,Avenel Primary School,890.93,126.15,3039,480.0
+138,5-141-park-street-moonee-ponds-vic-3039-16080239,Gisborne Primary School,794.27,99.16,3039,800.0
+139,12-108-maribyrnong-road-moonee-ponds-vic-3039-16015441,Hallam Primary School,636.27,102.01,3039,400.0
+140,80a-waverley-street-moonee-ponds-vic-3039-16085329,Footscray Primary School,829.4,81.26,3039,750.0
+141,12-vine-street-moonee-ponds-vic-3039-16079832,Warrandyte Primary School,971.45,147.62,3039,650.0
+142,6-8-10-lincoln-road-essendon-vic-3040-16087456,Elphinstone Primary School,421.32,53.99,3040,850.0
+143,35-clifton-street-aberfeldie-vic-3040-16090841,Echuca Primary School,945.42,96.58,3040,750.0
+144,2-32-caroline-street-aberfeldie-vic-3040-16067388,Doncaster Primary School,734.79,129.19,3040,520.0
+145,8-10-lincoln-road-essendon-vic-3040-16080138,Elphinstone Primary School,421.32,53.99,3040,550.0
+146,2-16-lyon-street-essendon-vic-3040-16065350,Eltham Primary School,768.75,116.01,3040,320.0
+147,1a-ogilvie-st-essendon-vic-3040-16082587,Doncaster Primary School,636.83,52.01,3040,560.0
+148,4-4-essex-street-pascoe-vale-vic-3044-16056699,Cudgee Primary School,820.43,85.85,3044,400.0
+149,2-21-23-westgate-street-pascoe-vale-south-vic-3044-16060501,Gisborne Primary School,702.94,100.06,3044,420.0
+150,4-7-vale-street-pascoe-vale-vic-3044-16079115,Eltham Primary School,985.83,145.03,3044,375.0
+151,543-pascoe-vale-road-pascoe-vale-vic-3044-16056030,Eltham Primary School,784.62,79.42,3044,410.0
+152,14-forbes-grove-oak-park-vic-3046-16079887,Doncaster Primary School,858.72,164.09,3046,500.0
+153,2-62-chapman-avenue-glenroy-vic-3046-16085659,Warrandyte Primary School,592.57,79.44,3046,400.0
+154,4-48-william-street-glenroy-vic-3046-16077047,Warrandyte Primary School,444.87,72.31,3046,380.0
+155,2-24-barunah-street-hadfield-vic-3046-16073906,Cheltenham Primary School,681.37,109.72,3046,440.0
+156,9-139-melbourne-avenue-glenroy-vic-3046-16069112,Warrnambool West Primary School,252.0,40.0,3046,300.0
+157,1-59-chapman-street-north-melbourne-vic-3051-16089219,Doncaster Primary School,477.97,68.54,3051,475.0
+158,207-720-queensberry-street-north-melbourne-vic-3051-16052939,Footscray Primary School,1195.72,123.9,3051,565.0
+159,410-9-13-o-connell-street-north-melbourne-vic-3051-16043326,Bellbrae Primary School,599.65,85.89,3051,395.0
+160,202-9-13-o-connell-street-north-melbourne-vic-3051-16066203,Bellbrae Primary School,599.65,85.89,3051,395.0
+161,315-188-peel-street-north-melbourne-vic-3051-16076223,Heathcote Primary School,204.0,31.64,3051,310.0
+162,310-350-victoria-street-north-melbourne-vic-3051-16078102,Highton Primary School,95.0,12.61,3051,445.0
+163,12-yates-lane-parkville-vic-3052-15148071,Echuca Primary School,1206.81,131.74,3052,780.0
+164,2-39-morrah-st-parkville-vic-3052-15056186,California Gully Primary School,435.57,97.76,3052,480.0
+165,219-528-swanston-street-carlton-vic-3053-16089175,Highton Primary School,820.31,92.88,3053,350.0
+166,421-528-swanston-street-carlton-vic-3053-16066152,Highton Primary School,820.31,92.88,3053,350.0
+167,915-528-swanston-street-carlton-vic-3053-16056312,Highton Primary School,820.31,92.88,3053,350.0
+168,909-528-swanston-street-carlton-vic-3053-16061810,Highton Primary School,820.31,92.88,3053,345.0
+169,552-drummond-street-carlton-vic-3053-16090356,Allansford and District Primary School,540.51,78.01,3053,900.0
+170,g06-81-cemetery-road-carlton-vic-3053-16084878,Allansford and District Primary School,936.45,123.33,3053,375.0
+171,27-elgin-street-carlton-vic-3053-16069803,Cheltenham Primary School,529.66,58.72,3053,585.0
+172,505-139-bouverie-street-carlton-vic-3053-14377358,Chiltern Primary School,784.95,116.01,3053,260.0
+173,87-canning-street-carlton-vic-3053-12678308,Cudgee Primary School,420.71,62.89,3053,1100.0
+174,880-swanston-street-carlton-vic-3053-16081935,Beaufort Primary School,873.77,110.56,3053,1200.0
+175,9-600-station-street-carlton-north-vic-3054-16089028,Hawthorn West Primary School,868.64,104.71,3054,420.0
+176,4-867-883-drummond-street-carlton-north-vic-3054-16063178,Beaufort Primary School,613.36,87.1,3054,500.0
+177,345-station-street-carlton-north-vic-3054-16070322,Allansford and District Primary School,541.07,126.76,3054,650.0
+178,46-princes-st-carlton-north-vic-3054-16067211,Allansford and District Primary School,457.07,96.57,3054,550.0
+179,715-5-olive-york-way-brunswick-west-vic-3055-16051260,Newport Lakes Primary School,640.63,77.53,3055,430.0
+180,3-9-moule-street-brunswick-west-vic-3055-16042300,Cheltenham Primary School,451.21,64.97,3055,360.0
+181,3-564c-moreland-road-brunswick-west-vic-3055-16074162,Colac Primary School,1280.76,159.45,3055,550.0
+182,504-1-olive-york-way-brunswick-west-vic-3055-15727179,Newport Lakes Primary School,585.74,68.19,3055,450.0
+183,10-5-allard-street-brunswick-west-vic-3055-16084995,Beaufort Primary School,352.09,51.95,3055,370.0
+184,4-2-waxman-parade-brunswick-west-vic-3055-16078957,Beaufort Primary School,1030.33,113.13,3055,380.0
+185,614-5-olive-york-way-brunswick-west-vic-3055-15426148,Newport Lakes Primary School,640.63,77.53,3055,440.0
+186,107-358-moreland-road-brunswick-west-vic-3055-16062260,Footscray Primary School,813.52,81.02,3055,430.0
+187,601-5-olive-york-way-brunswick-west-vic-3055-15143998,Newport Lakes Primary School,640.63,77.53,3055,430.0
+188,97-collier-crescent-brunswick-west-vic-3055-16087893,Newport Lakes Primary School,154.35,22.23,3055,1100.0
+189,8-39-heller-street-brunswick-west-vic-3055-16088313,Elphinstone Primary School,786.75,74.2,3055,330.0
+190,412-5-olive-york-way-brunswick-west-vic-3055-16041470,Newport Lakes Primary School,640.63,77.53,3055,450.0
+191,3-14-mccoll-court-brunswick-west-vic-3055-16066377,Cheltenham Primary School,1277.58,148.73,3055,400.0
+192,92-brunswick-road-brunswick-vic-3056-16083215,Ballarat Primary School (Dana Street),790.23,80.62,3056,660.0
+193,304-2-6-duckett-street-brunswick-vic-3056-16089922,Eltham Primary School,861.6,104.56,3056,490.0
+194,307-1c-michael-street-brunswick-vic-3056-16069494,Hallam Primary School,369.2,46.79,3056,400.0
+195,4-mcpherson-street-brunswick-vic-3056-16068777,Footscray Primary School,588.26,80.78,3056,750.0
+196,52-54-tinning-street-brunswick-vic-3056-16061469,Berwick Primary School,987.52,115.91,3056,1400.0
+197,208-34-union-street-brunswick-vic-3056-16082673,Hallam Primary School,634.14,79.41,3056,490.0
+198,34-97-brickworks-drive-brunswick-vic-3056-16062022,Eaglehawk Primary School,433.22,58.59,3056,450.0
+199,9-67-blyth-st-brunswick-vic-3056-16080531,Doncaster Primary School,986.66,107.82,3056,490.0
+200,803-597-sydney-road-brunswick-vic-3056-16068732,Eltham Primary School,763.14,93.91,3056,350.0
+201,2-6-millward-street-brunswick-vic-3056-16080703,Elphinstone Primary School,899.79,88.1,3056,390.0
+202,408-5-union-street-brunswick-vic-3056-16088527,Elphinstone Primary School,588.49,67.61,3056,680.0
+203,208-5-union-street-brunswick-vic-3056-16077779,Elphinstone Primary School,592.14,67.9,3056,550.0
+204,805-288-albert-street-brunswick-vic-3056-16077559,Elphinstone Primary School,191.68,23.82,3056,450.0
+205,404-466-lygon-street-brunswick-vic-3056-16072893,Berwick Primary School,912.34,91.49,3056,380.0
+206,52-hope-street-brunswick-vic-3056-16048861,Dromana Primary School,974.69,110.42,3056,850.0
+207,78-hope-street-brunswick-vic-3056-16078953,Berwick Primary School,1130.87,108.17,3056,620.0
+208,4-102-moreland-road-brunswick-vic-3056-16087543,Warrandyte Primary School,527.45,53.3,3056,300.0
+209,198-barkly-st-brunswick-vic-3056-16072946,Bacchus Marsh Primary School,953.1,106.78,3056,950.0
+210,35-108-124-union-street-brunswick-vic-3056-16087109,Elphinstone Primary School,339.6,46.76,3056,370.0
+211,11-170-albion-street-brunswick-vic-3056-16051288,Warrandyte Primary School,891.22,118.7,3056,510.0
+212,52-sutherland-street-brunswick-vic-3056-16088853,Berwick Primary School,554.28,58.34,3056,750.0
+213,7-213-219-brunswick-road-brunswick-vic-3056-16076842,Eaglehawk Primary School,1041.37,132.54,3056,625.0
+214,17-677-park-street-brunswick-vic-3056-16088786,Dromana Primary School,1037.45,155.92,3056,225.0
+215,6-14-pitt-street-brunswick-vic-3056-16074091,Bacchus Marsh Primary School,1267.19,116.55,3056,540.0
+216,3-133-glenlyon-road-brunswick-vic-3056-16087910,Doncaster Primary School,962.23,91.53,3056,485.0
+217,504-2-6-duckett-street-brunswick-vic-3056-16073933,Eltham Primary School,861.6,104.56,3056,480.0
+218,15-10-davies-street-brunswick-vic-3056-16082384,Avenel Primary School,368.2,54.34,3056,620.0
+219,119-8-lygon-street-brunswick-east-vic-3057-16066944,Berwick Primary School,379.56,56.35,3057,400.0
+220,316-330-lygon-street-brunswick-east-vic-3057-15187572,Berwick Primary School,1068.43,114.39,3057,475.0
+221,111-8-lygon-street-brunswick-east-vic-3057-16068888,Berwick Primary School,379.56,56.35,3057,510.0
+222,3-57-59-brunswick-road-brunswick-east-vic-3057-16066832,Ballarat Primary School (Dana Street),150.74,21.75,3057,760.0
+223,401-269-stewart-street-brunswick-east-vic-3057-16077186,Cudgee Primary School,284.58,49.37,3057,650.0
+224,105-26-barkly-street-brunswick-east-vic-3057-16083390,Grovedale Primary School,459.29,72.19,3057,400.0
+225,209-92-96-albert-street-brunswick-east-vic-3057-16090378,Footscray Primary School,1211.66,150.25,3057,400.0
+226,2-20-lyndhurst-crescent-brunswick-east-vic-3057-16065203,Beaufort Primary School,662.15,91.23,3057,445.0
+227,250a-stewart-street-brunswick-east-vic-3057-16053880,Cudgee Primary School,188.97,29.68,3057,750.0
+228,102-9-village-avenue-brunswick-east-vic-3057-15220991,Wandiligong Primary School,570.94,73.92,3057,550.0
+229,538-22-barkly-street-brunswick-east-vic-3057-16070143,Grovedale Primary School,457.48,71.93,3057,600.0
+230,8-mary-moodie-way-brunswick-east-vic-3057-16090196,Grovedale Primary School,267.29,47.37,3057,760.0
+231,4-mary-moodie-way-brunswick-east-vic-3057-16070244,Hawthorn West Primary School,281.29,47.89,3057,580.0
+232,2005-178-edward-street-brunswick-east-vic-3057-16080082,Hamilton (Gray Street) Primary School,515.03,91.77,3057,550.0
+233,417-11-urquhart-street-coburg-vic-3058-16061379,Alberton Primary School,360.01,50.68,3058,365.0
+234,100-clarendon-street-coburg-vic-3058-16073408,Echuca Primary School,415.86,53.43,3058,720.0
+235,8-46-the-grove-coburg-vic-3058-16067821,Footscray Primary School,687.03,100.59,3058,340.0
+236,8-grey-street-coburg-vic-3058-16076345,Warrandyte Primary School,355.2,68.71,3058,630.0
+237,177-urquhart-street-coburg-vic-3058-16040113,Campbells Creek Primary School,855.2,125.27,3058,620.0
+238,501-14-20-nicholson-street-coburg-vic-3058-16088479,Warrandyte Primary School,1007.27,83.92,3058,380.0
+239,8-7-9-bell-street-coburg-vic-3058-16074155,California Gully Primary School,878.7,91.96,3058,420.0
+240,6-rolls-street-coburg-vic-3058-16063327,Avenel Primary School,688.13,97.48,3058,600.0
+241,25-francis-street-coburg-vic-3058-16078116,Cheltenham Primary School,368.43,51.09,3058,650.0
+242,24-snapshot-drive-coburg-north-vic-3058-16069368,Berwick Primary School,255.21,61.25,3058,620.0
+243,102-729-sydney-road-coburg-vic-3058-16068134,Hallam Primary School,240.4,23.75,3058,410.0
+244,818-sydney-rd-coburg-north-vic-3058-16088235,Eaglehawk Primary School,226.02,34.27,3058,450.0
+245,1-29-arthur-street-coburg-north-vic-3058-16082466,Wodonga Primary School,1137.81,168.05,3058,460.0
+246,1-48-pearl-drive-craigieburn-vic-3064-16084074,Ballarat Primary School (Dana Street),1019.81,143.16,3064,390.0
+247,10-illawara-drive-mickleham-vic-3064-16087933,Alberton Primary School,1399.06,206.33,3064,450.0
+248,349-fitzroy-street-fitzroy-vic-3065-16084496,Alberton Primary School,557.74,105.5,3065,650.0
+249,107-176-argyle-street-fitzroy-vic-3065-16080545,Alberton Primary School,270.97,62.76,3065,450.0
+250,605-70-stanley-street-collingwood-vic-3066-16089493,Flemington Primary School,624.9,106.04,3066,470.0
+251,2-61-little-oxford-street-collingwood-vic-3066-16061683,Elphinstone Primary School,837.17,163.11,3066,550.0
+252,204-107-cambridge-street-collingwood-vic-3066-16085513,Dromana Primary School,372.52,67.05,3066,480.0
+253,105-88-cambridge-street-collingwood-vic-3066-15175620,Dromana Primary School,188.5,33.93,3066,500.0
+254,73-easey-street-collingwood-vic-3066-16027969,Flemington Primary School,809.9,129.93,3066,750.0
+255,1304e-9-robert-street-collingwood-vic-3066-16080814,Warrnambool West Primary School,610.48,115.02,3066,450.0
+256,103-107-cambridge-street-collingwood-vic-3066-16070749,Dromana Primary School,372.52,67.05,3066,480.0
+257,8-375-hoddle-street-collingwood-vic-3066-16057038,Campbells Creek Primary School,1208.95,178.75,3066,450.0
+258,703-75-wellington-st-collingwood-vic-3066-16054467,Dromana Primary School,244.24,36.43,3066,600.0
+259,503-75-wellington-street-collingwood-vic-3066-16089857,Dromana Primary School,244.24,36.43,3066,465.0
+260,206-75-wellington-street-collingwood-vic-3066-16059668,Dromana Primary School,244.24,36.43,3066,470.0
+261,108-3-11-hoddle-street-collingwood-vic-3066-16088068,Newport Lakes Primary School,810.42,105.21,3066,465.0
+262,98-johnston-st-collingwood-vic-3066-16067212,Flemington Primary School,655.82,95.32,3066,1150.0
+263,311-75-wellington-st-collingwood-vic-3066-16068804,Dromana Primary School,244.24,36.43,3066,700.0
+264,1002-1-acacia-place-abbotsford-vic-3067-16087823,Cheltenham Primary School,899.47,106.93,3067,380.0
+265,703-6-acacia-place-abbotsford-vic-3067-16087573,Cheltenham Primary School,918.07,111.39,3067,420.0
+266,12-park-street-abbotsford-vic-3067-16083814,Belmont Primary School,673.19,93.32,3067,675.0
+267,902-627-victoria-street-abbotsford-vic-3067-16083095,Cheltenham Primary School,751.19,104.17,3067,425.0
+268,97-stafford-street-abbotsford-vic-3067-16066490,Grovedale Primary School,874.8,126.52,3067,625.0
+269,714-20-shamrock-street-abbotsford-vic-3067-16083651,Cheltenham Primary School,1001.47,137.8,3067,350.0
+270,5-16-princes-street-abbotsford-vic-3067-11131595,Belmont Primary School,437.74,66.31,3067,850.0
+271,eg07-11-flockhart-street-abbotsford-vic-3067-16084992,Cheltenham Primary School,957.65,127.28,3067,375.0
+272,11-turner-street-abbotsford-vic-3067-16082069,Wandiligong Primary School,954.23,133.26,3067,550.0
+273,106-119-turner-street-abbotsford-vic-3067-16088557,Gisborne Primary School,681.35,108.79,3067,440.0
+274,220-631-victoria-street-abbotsford-vic-3067-16054340,Cheltenham Primary School,651.33,79.28,3067,625.0
+275,532-631-victoria-street-abbotsford-vic-3067-16061939,Cheltenham Primary School,651.33,79.28,3067,650.0
+276,4-82-trenerry-crescent-abbotsford-vic-3067-16057111,Wandiligong Primary School,880.93,126.72,3067,675.0
+277,48-yarra-street-abbotsford-vic-3067-16069226,Campbells Creek Primary School,936.13,161.53,3067,900.0
+278,64-little-charles-street-abbotsford-vic-3067-16077006,Belmont Primary School,847.54,137.73,3067,620.0
+279,270-langridge-street-abbotsford-vic-3067-15242733,Belmont Primary School,717.8,87.62,3067,470.0
+280,713-251-johnston-street-abbotsford-vic-3067-16085958,Hawthorn West Primary School,975.14,139.52,3067,460.0
+281,9-328-johnston-street-abbotsford-vic-3067-16080546,Grovedale Primary School,836.43,122.24,3067,600.0
+282,514-6-acacia-place-abbotsford-vic-3067-16082921,Cheltenham Primary School,918.07,111.39,3067,440.0
+283,509a-1-acacia-place-abbotsford-vic-3067-16082671,Cheltenham Primary School,899.47,106.93,3067,410.0
+284,408d-615-victoria-street-abbotsford-vic-3067-16066835,Cheltenham Primary School,726.64,86.07,3067,550.0
+285,215-56-nicholson-street-abbotsford-vic-3067-13682400,Belmont Primary School,618.92,75.47,3067,560.0
+286,111l-378-390-st-georges-road-fitzroy-north-vic-3068-16082319,Berwick Primary School,268.23,37.99,3068,440.0
+287,133-ramsden-street-clifton-hill-vic-3068-16083078,Cheltenham Primary School,793.58,146.31,3068,570.0
+288,108-best-street-fitzroy-north-vic-3068-16054451,Doncaster Primary School,781.81,126.33,3068,1300.0
+289,204-378-390-st-george-road-fitzroy-north-vic-3068-16084845,Berwick Primary School,268.23,37.99,3068,800.0
+290,14-park-street-fitzroy-north-vic-3068-16082451,Doncaster Primary School,516.64,81.19,3068,1200.0
+291,111-378-390-saint-georges-road-fitzroy-north-vic-3068-16057525,Berwick Primary School,268.23,37.99,3068,490.0
+292,g09-22-nicholson-street-fitzroy-north-vic-3068-16052600,Hawthorn West Primary School,256.07,27.97,3068,900.0
+293,173-spensley-street-clifton-hill-vic-3068-16078951,Beaufort Primary School,171.71,30.74,3068,820.0
+294,105-field-street-clifton-hill-vic-3068-16078319,Cheltenham Primary School,953.45,161.12,3068,950.0
+295,5-55-may-street-fitzroy-north-vic-3068-16078317,Beaufort Primary School,110.54,16.88,3068,350.0
+296,221-378-390-saint-georges-road-fitzroy-north-vic-3068-16052965,Berwick Primary School,268.23,37.99,3068,630.0
+297,93-rowe-street-fitzroy-north-vic-3068-15629627,Doncaster Primary School,338.91,63.78,3068,690.0
+298,2s-378-390-st-georges-road-fitzroy-north-vic-3068-16055926,Berwick Primary School,268.23,37.99,3068,585.0
+299,22l-378-390-st-georges-road-fitzroy-north-vic-3068-16082386,Berwick Primary School,268.23,37.99,3068,570.0
+300,188-park-street-fitzroy-north-vic-3068-16090583,Highton Primary School,736.28,132.72,3068,1200.0
+301,113-392-st-georges-road-fitzroy-north-vic-3068-16089889,Berwick Primary School,240.92,35.09,3068,450.0
+302,62-clauscen-street-fitzroy-north-vic-3068-16065136,Bellbrae Primary School,296.34,45.5,3068,680.0
+303,37-taylor-street-fitzroy-north-vic-3068-16061269,Hawthorn West Primary School,415.26,58.72,3068,1100.0
+304,8-182-barkly-street-fitzroy-north-vic-3068-16068469,Heidelberg Primary School,300.27,43.24,3068,310.0
+305,2-12-brennand-street-fitzroy-north-vic-3068-14628144,Echuca Primary School,899.75,161.82,3068,380.0
+306,94-helen-street-northcote-vic-3070-16059106,Belmont Primary School,311.46,68.69,3070,720.0
+307,2-3-jessie-street-northcote-vic-3070-16078331,Dromana Primary School,1568.7,178.73,3070,375.0
+308,27-hawthorn-road-northcote-vic-3070-16051293,Eltham Primary School,663.64,119.45,3070,950.0
+309,8-4-mccracken-avenue-northcote-vic-3070-16064578,Warrnambool West Primary School,841.05,83.32,3070,450.0
+310,121-5-beavers-road-northcote-vic-3070-16087294,Wandiligong Primary School,664.42,82.76,3070,485.0
+311,57-bent-street-northcote-vic-3070-16078474,Warrandyte Primary School,918.43,157.4,3070,570.0
+312,4-165-clarke-street-northcote-vic-3070-16082860,Elphinstone Primary School,471.4,65.45,3070,560.0
+313,13-bird-avenue-northcote-vic-3070-16053046,California Gully Primary School,624.88,69.16,3070,600.0
+314,10-2-johnson-street-northcote-vic-3070-16081202,Sandringham Primary School,901.53,114.67,3070,330.0
+315,9-harold-street-thornbury-vic-3071-16076652,Gisborne Primary School,234.42,45.2,3071,905.0
+316,23-clyde-street-thornbury-vic-3071-16065124,Belmont Primary School,166.49,19.98,3071,780.0
+317,115b-collins-street-thornbury-vic-3071-16089002,Beaufort Primary School,90.25,8.12,3071,620.0
+318,86-hutton-street-thornbury-vic-3071-16075459,Newport Lakes Primary School,580.96,109.7,3071,650.0
+319,2-9-rennie-street-thornbury-vic-3071-16065901,Cavendish Primary School,634.09,87.41,3071,390.0
+320,8-2-murray-street-thornbury-vic-3071-16089692,Cavendish Primary School,353.11,77.94,3071,300.0
+321,20-12-dundas-street-thornbury-vic-3071-15981310,Eaglehawk Primary School,580.18,78.93,3071,240.0
+322,11-52-pender-street-thornbury-vic-3071-16088581,Berwick Primary School,556.7,85.85,3071,260.0
+323,1-53-woolton-avenue-thornbury-vic-3071-16090180,California Gully Primary School,997.96,127.62,3071,310.0
+324,146-raleigh-street-thornbury-vic-3071-16080236,Bacchus Marsh Primary School,249.47,54.69,3071,850.0
+325,12-45-collins-street-thornbury-vic-3071-16090482,Elphinstone Primary School,610.83,96.14,3071,420.0
+326,11-326-plenty-road-preston-vic-3072-16068669,Dromana Primary School,666.23,84.89,3072,250.0
+327,47-gilbert-road-preston-vic-3072-16082846,Newport Lakes Primary School,447.27,69.7,3072,700.0
+328,3-492-plenty-road-preston-vic-3072-16083908,California Gully Primary School,844.95,101.64,3072,500.0
+329,2-24-o-connor-street-reservoir-vic-3073-16084487,Warrandyte Primary School,253.68,60.88,3073,430.0
+330,3-72-leamington-street-reservoir-vic-3073-16055115,Belmont Primary School,673.15,161.55,3073,420.0
+331,38-262-heidelberg-road-fairfield-vic-3078-16056607,Berwick Primary School,1148.63,163.52,3078,380.0
+332,565-heidelberg-road-alphington-vic-3078-16079269,Warrnambool West Primary School,650.62,98.0,3078,600.0
+333,12-1-rex-avenue-alphington-vic-3078-16077577,Doncaster Primary School,1112.55,153.94,3078,460.0
+334,704-111-parkview-road-alphington-vic-3078-16069779,Bacchus Marsh Primary School,622.5,73.14,3078,540.0
+335,28-gillies-street-fairfield-vic-3078-16067381,Hallam Primary School,845.27,104.85,3078,750.0
+336,89-marshall-street-ivanhoe-vic-3079-16071672,Colac Primary School,489.69,43.97,3079,510.0
+337,4-45-st-elmo-road-ivanhoe-vic-3079-16052693,St Andrews Primary School,366.82,42.33,3079,390.0
+338,108-56-myrtle-street-ivanhoe-vic-3079-16074928,Avenel Primary School,631.85,112.65,3079,385.0
+339,562-waterdale-rd-heidelberg-heights-vic-3081-16076688,Dromana Primary School,1242.56,120.06,3081,385.0
+340,30-80-enterprise-dr-bundoora-vic-3083-16083831,Cudgee Primary School,1707.39,212.93,3083,385.0
+341,106-34-princeton-terrace-bundoora-vic-3083-16088123,Ballarat Primary School (Dana Street),1639.89,229.41,3083,324.0
+342,502-21-plenty-road-bundoora-vic-3083-16055079,Castlemaine Primary School,221.85,37.82,3083,330.0
+343,67-weir-loop-bundoora-vic-3083-16073139,Colac Primary School,769.69,133.09,3083,500.0
+344,10-brooke-street-eaglemont-vic-3084-16087413,Belmont Primary School,1139.0,147.52,3084,680.0
+345,2-14-binns-street-montmorency-vic-3094-16085351,Avenel Primary School,206.03,35.84,3094,450.0
+346,23-frank-street-eltham-vic-3095-16065746,Avenel Primary School,1328.73,180.72,3095,500.0
+347,6-103-walpole-street-kew-vic-3101-16074115,Grovedale Primary School,704.38,57.91,3101,435.0
+348,6-11-davis-street-kew-vic-3101-16020234,Doncaster Primary School,626.07,94.78,3101,410.0
+349,5-200-cotham-road-kew-vic-3101-16080273,Campbells Creek Primary School,693.78,62.71,3101,1250.0
+350,605-369-high-street-kew-vic-3101-16088032,Hallam Primary School,335.79,37.44,3101,1300.0
+351,3-17-pakington-street-kew-vic-3101-16075619,Grovedale Primary School,384.41,55.75,3101,850.0
+352,90-edgevale-road-kew-vic-3101-16078740,Colac Primary School,821.25,98.83,3101,1600.0
+353,14-58-62-mary-street-kew-vic-3101-16079756,Hallam Primary School,369.64,37.5,3101,470.0
+354,3-8-10-james-avenue-kew-vic-3101-16064942,Sandringham Primary School,832.33,130.75,3101,390.0
+355,7-8-10-james-avenue-kew-vic-3101-16054256,Sandringham Primary School,832.33,130.75,3101,330.0
+356,98-edgevale-road-kew-vic-3101-16086114,Colac Primary School,779.79,91.37,3101,700.0
+357,1-1-namur-street-kew-east-vic-3102-16072307,Castlemaine Primary School,802.23,97.7,3102,500.0
+358,4-48-weir-street-balwyn-vic-3103-16073644,Footscray Primary School,405.6,48.48,3103,470.0
+359,37-kireep-road-balwyn-vic-3103-16071098,Footscray Primary School,561.52,72.72,3103,720.0
+360,1-910-burke-road-deepdene-vic-3103-16069623,Sandringham Primary School,364.52,63.49,3103,690.0
+361,3-1-birtles-st-balwyn-vic-3103-16067443,Castlemaine Primary School,1106.89,97.22,3103,575.0
+362,12-2a-brenbeal-street-balwyn-vic-3103-16061618,Flemington Primary School,59.21,9.68,3103,400.0
+363,19-parkdale-avenue-balwyn-vic-3103-16041468,Hallam Primary School,941.87,103.7,3103,550.0
+364,1-18-raynes-street-balwyn-vic-3103-16054448,Ballarat Primary School (Dana Street),1055.21,144.29,3103,860.0
+365,15-31-barnsbury-road-deepdene-vic-3103-16051009,Eltham Primary School,346.1,50.23,3103,400.0
+366,2-15-parring-road-balwyn-vic-3103-16088426,Flemington Primary School,679.19,67.91,3103,720.0
+367,1-salford-avenue-balwyn-vic-3103-16083324,Allansford and District Primary School,555.51,44.61,3103,790.0
+368,4-84-rochester-rd-balwyn-vic-3103-16081633,Allansford and District Primary School,605.09,50.65,3103,480.0
+369,10-3-boston-road-balwyn-vic-3103-16055201,Allansford and District Primary School,907.39,77.07,3103,450.0
+370,5-19-kireep-road-balwyn-vic-3103-16078337,Flemington Primary School,521.47,83.93,3103,400.0
+371,5-whitehorse-road-deepdene-vic-3103-16077539,Flemington Primary School,197.51,23.14,3103,850.0
+372,1-1062-burke-rd-balwyn-north-vic-3104-16053394,Castlemaine Primary School,563.11,51.16,3104,425.0
+373,6-46a-corhampton-road-balwyn-north-vic-3104-16086851,Cavendish Primary School,619.69,54.96,3104,525.0
+374,2-14-hatfield-street-balwyn-north-vic-3104-16039515,Cavendish Primary School,465.97,43.06,3104,430.0
+375,3-12-thea-avenue-balwyn-north-vic-3104-16062335,California Gully Primary School,459.21,82.85,3104,640.0
+376,3-84-winfield-road-balwyn-north-vic-3104-16089860,Warrnambool West Primary School,635.77,86.86,3104,440.0
+377,5-citron-avenue-balwyn-north-vic-3104-16086189,Warrnambool West Primary School,405.04,79.61,3104,485.0
+378,127-willow-bend-bulleen-vic-3105-16081615,Ballarat Primary School (Dana Street),2435.11,350.89,3105,600.0
+379,1a-chivers-road-templestowe-vic-3106-16087683,Cheltenham Primary School,1469.75,130.4,3106,1175.0
+380,104-88-tram-road-doncaster-vic-3108-14825508,Alberton Primary School,701.55,103.3,3108,420.0
+381,2-3-ada-street-doncaster-vic-3108-16066714,Alberton Primary School,993.05,163.73,3108,520.0
+382,20a-belvoir-street-doncaster-vic-3108-16086525,Cudgee Primary School,874.95,120.89,3108,510.0
+383,2-11-firth-street-doncaster-vic-3108-16078255,Alberton Primary School,954.56,157.03,3108,360.0
+384,103-88-tram-road-doncaster-vic-3108-14872098,Alberton Primary School,701.55,103.3,3108,395.0
+385,3-17-firth-street-doncaster-vic-3108-15138255,Alberton Primary School,842.28,130.08,3108,540.0
+386,1-11-churchill-street-doncaster-east-vic-3109-15856463,Ballarat Primary School (Dana Street),619.29,135.53,3109,695.0
+387,g10-1-red-hill-terrace-doncaster-east-vic-3109-16085903,Avenel Primary School,1770.13,242.79,3109,440.0
+388,130-corriedale-crescent-park-orchards-vic-3114-16040346,Avoca Primary School,976.27,112.83,3114,595.0
+389,1-263-lennox-street-richmond-vic-3121-16089089,Hawthorn West Primary School,677.04,103.63,3121,325.0
+390,24-wertheim-street-richmond-vic-3121-16079802,California Gully Primary School,1024.05,169.64,3121,625.0
+391,3-74-cutter-street-richmond-vic-3121-16077345,Highton Primary School,1262.7,169.87,3121,600.0
+392,5-26-union-street-richmond-vic-3121-16073238,Hawthorn West Primary School,578.41,88.93,3121,340.0
+393,108-10-bromham-place-richmond-vic-3121-16088846,Cavendish Primary School,695.93,88.64,3121,525.0
+394,17-king-street-richmond-vic-3121-16085050,Hawthorn West Primary School,535.73,90.05,3121,560.0
+395,25-hull-street-richmond-vic-3121-16067586,Newport Lakes Primary School,710.21,85.74,3121,700.0
+396,60-neptune-street-richmond-vic-3121-16087614,Hawthorn West Primary School,740.98,119.77,3121,765.0
+397,24-343-church-street-richmond-vic-3121-16061297,Huntly Primary School,120.87,15.5,3121,600.0
+398,126-243-249a-bridge-road-richmond-vic-3121-16080478,Heathcote Primary School,493.6,65.02,3121,400.0
+399,13-160-coppin-street-richmond-vic-3121-16075196,Cavendish Primary School,733.62,83.36,3121,330.0
+400,6-137-coppin-street-richmond-vic-3121-16080016,Cavendish Primary School,692.81,80.1,3121,360.0
+401,121-lord-street-richmond-vic-3121-16064776,Castlemaine Primary School,886.24,130.37,3121,950.0
+402,104-somerset-street-richmond-vic-3121-16083987,Cheltenham Primary School,394.06,78.62,3121,695.0
+403,209-8-garfield-street-richmond-vic-3121-16080755,Beaufort Primary School,382.73,53.43,3121,450.0
+404,25-chestnut-street-richmond-vic-3121-16068056,Beaufort Primary School,511.02,118.62,3121,1100.0
+405,46-loyola-grove-richmond-vic-3121-16068071,Heathcote Primary School,1586.57,255.27,3121,750.0
+406,108-14-david-street-richmond-vic-3121-16089176,Cheltenham Primary School,480.63,66.52,3121,550.0
+407,283a-burnley-street-richmond-vic-3121-16064303,Highton Primary School,826.52,99.83,3121,1500.0
+408,616-14-david-street-richmond-vic-3121-16079171,Cheltenham Primary School,480.63,66.52,3121,550.0
+409,51-duke-street-richmond-vic-3121-16089558,Berwick Primary School,949.53,170.82,3121,775.0
+410,5-47-mary-street-richmond-vic-3121-16069592,Newport Lakes Primary School,575.0,99.43,3121,840.0
+411,2-94-buckingham-street-richmond-vic-3121-14830817,Cheltenham Primary School,417.75,84.09,3121,600.0
+412,609-14-david-street-richmond-vic-3121-16085191,Cheltenham Primary School,480.63,66.52,3121,560.0
+413,94-coppin-street-richmond-vic-3121-16062861,Newport Lakes Primary School,463.34,61.94,3121,650.0
+414,15-2-the-vaucluse-richmond-vic-3121-15094456,Grovedale Primary School,641.85,110.57,3121,325.0
+415,105-39-appleton-street-richmond-vic-3121-16061881,Beaufort Primary School,394.62,52.41,3121,430.0
+416,4-52-lyndhurst-street-richmond-vic-3121-16085100,Hamilton (Gray Street) Primary School,306.64,66.02,3121,950.0
+417,3-34-leslie-street-richmond-vic-3121-16067868,Cudgee Primary School,369.12,80.09,3121,320.0
+418,17-81-edinburgh-street-richmond-vic-3121-16080509,Beaufort Primary School,1094.73,174.38,3121,300.0
+419,2-2-smith-street-richmond-vic-3121-16081068,Beaufort Primary School,364.38,43.63,3121,300.0
+420,4-wells-street-richmond-vic-3121-16069616,Bacchus Marsh Primary School,814.26,115.72,3121,650.0
+421,1-36-burnley-street-richmond-vic-3121-16083578,Hawthorn West Primary School,185.96,34.39,3121,720.0
+422,19-baker-street-richmond-vic-3121-16083535,Bacchus Marsh Primary School,596.57,85.93,3121,510.0
+423,612-30-burnley-street-richmond-vic-3121-16083288,Cudgee Primary School,545.46,60.02,3121,425.0
+424,405-14-david-street-richmond-vic-3121-16068009,Cheltenham Primary School,480.63,66.52,3121,530.0
+425,5-69-river-street-richmond-vic-3121-16067702,Castlemaine Primary School,694.0,83.13,3121,650.0
+426,11-corsair-street-richmond-vic-3121-16074197,Campbells Creek Primary School,856.11,110.78,3121,675.0
+427,6-fordham-court-richmond-vic-3121-16065885,Highton Primary School,545.95,97.52,3121,460.0
+428,511-2-mcgoun-street-richmond-vic-3121-14233176,Berwick Primary School,667.44,112.13,3121,550.0
+429,3-4-stillman-street-richmond-vic-3121-16082280,Heathcote Primary School,851.27,112.33,3121,875.0
+430,2-neptune-street-richmond-vic-3121-16058275,Heidelberg Primary School,564.68,76.32,3121,625.0
+431,38-highett-street-richmond-vic-3121-16087992,Beaufort Primary School,425.54,60.86,3121,1000.0
+432,20-lord-street-richmond-vic-3121-16059083,Colac Primary School,508.47,83.46,3121,790.0
+433,2-appleton-street-richmond-vic-3121-16067294,Hamilton (Gray Street) Primary School,217.01,34.37,3121,625.0
+434,1-118-brighton-street-richmond-vic-3121-16081521,Beaufort Primary School,133.44,32.02,3121,700.0
+435,57-baker-street-richmond-vic-3121-16062642,Belmont Primary School,743.71,101.06,3121,650.0
+436,89-elizabeth-street-richmond-vic-3121-16076960,Berwick Primary School,268.97,27.66,3121,425.0
+437,45-69-palmer-street-richmond-vic-3121-16072067,Heidelberg Primary School,388.37,54.74,3121,430.0
+438,1-8-murphy-street-richmond-vic-3121-14865370,Cudgee Primary School,368.03,51.87,3121,470.0
+439,11-bennett-street-richmond-vic-3121-16061186,Cudgee Primary School,491.33,113.64,3121,565.0
+440,3-36-egan-street-richmond-vic-3121-16086330,Beaufort Primary School,382.67,49.99,3121,450.0
+441,68-yarra-boulevard-richmond-vic-3121-12659355,Campbells Creek Primary School,56.73,9.92,3121,1225.0
+442,604-8-burnley-street-richmond-vic-3121-16076303,Cudgee Primary School,654.98,83.04,3121,600.0
+443,12-cameron-street-richmond-vic-3121-14219096,Beaufort Primary School,584.71,92.15,3121,520.0
+444,26-219-227-auburn-road-hawthorn-vic-3122-16068411,Beaufort Primary School,854.38,72.15,3122,460.0
+445,15-64-auburn-rd-hawthorn-vic-3122-16085195,Warrandyte Primary School,476.92,40.02,3122,330.0
+446,3-bell-street-hawthorn-vic-3122-16090187,Colac Primary School,689.56,95.6,3122,830.0
+447,11-64-auburn-rd-hawthorn-vic-3122-16076131,Warrandyte Primary School,476.92,40.02,3122,350.0
+448,3-23-auburn-grove-hawthorn-vic-3122-16084647,Cheltenham Primary School,801.46,79.1,3122,450.0
+449,9-488-glenferrie-road-hawthorn-vic-3122-16040221,Eaglehawk Primary School,199.1,17.06,3122,450.0
+450,303-81-riversdale-road-hawthorn-vic-3122-16084849,Castlemaine Primary School,326.27,23.49,3122,500.0
+451,29-70-church-street-hawthorn-vic-3122-16063437,Alberton Primary School,703.53,71.45,3122,450.0
+452,2-16-liddiard-street-hawthorn-vic-3122-16063478,Avenel Primary School,833.66,95.77,3122,825.0
+453,6-566-glenferrie-road-hawthorn-vic-3122-16084160,Castlemaine Primary School,71.33,5.14,3122,480.0
+454,41-haines-street-hawthorn-vic-3122-16089000,Colac Primary School,609.42,83.29,3122,675.0
+455,g01-39-riversdale-road-hawthorn-vic-3122-15235034,Heidelberg Primary School,354.18,47.65,3122,580.0
+456,1-42a-hawthorn-grove-hawthorn-vic-3122-16057366,Campbells Creek Primary School,736.99,89.03,3122,450.0
+457,g-04-567-glenferrie-road-hawthorn-vic-3122-16079647,Castlemaine Primary School,27.8,2.0,3122,430.0
+458,2a-garden-street-hawthorn-vic-3122-16056125,Newport Lakes Primary School,762.53,72.4,3122,850.0
+459,18-570-glenferrie-road-hawthorn-vic-3122-16088949,Castlemaine Primary School,37.49,2.7,3122,450.0
+460,102-21-riversdale-road-hawthorn-vic-3122-16066891,Heidelberg Primary School,514.86,59.22,3122,800.0
+461,6-146-riversdale-road-hawthorn-vic-3122-16077570,Colac Primary School,706.98,51.13,3122,445.0
+462,2-474-glenferrie-road-hawthorn-vic-3122-16061541,Eltham Primary School,197.39,23.65,3122,520.0
+463,9-566-glenferrie-road-hawthorn-vic-3122-16085611,Castlemaine Primary School,71.33,5.14,3122,395.0
+464,309-17-lynch-street-hawthorn-vic-3122-16075457,Avenel Primary School,598.87,56.01,3122,495.0
+465,8-5-glenroy-road-hawthorn-vic-3122-16075466,Castlemaine Primary School,471.23,51.97,3122,450.0
+466,101-567-glenferrie-road-hawthorn-vic-3122-16077459,Castlemaine Primary School,27.8,2.0,3122,500.0
+467,19-154-164-rathmines-road-hawthorn-east-vic-3123-16086655,Warrandyte Primary School,287.86,20.73,3123,490.0
+468,516-480-riversdale-road-hawthorn-east-vic-3123-16067030,Shelford Primary School,232.57,39.0,3123,550.0
+469,7-161-victoria-road-hawthorn-east-vic-3123-16054548,Wandiligong Primary School,646.85,91.27,3123,500.0
+470,1-831-toorak-road-hawthorn-east-vic-3123-16087198,Grovedale Primary School,848.82,94.1,3123,750.0
+471,2-airedale-avenue-hawthorn-east-vic-3123-16029073,Berwick Primary School,420.28,51.59,3123,1800.0
+472,26-victoria-grove-hawthorn-east-vic-3123-16067087,Avenel Primary School,310.53,57.08,3123,995.0
+473,7-50-leura-grove-hawthorn-east-vic-3123-16075652,Wodonga Primary School,779.19,81.21,3123,430.0
+474,15-40-harold-street-hawthorn-east-vic-3123-16066989,Romsey Primary School,399.83,67.99,3123,600.0
+475,3-24-auburn-grove-hawthorn-east-vic-3123-16058606,Cheltenham Primary School,838.55,91.57,3123,400.0
+476,3-11-stewart-street-hawthorn-east-vic-3123-16069694,Warrandyte Primary School,629.45,75.86,3123,390.0
+477,4-2-clifton-road-hawthorn-east-vic-3123-16053841,Hawthorn West Primary School,769.03,103.28,3123,520.0
+478,9-26-auburn-grove-hawthorn-east-vic-3123-16056022,Cheltenham Primary School,854.87,94.51,3123,380.0
+479,2-841-toorak-road-hawthorn-east-vic-3123-16073848,Heidelberg Primary School,754.38,98.76,3123,570.0
+480,3-866-toorak-road-hawthorn-east-vic-3123-16075614,Wandiligong Primary School,930.63,100.79,3123,430.0
+481,1-26-redfern-road-hawthorn-east-vic-3123-16068361,Chiltern Primary School,219.64,32.29,3123,850.0
+482,ug05-708-burwood-road-hawthorn-east-vic-3123-16065863,Berwick Primary School,879.25,72.52,3123,625.0
+483,107-795-toorak-road-hawthorn-east-vic-3123-16060859,Hamilton (Gray Street) Primary School,382.22,46.5,3123,475.0
+484,113-436-burke-road-camberwell-vic-3124-16069716,Beaufort Primary School,1189.77,110.28,3124,565.0
+485,2-1266-toorak-road-camberwell-vic-3124-16067345,Belmont Primary School,219.04,49.73,3124,695.0
+486,2-45-cornell-street-camberwell-vic-3124-16077007,Warrandyte Primary School,767.48,90.32,3124,1150.0
+487,2-10-allambee-avenue-camberwell-vic-3124-16087120,Sandringham Primary School,850.41,90.47,3124,610.0
+488,13-warburton-road-camberwell-vic-3124-16083344,Campbells Creek Primary School,655.5,127.89,3124,750.0
+489,3-6-gilmour-rd-camberwell-vic-3124-16066736,Warrandyte Primary School,844.19,98.45,3124,1395.0
+490,24-spencer-rd-camberwell-vic-3124-16089697,Cavendish Primary School,235.48,27.34,3124,1300.0
+491,g43-347-camberwell-road-camberwell-vic-3124-16066506,Alberton Primary School,269.12,29.16,3124,430.0
+492,203-highfield-road-camberwell-vic-3124-16085093,Dromana Primary School,555.16,39.97,3124,1150.0
+493,27-donna-buang-street-camberwell-vic-3124-15704271,Ballarat Primary School (Dana Street),694.04,96.2,3124,1900.0
+494,108-326-328-burwood-highway-burwood-vic-3125-16081726,Echuca Primary School,1359.56,98.06,3125,500.0
+495,23-parer-street-burwood-vic-3125-16090404,Cheltenham Primary School,642.55,100.99,3125,530.0
+496,222-burwood-highway-burwood-vic-3125-16065529,Creswick Primary School,704.65,96.84,3125,220.0
+497,2-rubens-grove-canterbury-vic-3126-16090938,Campbells Creek Primary School,470.66,98.93,3126,750.0
+498,205-85-maling-road-canterbury-vic-3126-16066413,Dromana Primary School,671.63,124.06,3126,650.0
+499,1-51-rochester-road-canterbury-vic-3126-16038373,Allansford and District Primary School,650.25,49.61,3126,450.0
+500,31-bryson-street-canterbury-vic-3126-16077796,California Gully Primary School,215.63,35.29,3126,1100.0
+501,14-avenue-athol-canterbury-vic-3126-16070437,Creswick Primary School,470.19,107.39,3126,1300.0
+502,1-803-whitehorse-road-mont-albert-vic-3127-16051285,Warrandyte Primary School,1110.27,126.07,3127,1000.0
+503,5-972-riversdale-road-surrey-hills-vic-3127-16042769,Avenel Primary School,801.01,68.79,3127,370.0
+504,2-6-scheele-street-surrey-hills-vic-3127-16067630,Warrandyte Primary School,727.96,116.72,3127,450.0
+505,65-broughton-road-surrey-hills-vic-3127-16070938,Allansford and District Primary School,1101.52,108.29,3127,550.0
+506,7-agnes-street-mont-albert-vic-3127-16014765,Doncaster Primary School,1326.53,158.39,3127,900.0
+507,4-11-louise-avenue-mont-albert-vic-3127-16086905,Creswick Primary School,507.0,47.74,3127,415.0
+508,107-801-whitehorse-road-mont-albert-vic-3127-16069503,Belmont Primary School,1074.16,123.71,3127,535.0
+509,30-high-street-mont-albert-vic-3127-16060025,Creswick Primary School,926.13,79.41,3127,995.0
+510,434-elgar-road-box-hill-vic-3128-16087001,Cheltenham Primary School,1433.97,226.72,3128,650.0
+511,19-16-18-poplar-street-box-hill-vic-3128-16059601,Cudgee Primary School,1342.27,230.72,3128,230.0
+512,43-neville-street-box-hill-south-vic-3128-16076023,Berwick Primary School,1576.45,234.39,3128,445.0
+513,408-2-elland-avenue-box-hill-vic-3128-11439410,California Gully Primary School,715.06,105.34,3128,450.0
+514,3-1-john-street-box-hill-vic-3128-16081572,St Andrews Primary School,1071.99,159.43,3128,420.0
+515,2-12-oxford-street-box-hill-vic-3128-16076810,St Andrews Primary School,1145.62,154.69,3128,350.0
+516,14-98-100-carrington-road-box-hill-vic-3128-16070220,Campbells Creek Primary School,1329.03,168.42,3128,475.0
+517,204-2-4-kent-road-box-hill-vic-3128-16074780,California Gully Primary School,1173.59,138.95,3128,450.0
+518,75a-watts-street-box-hill-north-vic-3129-16079176,California Gully Primary School,1406.22,159.47,3129,440.0
+519,4-melrose-street-mont-albert-north-vic-3129-16083561,Cavendish Primary School,458.07,109.93,3129,500.0
+520,6-jaques-grove-forest-hill-vic-3131-16089098,Ballarat Primary School (Dana Street),1307.98,159.68,3131,695.0
+521,5-5-luckie-street-nunawading-vic-3131-16050936,California Gully Primary School,1274.64,234.95,3131,370.0
+522,410-92-maroondah-highway-ringwood-vic-3134-16082788,Newport Lakes Primary School,1135.03,153.62,3134,440.0
+523,16-lilian-parade-ringwood-vic-3134-16065729,Wodonga Primary School,778.64,135.38,3134,540.0
+524,1807-2-claremont-street-south-yarra-vic-3141-16074836,Newport Lakes Primary School,746.13,90.93,3141,630.0
+525,1203-77-river-street-south-yarra-vic-3141-16084470,Wandiligong Primary School,81.54,13.59,3141,570.0
+526,1102-32-bray-street-south-yarra-vic-3141-16084480,Cudgee Primary School,911.93,90.44,3141,525.0
+527,g11-2-hobson-street-south-yarra-vic-3141-16086164,Eaglehawk Primary School,1159.91,140.15,3141,600.0
+528,11-16-kensington-road-south-yarra-vic-3141-16071890,Hawthorn West Primary School,758.51,122.19,3141,420.0
+529,10-marne-street-south-yarra-vic-3141-15981508,Dromana Primary School,523.91,71.95,3141,1000.0
+530,12-37-domain-street-south-yarra-vic-3141-16012333,Sandringham Primary School,471.34,70.88,3141,500.0
+531,21-32-darling-street-south-yarra-vic-3141-16052677,Echuca Primary School,856.55,96.99,3141,390.0
+532,1802-7-claremont-street-south-yarra-vic-3141-16047399,Newport Lakes Primary School,1192.89,164.58,3141,800.0
+533,603-101-river-street-south-yarra-vic-3141-16085330,Wandiligong Primary School,291.92,51.82,3141,850.0
+534,4-209-domain-road-south-yarra-vic-3141-16076900,Doncaster Primary School,361.52,51.99,3141,575.0
+535,205-10-claremont-street-south-yarra-vic-3141-15150687,Newport Lakes Primary School,1193.13,164.62,3141,400.0
+536,8-32-34-adams-street-south-yarra-vic-3141-16088477,Sandringham Primary School,528.22,81.12,3141,725.0
+537,9-63-millswyn-street-south-yarra-vic-3141-16081143,Hawthorn West Primary School,536.37,66.34,3141,495.0
+538,19-386-toorak-road-south-yarra-vic-3141-15398642,Hamilton (Gray Street) Primary School,819.94,102.26,3141,530.0
+539,130-471-malvern-road-south-yarra-vic-3141-16068569,Eltham Primary School,1050.48,127.89,3141,400.0
+540,512-77-river-street-south-yarra-vic-3141-16082119,Wandiligong Primary School,81.54,13.59,3141,430.0
+541,10-nicholson-street-south-yarra-vic-3141-16082198,Alberton Primary School,212.91,24.41,3141,600.0
+542,3-113-osborne-street-south-yarra-vic-3141-16082959,Allansford and District Primary School,798.36,132.54,3141,1000.0
+543,56a-osborne-street-south-yarra-vic-3141-15943442,Allansford and District Primary School,760.9,121.06,3141,650.0
+544,57-lang-street-south-yarra-vic-3141-16052404,Alberton Primary School,280.72,34.57,3141,650.0
+545,414-77-river-street-south-yarra-vic-3141-16048403,Wandiligong Primary School,81.54,13.59,3141,420.0
+546,38-argo-street-south-yarra-vic-3141-16056584,Alberton Primary School,468.5,70.56,3141,700.0
+547,7-13-hawksburn-road-south-yarra-vic-3141-16046810,Heidelberg Primary School,988.95,163.2,3141,450.0
+548,113-2-hobson-street-south-yarra-vic-3141-16068562,Eaglehawk Primary School,1159.91,140.15,3141,410.0
+549,7-27-avoca-street-south-yarra-vic-3141-16069516,Echuca Primary School,563.42,85.5,3141,440.0
+550,3-59-avoca-street-south-yarra-vic-3141-16083571,Echuca Primary School,696.84,108.72,3141,580.0
+551,3-barry-street-south-yarra-vic-3141-16075851,Cavendish Primary School,1099.75,126.1,3141,795.0
+552,1-12-darling-street-south-yarra-vic-3141-16055432,Echuca Primary School,728.88,86.78,3141,550.0
+553,9-4-davidson-street-south-yarra-vic-3141-16075758,Elphinstone Primary School,723.64,108.73,3141,525.0
+554,11-245-williams-rd-south-yarra-vic-3141-16086320,Highton Primary School,1177.86,132.78,3141,340.0
+555,8-davison-place-south-yarra-vic-3141-16086287,Cavendish Primary School,695.14,76.84,3141,1900.0
+556,14-245-williams-road-south-yarra-vic-3141-16042334,Highton Primary School,1177.86,132.78,3141,350.0
+557,19-balmoral-place-south-yarra-vic-3141-16077000,Colac Primary School,930.24,112.16,3141,1200.0
+558,10-110-caroline-street-south-yarra-vic-3141-16072135,Echuca Primary School,858.7,111.02,3141,475.0
+559,22-davis-avenue-south-yarra-vic-3141-16072495,Allansford and District Primary School,521.95,82.39,3141,1500.0
+560,7-38a-kensington-road-south-yarra-vic-3141-16077489,Hawthorn West Primary School,998.71,179.84,3141,525.0
+561,205-20-garden-street-south-yarra-vic-3141-16069955,Newport Lakes Primary School,828.33,88.19,3141,450.0
+562,10-2-lawson-grove-south-yarra-vic-3141-16080499,Eaglehawk Primary School,900.57,140.08,3141,415.0
+563,2003-7-yarra-street-south-yarra-vic-3141-16077173,Newport Lakes Primary School,734.34,82.66,3141,425.0
+564,4-67-walsh-street-south-yarra-vic-3141-16063567,Doncaster Primary School,542.13,85.29,3141,1200.0
+565,511-8-garden-street-south-yarra-vic-3141-16063607,Newport Lakes Primary School,768.02,73.71,3141,400.0
+566,1701-18-claremont-street-south-yarra-vic-3141-16089739,Newport Lakes Primary School,1126.34,152.6,3141,750.0
+567,1006-1-clara-street-south-yarra-vic-3141-16069801,Grovedale Primary School,591.62,93.01,3141,450.0
+568,904-50-claremont-street-south-yarra-vic-3141-16063745,Newport Lakes Primary School,988.67,127.82,3141,510.0
+569,9-47-49-caroline-street-south-yarra-vic-3141-16072801,Dromana Primary School,434.94,64.51,3141,895.0
+570,804s-227-toorak-rd-south-yarra-vic-3141-16085781,Cudgee Primary School,396.35,36.54,3141,450.0
+571,15-85-caroline-street-south-yarra-vic-3141-16064912,Doncaster Primary School,651.71,85.9,3141,400.0
+572,804-50-claremont-street-south-yarra-vic-3141-16089126,Newport Lakes Primary School,988.67,127.82,3141,450.0
+573,72-oban-street-south-yarra-vic-3141-16079620,Heathcote Primary School,1476.42,192.71,3141,1300.0
+574,2-4-ralston-street-south-yarra-vic-3141-16063618,Alberton Primary School,189.08,27.46,3141,425.0
+575,202-4-chapel-mews-south-yarra-vic-3141-16065573,Cudgee Primary School,282.68,32.49,3141,600.0
+576,19-tivoli-road-south-yarra-vic-3141-16079814,Wandiligong Primary School,334.46,50.01,3141,530.0
+577,402-20-garden-street-south-yarra-vic-3141-16078689,Newport Lakes Primary School,828.33,88.19,3141,350.0
+578,122-hope-street-south-yarra-vic-3141-16078147,Grovedale Primary School,493.93,58.7,3141,775.0
+579,7-53-59-millswyn-street-south-yarra-vic-3141-16088496,Grovedale Primary School,564.86,71.46,3141,425.0
+580,808-2-claremont-street-south-yarra-vic-3141-16061993,Newport Lakes Primary School,746.13,90.93,3141,600.0
+581,1402-229-toorak-road-south-yarra-vic-3141-16090852,Newport Lakes Primary School,784.13,100.05,3141,470.0
+582,607-7-claremont-street-south-yarra-vic-3141-16071649,Newport Lakes Primary School,1192.89,164.58,3141,620.0
+583,2c-381-toorak-road-south-yarra-vic-3141-16073632,Hawthorn West Primary School,617.4,81.43,3141,480.0
+584,201-18-claremont-street-south-yarra-vic-3141-16071671,Newport Lakes Primary School,1126.34,152.6,3141,420.0
+585,4-90-clowes-street-south-yarra-vic-3141-16065476,Hallam Primary School,183.63,27.19,3141,550.0
+586,516-77-river-street-south-yarra-vic-3141-16080824,Wandiligong Primary School,81.54,13.59,3141,370.0
+587,3-402-toorak-road-toorak-vic-3142-16084857,Huntly Primary School,1038.03,127.92,3142,475.0
+588,16-glyndebourne-avenue-toorak-vic-3142-16037962,Eaglehawk Primary School,647.77,114.95,3142,850.0
+589,5-8-devorgilla-ave-toorak-vic-3142-16069736,Dromana Primary School,664.0,64.42,3142,725.0
+590,6-645-malvern-road-toorak-vic-3142-16069122,Wandiligong Primary School,617.55,74.03,3142,430.0
+591,1-15-tintern-avenue-toorak-vic-3142-16085299,Bellbrae Primary School,1311.46,179.89,3142,950.0
+592,23a-bruce-street-toorak-vic-3142-16012345,Huntly Primary School,1481.67,197.16,3142,1850.0
+593,15-21-tintern-avenue-toorak-vic-3142-16078352,Bellbrae Primary School,1234.05,174.72,3142,520.0
+594,11-8-lamin-lane-toorak-vic-3142-16078927,Wodonga Primary School,1194.96,116.53,3142,465.0
+595,4-nareeb-court-toorak-vic-3142-16044504,Doncaster Primary School,749.41,77.61,3142,1200.0
+596,3-34-mathoura-road-toorak-vic-3142-16067906,Wodonga Primary School,452.48,84.95,3142,400.0
+597,11-91-mathoura-road-toorak-vic-3142-16089349,Wodonga Primary School,1132.09,123.7,3142,690.0
+598,1-71-mathoura-road-toorak-vic-3142-16087504,Wodonga Primary School,1063.81,120.47,3142,310.0
+599,5-1-st-georges-road-toorak-vic-3142-16076186,Footscray Primary School,739.12,132.58,3142,280.0
+600,4-151-canterbury-road-toorak-vic-3142-16063497,Wodonga Primary School,1194.96,116.53,3142,650.0
+601,1-11-woorigoleen-road-toorak-vic-3142-16073252,Gisborne Primary School,824.82,142.07,3142,750.0
+602,11-51-53-grange-road-toorak-vic-3142-16088102,Ballarat Primary School (Dana Street),1681.52,163.83,3142,475.0
+603,24-6-8-avondale-road-armadale-vic-3143-16074178,Flemington Primary School,930.5,137.17,3143,400.0
+604,4-597-orrong-road-armadale-vic-3143-16075042,Wandiligong Primary School,290.78,30.89,3143,400.0
+605,g05-523-dandenong-road-armadale-vic-3143-15178199,Echuca Primary School,1578.06,237.21,3143,435.0
+606,10-mercer-way-armadale-vic-3143-16056859,California Gully Primary School,707.61,100.7,3143,670.0
+607,1-watson-street-armadale-vic-3143-16061315,Footscray Primary School,328.63,59.56,3143,500.0
+608,34c-rose-street-armadale-vic-3143-16082480,Belmont Primary School,316.36,75.92,3143,650.0
+609,6-6-denbigh-road-armadale-vic-3143-16085067,Hamilton (Gray Street) Primary School,899.41,113.45,3143,710.0
+610,804-7-evergreen-mews-armadale-vic-3143-16089480,Footscray Primary School,511.22,74.04,3143,475.0
+611,33-barkly-ave-armadale-vic-3143-16064100,Dromana Primary School,759.76,172.78,3143,1100.0
+612,6-770-malvern-road-armadale-vic-3143-16067956,Sandringham Primary School,343.64,61.15,3143,450.0
+613,7-717-toorak-road-kooyong-vic-3144-16077474,Hawthorn West Primary School,971.49,126.87,3144,1100.0
+614,3-459-glenferrie-road-kooyong-vic-3144-16075413,Dromana Primary School,946.82,81.29,3144,660.0
+615,4-16-18-shaftesbury-avenue-malvern-vic-3144-16089440,Avoca Primary School,610.07,145.84,3144,750.0
+616,2-11-mernda-road-kooyong-vic-3144-16076137,Dromana Primary School,1253.3,116.12,3144,550.0
+617,63-mcarthur-street-malvern-vic-3144-16067027,Avenel Primary School,949.23,151.64,3144,580.0
+618,12-1325-high-street-malvern-vic-3144-16052711,Avoca Primary School,613.65,86.99,3144,495.0
+619,6-919-dandenong-road-malvern-east-vic-3145-16075854,Warrnambool West Primary School,875.6,116.06,3145,365.0
+620,205-2a-clarence-street-malvern-east-vic-3145-16069391,Avoca Primary School,623.74,69.79,3145,410.0
+621,205-1059-1061-dandenong-road-malvern-east-vic-3145-16070994,Flemington Primary School,1191.43,130.84,3145,460.0
+622,402-1399-dandenong-road-malvern-east-vic-3145-16060867,Alberton Primary School,732.97,92.01,3145,650.0
+623,106-1059-1061-dandenong-road-malvern-east-vic-3145-16087078,Flemington Primary School,1191.43,130.84,3145,460.0
+624,4-11-tooronga-road-malvern-east-vic-3145-16090865,Avoca Primary School,66.33,4.77,3145,350.0
+625,5-419-waverley-road-malvern-east-vic-3145-16061833,Eaglehawk Primary School,928.54,114.11,3145,495.0
+626,748-warrigal-road-malvern-east-vic-3145-14989490,Allansford and District Primary School,932.35,129.81,3145,470.0
+627,2-69-darling-road-malvern-east-vic-3145-16090331,Sandringham Primary School,256.35,28.94,3145,850.0
+628,104-226-waverley-road-malvern-east-vic-3145-16064029,St Andrews Primary School,433.51,61.03,3145,375.0
+629,1-1013-dandenong-road-malvern-east-vic-3145-16081072,Warrnambool West Primary School,952.86,139.91,3145,525.0
+630,3-798-warrigal-road-malvern-east-vic-3145-16079041,Alberton Primary School,803.47,99.61,3145,275.0
+631,1-77-darling-rd-malvern-east-vic-3145-16088796,Elphinstone Primary School,613.3,45.06,3145,525.0
+632,2-997-dandenong-road-malvern-east-vic-3145-16081041,St Andrews Primary School,994.39,98.42,3145,400.0
+633,512-803-dandenong-road-malvern-east-vic-3145-16072805,Avoca Primary School,646.87,83.75,3145,500.0
+634,1-thurso-st-malvern-east-vic-3145-16077651,Eltham Primary School,2636.83,380.51,3145,550.0
+635,508-839-dandenong-road-malvern-east-vic-3145-16082365,Avoca Primary School,716.71,82.63,3145,360.0
+636,202-23-maverston-street-glen-iris-vic-3146-16018321,Belmont Primary School,1388.67,154.29,3146,500.0
+637,4-73-edgar-st-north-glen-iris-vic-3146-16088705,Elphinstone Primary School,1355.64,192.8,3146,420.0
+638,1-07-281-tooronga-road-glen-iris-vic-3146-16075662,Gisborne Primary School,1171.94,142.0,3146,595.0
+639,12-70-edgar-street-north-glen-iris-vic-3146-16082708,Elphinstone Primary School,1329.36,207.71,3146,295.0
+640,3-76-glen-iris-road-glen-iris-vic-3146-16081785,Dromana Primary School,383.75,37.71,3146,415.0
+641,2-5-ellis-road-glen-iris-vic-3146-16073465,Eltham Primary School,915.92,96.32,3146,695.0
+642,67-florizel-street-glen-iris-vic-3146-16082373,Eltham Primary School,929.31,112.24,3146,640.0
+643,g03-1457-high-street-glen-iris-vic-3146-16074275,Doncaster Primary School,349.78,39.33,3146,725.0
+644,18-37-39-carroll-crescent-glen-iris-vic-3146-16088255,Echuca Primary School,1130.6,171.94,3146,490.0
+645,14-grosvenor-road-glen-iris-vic-3146-16082500,Sandringham Primary School,1105.71,123.89,3146,520.0
+646,14-straughan-st-glen-iris-vic-3146-16053776,Bacchus Marsh Primary School,1074.12,139.35,3146,1250.0
+647,10-304-tooronga-road-glen-iris-vic-3146-16078526,Gisborne Primary School,1120.67,125.01,3146,350.0
+648,2-49-osborne-avenue-glen-iris-vic-3146-16082650,Echuca Primary School,993.84,108.4,3146,770.0
+649,301-10-12-high-street-glen-iris-vic-3146-16072393,Allansford and District Primary School,232.57,20.6,3146,400.0
+650,55-great-valley-road-glen-iris-vic-3146-16069673,St Andrews Primary School,1136.94,135.41,3146,685.0
+651,44-francis-cres-glen-iris-vic-3146-16085112,Alberton Primary School,1164.01,109.3,3146,995.0
+652,1-lillian-street-glen-iris-vic-3146-16068377,St Andrews Primary School,1191.9,152.98,3146,1080.0
+653,47-somerset-road-glen-iris-vic-3146-16067326,Warrnambool West Primary School,1199.22,151.21,3146,895.0
+654,7-10-nash-st-glen-iris-vic-3146-16085807,Dromana Primary School,882.38,117.54,3146,370.0
+655,8-1512-malvern-road-glen-iris-vic-3146-16069445,Warrnambool West Primary School,693.96,77.42,3146,430.0
+656,103-35-43-high-street-glen-iris-vic-3146-16087710,Allansford and District Primary School,176.61,14.85,3146,390.0
+657,1492-malvern-road-glen-iris-vic-3146-16051441,Dromana Primary School,877.78,112.17,3146,230.0
+658,207-770b-toorak-road-glen-iris-vic-3146-16065999,Heidelberg Primary School,564.07,67.78,3146,395.0
+659,310-770b-toorak-road-road-glen-iris-vic-3146-16081171,Heidelberg Primary School,441.64,53.87,3146,380.0
+660,12-carool-road-ashburton-vic-3147-16070361,Wodonga Primary School,106.74,13.41,3147,550.0
+661,7-reid-street-ashwood-vic-3147-16066841,Cudgee Primary School,1259.65,147.21,3147,625.0
+662,26b-raymond-street-ashwood-vic-3147-16090168,Echuca Primary School,57.64,8.99,3147,600.0
+663,7-woolert-street-ashwood-vic-3147-16076375,Cheltenham Primary School,903.53,102.86,3147,400.0
+664,4-32-adrian-street-chadstone-vic-3148-16002735,Ballarat Primary School (Dana Street),793.27,136.14,3148,615.0
+665,40-atkinson-street-chadstone-vic-3148-16078388,Creswick Primary School,1215.25,106.75,3148,450.0
+666,1-12-cole-crescent-chadstone-vic-3148-16056418,Allansford and District Primary School,1100.69,156.51,3148,795.0
+667,9-hillcrest-avenue-chadstone-vic-3148-16090183,Ballarat Primary School (Dana Street),840.62,95.77,3148,525.0
+668,1-26-adrian-street-chadstone-vic-3148-16081445,Ballarat Primary School (Dana Street),893.74,101.19,3148,465.0
+669,336-70-batesford-road-chadstone-vic-3148-15375409,Dromana Primary School,1110.82,169.73,3148,375.0
+670,14-13-churchill-avenue-chadstone-vic-3148-16061665,Ballarat Primary School (Dana Street),564.78,73.71,3148,350.0
+671,2-28-rae-street-chadstone-vic-3148-16075959,California Gully Primary School,1282.46,121.54,3148,600.0
+672,37-margot-street-chadstone-vic-3148-16084833,California Gully Primary School,594.2,97.77,3148,395.0
+673,2-ashby-court-chadstone-vic-3148-16088924,Bacchus Marsh Primary School,876.82,151.15,3148,510.0
+674,11-evans-street-chadstone-vic-3148-16079398,Campbells Creek Primary School,867.74,72.93,3148,590.0
+675,33-swanson-crescent-chadstone-vic-3148-16088383,Campbells Creek Primary School,1616.38,148.71,3148,650.0
+676,11-binalong-ave-chadstone-vic-3148-16079197,California Gully Primary School,1040.35,177.61,3148,525.0
+677,2-gateway-close-chadstone-vic-3148-15228933,Bacchus Marsh Primary School,1161.58,206.04,3148,495.0
+678,2-11-therese-avenue-mount-waverley-vic-3149-16060186,Belmont Primary School,833.78,111.6,3149,495.0
+679,54-kemp-avenue-mount-waverley-vic-3149-16080319,Avoca Primary School,721.76,128.42,3149,450.0
+680,2-47-briggs-street-mount-waverley-vic-3149-16063868,St Andrews Primary School,951.54,108.57,3149,850.0
+681,34-garrisson-drive-glen-waverley-vic-3150-16078539,Allansford and District Primary School,774.33,115.22,3150,629.0
+682,38-kauri-grove-glen-waverley-vic-3150-15889540,Cudgee Primary School,1320.69,186.79,3150,520.0
+683,2-burramine-road-glen-waverley-vic-3150-16065822,Avoca Primary School,849.56,125.07,3150,880.0
+684,617-highbury-road-burwood-east-vic-3151-15118457,Alberton Primary School,753.81,56.89,3151,700.0
+685,2-62-scoresby-road-bayswater-vic-3153-16075654,Cavendish Primary School,657.95,92.4,3153,520.0
+686,64-ferguson-street-upwey-vic-3158-16082642,Warrandyte Primary School,1072.32,120.55,3158,650.0
+687,48-thompson-road-upwey-vic-3158-16069181,Belmont Primary School,1128.43,194.06,3158,660.0
+688,18-41-northcote-ave-caulfield-north-vic-3161-16089431,Cavendish Primary School,989.03,104.64,3161,300.0
+689,24-orrong-crescent-caulfield-north-vic-3161-16063914,Wodonga Primary School,1051.11,131.65,3161,950.0
+690,10-633-inkerman-road-caulfield-north-vic-3161-16085522,Ballarat Primary School (Dana Street),1174.1,80.43,3161,525.0
+691,5-12-wyuna-rd-caulfield-north-vic-3161-16060765,Newport Lakes Primary School,497.2,52.35,3161,440.0
+692,2-74-hawthorn-rd-caulfield-north-vic-3161-16062077,Wodonga Primary School,497.12,32.54,3161,560.0
+693,724-inkerman-road-caulfield-north-vic-3161-16088678,Bacchus Marsh Primary School,905.08,65.05,3161,630.0
+694,7-56-kooyong-road-caulfield-north-vic-3161-16054643,Wodonga Primary School,873.54,103.13,3161,500.0
+695,5-20-kooyong-rd-caulfield-north-vic-3161-16065046,Hamilton (Gray Street) Primary School,1230.03,108.21,3161,570.0
+696,2-46-orrong-cres-caulfield-north-vic-3161-16085943,Heathcote Primary School,1306.14,126.43,3161,500.0
+697,3-24-park-crescent-caulfield-north-vic-3161-16035184,Newport Lakes Primary School,179.38,36.45,3161,275.0
+698,3-53-wanda-rd-caulfield-north-vic-3161-16087035,Ballarat Primary School (Dana Street),959.67,118.64,3161,480.0
+699,105-337-balaclava-road-caulfield-north-vic-3161-16053704,Cudgee Primary School,136.02,8.9,3161,600.0
+700,8-62-hawthorn-road-caulfield-north-vic-3161-16081715,Wodonga Primary School,655.69,43.11,3161,600.0
+701,6-359-balaclava-road-caulfield-north-vic-3161-16073003,Newport Lakes Primary School,309.66,22.58,3161,310.0
+702,3-20-malvern-grove-caulfield-north-vic-3161-16072766,Bacchus Marsh Primary School,1142.33,85.79,3161,470.0
+703,3-40-northcote-avenue-caulfield-north-vic-3161-15503694,Newport Lakes Primary School,1048.58,118.94,3161,520.0
+704,5-556-dandenong-rd-caulfield-north-vic-3161-16072372,Dromana Primary School,1369.17,254.13,3161,460.0
+705,1-17-sebastopol-street-caulfield-north-vic-3161-16076196,Ballarat Primary School (Dana Street),340.66,62.49,3161,650.0
+706,9-20-kooyong-road-caulfield-north-vic-3161-16071029,Hamilton (Gray Street) Primary School,1227.89,107.7,3161,550.0
+707,2-372-orrong-road-caulfield-north-vic-3161-16064315,Huntly Primary School,511.94,58.6,3161,550.0
+708,7-237-balaclava-road-caulfield-north-vic-3161-16078540,Ballarat Primary School (Dana Street),451.89,29.58,3161,710.0
+709,4-129-131-kambrook-road-caulfield-north-vic-3161-16064416,Colac Primary School,647.28,71.4,3161,425.0
+710,4-14-narong-road-caulfield-north-vic-3161-16075742,Ballarat Primary School (Dana Street),1015.61,88.88,3161,570.0
+711,4-273-balaclava-rd-caulfield-north-vic-3161-16013121,Cudgee Primary School,317.32,20.77,3161,649.0
+712,4-60-eskdale-road-caulfield-north-vic-3161-16075441,Cudgee Primary School,587.7,50.31,3161,575.0
+713,38-park-crescent-caulfield-north-vic-3161-16084584,Cudgee Primary School,345.77,52.17,3161,920.0
+714,68-dover-street-caulfield-south-vic-3162-16074034,Beaufort Primary School,454.72,47.26,3162,1400.0
+715,16-667-glenhuntly-road-caulfield-vic-3162-15930196,Newport Lakes Primary School,553.94,66.37,3162,450.0
+716,313-15-bond-street-caulfield-vic-3162-16083470,Newport Lakes Primary School,514.39,52.06,3162,450.0
+717,46-alder-st-caulfield-south-vic-3162-16073205,Cudgee Primary School,371.33,89.12,3162,790.0
+718,5-14-olive-street-caulfield-south-vic-3162-16066746,Cheltenham Primary School,280.47,67.31,3162,360.0
+719,24-brooklyn-avenue-caulfield-south-vic-3162-16069207,Hamilton (Gray Street) Primary School,571.35,109.58,3162,695.0
+720,202-2a-royal-parade-caulfield-south-vic-3162-16086143,Newport Lakes Primary School,496.31,63.5,3162,525.0
+721,206-2-cedar-street-caulfield-south-vic-3162-15113111,Cheltenham Primary School,199.34,38.82,3162,450.0
+722,2-193-bambra-road-caulfield-south-vic-3162-16083583,Wandiligong Primary School,483.46,40.87,3162,590.0
+723,10-urandaline-grove-caulfield-vic-3162-16067602,Cavendish Primary School,1019.61,104.18,3162,900.0
+724,14-harcourt-ave-caulfield-vic-3162-16076560,Hallam Primary School,934.48,82.13,3162,950.0
+725,1-12-omar-street-caulfield-south-vic-3162-16085399,Sandringham Primary School,525.58,70.35,3162,690.0
+726,1-27-venus-st-caulfield-south-vic-3162-16061113,Hawthorn West Primary School,998.41,109.12,3162,430.0
+727,39a-beech-st-caulfield-south-vic-3162-16085959,Grovedale Primary School,547.1,117.05,3162,1250.0
+728,18-214-kambrook-road-caulfield-vic-3162-16065771,Colac Primary School,651.9,61.11,3162,450.0
+729,1-rotorua-street-caulfield-south-vic-3162-16053690,Beaufort Primary School,951.72,94.33,3162,700.0
+730,2a-stephens-street-caulfield-vic-3162-16083642,Colac Primary School,763.7,77.07,3162,670.0
+731,7-11-truganini-road-carnegie-vic-3163-16089644,Avoca Primary School,375.98,46.5,3163,390.0
+732,5-34-bute-street-murrumbeena-vic-3163-16085475,Echuca Primary School,1537.48,254.18,3163,340.0
+733,5-20-anzac-street-carnegie-vic-3163-16077592,Warrandyte Primary School,639.78,114.8,3163,320.0
+734,6-58-leila-road-carnegie-vic-3163-16089254,Echuca Primary School,901.62,80.65,3163,380.0
+735,3-102-truganini-road-carnegie-vic-3163-15350999,Allansford and District Primary School,263.89,22.67,3163,375.0
+736,301-18-etna-street-glen-huntly-vic-3163-16068553,Castlemaine Primary School,749.42,87.01,3163,460.0
+737,76b-oakleigh-road-carnegie-vic-3163-16053547,Warrandyte Primary School,1185.45,94.96,3163,900.0
+738,4-15-howe-street-murrumbeena-vic-3163-16079909,Echuca Primary School,1149.03,176.67,3163,290.0
+739,7-21-dunoon-st-murrumbeena-vic-3163-16090776,Avenel Primary School,1115.99,135.38,3163,400.0
+740,1102a-glen-huntly-road-glen-huntly-vic-3163-16088434,Colac Primary School,562.26,55.95,3163,300.0
+741,1-12-toward-street-murrumbeena-vic-3163-16058355,Avoca Primary School,1233.23,176.31,3163,350.0
+742,7-1204-glen-huntly-road-glen-huntly-vic-3163-16064791,St Andrews Primary School,486.18,52.51,3163,495.0
+743,13-25-royal-avenue-glen-huntly-vic-3163-16087887,Warrandyte Primary School,581.12,60.73,3163,320.0
+744,2-28-shepparson-avenue-carnegie-vic-3163-16088563,Avoca Primary School,692.12,87.81,3163,385.0
+745,2-44-rosstown-road-carnegie-vic-3163-16078450,Avenel Primary School,710.57,106.89,3163,545.0
+746,3-22-roseberry-grove-glen-huntly-vic-3163-16078525,Colac Primary School,316.23,29.07,3163,335.0
+747,4-3-park-avenue-glen-huntly-vic-3163-16067217,Warrandyte Primary School,446.05,63.88,3163,550.0
+748,2-5-gilsland-road-murrumbeena-vic-3163-16088625,Avenel Primary School,1200.4,160.26,3163,500.0
+749,8-24-melbourne-street-murrumbeena-vic-3163-16078538,Warrandyte Primary School,658.01,71.83,3163,270.0
+750,6-28-ardyne-street-murrumbeena-vic-3163-16063604,Warrnambool West Primary School,1340.36,144.5,3163,250.0
+751,10-18-gerald-street-murrumbeena-vic-3163-16063451,St Andrews Primary School,1249.33,131.85,3163,310.0
+752,6-19-sydney-street-murrumbeena-vic-3163-16079700,Warrandyte Primary School,643.66,68.39,3163,300.0
+753,101-17-murrumbeena-road-murrumbeena-vic-3163-16061406,Warrandyte Primary School,450.59,65.37,3163,460.0
+754,3-16-oakleigh-road-carnegie-vic-3163-16077422,Warrandyte Primary School,624.28,50.06,3163,450.0
+755,3-27-coorigil-rd-carnegie-vic-3163-16075493,Avoca Primary School,828.82,81.52,3163,420.0
+756,14-hawson-avenue-glen-huntly-vic-3163-16072886,Castlemaine Primary School,927.9,95.58,3163,540.0
+757,9-1264-glen-huntly-road-carnegie-vic-3163-16075104,Warrnambool West Primary School,445.37,51.72,3163,340.0
+758,5-64-moonya-road-carnegie-vic-3163-16086569,Eltham Primary School,825.5,90.76,3163,320.0
+759,31-foster-ave-glen-huntly-vic-3163-16064783,St Andrews Primary School,633.44,87.71,3163,880.0
+760,1-10-roseberry-grove-glen-huntly-vic-3163-16072245,Colac Primary School,416.71,41.13,3163,375.0
+761,5-2-park-avenue-glen-huntly-vic-3163-16066311,Warrnambool West Primary School,543.42,48.79,3163,500.0
+762,7-29-31-jersey-parade-carnegie-vic-3163-16076044,Avenel Primary School,983.8,122.96,3163,850.0
+763,3-19-truganini-road-carnegie-vic-3163-16071226,Avoca Primary School,310.79,41.28,3163,420.0
+764,353-neerim-rd-carnegie-vic-3163-16077333,Avenel Primary School,864.57,102.21,3163,425.0
+765,11-2-belsize-avenue-carnegie-vic-3163-16055916,Avenel Primary School,826.14,106.08,3163,495.0
+766,1-1204-glen-huntly-road-glen-huntly-vic-3163-16083529,St Andrews Primary School,486.18,52.51,3163,450.0
+767,9-55-blackwood-street-carnegie-vic-3163-16073375,Belmont Primary School,921.0,104.68,3163,295.0
+768,8-27-beena-avenue-carnegie-vic-3163-16069094,Warrandyte Primary School,1007.84,109.77,3163,360.0
+769,11-25-27-dunoon-street-murrumbeena-vic-3163-16086107,Dromana Primary School,1241.82,129.93,3163,420.0
+770,r-1134-dandenong-road-carnegie-vic-3163-16038868,Bacchus Marsh Primary School,1118.08,128.33,3163,215.0
+771,2-26-patricia-street-bentleigh-east-vic-3165-16067339,Castlemaine Primary School,678.07,72.28,3165,595.0
+772,10a-mackie-road-bentleigh-east-vic-3165-16066650,Bacchus Marsh Primary School,188.84,13.6,3165,950.0
+773,73a-castlewood-street-bentleigh-east-vic-3165-16089696,Bacchus Marsh Primary School,641.15,87.99,3165,850.0
+774,46b-wingate-street-bentleigh-east-vic-3165-16071165,Wodonga Primary School,767.54,133.17,3165,825.0
+775,31-magnolia-avenue-bentleigh-east-vic-3165-16067616,Colac Primary School,1091.25,126.37,3165,815.0
+776,16-neville-street-bentleigh-east-vic-3165-16061303,Castlemaine Primary School,943.92,113.07,3165,620.0
+777,19-valkstone-street-bentleigh-east-vic-3165-16075694,Cheltenham Primary School,275.05,35.37,3165,780.0
+778,105-801-centre-road-bentleigh-east-vic-3165-16063308,Campbells Creek Primary School,909.44,78.09,3165,440.0
+779,872-centre-road-bentleigh-east-vic-3165-16064305,Campbells Creek Primary School,344.38,42.51,3165,750.0
+780,1-51-browns-rd-bentleigh-east-vic-3165-16063888,Campbells Creek Primary School,1190.82,116.69,3165,520.0
+781,4-13-elizabeth-street-oakleigh-east-vic-3166-16066381,St Andrews Primary School,391.38,48.64,3166,615.0
+782,15-fintonia-street-hughesdale-vic-3166-16081433,Warrandyte Primary School,361.94,69.79,3166,680.0
+783,2-67-euston-road-hughesdale-vic-3166-16060352,Alberton Primary School,225.5,23.35,3166,500.0
+784,2-52-william-street-oakleigh-vic-3166-16067917,Beaufort Primary School,1086.0,142.01,3166,495.0
+785,41-bishop-street-oakleigh-vic-3166-16081385,California Gully Primary School,1187.32,147.68,3166,650.0
+786,5-158-kangaroo-road-hughesdale-vic-3166-16059918,Doncaster Primary School,842.55,97.8,3166,400.0
+787,1-14-bletchley-road-hughesdale-vic-3166-16071580,Eaglehawk Primary School,268.52,33.6,3166,475.0
+788,16-30-swindon-road-oakleigh-vic-3166-16078014,Alberton Primary School,408.59,40.24,3166,570.0
+789,24-euston-road-hughesdale-vic-3166-15210228,Eltham Primary School,511.34,67.49,3166,675.0
+790,1-22-clapham-road-hughesdale-vic-3166-15657634,Doncaster Primary School,113.13,11.64,3166,410.0
+791,26-austin-street-hughesdale-vic-3166-13441918,Warrandyte Primary School,471.75,68.06,3166,550.0
+792,1-30-swindon-road-hughesdale-vic-3166-16081742,Alberton Primary School,408.59,40.24,3166,420.0
+793,109-6-dalgety-street-oakleigh-vic-3166-16079810,Alberton Primary School,468.85,72.25,3166,500.0
+794,2-610-neerim-road-hughesdale-vic-3166-15940344,Eaglehawk Primary School,527.11,51.04,3166,695.0
+795,1652-dandenong-road-oakleigh-east-vic-3166-16067192,Berwick Primary School,1468.17,164.64,3166,475.0
+796,3-13-state-street-oakleigh-east-vic-3166-16054316,Wodonga Primary School,97.04,11.65,3166,600.0
+797,2a-grant-street-oakleigh-vic-3166-16071525,Allansford and District Primary School,1169.1,136.85,3166,545.0
+798,5-washington-drive-oakleigh-south-vic-3167-16089108,Castlemaine Primary School,2490.96,340.87,3167,650.0
+799,25-mimosa-avenue-oakleigh-south-vic-3167-14978035,Ballarat Primary School (Dana Street),1248.67,164.96,3167,560.0
+800,1292-north-road-oakleigh-south-vic-3167-16081578,Bacchus Marsh Primary School,783.55,123.63,3167,450.0
+801,2-30-clarendon-avenue-oakleigh-south-vic-3167-16060050,Bacchus Marsh Primary School,328.55,74.3,3167,520.0
+802,4-10-12-lillian-street-clayton-vic-3168-15234232,Cudgee Primary School,651.88,85.34,3168,620.0
+803,2-33-frank-avenue-clayton-vic-3168-14995545,Newport Lakes Primary School,1179.71,184.93,3168,550.0
+804,2-17-sarton-road-clayton-vic-3168-14970451,Newport Lakes Primary School,1961.1,203.38,3168,595.0
+805,5-265-clayton-road-clayton-vic-3168-16059981,Beaufort Primary School,560.62,85.26,3168,400.0
+806,1-128-moriah-street-clayton-vic-3168-16081488,Cudgee Primary School,1495.38,179.54,3168,530.0
+807,2-34-westerfield-drive-notting-hill-vic-3168-16072082,Dromana Primary School,1201.42,173.19,3168,750.0
+808,5-bemboka-avenue-clayton-south-vic-3169-16060995,Cudgee Primary School,902.54,206.18,3169,540.0
+809,4-main-road-clayton-south-vic-3169-16057923,Cheltenham Primary School,1255.41,168.17,3169,595.0
+810,3a-maltarra-street-clayton-south-vic-3169-16052876,Newport Lakes Primary School,1287.81,189.84,3169,460.0
+811,39a-wattle-grove-mulgrave-vic-3170-16080168,Campbells Creek Primary School,611.96,140.77,3170,630.0
+812,3-27-royal-avenue-springvale-vic-3171-16069826,Newport Lakes Primary School,607.14,119.81,3171,440.0
+813,3-16-blissington-street-springvale-vic-3171-16090463,Campbells Creek Primary School,1008.03,168.04,3171,500.0
+814,35-wareham-street-springvale-vic-3171-16075284,Ballarat Primary School (Dana Street),53.67,6.44,3171,650.0
+815,4-woodward-street-springvale-vic-3171-16077724,Avenel Primary School,650.15,121.8,3171,700.0
+816,53-hillside-street-springvale-vic-3171-16088757,Cheltenham Primary School,464.88,52.42,3171,410.0
+817,2-vella-court-springvale-south-vic-3172-16079155,Berwick Primary School,1016.03,138.64,3172,500.0
+818,2-12-willow-glen-ct-dingley-village-vic-3172-16086455,Wodonga Primary School,869.61,131.48,3172,450.0
+819,2-cassia-court-keysborough-vic-3173-16086595,Newport Lakes Primary School,1107.29,128.22,3173,550.0
+820,36-beau-vorno-avenue-keysborough-vic-3173-16069684,Cavendish Primary School,300.32,53.69,3173,570.0
+821,19-somerset-drive-keysborough-vic-3173-16077778,Ballarat Primary School (Dana Street),954.54,125.24,3173,430.0
+822,242-chandler-road-keysborough-vic-3173-16081963,Ballarat Primary School (Dana Street),962.8,98.48,3173,490.0
+823,10-10-larbert-road-noble-park-vic-3174-16082810,Colac Primary School,1692.66,253.54,3174,240.0
+824,44-chandler-road-noble-park-vic-3174-16080368,Campbells Creek Primary School,845.13,144.12,3174,525.0
+825,32-jeffers-street-noble-park-vic-3174-16088597,Belmont Primary School,878.4,169.75,3174,395.0
+826,15-harrison-drive-noble-park-vic-3174-16077811,Colac Primary School,1771.37,235.26,3174,525.0
+827,1559-heatherton-road-dandenong-north-vic-3175-16051481,Belmont Primary School,1166.74,99.3,3175,380.0
+828,1-47-oakwood-avenue-dandenong-north-vic-3175-16089665,Cavendish Primary School,458.66,47.17,3175,400.0
+829,2-24-power-street-dandenong-vic-3175-15185470,Cudgee Primary School,253.18,45.52,3175,399.0
+830,4-34-clarke-street-prahran-vic-3181-16078572,Eaglehawk Primary School,1378.81,145.83,3181,360.0
+831,8-13-lewisham-road-windsor-vic-3181-16075380,California Gully Primary School,812.67,93.38,3181,475.0
+832,10-11-irving-avenue-prahran-vic-3181-16073356,Huntly Primary School,664.9,60.64,3181,540.0
+833,101-6-percy-place-prahran-vic-3181-16076172,Newport Lakes Primary School,313.13,60.03,3181,490.0
+834,12-28-the-avenue-windsor-vic-3181-16078988,Avoca Primary School,471.92,83.99,3181,550.0
+835,1-97-charles-street-prahran-vic-3181-16087452,Cavendish Primary School,1014.01,120.76,3181,620.0
+836,306-25-clifton-street-prahran-vic-3181-16078928,Cudgee Primary School,548.45,76.8,3181,425.0
+837,2-70-williams-road-prahran-vic-3181-16087414,Flemington Primary School,853.06,117.08,3181,450.0
+838,1-42-grandview-grove-prahran-vic-3181-16062555,Gisborne Primary School,478.31,86.76,3181,800.0
+839,15-21-irving-avenue-prahran-vic-3181-15635697,Gisborne Primary School,902.38,127.96,3181,440.0
+840,2-227-chapel-street-prahran-vic-3181-16077707,Newport Lakes Primary School,354.63,36.4,3181,430.0
+841,53-duke-street-windsor-vic-3181-16063116,Avoca Primary School,507.35,83.4,3181,520.0
+842,105-10-porter-street-prahran-vic-3181-16069578,Newport Lakes Primary School,224.78,38.83,3181,410.0
+843,604-7-king-street-prahran-vic-3181-16072835,Cavendish Primary School,508.38,51.65,3181,510.0
+844,510-42-porter-street-prahran-vic-3181-16078605,Cavendish Primary School,1018.5,133.35,3181,260.0
+845,203-152-peel-street-windsor-vic-3181-16090148,California Gully Primary School,513.78,92.36,3181,400.0
+846,3-51-james-street-prahran-vic-3181-16090001,Avoca Primary School,308.78,47.92,3181,875.0
+847,46-earl-street-windsor-vic-3181-16087402,Avoca Primary School,506.4,80.01,3181,460.0
+848,27-duke-street-prahran-vic-3181-16086431,Colac Primary School,611.16,82.65,3181,700.0
+849,716-15-clifton-street-prahran-vic-3181-16077503,Cudgee Primary School,614.26,92.59,3181,500.0
+850,10-k7-high-street-windsor-vic-3181-16063444,Bacchus Marsh Primary School,116.04,15.17,3181,350.0
+851,93-chomley-street-prahran-vic-3181-16073373,Sandringham Primary School,645.03,88.61,3181,685.0
+852,26-thomas-street-south-windsor-vic-3181-16066356,Colac Primary School,611.26,89.94,3181,750.0
+853,3-56-larnook-street-prahran-vic-3181-16064188,Huntly Primary School,132.12,14.58,3181,1100.0
+854,22-union-street-windsor-vic-3181-16059839,Bacchus Marsh Primary School,798.53,110.94,3181,880.0
+855,24-spring-street-prahran-vic-3181-16066838,Hallam Primary School,934.18,111.39,3181,610.0
+856,g3-2a-henry-street-windsor-vic-3181-16088449,Avenel Primary School,882.85,148.48,3181,390.0
+857,439-111-punt-road-windsor-vic-3181-16055654,Bacchus Marsh Primary School,249.29,39.51,3181,550.0
+858,51-thomas-street-windsor-vic-3181-16088312,Cavendish Primary School,343.14,67.23,3181,1000.0
+859,4-317-dandenong-road-prahran-vic-3181-16067845,Huntly Primary School,403.83,34.3,3181,430.0
+860,15a-the-avenue-windsor-vic-3181-16082070,California Gully Primary School,543.63,58.73,3181,850.0
+861,7-larnook-street-prahran-vic-3181-16082241,Gisborne Primary School,553.76,82.69,3181,920.0
+862,2-16-green-street-prahran-vic-3181-16068447,Colac Primary School,608.49,89.44,3181,740.0
+863,29-10-clifton-street-prahran-vic-3181-16050826,Cudgee Primary School,642.24,99.31,3181,540.0
+864,5-17-ellesmere-road-prahran-vic-3181-16068966,California Gully Primary School,643.02,75.16,3181,415.0
+865,40-kelvin-grove-prahran-vic-3181-16068985,Huntly Primary School,282.79,36.28,3181,815.0
+866,42-commercial-road-prahran-vic-3181-16050172,Campbells Creek Primary School,708.62,70.6,3181,560.0
+867,49-highbury-grove-prahran-vic-3181-16056833,Sandringham Primary School,548.65,79.23,3181,1050.0
+868,502-27-macquarie-street-prahran-vic-3181-16042904,Cavendish Primary School,297.7,57.27,3181,440.0
+869,8-k3-union-street-windsor-vic-3181-16042862,Bacchus Marsh Primary School,747.34,105.68,3181,400.0
+870,207-120-high-street-windsor-vic-3181-16042309,Cavendish Primary School,48.77,7.8,3181,400.0
+871,3-30-the-avenue-windsor-vic-3181-16035963,Avoca Primary School,457.87,82.87,3181,595.0
+872,24-union-street-windsor-vic-3181-16055616,Bacchus Marsh Primary School,808.88,112.01,3181,800.0
+873,8b-highbury-grove-prahran-vic-3181-15809710,Sandringham Primary School,444.0,67.63,3181,760.0
+874,8-237-dandenong-road-windsor-vic-3181-16066062,St Andrews Primary School,554.97,69.03,3181,455.0
+875,12-30-james-street-windsor-vic-3181-16083970,Avoca Primary School,355.83,59.21,3181,270.0
+876,1-29-the-avenue-windsor-vic-3181-16063438,Avoca Primary School,493.64,85.73,3181,500.0
+877,1-david-lane-windsor-vic-3181-15900527,Colac Primary School,511.24,97.87,3181,1400.0
+878,8-21-irving-avenue-prahran-vic-3181-16051850,Gisborne Primary School,902.38,127.96,3181,400.0
+879,11-york-street-prahran-vic-3181-15901403,Newport Lakes Primary School,725.37,89.49,3181,690.0
+880,16-174-peel-street-windsor-vic-3181-16080532,California Gully Primary School,413.43,72.52,3181,385.0
+881,401-high-street-prahran-vic-3181-16088024,Elphinstone Primary School,814.51,105.37,3181,675.0
+882,502-283-high-street-prahran-vic-3181-16065163,Newport Lakes Primary School,611.23,65.64,3181,1200.0
+883,201-323-dandenong-road-prahran-vic-3181-16065119,Bellbrae Primary School,324.71,27.18,3181,525.0
+884,310-22-chatham-street-prahran-vic-3181-16079412,Cavendish Primary School,485.92,58.11,3181,450.0
+885,203-72-high-street-prahran-vic-3181-16064123,Newport Lakes Primary School,268.44,35.62,3181,360.0
+886,6-percy-place-prahran-vic-3181-16047983,Newport Lakes Primary School,313.13,60.03,3181,715.0
+887,104-139-york-street-prahran-vic-3181-16065475,Newport Lakes Primary School,1214.58,100.15,3181,410.0
+888,48-321-chapel-street-prahran-vic-3181-16064313,Cavendish Primary School,712.01,68.98,3181,450.0
+889,27-4-victoria-street-windsor-vic-3181-11761425,Avoca Primary School,778.51,135.46,3181,550.0
+890,817-132-commercial-road-prahran-vic-3181-16065154,Cavendish Primary School,765.98,75.74,3181,450.0
+891,1-8-princes-close-prahran-vic-3181-16065129,Cavendish Primary School,653.27,68.58,3181,620.0
+892,6-10-lalbert-crescent-prahran-vic-3181-16064800,Bellbrae Primary School,296.45,28.84,3181,1100.0
+893,2-anchor-place-prahran-vic-3181-16079263,Newport Lakes Primary School,695.71,112.14,3181,1100.0
+894,21-313-beaconsfield-parade-st-kilda-west-vic-3182-16056043,Warrandyte Primary School,1519.33,204.36,3182,450.0
+895,4-12-vale-street-st-kilda-vic-3182-16087511,Avoca Primary School,876.58,143.66,3182,375.0
+896,61-acland-street-st-kilda-vic-3182-16073629,Footscray Primary School,1238.62,206.7,3182,780.0
+897,1-27-eildon-road-st-kilda-vic-3182-16056185,Warrandyte Primary School,646.07,117.42,3182,625.0
+898,318-181-fitzroy-street-st-kilda-vic-3182-16056356,Warrandyte Primary School,355.79,64.02,3182,580.0
+899,4-29-marine-parade-st-kilda-vic-3182-16063644,Eaglehawk Primary School,971.29,188.16,3182,450.0
+900,206a-14-16-the-esplanade-st-kilda-vic-3182-16042840,Warrandyte Primary School,1242.77,187.56,3182,750.0
+901,205-16-18-grey-street-st-kilda-vic-3182-16089700,Warrandyte Primary School,356.83,69.81,3182,390.0
+902,2-257-barkly-street-st-kilda-vic-3182-16066559,Hallam Primary School,629.31,144.05,3182,280.0
+903,7-2-kipling-st-st-kilda-vic-3182-16087516,Hamilton (Gray Street) Primary School,485.06,46.49,3182,370.0
+904,206-126-chapel-street-st-kilda-vic-3182-16076046,Allansford and District Primary School,639.04,75.56,3182,450.0
+905,204-55-wellington-street-st-kilda-vic-3182-16089144,Avenel Primary School,864.62,124.41,3182,700.0
+906,10-98-barkly-street-st-kilda-vic-3182-16087425,Warrandyte Primary School,950.38,131.7,3182,795.0
+907,2-36-barkly-street-st-kilda-vic-3182-16088568,Avenel Primary School,690.13,111.69,3182,400.0
+908,212-363-beaconsfield-parade-st-kilda-west-vic-3182-16089242,Warrandyte Primary School,768.13,126.4,3182,320.0
+909,4-26-wellington-street-st-kilda-vic-3182-16072089,Avenel Primary School,722.79,109.82,3182,500.0
+910,205-44-barkly-street-st-kilda-vic-3182-15694325,Avenel Primary School,615.79,102.97,3182,260.0
+911,9-76-carlisle-street-st-kilda-vic-3182-16054050,Allansford and District Primary School,493.86,83.48,3182,650.0
+912,8-38-fitzroy-street-st-kilda-vic-3182-16016713,Warrandyte Primary School,435.86,73.33,3182,495.0
+913,27-352-canterbury-road-st-kilda-vic-3182-16050504,Warrandyte Primary School,335.71,55.32,3182,500.0
+914,312-196-st-kilda-road-st-kilda-vic-3182-16075446,Hawthorn West Primary School,969.32,111.35,3182,450.0
+915,10-193-fitzroy-street-st-kilda-vic-3182-16087017,Warrandyte Primary School,639.62,105.94,3182,470.0
+916,24-3-herbert-street-st-kilda-vic-3182-16075447,Gisborne Primary School,370.05,88.81,3182,350.0
+917,802-181-fitzroy-st-st-kilda-vic-3182-15915050,Warrandyte Primary School,355.79,64.02,3182,1975.0
+918,107-182-barkly-street-st-kilda-vic-3182-16086941,Wandiligong Primary School,664.18,129.91,3182,420.0
+919,204-171-173-inkerman-street-st-kilda-vic-3182-16015508,Hawthorn West Primary School,733.71,56.4,3182,370.0
+920,12-7-alfred-square-st-kilda-vic-3182-16086740,Warrandyte Primary School,1293.78,198.32,3182,350.0
+921,206-126-carlisle-street-st-kilda-vic-3182-16041005,Allansford and District Primary School,344.64,46.89,3182,495.0
+922,2-52-alma-road-st-kilda-vic-3182-16077137,Hawthorn West Primary School,483.05,34.78,3182,330.0
+923,2705-14-16-the-esplanade-st-kilda-vic-3182-16072154,Warrandyte Primary School,1242.77,187.56,3182,1300.0
+924,13-9-fitzroy-street-st-kilda-vic-3182-16057589,Warrandyte Primary School,1146.5,182.35,3182,430.0
+925,25-10-tennyson-street-st-kilda-vic-3182-16088206,Sandringham Primary School,524.9,125.97,3182,640.0
+926,12-45-marine-parade-st-kilda-vic-3182-16059741,Eltham Primary School,756.75,179.86,3182,790.0
+927,3-79-barkly-street-st-kilda-vic-3182-16063362,Warrandyte Primary School,855.04,125.57,3182,400.0
+928,4c-21-the-esplanade-st-kilda-vic-3182-16088109,Warrandyte Primary School,1349.71,191.74,3182,450.0
+929,4-9-marlton-crescent-st-kilda-vic-3182-16065793,Hamilton (Gray Street) Primary School,893.77,131.62,3182,390.0
+930,5-2-kipling-street-st-kilda-vic-3182-16082197,Hamilton (Gray Street) Primary School,485.06,46.49,3182,325.0
+931,803-6-st-kilda-road-st-kilda-vic-3182-16088439,Avenel Primary School,620.06,97.23,3182,410.0
+932,4-73-alma-road-st-kilda-vic-3182-16068784,Hawthorn West Primary School,276.33,19.9,3182,425.0
+933,14-21-marine-parade-st-kilda-vic-3182-16082302,Elphinstone Primary School,1039.5,188.89,3182,1300.0
+934,8-16-chapel-street-st-kilda-vic-3182-16068250,Highton Primary School,359.03,31.57,3182,395.0
+935,1-38-alma-rd-st-kilda-vic-3182-16080210,Hawthorn West Primary School,595.36,42.86,3182,450.0
+936,5-9-marlton-crescent-st-kilda-vic-3182-16078497,Hamilton (Gray Street) Primary School,893.77,131.62,3182,520.0
+937,4-260-st-kilda-road-st-kilda-vic-3182-16051315,Hawthorn West Primary School,955.23,107.96,3182,450.0
+938,1-64-fitzroy-street-st-kilda-west-vic-3182-16090436,Warrandyte Primary School,204.44,43.16,3182,650.0
+939,30-233-235-canterbury-road-st-kilda-west-vic-3182-16078085,Warrandyte Primary School,416.21,66.24,3182,310.0
+940,7-50-carlisle-street-st-kilda-vic-3182-15751006,Allansford and District Primary School,717.16,105.4,3182,300.0
+941,17-charles-street-st-kilda-vic-3182-14025729,Avenel Primary School,1233.68,183.23,3182,650.0
+942,2c-21-the-esplanade-st-kilda-vic-3182-16078204,Warrandyte Primary School,1349.71,191.74,3182,395.0
+943,10-86-park-street-st-kilda-west-vic-3182-16068440,Warrandyte Primary School,1122.74,160.5,3182,350.0
+944,11-43-spenser-street-st-kilda-vic-3182-16067006,Eaglehawk Primary School,927.2,195.95,3182,250.0
+945,12-7-raglan-street-st-kilda-east-vic-3183-15298094,Highton Primary School,503.67,42.42,3183,290.0
+946,4-nightingale-street-balaclava-vic-3183-16078992,Allansford and District Primary School,801.38,89.56,3183,1050.0
+947,9-65-westbury-street-st-kilda-east-vic-3183-16088571,Campbells Creek Primary School,450.49,39.09,3183,495.0
+948,7-1a-hughenden-road-st-kilda-east-vic-3183-16084967,Huntly Primary School,690.47,77.17,3183,340.0
+949,6-leslie-street-st-kilda-east-vic-3183-16079147,Sandringham Primary School,607.48,76.41,3183,850.0
+950,3-16-malakoff-street-st-kilda-east-vic-3183-16090509,Sandringham Primary School,645.1,77.86,3183,330.0
+951,7-13-hughenden-road-st-kilda-east-vic-3183-16055120,Bellbrae Primary School,512.78,55.98,3183,460.0
+952,6-23-lansdowne-rd-st-kilda-east-vic-3183-16077748,Highton Primary School,988.74,98.87,3183,350.0
+953,2-47-gourlay-street-st-kilda-east-vic-3183-15663952,Flemington Primary School,696.36,79.26,3183,345.0
+954,207-171-173-inkerman-street-st-kilda-east-vic-3183-16090952,Hawthorn West Primary School,733.71,56.4,3183,350.0
+955,4-360-carlisle-street-balaclava-vic-3183-16082332,Gisborne Primary School,448.9,63.67,3183,650.0
+956,1-28-wilgah-street-st-kilda-east-vic-3183-16083469,Heidelberg Primary School,770.57,74.6,3183,495.0
+957,52a-alexandra-street-st-kilda-east-vic-3183-16086233,Grovedale Primary School,663.07,59.31,3183,1150.0
+958,3-206-alma-rd-st-kilda-east-vic-3183-16078582,Huntly Primary School,812.57,81.7,3183,250.0
+959,31-55-hotham-street-st-kilda-east-vic-3183-16083388,Sandringham Primary School,408.65,54.54,3183,550.0
+960,5-1a-lansdowne-road-st-kilda-east-vic-3183-16086953,Highton Primary School,899.16,106.26,3183,650.0
+961,2-kurrajong-avenue-st-kilda-east-vic-3183-16084549,Hamilton (Gray Street) Primary School,839.21,86.64,3183,720.0
+962,8-7-cardigan-street-st-kilda-east-vic-3183-16090197,Sandringham Primary School,409.17,62.72,3183,330.0
+963,5-1a-lansdowne-street-st-kilda-east-vic-3183-16086953,Highton Primary School,899.16,106.26,3183,650.0
+964,7-alexandra-street-st-kilda-east-vic-3183-16067396,Wandiligong Primary School,232.7,24.88,3183,850.0
+965,26-55-alexandra-st-st-kilda-east-vic-3183-16067159,Grovedale Primary School,730.79,64.72,3183,330.0
+966,4-25-cardigan-street-st-kilda-east-vic-3183-16064463,Wandiligong Primary School,571.3,74.85,3183,450.0
+967,1-106-alexandra-street-st-st-kilda-east-vic-3183-16068309,Heathcote Primary School,1033.57,104.26,3183,335.0
+968,3-45-westbury-st-st-kilda-east-vic-3183-16071948,Campbells Creek Primary School,240.79,21.67,3183,320.0
+969,3-20-hughenden-road-st-kilda-east-vic-3183-16048551,Huntly Primary School,568.06,62.61,3183,600.0
+970,g10-43-45-the-avenue-balaclava-vic-3183-16065263,Flemington Primary School,540.35,62.44,3183,570.0
+971,3-2-celeste-ct-st-kilda-east-vic-3183-16071218,Huntly Primary School,740.18,86.31,3183,395.0
+972,3-31-chapel-street-st-kilda-east-vic-3183-16087349,Hamilton (Gray Street) Primary School,77.25,7.62,3183,275.0
+973,10-wenden-grove-st-kilda-east-vic-3183-16068114,Highton Primary School,1095.4,127.4,3183,900.0
+974,201-356-carlisle-street-balaclava-vic-3183-16065312,Gisborne Primary School,459.69,65.61,3183,375.0
+975,5-58-alexandra-st-st-kilda-east-vic-3183-16073874,Grovedale Primary School,703.08,62.51,3183,560.0
+976,7-23-bendigo-avenue-elwood-vic-3184-16085426,Castlemaine Primary School,643.16,98.49,3184,240.0
+977,9-106-addison-street-elwood-vic-3184-16063225,Castlemaine Primary School,394.73,56.46,3184,530.0
+978,1-12-avoca-ave-elwood-vic-3184-16090201,Footscray Primary School,446.23,107.09,3184,430.0
+979,3-5-greig-court-elwood-vic-3184-16065526,Ballarat Primary School (Dana Street),583.91,140.13,3184,410.0
+980,7-10-austin-avenue-elwood-vic-3184-16088641,Bacchus Marsh Primary School,497.54,105.2,3184,480.0
+981,6-30-docker-street-elwood-vic-3184-16080165,Castlemaine Primary School,1017.73,130.21,3184,470.0
+982,5-141-glenhuntly-road-elwood-vic-3184-16090615,Berwick Primary School,536.44,43.21,3184,350.0
+983,1-3-goldsmith-st-elwood-vic-3184-16072668,Flemington Primary School,593.9,142.53,3184,425.0
+984,18-kingsley-st-elwood-vic-3184-16064797,Avoca Primary School,1130.34,171.33,3184,630.0
+985,8-12-may-street-elwood-vic-3184-16064495,Wodonga Primary School,677.49,106.07,3184,320.0
+986,3-2a-vautier-street-elwood-vic-3184-16079224,Campbells Creek Primary School,699.83,98.16,3184,1000.0
+987,206-96-ormond-road-elwood-vic-3184-16061435,Campbells Creek Primary School,688.02,91.96,3184,425.0
+988,6-20-pine-avenue-elwood-vic-3184-16090586,Castlemaine Primary School,978.24,134.38,3184,380.0
+989,3-38-mitford-street-elwood-vic-3184-16053235,Flemington Primary School,297.36,71.36,3184,340.0
+990,14-193-brighton-road-elwood-vic-3184-16088112,Wodonga Primary School,927.02,151.12,3184,350.0
+991,4-111-ruskin-street-elwood-vic-3184-16052249,Castlemaine Primary School,401.89,81.65,3184,670.0
+992,205-95-ormond-road-elwood-vic-3184-16085196,Campbells Creek Primary School,672.13,90.33,3184,410.0
+993,27-16-20-milton-street-elwood-vic-3184-15503430,Footscray Primary School,826.47,198.35,3184,675.0
+994,6-18-joyce-street-elwood-vic-3184-16075499,Avoca Primary School,930.97,147.52,3184,850.0
+995,2-24-tennyson-street-elwood-vic-3184-16076374,Footscray Primary School,388.47,93.23,3184,420.0
+996,3-97-spray-street-elwood-vic-3184-16075450,Wodonga Primary School,124.53,27.06,3184,450.0
+997,4-5-southey-court-elwood-vic-3184-16083693,Footscray Primary School,708.79,170.1,3184,575.0
+998,4-84-ormond-road-elwood-vic-3184-16070658,Campbells Creek Primary School,640.89,89.23,3184,565.0
+999,3-27-ruskin-street-elwood-vic-3184-16084771,Hallam Primary School,438.3,105.18,3184,550.0
+1000,4-2-selwyn-avenue-elwood-vic-3184-16063201,Castlemaine Primary School,518.42,67.91,3184,265.0
+1001,2-117-tennyson-street-elwood-vic-3184-16083454,Ballarat Primary School (Dana Street),512.54,120.84,3184,560.0
+1002,1-66-riddell-parade-elsternwick-vic-3185-16073001,Doncaster Primary School,1017.79,158.44,3185,575.0
+1003,3-24-elster-avenue-elsternwick-vic-3185-16078453,Gisborne Primary School,568.96,101.69,3185,450.0
+1004,7a-los-angeles-court-ripponlea-vic-3185-16079275,Wodonga Primary School,1332.45,206.64,3185,680.0
+1005,613b-455-glen-huntly-road-elsternwick-vic-3185-16072040,Flemington Primary School,291.83,59.69,3185,470.0
+1006,103-5-7-nepean-highway-elsternwick-vic-3185-16079664,Elphinstone Primary School,614.09,113.15,3185,500.0
+1007,3-4-orrong-road-elsternwick-vic-3185-16063179,Eltham Primary School,1117.35,141.13,3185,410.0
+1008,3-50-magnolia-road-gardenvale-vic-3185-16088805,Wandiligong Primary School,1024.32,134.86,3185,355.0
+1009,806-18-mccombie-st-elsternwick-vic-3185-16073253,Elphinstone Primary School,547.93,94.2,3185,520.0
+1010,16-1-3-carre-street-elsternwick-vic-3185-16087759,Hallam Primary School,573.27,67.33,3185,440.0
+1011,5-39-nepean-highway-elsternwick-vic-3185-16076084,Hallam Primary School,809.47,148.31,3185,430.0
+1012,304-17-gordon-street-elsternwick-vic-3185-16071640,Elphinstone Primary School,294.41,63.67,3185,400.0
+1013,6-65-clarence-street-elsternwick-vic-3185-16039179,Grovedale Primary School,1139.63,122.86,3185,425.0
+1014,2-48-magnolia-road-gardenvale-vic-3185-16051707,Wandiligong Primary School,1000.41,131.99,3185,320.0
+1015,2-9-bertram-street-elsternwick-vic-3185-13756533,Gisborne Primary School,1200.37,175.65,3185,630.0
+1016,6-89-seymour-road-elsternwick-vic-3185-16054067,Flemington Primary School,817.99,67.94,3185,425.0
+1017,4-34-horne-street-elsternwick-vic-3185-16071700,Elphinstone Primary School,631.74,105.65,3185,395.0
+1018,53-elster-avenue-gardenvale-vic-3185-16078745,Hallam Primary School,386.62,64.72,3185,950.0
+1019,222-138-glen-eira-road-elsternwick-vic-3185-16077536,Colac Primary School,576.31,45.52,3185,550.0
+1020,1-453-kooyong-rd-elsternwick-vic-3185-16063736,Hawthorn West Primary School,1194.74,120.06,3185,550.0
+1021,153-south-road-brighton-vic-3186-16066514,Newport Lakes Primary School,1133.93,122.47,3186,850.0
+1022,303-79-81-asling-street-brighton-vic-3186-16089433,Cavendish Primary School,533.48,87.63,3186,400.0
+1023,3-22b-south-road-brighton-vic-3186-16065921,Avoca Primary School,969.7,123.55,3186,975.0
+1024,210-79-81-asling-street-brighton-vic-3186-16060948,Cavendish Primary School,533.48,87.63,3186,525.0
+1025,5-airlie-street-brighton-vic-3186-16066747,Avoca Primary School,833.45,159.06,3186,1200.0
+1026,4-16-manor-street-brighton-vic-3186-16059609,Beaufort Primary School,681.32,110.34,3186,620.0
+1027,7-21-dawson-avenue-brighton-vic-3186-16082004,Avenel Primary School,1026.61,141.39,3186,650.0
+1028,2-361-st-kilda-st-brighton-vic-3186-16056674,Berwick Primary School,1071.71,123.0,3186,1100.0
+1029,1-04-26-warleigh-grove-brighton-vic-3186-15879283,Colac Primary School,905.36,163.07,3186,450.0
+1030,55-durrant-street-brighton-vic-3186-16058681,Alberton Primary School,1047.39,114.78,3186,1200.0
+1031,210-26-warleigh-grove-brighton-vic-3186-15226300,Colac Primary School,905.36,163.07,3186,595.0
+1032,14-durrant-street-brighton-vic-3186-16051810,Newport Lakes Primary School,676.95,102.56,3186,1295.0
+1033,101-439-bay-street-brighton-vic-3186-16068532,Castlemaine Primary School,1062.74,153.38,3186,540.0
+1034,1-128-male-street-brighton-vic-3186-16078323,Colac Primary School,1120.03,177.69,3186,525.0
+1035,305-439-bay-street-brighton-vic-3186-16086850,Castlemaine Primary School,1062.74,153.38,3186,430.0
+1036,21-elm-grove-brighton-vic-3186-16065852,Newport Lakes Primary School,694.49,125.02,3186,700.0
+1037,203-7-9-cowra-street-brighton-vic-3186-16086801,Belmont Primary School,1159.07,186.8,3186,600.0
+1038,6-laburnum-court-brighton-vic-3186-16085520,Alberton Primary School,784.56,149.59,3186,550.0
+1039,104-184-186-bay-street-brighton-vic-3186-16086213,Newport Lakes Primary School,291.69,63.63,3186,510.0
+1040,1b-milroy-street-brighton-east-vic-3187-16087492,Bacchus Marsh Primary School,449.45,74.85,3187,1600.0
+1041,5-lucas-street-brighton-east-vic-3187-16037643,Colac Primary School,946.64,105.8,3187,1049.0
+1042,23a-thomas-street-brighton-east-vic-3187-16071256,Eltham Primary School,627.77,100.85,3187,450.0
+1043,33-landcox-street-brighton-east-vic-3187-15885544,Belmont Primary School,60.16,14.44,3187,1150.0
+1044,2a-granter-street-brighton-east-vic-3187-16064222,Echuca Primary School,932.99,126.97,3187,525.0
+1045,2-22-carr-street-brighton-east-vic-3187-16083096,Footscray Primary School,1464.23,178.27,3187,1250.0
+1046,26-agnew-st-brighton-east-vic-3187-16077710,Alberton Primary School,1329.9,161.95,3187,675.0
+1047,5-661-663-nepean-highway-brighton-east-vic-3187-16073805,Echuca Primary School,235.84,57.53,3187,470.0
+1048,54-marriage-road-brighton-east-vic-3187-16066345,Cudgee Primary School,520.21,42.78,3187,820.0
+1049,39-comer-street-brighton-east-vic-3187-16078421,Cheltenham Primary School,1301.12,139.39,3187,1100.0
+1050,647-hawthorn-road-brighton-east-vic-3187-15563252,Bacchus Marsh Primary School,533.71,93.86,3187,990.0
+1051,78-marriage-rd-brighton-east-vic-3187-16065745,Newport Lakes Primary School,162.13,12.97,3187,1000.0
+1052,7b-carr-street-brighton-east-vic-3187-16037629,Footscray Primary School,1357.14,152.57,3187,1190.0
+1053,10a-cummins-rd-brighton-east-vic-3187-16087161,Elphinstone Primary School,919.9,105.78,3187,1400.0
+1054,g05-18-railway-crescent-hampton-vic-3188-16080133,Avenel Primary School,851.04,104.73,3188,750.0
+1055,11b-olive-st-hampton-vic-3188-16066090,Elphinstone Primary School,972.82,80.38,3188,1500.0
+1056,3-83-fewster-road-hampton-vic-3188-16055794,Dromana Primary School,194.05,35.3,3188,635.0
+1057,11-290-south-road-hampton-east-vic-3188-16069282,Hallam Primary School,1020.41,115.91,3188,400.0
+1058,2-36-crisp-st-hampton-vic-3188-16083355,Warrandyte Primary School,1096.27,176.88,3188,625.0
+1059,23-hamer-street-moorabbin-vic-3189-16080433,Avoca Primary School,746.0,161.44,3189,725.0
+1060,34-donald-st-highett-vic-3190-16081654,Avoca Primary School,895.0,152.34,3190,650.0
+1061,209-20-station-street-highett-vic-3190-16064556,Eltham Primary School,1318.13,169.79,3190,530.0
+1062,g04-12-major-street-highett-vic-3190-15263650,Avoca Primary School,951.6,159.13,3190,480.0
+1063,31a-tweed-st-highett-vic-3190-16061681,Doncaster Primary School,416.14,61.31,3190,740.0
+1064,1-6-turner-road-highett-vic-3190-16083938,Creswick Primary School,1766.89,218.61,3190,715.0
+1065,28-wilson-street-highett-vic-3190-16084920,Allansford and District Primary School,781.31,163.71,3190,750.0
+1066,2-15-karen-street-highett-vic-3190-16078074,Cavendish Primary School,1360.98,262.45,3190,390.0
+1067,105-20-station-street-highett-vic-3190-16063906,Eltham Primary School,1318.13,169.79,3190,500.0
+1068,3-21-tibrockney-street-highett-vic-3190-16053078,Warrnambool West Primary School,1000.03,129.06,3190,350.0
+1069,314-284-highett-rd-highett-vic-3190-16083284,Avoca Primary School,873.17,151.07,3190,430.0
+1070,10-39-41-abbott-street-sandringham-vic-3191-16070656,Beaufort Primary School,427.9,66.86,3191,450.0
+1071,2-91-beach-road-sandringham-vic-3191-16053597,Wodonga Primary School,1083.79,123.77,3191,475.0
+1072,5-186-bay-rd-sandringham-vic-3191-16090981,Warrandyte Primary School,654.97,79.28,3191,550.0
+1073,6-36-edward-street-sandringham-vic-3191-16075086,Belmont Primary School,1169.14,126.96,3191,410.0
+1074,5-masefield-avenue-sandringham-vic-3191-16090053,Beaufort Primary School,1060.81,124.13,3191,750.0
+1075,8-19-21-abbott-street-sandringham-vic-3191-16072299,Berwick Primary School,672.1,86.39,3191,420.0
+1076,62-sims-street-sandringham-vic-3191-16063950,Beaufort Primary School,762.9,94.52,3191,790.0
+1077,1-307-309-bay-road-cheltenham-vic-3192-16070516,Allansford and District Primary School,1522.4,165.98,3192,550.0
+1078,2-23-jean-street-cheltenham-vic-3192-16070584,Alberton Primary School,1565.4,282.36,3192,550.0
+1079,3b-wedd-street-cheltenham-vic-3192-16085952,Doncaster Primary School,1098.28,209.14,3192,670.0
+1080,4-31-bayview-crescent-black-rock-vic-3193-16051099,Avoca Primary School,589.49,110.61,3193,680.0
+1081,286a-balcombe-rd-beaumaris-vic-3193-16079394,Cudgee Primary School,246.88,17.47,3193,720.0
+1082,25-spicer-street-beaumaris-vic-3193-16057734,Cheltenham Primary School,700.92,61.63,3193,1050.0
+1083,112a-bluff-road-black-rock-vic-3193-16082856,Avoca Primary School,398.06,91.6,3193,1150.0
+1084,41b-arkaringa-crescent-black-rock-vic-3193-16052986,Avoca Primary School,306.98,73.67,3193,1150.0
+1085,11-13-tibbles-street-beaumaris-vic-3193-16054347,Belmont Primary School,483.91,48.96,3193,895.0
+1086,5-310-beach-road-black-rock-vic-3193-16061407,Wodonga Primary School,844.88,94.98,3193,480.0
+1087,12-30-swanston-street-mentone-vic-3194-16067279,Avoca Primary School,807.41,95.68,3194,320.0
+1088,g01-97-beach-road-mentone-vic-3194-16082520,Creswick Primary School,444.95,58.49,3194,750.0
+1089,6-12-phillip-street-mentone-vic-3194-13444145,Avoca Primary School,1393.73,230.64,3194,580.0
+1090,508-7-balcombe-rd-mentone-vic-3194-16062820,Avoca Primary School,331.51,70.26,3194,350.0
+1091,3-25-barkly-street-mordialloc-vic-3195-16079387,Alberton Primary School,558.89,84.06,3195,700.0
+1092,32-fourth-street-parkdale-vic-3195-16088448,Cavendish Primary School,963.11,87.51,3195,850.0
+1093,6-stayner-street-chelsea-vic-3196-16074195,Ballarat Primary School (Dana Street),1761.22,201.36,3196,460.0
+1094,5-8-10-turakina-avenue-edithvale-vic-3196-16078476,Allansford and District Primary School,651.93,100.54,3196,350.0
+1095,707-435-nepean-highway-frankston-vic-3199-16085906,Alberton Primary School,928.44,165.68,3199,350.0
+1096,3-23-cavendish-drive-heatherton-vic-3202-16087838,Cheltenham Primary School,1638.21,226.06,3202,310.0
+1097,8-23-27-cavendish-drive-heatherton-vic-3202-16087837,Cheltenham Primary School,1638.21,226.06,3202,310.0
+1098,1-13-ulupna-road-ormond-vic-3204-16086855,Beaufort Primary School,160.4,31.14,3204,475.0
+1099,8-66-bent-street-mckinnon-vic-3204-16076976,Campbells Creek Primary School,909.65,83.09,3204,495.0
+1100,14a-geel-street-bentleigh-vic-3204-16076602,Eaglehawk Primary School,570.81,58.73,3204,1450.0
+1101,302-270-centre-road-bentleigh-vic-3204-16041922,Ballarat Primary School (Dana Street),775.11,77.11,3204,480.0
+1102,11-plym-street-bentleigh-vic-3204-16063582,Cavendish Primary School,506.3,109.2,3204,550.0
+1103,234-tucker-road-mckinnon-vic-3204-16070139,California Gully Primary School,412.71,35.57,3204,625.0
+1104,9-491-south-road-bentleigh-vic-3204-16081842,Cavendish Primary School,568.87,110.47,3204,515.0
+1105,13-40-lillimur-road-ormond-vic-3204-16064832,Doncaster Primary School,240.87,27.54,3204,280.0
+1106,6-6-prince-edward-ave-mckinnon-vic-3204-16080738,Creswick Primary School,837.53,71.66,3204,800.0
+1107,284a-tucker-rd-ormond-vic-3204-16070662,Ballarat Primary School (Dana Street),59.8,4.78,3204,790.0
+1108,107-15-hamilton-street-bentleigh-vic-3204-15281179,Eltham Primary School,1231.17,138.53,3204,540.0
+1109,1b-castles-road-bentleigh-vic-3204-16064447,Eaglehawk Primary School,674.84,58.06,3204,740.0
+1110,4-13-lillimur-road-ormond-vic-3204-16060820,Berwick Primary School,33.41,4.01,3204,525.0
+1111,2a-anderson-street-bentleigh-vic-3204-16083500,Eaglehawk Primary School,442.22,54.52,3204,650.0
+1112,2-116-jasper-road-bentleigh-vic-3204-16084051,Echuca Primary School,71.42,5.14,3204,450.0
+1113,1009-338-kings-way-south-melbourne-vic-3205-16078854,Heathcote Primary School,571.36,113.52,3205,500.0
+1114,14-henderson-street-south-melbourne-vic-3205-16065791,Warrandyte Primary School,773.59,172.55,3205,1300.0
+1115,215-253-normanby-road-south-melbourne-vic-3205-16034152,Avoca Primary School,432.17,43.12,3205,735.0
+1116,354b-clarendon-street-south-melbourne-vic-3205-16065911,St Andrews Primary School,724.59,103.6,3205,640.0
+1117,705-89-gladstone-street-south-melbourne-vic-3205-16058273,Avenel Primary School,127.59,20.4,3205,550.0
+1118,301-99-palmerston-crescent-south-melbourne-vic-3205-16087718,Sandringham Primary School,225.15,46.95,3205,750.0
+1119,2-230-ferrars-street-south-melbourne-vic-3205-16076498,Campbells Creek Primary School,460.14,58.42,3205,950.0
+1120,1805-50-albert-road-south-melbourne-vic-3205-12112230,Colac Primary School,659.74,128.69,3205,610.0
+1121,78-palmerston-crescent-south-melbourne-vic-3205-16081321,Heidelberg Primary School,394.75,77.47,3205,820.0
+1122,2-187-bank-street-south-melbourne-vic-3205-16065978,Flemington Primary School,888.98,100.79,3205,520.0
+1123,6-emerald-street-south-melbourne-vic-3205-16077214,Campbells Creek Primary School,430.65,66.87,3205,1100.0
+1124,1703-89-103-gladstone-street-south-melbourne-vic-3205-16082171,Avenel Primary School,129.06,20.61,3205,460.0
+1125,203-333-ferrars-street-south-melbourne-vic-3205-16079686,Campbells Creek Primary School,538.87,61.2,3205,650.0
+1126,13-martin-street-south-melbourne-vic-3205-16068578,Creswick Primary School,499.29,89.08,3205,1100.0
+1127,1-333-coventry-street-south-melbourne-vic-3205-16081898,Wodonga Primary School,571.85,96.46,3205,550.0
+1128,9-123-beaconsfield-parade-albert-park-vic-3206-16072484,Avenel Primary School,794.06,88.63,3206,810.0
+1129,53-hambleton-street-albert-park-vic-3206-16066946,Warrandyte Primary School,227.33,28.53,3206,1450.0
+1130,43-philipson-street-albert-park-vic-3206-16067830,Avenel Primary School,806.89,110.23,3206,680.0
+1131,11-90-hambleton-street-middle-park-vic-3206-16068766,Belmont Primary School,395.53,74.16,3206,365.0
+1132,74-barrett-street-albert-park-vic-3206-16052698,Alberton Primary School,476.73,48.8,3206,1250.0
+1133,22-109-nimmo-street-middle-park-vic-3206-16052918,Belmont Primary School,1049.47,108.06,3206,475.0
+1134,1-262-beaconsfield-parade-middle-park-vic-3206-16077829,Belmont Primary School,1350.08,122.49,3206,500.0
+1135,68-merton-street-albert-park-vic-3206-16087154,Alberton Primary School,356.6,49.19,3206,950.0
+1136,175-richardson-street-middle-park-vic-3206-16061617,Belmont Primary School,354.96,59.26,3206,890.0
+1137,8-49-patterson-street-middle-park-vic-3206-16079493,Warrandyte Primary School,1587.22,213.85,3206,490.0
+1138,167-richardson-street-middle-park-vic-3206-16073349,Belmont Primary School,298.03,50.76,3206,1700.0
+1139,16-dundas-place-albert-park-vic-3206-16086265,Allansford and District Primary School,495.69,76.39,3206,1550.0
+1140,188b-kerferd-road-albert-park-vic-3206-16067878,Beaufort Primary School,811.41,133.17,3206,650.0
+1141,54-o-grady-street-albert-park-vic-3206-16059651,Alberton Primary School,235.05,29.49,3206,1350.0
+1142,107-lyons-street-port-melbourne-vic-3207-16069564,Warrandyte Primary School,373.15,76.45,3207,725.0
+1143,118-clark-street-port-melbourne-vic-3207-14198116,Avenel Primary School,874.27,170.81,3207,800.0
+1144,30-8-graham-street-port-melbourne-vic-3207-16070356,Beaufort Primary School,478.93,68.96,3207,530.0
+1145,207-107-beach-street-port-melbourne-vic-3207-16055713,Avenel Primary School,853.3,160.04,3207,820.0
+1146,31-garton-street-port-melbourne-vic-3207-16069433,Belmont Primary School,877.15,128.5,3207,675.0
+1147,311-ross-street-port-melbourne-vic-3207-16070950,Warrandyte Primary School,768.29,121.29,3207,950.0
+1148,207-esplanade-west-port-melbourne-vic-3207-16071401,Warrandyte Primary School,419.26,87.51,3207,1450.0
+1149,903-93-dow-street-port-melbourne-vic-3207-16090117,Warrandyte Primary School,828.49,134.34,3207,700.0
+1150,114-clark-street-port-melbourne-vic-3207-16069584,Avenel Primary School,872.46,170.37,3207,890.0
+1151,214-54-nott-street-port-melbourne-vic-3207-16083798,Avenel Primary School,873.54,96.58,3207,440.0
+1152,329-howe-parade-port-melbourne-vic-3207-16050374,Avenel Primary School,1212.62,195.6,3207,645.0
+1153,17-3-seisman-place-port-melbourne-vic-3207-16070746,Beaufort Primary School,548.37,85.88,3207,625.0
+1154,6d-9-beach-street-port-melbourne-vic-3207-16072776,Wodonga Primary School,821.74,107.15,3207,650.0
+1155,402-49-beach-street-port-melbourne-vic-3207-16077546,Warrandyte Primary School,1088.71,195.62,3207,940.0
+1156,110-clark-street-port-melbourne-vic-3207-16090219,Avenel Primary School,870.75,169.96,3207,650.0
+1157,85-dunstan-parade-port-melbourne-vic-3207-16080357,Avoca Primary School,1361.75,211.43,3207,650.0
+1158,401-52-nott-street-port-melbourne-vic-3207-16090119,Avenel Primary School,875.34,99.42,3207,570.0
+1159,505-25-nott-street-port-melbourne-vic-3207-16059890,Warrandyte Primary School,1028.83,178.28,3207,395.0
+1160,409-108-bay-street-port-melbourne-vic-3207-16085177,Warrandyte Primary School,745.05,125.17,3207,550.0
+1161,17-201-graham-street-port-melbourne-vic-3207-16052558,Avenel Primary School,679.99,59.3,3207,850.0
+1162,701-57-bay-street-port-melbourne-vic-3207-16079490,Warrandyte Primary School,740.69,118.35,3207,750.0
+1163,73-the-crescent-port-melbourne-vic-3207-16061763,Warrandyte Primary School,1035.96,185.93,3207,1000.0
+1164,3-55-johnston-street-port-melbourne-vic-3207-16090322,Berwick Primary School,396.01,57.02,3207,570.0
+1165,16-byrne-street-port-melbourne-vic-3207-16054203,Avenel Primary School,417.46,91.83,3207,650.0
+1166,112-1-danks-street-port-melbourne-vic-3207-16078056,Berwick Primary School,406.74,58.57,3207,525.0
+1167,11-201-graham-street-port-melbourne-vic-3207-16053109,Avenel Primary School,679.99,59.3,3207,650.0
+1168,504-1-danks-street-west-port-melbourne-vic-3207-16089226,Berwick Primary School,406.74,58.57,3207,650.0
+1169,3-flinders-avenue-lara-vic-3212-16055309,Alberton Primary School,1067.76,147.9,3212,450.0
+1170,83-waitara-grove-norlane-vic-3214-16074961,Bacchus Marsh Primary School,1334.13,320.18,3214,495.0
+1171,3-30-logan-street-hamlyn-heights-vic-3215-16054463,Belmont Primary School,509.59,57.69,3215,470.0
+1172,35-walpole-avenue-belmont-vic-3216-16086198,Ballarat Primary School (Dana Street),926.9,222.45,3216,390.0
+1173,16-homewood-lane-highton-vic-3216-16059490,Colac Primary School,1049.05,84.77,3216,499.0
+1174,75-pethajohn-parade-grovedale-vic-3216-16071375,Ballarat Primary School (Dana Street),1559.01,183.1,3216,600.0
+1175,24-whites-rd-mount-duneed-vic-3217-16087894,Belmont Primary School,689.33,70.04,3217,500.0
+1176,22-whites-rd-mount-duneed-vic-3217-16070194,Belmont Primary School,608.7,57.44,3217,500.0
+1177,30-edenhope-circuit-armstrong-creek-vic-3217-16073183,Cheltenham Primary School,1265.28,192.71,3217,530.0
+1178,11-maskell-court-fyansford-vic-3218-16075159,Colac Primary School,2653.4,264.12,3218,480.0
+1179,36-mcdougall-street-geelong-west-vic-3218-16074920,Alberton Primary School,731.3,110.66,3218,460.0
+1180,3-47-wellington-street-geelong-west-vic-3218-16082980,Alberton Primary School,254.78,49.39,3218,340.0
+1181,1-3-colville-court-herne-hill-vic-3218-16065828,Avenel Primary School,991.25,163.77,3218,380.0
+1182,5-111-bellarine-hwy-newcomb-vic-3219-16075640,Warrandyte Primary School,1306.86,107.79,3219,375.0
+1183,75-noble-street-newtown-vic-3220-16088286,Warrandyte Primary School,204.72,22.82,3220,470.0
+1184,47-clarke-street-newtown-vic-3220-16069677,Avenel Primary School,439.46,73.58,3220,520.0
+1185,2-2-melville-avenue-newtown-vic-3220-16052733,Campbells Creek Primary School,590.79,78.09,3220,570.0
+1186,6-headland-drive-leopold-vic-3224-16060771,Alberton Primary School,3195.11,268.3,3224,480.0
+1187,11-taro-walk-rockbank-vic-3335-14953968,Alberton Primary School,370.12,62.74,3335,360.0
+1188,18-mclean-street-thornhill-park-vic-3335-15604969,Alberton Primary School,8595.36,718.91,3335,400.0
+1189,19-amreli-st-deanside-vic-3336-15176030,Alberton Primary School,5325.84,443.13,3336,440.0
+1190,76-manooka-road-brookfield-vic-3338-16056949,Wodonga Primary School,2218.27,218.74,3338,400.0
+1191,30-goulburn-way-eynesbury-vic-3338-16083577,Alberton Primary School,1200.44,172.85,3338,450.0
+1192,1a-clarendon-avenue-wodonga-vic-3690-16079795,Berwick Primary School,2408.13,303.62,3690,585.0
+1193,6-batt-avenue-wodonga-vic-3690-16077045,Bacchus Marsh Primary School,453.68,62.39,3690,350.0
+1194,11-lowerson-way-wodonga-vic-3690-16088390,Avoca Primary School,874.64,148.81,3690,520.0
+1195,1-6-rattray-avenue-wodonga-vic-3690-16083917,Belmont Primary School,1035.93,170.21,3690,250.0
+1196,16-teal-court-wodonga-vic-3690-16084825,Avoca Primary School,913.46,166.82,3690,480.0
+1197,2-4-anne-street-wodonga-vic-3690-16082183,Alberton Primary School,572.03,74.08,3690,240.0
+1198,4-4-6-wilson-street-wodonga-vic-3690-16084871,Belmont Primary School,517.53,81.7,3690,350.0
+1199,40-daintree-way-wodonga-vic-3690-16084804,Warrandyte Primary School,667.68,83.34,3690,450.0
+1200,92-wilson-street-wodonga-vic-3690-16061441,Wodonga Primary School,679.1,95.47,3690,390.0
+1201,26-huon-street-wodonga-vic-3690-16082752,Bacchus Marsh Primary School,348.23,62.68,3690,350.0
+1202,9-huon-street-wodonga-vic-3690-16084603,Belmont Primary School,648.09,118.56,3690,400.0
+1203,1-buckland-court-wodonga-vic-3690-16079819,Bacchus Marsh Primary School,1728.84,216.49,3690,420.0
+1204,4-5-bell-court-wodonga-vic-3690-16084806,Alberton Primary School,1072.65,110.79,3690,230.0
+1205,128-thomas-mitchell-drive-wodonga-vic-3690-16089463,Avenel Primary School,1556.07,183.66,3690,410.0
+1206,40a-macedon-parade-wollert-vic-3750-15280632,Alberton Primary School,174.36,28.74,3750,360.0
+1207,15-everest-cres-olinda-vic-3788-16088310,Avoca Primary School,1066.15,214.07,3788,780.0
+1208,104-park-orchard-drive-pakenham-vic-3810-16047301,Bacchus Marsh Primary School,543.06,75.33,3810,450.0
+1209,11-hansens-lane-balnarring-beach-vic-3926-16017546,Alberton Primary School,3009.07,376.43,3926,1995.0
+1210,6-bass-street-flinders-vic-3929-16084910,Allansford and District Primary School,15222.71,675.2,3929,1300.0
+1211,2-1-baden-powell-place-mount-eliza-vic-3930-16079935,Warrandyte Primary School,95.94,19.73,3930,525.0
+1212,4-lucerne-avenue-mornington-vic-3931-16060040,Avoca Primary School,942.07,144.11,3931,640.0
+1213,1-cassawory-place-safety-beach-vic-3936-16085503,Alberton Primary School,2303.41,275.15,3936,650.0
+1214,26-william-street-dromana-vic-3936-16085361,Alberton Primary School,2056.13,240.04,3936,585.0
+1215,3764-point-nepean-road-portsea-vic-3944-16061261,Allansford and District Primary School,3799.37,339.88,3944,1100.0
+1216,19-22-somerville-road-hampton-park-vic-3976-16087306,Allansford and District Primary School,164.12,31.33,3976,390.0
+1217,49-savoy-grove-cranbourne-north-vic-3977-15751808,Wodonga Primary School,1034.76,231.61,3977,540.0
+1218,5-kawana-mews-cranbourne-vic-3977-16026932,Bacchus Marsh Primary School,1106.49,163.1,3977,475.0
+1219,11-kawana-mews-cranbourne-vic-3977-16037155,Bacchus Marsh Primary School,1106.49,163.1,3977,475.0

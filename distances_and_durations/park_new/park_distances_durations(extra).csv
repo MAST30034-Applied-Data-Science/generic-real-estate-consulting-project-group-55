@@ -1,0 +1,920 @@
+,rent_address,stop_name,min_distance,min_duration,postcode,price
+0,701-101-therry-st-melbourne-vic-3000-16069017,Carlton Court House Historic Reserve,2113.93,235.88,3000,585.0
+1,101-108-flinders-street-melbourne-vic-3000-16104629,Princes Warf,2197.72,319.6,3000,650.0
+2,33-400-little-collins-street-melbourne-vic-3000-16022489,Carlton Court House Historic Reserve,2750.79,318.74,3000,400.0
+3,501-243-franklin-street-melbourne-vic-3000-16098203,Carlton Court House Historic Reserve,2250.19,280.2,3000,475.0
+4,232-538-little-lonsdale-street-melbourne-vic-3000-16094294,Carlton Court House Historic Reserve,3039.71,376.9,3000,780.0
+5,513-118-franklin-street-melbourne-vic-3000-15397839,Carlton Court House Historic Reserve,1963.17,241.45,3000,450.0
+6,623-539-st-kilda-road-melbourne-vic-3000-16110078,Albert Reserve,565.42,91.9,3000,475.0
+7,1014-22-24-jane-bell-lane-melbourne-vic-3000-16103081,Carlton Court House Historic Reserve,1609.11,200.47,3000,600.0
+8,1003-225-elizabeth-street-melbourne-vic-3000-16111540,Carlton Court House Historic Reserve,2494.24,326.73,3000,575.0
+9,312b-399-bourke-street-melbourne-vic-3000-16096996,Carlton Court House Historic Reserve,2745.51,315.97,3000,400.0
+10,601-8-exploration-lane-melbourne-vic-3000-16081723,Carlton Court House Historic Reserve,1594.6,207.5,3000,530.0
+11,4010-639-lonsdale-street-melbourne-vic-3000-16091026,Carlton Court House Historic Reserve,3172.72,398.29,3000,650.0
+12,703-500-flinders-street-melbourne-vic-3000-16102690,Albert Park,2507.65,375.32,3000,220.0
+13,1411-250-elizabeth-street-melbourne-vic-3000-16092022,Carlton Court House Historic Reserve,2340.32,275.3,3000,520.0
+14,3604-568-collins-street-melbourne-vic-3000-16102990,Albert Park,2854.29,398.55,3000,580.0
+15,313-394-collins-street-melbourne-vic-3000-15401052,Albert Park,2748.37,396.86,3000,500.0
+16,320-68-la-trobe-street-melbourne-vic-3000-16098385,Carlton Court House Historic Reserve,1566.53,191.45,3000,430.0
+17,5707b-639-little-lonsdale-street-melbourne-vic-3000-16111904,Carlton Court House Historic Reserve,3144.16,401.97,3000,570.0
+18,401-408-lonsdale-street-melbourne-vic-3000-16014585,Carlton Court House Historic Reserve,2293.95,269.53,3000,410.0
+19,2503-7-katherine-place-melbourne-vic-3000-16096811,Albert Park,2333.4,336.56,3000,415.0
+20,3006-31-a-beckett-street-melbourne-vic-3000-16104600,Carlton Court House Historic Reserve,2095.43,256.63,3000,450.0
+21,1309-199-william-street-melbourne-vic-3000-16093914,Carlton Court House Historic Reserve,2695.45,326.11,3000,520.0
+22,1701-620-collins-street-melbourne-vic-3000-16114048,Albert Park,2703.59,380.46,3000,650.0
+23,1202-620-collins-street-melbourne-vic-3000-16114058,Albert Park,2703.59,380.46,3000,500.0
+24,g06-501-little-collins-street-melbourne-vic-3000-16096996,Albert Park,2725.32,400.41,3000,425.0
+25,309-501-little-collins-street-melbourne-vic-3000-16107439,Albert Park,2725.32,400.41,3000,400.0
+26,315-118-russell-street-melbourne-vic-3000-16108688,Carlton Court House Historic Reserve,2026.67,253.84,3000,550.0
+27,7-562-little-bourke-street-melbourne-vic-3000-16094300,Albert Park,2830.19,399.83,3000,380.0
+28,816-101-therry-st-melbourne-vic-3000-16068338,Carlton Court House Historic Reserve,2113.93,235.88,3000,820.0
+29,3008-288-spencer-street-melbourne-vic-3000-16097762,Carlton Court House Historic Reserve,3149.05,403.14,3000,410.0
+30,29-400-little-collins-street-melbourne-vic-3000-16022489,Carlton Court House Historic Reserve,2750.79,318.74,3000,400.0
+31,1713-25-therry-street-melbourne-vic-3000-16097001,Carlton Court House Historic Reserve,1664.08,203.09,3000,500.0
+32,1202-31-spring-street-melbourne-vic-3000-16111139,Princes Warf,2382.33,349.42,3000,570.0
+33,806-296-victoria-parade-east-melbourne-vic-3002-13799976,Lower Yarra River land,2361.54,293.42,3002,1800.0
+34,29-8-wellington-crescent-east-melbourne-vic-3002-16096702,Princes Warf,2683.19,379.89,3002,750.0
+35,1-62-simpson-st-east-melbourne-vic-3002-16099921,Lower Yarra River land,1611.48,233.01,3002,395.0
+36,unit-101m-201-powlett-street-east-melbourne-vic-3002-16109142,Lower Yarra River land,1686.1,201.6,3002,490.0
+37,811v-162-albert-street-east-melbourne-vic-3002-16096094,Lower Yarra River land,1783.3,234.63,3002,600.0
+38,p18w-189-powlett-street-east-melbourne-vic-3002-16107539,Lower Yarra River land,1703.35,221.73,3002,495.0
+39,23-102-jolimont-road-east-melbourne-vic-3002-16110025,Princes Warf,2878.12,384.23,3002,1300.0
+40,18-29-george-street-east-melbourne-vic-3002-16108770,Lower Yarra River land,1924.9,251.91,3002,350.0
+41,102-9-dryburgh-street-west-melbourne-vic-3003-15235467,Carlton Court House Historic Reserve,3546.28,400.76,3003,550.0
+42,6-18-ireland-street-west-melbourne-vic-3003-16093709,Carlton Court House Historic Reserve,3159.73,361.63,3003,750.0
+43,407-386-spencer-street-west-melbourne-vic-3003-16106534,Carlton Court House Historic Reserve,3222.43,384.67,3003,450.0
+44,2613-65-dudley-street-west-melbourne-vic-3003-16108153,Carlton Court House Historic Reserve,3110.01,374.75,3003,520.0
+45,5-61-stanley-street-west-melbourne-vic-3003-16105408,Carlton Court House Historic Reserve,3052.68,373.28,3003,395.0
+46,409-41-dryburgh-street-west-melbourne-vic-3003-16113705,Carlton Court House Historic Reserve,3418.09,376.89,3003,550.0
+47,214-15-31-batman-street-west-melbourne-vic-3003-14585741,Carlton Court House Historic Reserve,2928.71,346.54,3003,400.0
+48,260-adderley-street-west-melbourne-vic-3003-16103206,Carlton Court House Historic Reserve,3375.83,384.92,3003,950.0
+49,1011-77-queens-road-melbourne-vic-3004-16109866,Albert Reserve,985.81,136.03,3004,590.0
+50,19-32-queens-road-melbourne-vic-3004-16099040,Albert Reserve,575.77,75.46,3004,525.0
+51,906-14-queens-road-melbourne-vic-3004-16104224,Albert Park,669.42,123.56,3004,500.0
+52,1310-450-st-kilda-road-melbourne-vic-3004-16099990,Albert Park,667.43,123.28,3004,620.0
+53,1402-82-queens-rd-melbourne-vic-3004-16099647,Albert Reserve,1136.57,157.74,3004,520.0
+54,32-632-st-kilda-road-melbourne-vic-3004-16091641,Albert Reserve,1193.81,165.98,3004,700.0
+55,702-74-queens-road-melbourne-vic-3004-16113717,Albert Reserve,930.13,128.01,3004,530.0
+56,507-23-queens-road-melbourne-vic-3004-16098966,Albert Park,947.53,140.16,3004,575.0
+57,2902-250-city-road-southbank-vic-3006-16111286,Albert Park,1887.4,311.58,3006,450.0
+58,106-8-wells-st-southbank-vic-3006-16110505,Albert Park,1226.76,275.2,3006,1200.0
+59,1005-285-city-road-southbank-vic-3006-16111246,Albert Park,2008.43,270.31,3006,450.0
+60,3201-245-city-road-southbank-vic-3006-16094069,Albert Park,2123.7,288.63,3006,575.0
+61,3104-45-clarke-street-southbank-vic-3006-14397368,Albert Park,1769.42,287.09,3006,590.0
+62,56-28-southgate-avenue-southbank-vic-3006-16107621,Princes Warf,1874.83,272.58,3006,550.0
+63,1204-33-clarke-street-southbank-vic-3006-16093367,Albert Park,2185.58,300.01,3006,350.0
+64,3511-151-city-road-southbank-vic-3006-16094411,Albert Park,1761.87,247.54,3006,530.0
+65,2512-70-southbank-boulevard-southbank-vic-3006-16097066,Princes Warf,1817.21,238.38,3006,600.0
+66,3-100-coventry-street-southbank-vic-3006-16111756,Albert Park,1067.32,166.36,3006,520.0
+67,4008-45-clarke-street-southbank-vic-3006-16098289,Albert Park,1769.42,287.09,3006,650.0
+68,808-250-city-road-southbank-vic-3006-16103830,Albert Park,1887.4,311.58,3006,575.0
+69,1108-81-south-wharf-drive-docklands-vic-3008-16107733,Westgate Park,3803.95,471.73,3008,520.0
+70,312-57-spencer-street-docklands-vic-3008-16108605,Albert Park,2803.27,399.93,3008,600.0
+71,808-2-joseph-road-footscray-vic-3011-15874277,Lower Maribyrnong River land,679.18,89.43,3011,390.0
+72,6-217-buckley-street-seddon-vic-3011-16104892,Lower Maribyrnong River land,2930.15,389.84,3011,370.0
+73,1412-4-joseph-road-footscray-vic-3011-16106028,Lower Maribyrnong River land,751.15,98.07,3011,400.0
+74,210-12-napier-street-footscray-vic-3011-16100855,Lower Maribyrnong River land,1361.51,213.38,3011,630.0
+75,1109-2-joseph-road-footscray-vic-3011-15421439,Lower Maribyrnong River land,679.18,89.43,3011,530.0
+76,801-8-joseph-road-footscray-vic-3011-16109999,Lower Maribyrnong River land,805.35,104.57,3011,475.0
+77,1108-2-joseph-road-footscray-vic-3011-16113701,Lower Maribyrnong River land,679.18,89.43,3011,405.0
+78,1605-6-joseph-road-footscray-vic-3011-16109994,Lower Maribyrnong River land,796.83,103.55,3011,520.0
+79,1806-8-joseph-road-footscray-vic-3011-16109988,Lower Maribyrnong River land,805.35,104.57,3011,690.0
+80,15-99-109-creswick-street-footscray-vic-3011-16105427,"Pipemakers, Burndap and Footscay Park Parklands (COM)",2118.6,249.35,3011,280.0
+81,512-4-joseph-rd-footscray-vic-3011-15583218,Lower Maribyrnong River land,751.15,98.07,3011,520.0
+82,1508-6-joseph-road-footscray-vic-3011-16091829,Lower Maribyrnong River land,796.83,103.55,3011,400.0
+83,9-67-ballarat-rd-footscray-vic-3011-16098677,Lower Maribyrnong River land,1769.15,212.03,3011,370.0
+84,1605-6-joseph-road-footscray-vic-3011-16109994,Lower Maribyrnong River land,796.83,103.55,3011,520.0
+85,801-8-joseph-road-footscray-vic-3011-16109999,Lower Maribyrnong River land,805.35,104.57,3011,475.0
+86,1908-6-joseph-road-footscray-vic-3011-15399494,Lower Maribyrnong River land,796.83,103.55,3011,410.0
+87,1404-4-joseph-road-footscray-vic-3011-15362715,Lower Maribyrnong River land,751.15,98.07,3011,410.0
+88,7-regent-street-yarraville-vic-3013-16096035,"Williamstown Workshop, Piers & Stony Creek Backwash",2557.9,261.65,3013,600.0
+89,3-107-park-crescent-williamstown-north-vic-3016-16108944,Jawbone Marine Sanctuary,1354.95,197.58,3016,500.0
+90,20-illawarra-street-williamstown-vic-3016-16104991,Point Gellibrand Heritage Park,787.33,91.75,3016,595.0
+91,51-spearmint-boulevard-manor-lakes-vic-3024-13582212,Melbourne Strategic Assessment Reserve,2248.72,170.28,3024,400.0
+92,74-myers-parade-altona-meadows-vic-3028-16094320,Altona Meadows Natural Features Reserve,2289.26,266.83,3028,440.0
+93,36a-featherby-way-altona-meadows-vic-3028-16110093,Altona Meadows Natural Features Reserve,288.1,41.49,3028,395.0
+94,207-79-merton-street-altona-meadows-vic-3028-16107073,Altona Meadows Natural Features Reserve,2461.94,252.9,3028,350.0
+95,30-390-queen-street-altona-meadows-vic-3028-16110953,Altona Meadows Natural Features Reserve,2567.95,267.41,3028,380.0
+96,106-stratus-street-tarneit-vic-3029-16100986,Werribee Township Regional Park,3950.83,498.9,3029,480.0
+97,10-talliver-terrace-truganina-vic-3029-16111383,Truganina South Nature Conservation Reserve,2036.32,251.93,3029,370.0
+98,1-3-weebill-court-werribee-vic-3030-14233278,South Base Stone Historic Reserve,5033.82,438.27,3030,380.0
+99,104-71-89-hobsons-road-kensington-vic-3031-16111222,Lower Maribyrnong River land,881.52,107.0,3031,375.0
+100,913-1-ascot-vale-road-flemington-vic-3031-14811213,Lower Maribyrnong River land,1631.63,197.03,3031,420.0
+101,5-48-farnham-street-flemington-vic-3031-16103716,Lower Maribyrnong River land,2713.75,338.96,3031,310.0
+102,307-55-cumberland-drive-maribyrnong-vic-3032-16107543,Lower Maribyrnong River land,672.99,106.42,3032,470.0
+103,207-8-burrowes-street-ascot-vale-vic-3032-16105755,"Pipemakers, Burndap and Footscay Park Parklands (COM)",1659.87,216.47,3032,450.0
+104,1001b-2-wests-road-maribyrnong-vic-3032-16110067,Lower Maribyrnong River land,2415.26,267.56,3032,360.0
+105,704-68-wests-road-maribyrnong-vic-3032-16092164,Lower Maribyrnong River land,2058.99,233.74,3032,475.0
+106,712-68-wests-road-maribyrnong-vic-3032-16093377,Lower Maribyrnong River land,2058.99,233.74,3032,360.0
+107,10-8-eddy-strret-moonee-ponds-vic-3039-16096123,"Pipemakers, Burndap and Footscay Park Parklands (COM)",3814.06,432.83,3039,330.0
+108,25-maple-walk-moonee-ponds-vic-3039-16097397,"Pipemakers, Burndap and Footscay Park Parklands (COM)",3451.77,381.8,3039,850.0
+109,3-fortelny-way-moonee-ponds-vic-3039-16103083,"Pipemakers, Burndap and Footscay Park Parklands (COM)",2551.89,348.39,3039,495.0
+110,6-5-winifred-essendon-vic-3040-16105691,Lower Maribyrnong River land,3524.54,342.71,3040,500.0
+111,4-8-10-lincoln-road-essendon-vic-3040-16098657,Lower Maribyrnong River land,2283.72,193.65,3040,620.0
+112,1-8-10-lincoln-road-essendon-vic-3040-16095553,Lower Maribyrnong River land,2283.72,193.65,3040,620.0
+113,12-8-10-lincoln-road-essendon-vic-3040-16091133,Lower Maribyrnong River land,2283.72,193.65,3040,750.0
+114,51-carrington-road-niddrie-vic-3042-16112270,Lower Maribyrnong River land,2857.15,299.22,3042,900.0
+115,2-6-8-keogh-court-pascoe-vale-vic-3044-16099318,Merri Creek Land (368 Mahoneys Rd),7066.94,599.95,3044,450.0
+116,1b-hazel-grove-pascoe-vale-vic-3044-16098940,Merri Creek Land (368 Mahoneys Rd),7879.52,617.34,3044,445.0
+117,7-55-pleasant-street-pascoe-vale-vic-3044-15507181,Lower Maribyrnong River land,8067.62,833.04,3044,400.0
+118,72-austin-crescent-pascoe-vale-vic-3044-16108578,Merri Creek Land (368 Mahoneys Rd),7950.3,665.63,3044,550.0
+119,1-255-derby-street-pascoe-vale-vic-3044-15378014,Merri Creek Land (368 Mahoneys Rd),5852.31,451.66,3044,440.0
+120,20a-park-street-pascoe-vale-vic-3044-16100660,Lower Maribyrnong River land,6816.43,673.21,3044,480.0
+121,2-12-sylvester-street-oak-park-vic-3046-16105234,Lower Maribyrnong River land,8233.97,924.41,3046,525.0
+122,2-14-gregory-street-oak-park-vic-3046-16095581,Lower Maribyrnong River land,8103.54,893.11,3046,550.0
+123,502-46-villiers-street-north-melbourne-vic-3051-16091326,Carlton Court House Historic Reserve,2650.15,318.34,3051,370.0
+124,104-16-cobden-street-north-melbourne-vic-3051-16096636,Carlton Court House Historic Reserve,2073.66,237.38,3051,600.0
+125,101-96-curzon-street-north-melbourne-vic-3051-16099695,Carlton Court House Historic Reserve,2708.19,297.74,3051,320.0
+126,17-352-victoria-street-north-melbourne-vic-3051-16112376,Carlton Court House Historic Reserve,2224.1,249.61,3051,450.0
+127,109-380-queensberry-street-north-melbourne-vic-3051-14961044,Carlton Court House Historic Reserve,1990.78,239.37,3051,550.0
+128,4-19-chapman-street-north-melbourne-vic-3051-16112887,Carlton Court House Historic Reserve,3115.13,388.54,3051,380.0
+129,27-carroll-street-north-melbourne-vic-3051-16104463,Lower Maribyrnong River land,3128.69,411.09,3051,1050.0
+130,494-abbotsford-street-north-melbourne-vic-3051-16093609,Carlton Court House Historic Reserve,3707.67,387.1,3051,1295.0
+131,21-361-royal-parade-parkville-vic-3052-16104740,Carlton Court House Historic Reserve,2585.47,295.75,3052,380.0
+132,17-228-the-avenue-parkville-vic-3052-16104553,Carlton Court House Historic Reserve,2791.27,332.79,3052,330.0
+133,12-283-royal-parade-parkville-vic-3052-16096882,Carlton Court House Historic Reserve,2359.64,288.08,3052,420.0
+134,815-91-galada-avenue-parkville-vic-3052-16108978,Lower Maribyrnong River land,4306.91,525.3,3052,480.0
+135,210-445-royal-parade-parkville-vic-3052-16105650,Carlton Court House Historic Reserve,2755.75,326.4,3052,370.0
+136,1-43-barkly-street-carlton-vic-3053-16114029,Carlton Court House Historic Reserve,778.1,121.37,3053,460.0
+137,112-124-palmerston-street-carlton-vic-3053-16103862,Carlton Court House Historic Reserve,562.58,90.22,3053,500.0
+138,108-139-143-bouverie-street-carlton-vic-3053-16100726,Carlton Court House Historic Reserve,1504.81,192.01,3053,260.0
+139,706-111-leicester-street-carlton-vic-3053-16108027,Carlton Court House Historic Reserve,1732.16,225.52,3053,500.0
+140,10-21-university-street-carlton-vic-3053-10308643,Carlton Court House Historic Reserve,520.35,77.19,3053,525.0
+141,11-406-cardigan-street-carlton-vic-3053-16107251,Carlton Court House Historic Reserve,762.94,80.22,3053,780.0
+142,37-109-lygon-street-carlton-vic-3053-16105252,Carlton Court House Historic Reserve,1048.06,138.2,3053,250.0
+143,159-richardson-street-carlton-north-vic-3054-16096889,Carlton Court House Historic Reserve,1790.27,207.47,3054,580.0
+144,24-macpherson-street-carlton-north-vic-3054-16092806,Carlton Court House Historic Reserve,2164.71,244.64,3054,650.0
+145,10-sutton-street-carlton-north-vic-3054-16097594,Carlton Court House Historic Reserve,1585.98,178.32,3054,625.0
+146,29-1066-lygon-street-carlton-north-vic-3054-16099369,Carlton Court House Historic Reserve,2069.79,218.47,3054,750.0
+147,19-552-moreland-road-brunswick-west-vic-3055-16112090,Lower Maribyrnong River land,5401.96,535.51,3055,260.0
+148,12-39-heller-street-brunswick-west-vic-3055-16112167,Carlton Court House Historic Reserve,4493.62,458.38,3055,325.0
+149,1-3-guthrie-street-brunswick-west-vic-3055-16103784,Lower Maribyrnong River land,4878.55,549.02,3055,320.0
+150,5-490-492-moreland-road-brunswick-west-vic-3055-16091467,Lower Maribyrnong River land,6851.19,722.27,3055,395.0
+151,804-1-olive-york-way-brunswick-west-vic-3055-15357145,Lower Maribyrnong River land,6047.8,637.71,3055,460.0
+152,6-230-dawson-street-brunswick-west-vic-3055-16103397,Lower Maribyrnong River land,5075.03,517.78,3055,375.0
+153,10-55-heller-street-brunswick-west-vic-3055-16099137,Carlton Court House Historic Reserve,4629.8,480.84,3055,330.0
+154,2-28-millward-street-brunswick-west-vic-3055-16103927,Carlton Court House Historic Reserve,4340.02,443.79,3055,595.0
+155,5-548-moreland-road-brunswick-west-vic-3055-16109592,Lower Maribyrnong River land,5432.68,538.28,3055,260.0
+156,42-cassels-road-brunswick-vic-3056-16110238,Carlton Court House Historic Reserve,5852.71,576.07,3056,730.0
+157,399-brunswick-road-brunswick-vic-3056-16091358,Carlton Court House Historic Reserve,4328.7,441.69,3056,1200.0
+158,2-horne-street-brunswick-vic-3056-16107121,Carlton Court House Historic Reserve,3229.73,324.01,3056,1050.0
+159,4-653-park-street-brunswick-vic-3056-16109007,Carlton Court House Historic Reserve,2924.94,307.4,3056,380.0
+160,213-albert-street-brunswick-vic-3056-16112143,Carlton Court House Historic Reserve,3972.45,419.4,3056,550.0
+161,3-138-mitchell-street-brunswick-vic-3056-16104854,Carlton Court House Historic Reserve,4621.6,464.7,3056,350.0
+162,7-walters-street-brunswick-vic-3056-16101017,Carlton Court House Historic Reserve,5827.93,536.47,3056,700.0
+163,2b-donald-street-brunswick-vic-3056-16094762,Carlton Court House Historic Reserve,5505.43,511.55,3056,650.0
+164,1-339-brunswick-road-brunswick-vic-3056-16096511,Carlton Court House Historic Reserve,3828.79,395.64,3056,740.0
+165,116-288-albert-street-brunswick-vic-3056-16113457,Carlton Court House Historic Reserve,4298.17,427.9,3056,350.0
+166,2-53-evans-street-brunswick-vic-3056-16092503,Carlton Court House Historic Reserve,3507.38,356.86,3056,550.0
+167,71-amelia-street-brunswick-vic-3056-16111322,Carlton Court House Historic Reserve,2964.73,322.78,3056,800.0
+168,306-267-277-lygon-street-brunswick-vic-3056-16099911,Carlton Court House Historic Reserve,3247.44,319.96,3056,600.0
+169,14-116-albert-street-brunswick-vic-3056-16099340,Carlton Court House Historic Reserve,3345.82,330.95,3056,395.0
+170,8-jenkin-street-brunswick-vic-3056-16107288,Carlton Court House Historic Reserve,3269.75,339.79,3056,925.0
+171,110-brunswick-road-brunswick-vic-3056-16103107,Carlton Court House Historic Reserve,2968.78,312.27,3056,570.0
+172,476b-sydney-road-brunswick-vic-3056-16101831,Carlton Court House Historic Reserve,4433.89,420.1,3056,1100.0
+173,208-611-sydney-road-brunswick-vic-3056-15144017,Carlton Court House Historic Reserve,4903.95,467.61,3056,420.0
+174,3-allan-street-brunswick-vic-3056-16091524,Carlton Court House Historic Reserve,3311.39,327.92,3056,850.0
+175,1-80-mitchell-street-brunswick-vic-3056-16104131,Carlton Court House Historic Reserve,4709.7,443.31,3056,460.0
+176,147-stewart-st-brunswick-east-vic-3057-16108585,Carlton Court House Historic Reserve,4104.87,403.02,3057,610.0
+177,4-162-lygon-street-brunswick-east-vic-3057-16101848,Carlton Court House Historic Reserve,2939.23,296.6,3057,440.0
+178,2-parkview-avenue-brunswick-east-vic-3057-16108388,Carlton Court House Historic Reserve,4862.0,482.83,3057,525.0
+179,306-63-lygon-street-brunswick-east-vic-3057-16104850,Carlton Court House Historic Reserve,2506.8,263.22,3057,420.0
+180,4-31-33-o-connor-street-brunswick-east-vic-3057-16109419,Carlton Court House Historic Reserve,3211.28,329.13,3057,650.0
+181,5-31-33-o-connor-street-brunswick-east-vic-3057-16109350,Carlton Court House Historic Reserve,3211.28,329.13,3057,900.0
+182,45-victoria-street-brunswick-east-vic-3057-16105604,Carlton Court House Historic Reserve,4043.16,448.63,3057,550.0
+183,101-392-lygon-street-brunswick-east-vic-3057-16095591,Carlton Court House Historic Reserve,3745.0,363.36,3057,400.0
+184,313-1-brunswick-road-brunswick-east-vic-3057-16099118,Carlton Court House Historic Reserve,2824.7,307.27,3057,380.0
+185,204-294-lygon-street-brunswick-east-vic-3057-15429522,Carlton Court House Historic Reserve,3377.83,335.04,3057,575.0
+186,46-nicholson-street-brunswick-east-vic-3057-16112281,Carlton Court House Historic Reserve,3449.83,374.98,3057,780.0
+187,106-273-lygon-street-brunswick-east-vic-3057-16095784,Carlton Court House Historic Reserve,3247.44,319.96,3057,575.0
+188,714-11-urquhart-street-coburg-vic-3058-16097143,Yarra Bend Park,9560.73,859.99,3058,450.0
+189,177-urquhart-street-coburg-vic-3058-16099429,Yarra Bend Park,8710.37,768.75,3058,600.0
+190,1-flinders-street-coburg-vic-3058-15138487,Merri Creek Land (368 Mahoneys Rd),7368.87,614.2,3058,430.0
+191,4-18-loch-street-coburg-vic-3058-16092618,Yarra Bend Park,8987.26,792.77,3058,540.0
+192,413-11-urquhart-street-coburg-vic-3058-15467995,Yarra Bend Park,9560.73,859.99,3058,450.0
+193,46-mutton-road-fawkner-vic-3060-15915330,Merri Creek Land (368 Mahoneys Rd),4192.41,321.75,3060,450.0
+194,27-rocco-avenue-donnybrook-vic-3064-16098102,,,,3064,440.0
+195,g05-237-napier-street-fitzroy-vic-3065-16099451,Carlton Court House Historic Reserve,1361.83,232.69,3065,595.0
+196,14-65-george-street-fitzroy-vic-3065-16109661,Lower Yarra River land,1902.76,224.93,3065,330.0
+197,33-bell-street-fitzroy-vic-3065-16110446,Carlton Court House Historic Reserve,1014.1,184.32,3065,1350.0
+198,3-15-17-bendigo-street-collingwood-vic-3066-16108579,Lower Yarra River land,2375.83,329.32,3066,350.0
+199,207-6-mater-street-collingwood-vic-3066-16091253,Lower Yarra River land,2187.48,328.36,3066,550.0
+200,106-35-victoria-parade-collingwood-vic-3066-16093671,Lower Yarra River land,1802.37,207.04,3066,500.0
+201,706-75-wellington-street-collingwood-vic-3066-15210408,Lower Yarra River land,1380.03,163.87,3066,600.0
+202,11g-21-northumberland-street-collingwood-vic-3066-16110786,Lower Yarra River land,1510.7,187.46,3066,550.0
+203,207g-31-napoleon-street-collingwood-vic-3066-16108865,Lower Yarra River land,1728.68,235.69,3066,410.0
+204,1008-68-cambridge-street-collingwood-vic-3066-16096565,Lower Yarra River land,1461.97,178.62,3066,500.0
+205,47-bedford-street-collingwood-vic-3066-16105364,Lower Yarra River land,1640.33,245.33,3066,550.0
+206,206-470-smith-street-collingwood-vic-3066-16095724,Carlton Court House Historic Reserve,2042.35,275.37,3066,430.0
+207,303-11-hoddle-street-collingwood-vic-3066-16093268,Lower Yarra River land,1072.79,130.38,3066,390.0
+208,1-127-cambridge-street-collingwood-vic-3066-16091234,Lower Yarra River land,1472.17,225.43,3066,900.0
+209,71-84-trenerry-crescent-abbotsford-vic-3067-16110976,Lower Yarra River land,244.09,39.46,3067,550.0
+210,608-627-victoria-street-abbotsford-vic-3067-16112055,Lower Yarra River land,206.09,41.05,3067,450.0
+211,c306-11-shamrock-street-abbotsford-vic-3067-16103805,Lower Yarra River land (addition) Park,47.45,11.39,3067,550.0
+212,13-trenerry-crescent-abbotsford-vic-3067-14338216,Lower Yarra River land,161.19,26.47,3067,1080.0
+213,722-627-victoria-street-abbotsford-vic-3067-16102907,Lower Yarra River land,206.09,41.05,3067,400.0
+214,114-4-acacia-place-abbotsford-vic-3067-16097009,Lower Yarra River land,0.19,0.04,3067,475.0
+215,406-631-victoria-street-abbotsford-vic-3067-16102921,Lower Yarra River land,106.23,16.16,3067,650.0
+216,6-241-nicholson-street-abbotsford-vic-3067-11018248,Lower Yarra River land,550.99,65.99,3067,340.0
+217,814-4-acacia-place-abbotsford-vic-3067-16097710,Lower Yarra River land,0.19,0.04,3067,380.0
+218,112-4-acacia-place-abbotsford-vic-3067-16104805,Lower Yarra River land,0.19,0.04,3067,795.0
+219,201a-8-grosvenor-street-abbotsford-vic-3067-16093576,Lower Yarra River land (addition) Park,174.46,41.87,3067,410.0
+220,12-valiant-street-abbotsford-vic-3067-16098146,Lower Yarra River land,827.16,121.08,3067,975.0
+221,1108-20-shamrock-street-abbotsford-vic-3067-15091677,Lower Yarra River land (addition) Park,16.88,4.05,3067,530.0
+222,103-38-nicholson-street-fitzroy-north-vic-3068-16097154,Carlton Court House Historic Reserve,3349.06,364.18,3068,375.0
+223,g2-26-nicholson-street-fitzroy-north-vic-3068-16108768,Carlton Court House Historic Reserve,3258.11,353.6,3068,590.0
+224,478-wellington-street-clifton-hill-vic-3068-16105769,Lower Yarra River land,2257.19,309.2,3068,480.0
+225,45-mckean-street-fitzroy-north-vic-3068-16092855,Carlton Court House Historic Reserve,2298.85,348.12,3068,550.0
+226,304-38-nicholson-street-fitzroy-north-vic-3068-16098711,Carlton Court House Historic Reserve,3349.06,364.18,3068,550.0
+227,108a-queens-parade-fitzroy-north-vic-3068-16113014,Carlton Court House Historic Reserve,2099.48,300.28,3068,650.0
+228,02-378-st-georges-road-fitzroy-north-vic-3068-16111995,Yarra Bend Park,3200.79,347.04,3068,450.0
+229,15-queen-street-fitzroy-north-vic-3068-16098797,Carlton Court House Historic Reserve,3451.63,396.56,3068,635.0
+230,48-clifton-avenue-clifton-hill-vic-3068-16092358,Lower Yarra River land,1321.35,172.99,3068,650.0
+231,304-11-reid-street-fitzroy-north-vic-3068-16098276,Carlton Court House Historic Reserve,2172.88,240.63,3068,450.0
+232,8-133-clarke-street-northcote-vic-3070-16091779,Yarra Bend Park,2848.02,306.87,3070,340.0
+233,9a-spencer-street-northcote-vic-3070-16103679,Yarra Bend Park,4158.46,469.77,3070,645.0
+234,121-5-beavers-road-northcote-vic-3070-16088994,Yarra Bend Park,3699.05,375.41,3070,485.0
+235,207-2-6-mccutcheon-street-northcote-vic-3070-15874383,Yarra Bend Park,3563.48,357.72,3070,500.0
+236,29-turnball-grove-northcote-vic-3070-16110278,Yarra Bend Park,3631.35,379.37,3070,610.0
+237,6-22-french-avenue-northcote-vic-3070-16099680,Yarra Bend Park,2471.89,231.74,3070,680.0
+238,8-victoria-road-northcote-vic-3070-16093432,Yarra Bend Park,991.74,99.69,3070,680.0
+239,2-274-st-georges-road-northcote-vic-3070-16113021,Yarra Bend Park,4560.04,449.23,3070,570.0
+240,67-clarke-street-northcote-vic-3070-16092703,Yarra Bend Park,3181.69,352.47,3070,650.0
+241,202-2-separation-street-northcote-vic-3070-16099480,Yarra Bend Park,3304.61,325.39,3070,460.0
+242,g04-66-waterloo-road-northcote-vic-3070-16108577,Yarra Bend Park,2769.14,324.16,3070,520.0
+243,13-58-clarendon-street-thornbury-vic-3071-16101018,Yarra Bend Park,4112.74,420.65,3071,400.0
+244,4-86-normanby-avenue-thornbury-vic-3071-16108540,Yarra Bend Park,5219.55,441.41,3071,560.0
+245,3-291-rathmines-street-thornbury-vic-3071-16091151,Yarra Bend Park,3584.91,316.57,3071,680.0
+246,348-gooch-street-thornbury-vic-3071-16099884,Yarra Bend Park,3804.3,412.39,3071,700.0
+247,13-fenwick-street-thornbury-vic-3071-16108011,Yarra Bend Park,4091.62,389.3,3071,630.0
+248,16-rossmoyne-street-thornbury-vic-3071-16107643,Yarra Bend Park,4846.95,403.52,3071,670.0
+249,47-speight-street-thornbury-vic-3071-16094346,Yarra Bend Park,3325.52,304.88,3071,730.0
+250,59-comas-grove-thornbury-vic-3071-16108541,Yarra Bend Park,6691.74,560.61,3071,740.0
+251,8-52-pender-street-thornbury-vic-3071-16113012,Yarra Bend Park,4416.52,426.8,3071,260.0
+252,118-normanby-avenue-thornbury-vic-3071-16109205,Yarra Bend Park,5440.75,457.34,3071,750.0
+253,110-raglan-street-preston-vic-3072-16103893,Yarra Bend Park,4913.18,444.95,3072,595.0
+254,19-122-high-street-preston-vic-3072-16112735,Yarra Bend Park,5963.72,474.61,3072,450.0
+255,4-492-plenty-road-preston-vic-3072-16103925,Gresswell Forest (part a) Nature Conservation Reserve,5584.28,658.9,3072,500.0
+256,78-oakover-road-preston-vic-3072-16096755,Yarra Bend Park,6595.38,616.92,3072,1200.0
+257,2-123-cheddar-road-reservoir-vic-3073-16106073,Merri Creek Park,7400.21,506.93,3073,425.0
+258,1-24-charlton-cres-reservoir-vic-3073-16109817,Gresswell Forest (part a) Nature Conservation Reserve,4192.69,585.84,3073,425.0
+259,10-949-high-street-reservoir-vic-3073-15297144,Merri Creek Park,6520.53,499.37,3073,490.0
+260,1-125-henty-street-reservoir-vic-3073-16113414,Merri Creek Land (368 Mahoneys Rd),7663.59,671.17,3073,450.0
+261,24-6-hensley-road-lalor-vic-3075-16093487,Cooper St Grassland Nature Conservation Reserve,6196.93,749.09,3075,450.0
+262,23-palm-street-fairfield-vic-3078-16099457,Yarra Bend Park,2307.95,277.84,3078,890.0
+263,201-21-mills-boulevard-alphington-vic-3078-16094987,Yarra Bend Park,812.82,119.25,3078,540.0
+264,1-150-grange-road-alphington-vic-3078-16099545,Yarra Bend Park,2144.62,258.14,3078,320.0
+265,3-43-gillies-street-fairfield-vic-3078-16100715,Yarra Bend Park,3174.01,345.97,3078,290.0
+266,3-91-livingstone-street-ivanhoe-vic-3079-16097930,Darebin Creek Land,2153.84,251.76,3079,365.0
+267,level-2-5-9-martin-street-heidelberg-vic-3084-16103734,Yarra Valley Parklands,1389.34,148.35,3084,440.0
+268,4-74-darebin-st-heidelberg-vic-3084-16113528,Yarra Valley Parklands,1290.06,159.49,3084,450.0
+269,9-182-hawdon-street-heidelberg-vic-3084-16105331,Yarra Valley Parklands,1572.8,182.21,3084,670.0
+270,g09-59-earl-street-kew-vic-3101-14910454,Yarra Bend Park,1354.89,190.84,3101,395.0
+271,3-92-brougham-street-kew-vic-3101-16092388,Yarra Bend Park,1173.76,222.2,3101,1200.0
+272,21-high-street-kew-vic-3101-16111438,Lower Yarra River land,1146.8,127.5,3101,700.0
+273,9-39-studley-park-rd-kew-vic-3101-16110655,Yarra Bend Park,916.47,161.25,3101,595.0
+274,202-39-studley-park-rd-kew-vic-3101-16110655,Yarra Bend Park,916.47,161.25,3101,595.0
+275,1-12-stawell-street-kew-vic-3101-16108050,Yarra Bend Park,909.9,184.28,3101,700.0
+276,3-1a-wimba-avenue-kew-vic-3101-16100819,Yarra Bend Park,3328.04,396.96,3101,475.0
+277,19-asquith-street-kew-vic-3101-16113258,Yarra Bend Park,2209.44,268.07,3101,720.0
+278,4-92-brougham-street-kew-vic-3101-16092405,Yarra Bend Park,1176.12,222.54,3101,1100.0
+279,21-findon-crescent-kew-vic-3101-16113943,Lower Yarra River land,924.0,111.78,3101,1600.0
+280,5-33-parkhill-road-kew-vic-3101-16112182,Yarra Bend Park,3187.41,387.97,3101,650.0
+281,2-grace-court-kew-vic-3101-16095943,Yarra Bend Park,1487.34,215.07,3101,920.0
+282,3-17-munro-st-kew-east-vic-3102-16104263,Yarra Valley Parklands (COM),3129.04,399.95,3102,900.0
+283,46-elm-grove-kew-east-vic-3102-16099817,Yarra Bend Park,3301.57,440.45,3102,720.0
+284,4-15-munro-st-kew-east-vic-3102-16103832,Yarra Valley Parklands (COM),3146.81,402.51,3102,550.0
+285,105-18-cadow-street-kew-east-vic-3102-16104932,Yarra Bend Park,3343.04,417.65,3102,475.0
+286,6-8-clyde-street-kew-east-vic-3102-16106556,Yarra Bend Park,3424.76,426.51,3102,400.0
+287,101-20-weir-street-balwyn-vic-3103-16106435,Wattle Park,4592.2,432.08,3103,400.0
+288,44-elliott-ave-balwyn-vic-3103-16105752,Part Yarra Valley Parklands,4415.52,463.53,3103,590.0
+289,110-182-whitehorse-road-balwyn-vic-3103-15840276,Part Yarra Valley Parklands,5272.67,522.47,3103,360.0
+290,63-monash-ave-balwyn-vic-3103-16111877,Part Yarra Valley Parklands,4122.02,440.26,3103,800.0
+291,128-gordon-street-balwyn-vic-3103-16091813,Part Yarra Valley Parklands,4934.67,502.37,3103,1100.0
+292,6-eyre-st-balwyn-vic-3103-16095631,Yarra Bend Park,4489.5,500.57,3103,1300.0
+293,2-bennett-street-deepdene-vic-3103-16104504,Yarra Bend Park,4846.54,530.68,3103,1175.0
+294,23-bolinda-road-balwyn-north-vic-3104-16098242,Part Yarra Valley Parklands,3968.55,413.67,3104,600.0
+295,10-208-210-high-street-templestowe-lower-vic-3107-16091613,Yarra Valley Parklands,2621.19,296.99,3107,400.0
+296,717-101-tram-road-doncaster-vic-3108-16103524,Yarra Valley Parklands,4886.52,566.7,3108,500.0
+297,21-872-874-doncaster-road-doncaster-east-vic-3109-16093627,Yarra Valley Parklands,6435.89,668.04,3109,365.0
+298,211-7-red-hill-terrace-doncaster-east-vic-3109-16092464,Yarra Valley Parklands,4085.31,483.31,3109,440.0
+299,1-383-serpells-road-doncaster-east-vic-3109-16111336,Yarra Valley Parklands,5260.83,624.51,3109,600.0
+300,50-thea-grove-doncaster-east-vic-3109-16094598,Mullum Mullum Park,5897.45,691.49,3109,480.0
+301,205-1-redhill-terrace-doncaster-east-vic-3109-16094041,Yarra Valley Parklands,4012.19,465.76,3109,500.0
+302,13a-laity-street-richmond-vic-3121-16099660,Lower Yarra River land (addition) Park,977.94,148.57,3121,1200.0
+303,5-lightfoot-street-richmond-vic-3121-10274422,Lower Yarra River land,592.48,113.66,3121,650.0
+304,98a-stawell-street-richmond-vic-3121-16104417,Lower Yarra River land,1053.7,145.66,3121,525.0
+305,4-82-buckingham-street-richmond-vic-3121-16109770,Lower Yarra River land,871.99,129.92,3121,450.0
+306,2-7-jika-place-richmond-vic-3121-16096685,Lower Yarra River land,1924.3,257.62,3121,540.0
+307,19-canterbury-street-richmond-vic-3121-16096668,Lower Yarra River land,1260.17,150.31,3121,700.0
+308,75-cutter-street-richmond-vic-3121-16105791,Lower Yarra River land,1500.23,184.38,3121,750.0
+309,5-4-little-buckingham-street-richmond-vic-3121-16099408,Lower Yarra River land (addition) Park,1247.56,159.77,3121,840.0
+310,17-6-adam-street-richmond-vic-3121-16100713,Herring Island,1382.38,159.64,3121,325.0
+311,104-71-abinger-street-richmond-vic-3121-16096988,Lower Yarra River land,1323.35,137.84,3121,500.0
+312,218-71-abinger-street-richmond-vic-3121-16094828,Lower Yarra River land,1323.35,137.84,3121,575.0
+313,46-73-river-street-richmond-vic-3121-16094613,Lower Yarra River land,192.36,23.85,3121,425.0
+314,158-burnley-street-richmond-vic-3121-13706826,Lower Yarra River land,873.99,124.57,3121,825.0
+315,429-burnley-street-richmond-vic-3121-16100386,Herring Island,1355.03,161.86,3121,925.0
+316,16-2a-brougham-street-richmond-vic-3121-16094696,Lower Yarra River land,1901.2,199.61,3121,420.0
+317,75-neptune-street-richmond-vic-3121-16110194,Lower Yarra River land,1192.18,151.38,3121,650.0
+318,57-lord-st-richmond-vic-3121-16112934,Lower Yarra River land,1242.14,165.9,3121,1300.0
+319,21-dover-street-richmond-vic-3121-16103850,Parks Victoria Depot - Barkly Ave Park,2001.76,193.69,3121,650.0
+320,15-gibdon-street-burnley-vic-3121-16105787,Herring Island,1088.27,124.38,3121,770.0
+321,34-abinger-street-richmond-vic-3121-16096038,Lower Yarra River land,1461.46,166.05,3121,500.0
+322,12-murray-street-richmond-vic-3121-16103776,Lower Yarra River land,1284.38,172.25,3121,640.0
+323,20-davison-street-richmond-vic-3121-6782699,Lower Yarra River land,289.1,49.53,3121,550.0
+324,6-44-type-street-richmond-vic-3121-16099000,Lower Yarra River land,786.28,130.22,3121,330.0
+325,402-77-abinger-street-richmond-vic-3121-16110511,Lower Yarra River land,1337.77,141.3,3121,640.0
+326,308-71-canterbury-street-richmond-vic-3121-14973757,Lower Yarra River land,1550.02,178.45,3121,515.0
+327,40-wellington-street-richmond-vic-3121-16094652,Parks Victoria Depot - Barkly Ave Park,1974.37,178.62,3121,780.0
+328,94-lennox-street-richmond-vic-3121-16113257,Lower Yarra River land,1605.3,194.67,3121,700.0
+329,301-27-dickmann-street-richmond-vic-3121-16112647,Lower Yarra River land,2421.03,235.96,3121,600.0
+330,57-lincoln-street-richmond-vic-3121-16092170,Lower Yarra River land (addition) Park,718.13,121.14,3121,640.0
+331,73-fraser-street-richmond-vic-3121-16091575,Lower Yarra River land,1156.38,128.08,3121,645.0
+332,2-81-abinger-street-richmond-vic-3121-16099075,Lower Yarra River land,1108.79,133.9,3121,800.0
+333,11-shamrock-street-richmond-vic-3121-16091440,Lower Yarra River land,2374.59,252.28,3121,695.0
+334,3-17-moorhouse-street-richmond-vic-3121-13330833,Lower Yarra River land,2235.38,208.66,3121,650.0
+335,14-lesney-street-richmond-vic-3121-16111270,Lower Yarra River land,2504.22,248.72,3121,725.0
+336,6-183-coppin-street-richmond-vic-3121-16105773,Lower Yarra River land,1712.97,158.82,3121,340.0
+337,5-19-palmer-street-richmond-vic-3121-16098868,Lower Yarra River land,897.8,122.58,3121,700.0
+338,g01-8-carroll-street-richmond-vic-3121-16105144,Lower Yarra River land,2485.96,243.16,3121,465.0
+339,607-253-bridge-road-richmond-vic-3121-16100906,Lower Yarra River land,1597.95,147.74,3121,420.0
+340,18-park-grove-richmond-vic-3121-16105798,Lower Yarra River land,1063.21,209.95,3121,550.0
+341,304-27-dickmann-street-richmond-vic-3121-16113260,Lower Yarra River land,2421.03,235.96,3121,595.0
+342,79-buckingham-street-richmond-vic-3121-16100639,Lower Yarra River land,876.5,130.74,3121,850.0
+343,3-52-baker-street-richmond-vic-3121-16098254,Lower Yarra River land (addition) Park,665.57,108.1,3121,400.0
+344,69-brighton-street-richmond-vic-3121-16096202,Parks Victoria Depot - Barkly Ave Park,2445.13,245.62,3121,650.0
+345,104-77-riversdale-road-hawthorn-vic-3122-16100086,Lower Yarra River land,2684.24,299.8,3122,1175.0
+346,20-523-burwood-road-hawthorn-vic-3122-16103788,Lower Yarra River land,2525.93,265.84,3122,550.0
+347,16-197-auburn-road-hawthorn-vic-3122-16109889,Lower Yarra River land,3154.0,314.92,3122,350.0
+348,109-39-riversdale-road-hawthorn-vic-3122-16109227,Lower Yarra River land,2222.59,289.95,3122,600.0
+349,6-33-grove-rd-hawthorn-vic-3122-16094567,Lower Yarra River land,1055.7,134.69,3122,430.0
+350,13-112-riversdale-road-hawthorn-vic-3122-16106515,Lower Yarra River land,2872.08,290.76,3122,460.0
+351,9-312-316-barkers-road-hawthorn-vic-3122-16109610,Lower Yarra River land,2702.29,278.49,3122,725.0
+352,103-567-569-glenferrie-road-hawthorn-vic-3122-16108509,Lower Yarra River land,2464.42,261.41,3122,525.0
+353,3-197-auburn-road-hawthorn-vic-3122-16096743,Lower Yarra River land,3154.0,314.92,3122,310.0
+354,5-selbourne-street-hawthorn-vic-3122-16100969,Lower Yarra River land,2995.67,365.16,3122,715.0
+355,10-edlington-street-hawthorn-vic-3122-16113945,Lower Yarra River land,3010.18,305.2,3122,800.0
+356,18-112-riversdale-road-hawthorn-vic-3122-16108055,Lower Yarra River land,2872.08,290.76,3122,350.0
+357,10-henrietta-st-hawthorn-vic-3122-16094383,Lower Yarra River land,2665.93,282.86,3122,900.0
+358,5-56-58-burwood-road-hawthorn-vic-3122-16096828,Lower Yarra River land,990.63,155.61,3122,375.0
+359,2-70-power-street-hawthorn-vic-3122-16075968,Lower Yarra River land,1203.85,161.7,3122,470.0
+360,34-589-glenferrie-road-hawthorn-vic-3122-16094937,Lower Yarra River land,2228.86,244.46,3122,265.0
+361,8-1b-kinkora-road-hawthorn-vic-3122-16104258,Lower Yarra River land,1509.53,191.49,3122,380.0
+362,13-23-power-street-hawthorn-vic-3122-16092614,Lower Yarra River land,1362.4,182.98,3122,325.0
+363,4-32-power-street-hawthorn-vic-3122-16103495,Lower Yarra River land,1231.07,175.6,3122,350.0
+364,7-connell-street-hawthorn-vic-3122-16112571,Lower Yarra River land,781.21,122.78,3122,895.0
+365,4-3-finchley-court-hawthorn-vic-3122-16104849,Lower Yarra River land,2453.52,279.85,3122,450.0
+366,304-708-burwood-rd-hawthorn-vic-3122-16096604,Lower Yarra River land,3359.3,335.06,3122,650.0
+367,6-30-munro-st-hawthorn-east-vic-3123-16112646,Lower Yarra River land,3842.3,370.46,3123,495.0
+368,26-hastings-road-hawthorn-east-vic-3123-16107338,Lower Yarra River land,4436.71,413.72,3123,810.0
+369,12-2-freeman-street-hawthorn-east-vic-3123-16099575,Lower Yarra River land,3735.1,389.47,3123,275.0
+370,304-708-burwood-rd-hawthorn-east-vic-3123-16096604,Lower Yarra River land,3359.3,335.06,3123,650.0
+371,107-35-camberwell-road-hawthorn-east-vic-3123-16104010,Lower Yarra River land,3326.52,324.94,3123,625.0
+372,209-8-montrose-street-hawthorn-east-vic-3123-16109618,Lower Yarra River land,3040.11,316.05,3123,400.0
+373,8-1091-burke-road-hawthorn-east-vic-3123-16096688,Lower Yarra River land,4235.74,415.49,3123,370.0
+374,2-119-victoria-road-hawthorn-east-vic-3123-16091571,Lower Yarra River land,3889.52,396.1,3123,390.0
+375,11-115-victoria-rd-hawthorn-east-vic-3123-16099268,Lower Yarra River land,3927.12,394.51,3123,310.0
+376,33-broomfield-road-hawthorn-east-vic-3123-16098753,Lower Yarra River land,3839.69,370.05,3123,1000.0
+377,ug05c-55-camberwell-road-hawthorn-east-vic-3123-16065863,Lower Yarra River land,3423.13,332.67,3123,615.0
+378,23-11-auburn-gr-hawthorn-east-vic-3123-16106129,Lower Yarra River land,3165.52,324.94,3123,420.0
+379,2-31-33-caroline-street-hawthorn-east-vic-3123-16109612,Lower Yarra River land,3613.24,389.77,3123,370.0
+380,2-21-munro-st-hawthorn-east-vic-3123-16108516,Lower Yarra River land,3624.74,399.73,3123,425.0
+381,202-555-burke-road-camberwell-vic-3124-16109562,Lower Yarra River land,6017.07,528.5,3124,680.0
+382,24-prospect-hill-road-camberwell-vic-3124-16092042,Lower Yarra River land,4415.12,450.29,3124,1100.0
+383,9-pine-camberwell-vic-3124-16112483,Wattle Park,5549.38,526.34,3124,1150.0
+384,3-aisbett-ave-camberwell-vic-3124-16109108,Wattle Park,3123.16,315.5,3124,700.0
+385,54-athelstan-road-camberwell-vic-3124-16104500,Wattle Park,5382.17,484.91,3124,975.0
+386,43-cochrane-avenue-camberwell-vic-3124-16109593,Wattle Park,5105.19,495.29,3124,1250.0
+387,301-1150-toorak-road-camberwell-vic-3124-16100175,Wattle Park,4082.82,392.79,3124,450.0
+388,14-thomas-st-camberwell-vic-3124-16106434,Wattle Park,1738.63,186.89,3124,1600.0
+389,568-camberwell-road-camberwell-vic-3124-16098540,Wattle Park,4652.59,452.64,3124,550.0
+390,1-3-crescent-road-camberwell-vic-3124-16096867,Wattle Park,4444.31,405.79,3124,495.0
+391,27-ellsworth-crescent-camberwell-vic-3124-16093229,Wattle Park,2207.39,304.92,3124,810.0
+392,4-11-allambee-avenue-camberwell-vic-3124-16100759,Wattle Park,3032.85,309.39,3124,530.0
+393,2-14-rowell-avenue-camberwell-vic-3124-16097609,Wattle Park,4565.06,430.93,3124,600.0
+394,g02-555-burke-road-camberwell-vic-3124-16095744,Lower Yarra River land,6017.07,528.5,3124,650.0
+395,3-4-spencer-road-camberwell-vic-3124-16091161,Wattle Park,3423.34,328.59,3124,465.0
+396,4-105-wattle-valley-road-camberwell-vic-3124-16105634,Wattle Park,2522.9,247.68,3124,395.0
+397,4-gilmour-road-camberwell-vic-3124-16106772,Wattle Park,2117.02,226.32,3124,900.0
+398,1a-monica-street-burwood-vic-3125-16097697,Wattle Park,2273.01,274.14,3125,730.0
+399,78-wattle-valley-rd-canterbury-vic-3126-16109321,Wattle Park,2517.54,246.27,3126,1100.0
+400,2e-hopetoun-avenue-canterbury-vic-3126-16099464,Wattle Park,4083.35,396.0,3126,750.0
+401,31-rubens-grove-canterbury-vic-3126-16112358,Yarra Bend Park,5620.37,606.77,3126,1400.0
+402,206-801-whitehorse-road-mont-albert-vic-3127-16107016,Wattle Park,4172.76,393.59,3127,550.0
+403,3-1-nangnak-lane-mont-albert-vic-3127-16105157,Wattle Park,4185.21,402.59,3127,640.0
+404,3-34-durham-road-surrey-hills-vic-3127-16103162,Wattle Park,2200.18,251.71,3127,395.0
+405,937-riversdale-road-surrey-hills-vic-3127-16095527,Wattle Park,1138.13,142.25,3127,550.0
+406,1-969-riversdale-road-surrey-hills-vic-3127-16099850,Wattle Park,855.64,116.83,3127,500.0
+407,4-13-blackburn-street-surrey-hills-vic-3127-16109055,Wattle Park,2702.15,301.27,3127,430.0
+408,201-43-zetland-road-mont-albert-vic-3127-16092749,Wattle Park,4187.7,418.06,3127,730.0
+409,g02-178-union-rd-surrey-hills-vic-3127-16103762,Wattle Park,2549.69,267.15,3127,390.0
+410,12-kennealy-st-surrey-hills-vic-3127-16112779,Wattle Park,3021.58,326.65,3127,1500.0
+411,1-52-medway-street-box-hill-vic-3128-16112906,Wattle Park,5122.85,538.72,3128,370.0
+412,205-6-8-wellington-road-box-hill-vic-3128-16110292,Wattle Park,4323.8,517.6,3128,400.0
+413,8-27-oxford-street-box-hill-vic-3128-16098733,Wattle Park,3570.72,389.48,3128,580.0
+414,88-surrey-road-blackburn-north-vic-3130-16112949,Mullum Mullum Park,5008.3,541.53,3130,600.0
+415,2-11-barrina-street-blackburn-south-vic-3130-16107646,Davy Lane Reserve,5094.3,688.48,3130,750.0
+416,229b-1-19-colombo-street-mitcham-vic-3132-16106908,Mullum Mullum Park,2551.6,349.37,3132,330.0
+417,2-8-rupert-street-mitcham-vic-3132-16113687,Mullum Mullum Park,3378.55,333.66,3132,360.0
+418,2-ritz-street-vermont-south-vic-3133-15960853,Healesville Freeway Reserve,2197.18,270.59,3133,520.0
+419,3-20-24-dublin-road-ringwood-east-vic-3135-16112504,Mullum Mullum Park,4210.69,392.21,3135,425.0
+420,16-174-toorak-road-west-south-yarra-vic-3141-16097614,Albert Park,1462.94,199.42,3141,350.0
+421,709-12-14-claremont-street-south-yarra-vic-3141-16098801,Albert Park,2727.68,392.65,3141,410.0
+422,21-palermo-street-south-yarra-vic-3141-16099286,Albert Park,2718.92,352.82,3141,450.0
+423,1101-77-river-street-south-yarra-vic-3141-15537769,Albert Park,2756.08,339.73,3141,540.0
+424,3-1-alexandra-avenue-south-yarra-vic-3141-16103763,Princes Warf,1865.95,255.57,3141,875.0
+425,505-79-river-street-south-yarra-vic-3141-16108010,Albert Park,2862.79,357.8,3141,470.0
+426,2-31-howitt-street-south-yarra-vic-3141-16109026,Albert Reserve,3122.54,309.7,3141,320.0
+427,402-1-chapel-mews-south-yarra-vic-3141-16108066,Parks Victoria Depot - Barkly Ave Park,2670.33,247.82,3141,680.0
+428,4-peter-st-south-yarra-vic-3141-16111285,Albert Reserve,1942.82,233.26,3141,1150.0
+429,22-399-toorak-rd-south-yarra-vic-3141-16103168,Albert Park,3085.1,379.15,3141,900.0
+430,unit-901-50-claremont-st-south-yarra-vic-3141-16098894,Albert Park,2550.43,360.75,3141,365.0
+431,1-16-darling-street-south-yarra-vic-3141-16100628,Albert Park,2125.04,268.97,3141,410.0
+432,4-26-davis-avenue-south-yarra-vic-3141-16111137,Albert Park,2137.29,304.87,3141,375.0
+433,1215-7-claremont-street-south-yarra-vic-3141-16108496,Albert Park,2754.65,397.51,3141,550.0
+434,2-64-park-street-south-yarra-vic-3141-16093045,Albert Park,1335.51,206.07,3141,690.0
+435,62-hawksburn-road-south-yarra-vic-3141-16109344,Albert Park,3046.63,391.88,3141,1200.0
+436,2-55-avoca-street-south-yarra-vic-3141-16103349,Albert Park,2032.14,283.53,3141,630.0
+437,1601-7-claremont-street-south-yarra-vic-3141-15452608,Albert Park,2754.65,397.51,3141,630.0
+438,2-116-anderson-street-south-yarra-vic-3141-16100924,Princes Warf,2041.31,275.75,3141,1150.0
+439,1-16-18-millswyn-street-south-yarra-vic-3141-16104898,Albert Park,1007.71,166.2,3141,475.0
+440,5-90-toorak-road-west-south-yarra-vic-3141-16096683,Albert Park,1079.69,165.51,3141,360.0
+441,3-1-alexandra-avenue-south-yarra-vic-3141-16103763,Princes Warf,1865.95,255.57,3141,875.0
+442,1205-77-river-street-south-yarra-vic-3141-14520896,Albert Park,2756.08,339.73,3141,540.0
+443,106-471-malvern-road-south-yarra-vic-3141-16099095,Albert Reserve,2815.18,265.11,3141,425.0
+444,unit-1607-50-claremont-st-south-yarra-vic-3141-16111948,Albert Park,2550.43,360.75,3141,580.0
+445,1311-18-claremont-street-south-yarra-vic-3141-16106506,Albert Park,2688.1,385.53,3141,620.0
+446,1212-35-malcolm-street-south-yarra-vic-3141-16104529,Albert Park,2675.36,328.11,3141,500.0
+447,4-35-marne-street-south-yarra-vic-3141-16103633,Albert Park,1507.54,222.8,3141,700.0
+448,9-21-rockley-road-south-yarra-vic-3141-16109121,Albert Park,2973.99,378.88,3141,400.0
+449,14-acland-street-south-yarra-vic-3141-16100335,Albert Park,1865.18,248.73,3141,1400.0
+450,24-43-caroline-street-south-yarra-vic-3141-16105251,Albert Park,1765.63,244.82,3141,395.0
+451,203-5-7-wilson-street-south-yarra-vic-3141-15197334,Albert Reserve,2579.65,277.77,3141,450.0
+452,504-649-chapel-street-south-yarra-vic-3141-16097235,Albert Park,2682.93,335.61,3141,650.0
+453,510-77-river-street-south-yarra-vic-3141-16093296,Albert Park,2756.08,339.73,3141,395.0
+454,1305-45-claremont-street-south-yarra-vic-3141-16097070,Albert Park,2516.32,357.51,3141,430.0
+455,4-470-punt-road-south-yarra-vic-3141-16111404,Albert Park,1901.24,245.07,3141,430.0
+456,1008-2-claremont-street-south-yarra-vic-3141-14225672,Albert Park,2224.57,308.24,3141,630.0
+457,7-burnie-street-toorak-vic-3142-16105562,Herring Island,2535.2,356.43,3142,865.0
+458,17a-clendon-road-toorak-vic-3142-16105569,Herring Island,3675.14,376.8,3142,1370.0
+459,3-20-tintern-avenue-toorak-vic-3142-16096159,Herring Island,2981.99,356.35,3142,690.0
+460,5-256-williams-road-toorak-vic-3142-16098967,Herring Island,3156.02,346.53,3142,435.0
+461,1-791-malvern-road-toorak-vic-3142-16098134,Herring Island,4075.55,418.21,3142,475.0
+462,4-24-lascelles-avenue-toorak-vic-3142-16111381,Herring Island,2336.88,266.72,3142,875.0
+463,24-723-orrong-road-toorak-vic-3142-16109865,Herring Island,2323.56,255.5,3142,670.0
+464,2-424-toorak-road-toorak-vic-3142-16103422,Herring Island,2637.41,298.37,3142,550.0
+465,21-425-toorak-road-toorak-vic-3142-16113469,Herring Island,2645.5,314.18,3142,600.0
+466,11-mell-street-toorak-vic-3142-16096375,Albert Reserve,3312.07,349.16,3142,950.0
+467,4-mandeville-crescent-toorak-vic-3142-16099272,Herring Island,3694.51,387.51,3142,840.0
+468,2-12-chastleton-avenue-toorak-vic-3142-16111165,Herring Island,1819.16,217.69,3142,460.0
+469,685-orrong-rd-toorak-vic-3142-16111493,Herring Island,2806.17,305.92,3142,1800.0
+470,7-2a-burnie-street-toorak-vic-3142-16108212,Herring Island,2472.98,341.49,3142,400.0
+471,66-albany-road-toorak-vic-3142-16109249,Herring Island,3317.34,347.22,3142,770.0
+472,8-18-mercer-road-armadale-vic-3143-16098674,Herring Island,4915.0,524.0,3143,530.0
+473,102-8a-evergreen-mews-armadale-vic-3143-16098928,Herring Island,3921.64,424.45,3143,800.0
+474,17-29-kooyong-road-armadale-vic-3143-16109622,Albert Park,4379.32,434.22,3143,300.0
+475,49-northcote-road-armadale-vic-3143-16097996,Herring Island,4124.4,470.3,3143,950.0
+476,6-507-dandenong-road-armadale-vic-3143-16098888,Albert Park,4838.5,459.26,3143,550.0
+477,13-7-sutherland-road-armadale-vic-3143-16113177,Albert Park,4089.93,448.97,3143,430.0
+478,1-25-rose-street-armadale-vic-3143-10042843,Herring Island,3861.61,424.21,3143,560.0
+479,16-2-armadale-street-armadale-vic-3143-16092266,Albert Park,4446.43,446.3,3143,350.0
+480,303-960-high-street-armadale-vic-3143-16100725,Herring Island,4820.12,469.44,3143,850.0
+481,9-62-wattletree-road-armadale-vic-3143-16091210,Albert Park,4431.73,435.33,3143,650.0
+482,604-8c-evergreen-mews-armadale-vic-3143-15223873,Herring Island,3921.64,424.45,3143,690.0
+483,7-1-duncraig-avenue-armadale-vic-3143-16107324,Albert Park,4831.28,477.24,3143,410.0
+484,19-60-wattletree-road-armadale-vic-3143-16109919,Albert Park,4317.12,442.93,3143,825.0
+485,74-sutherland-road-armadale-vic-3143-16092668,Herring Island,4752.88,508.23,3143,1500.0
+486,7-36-johnstone-street-malvern-vic-3144-16104691,Herring Island,7655.41,694.77,3144,350.0
+487,1e-wilmot-street-malvern-vic-3144-16095645,Herring Island,9867.9,812.32,3144,700.0
+488,2-445-glenferrie-road-malvern-vic-3144-16109767,Lower Yarra River land,4422.59,418.56,3144,800.0
+489,g03-1271-1273-high-street-malvern-vic-3144-16109656,Herring Island,5816.95,566.2,3144,800.0
+490,305-1200-high-street-malvern-vic-3144-15192944,Herring Island,5268.6,513.3,3144,450.0
+491,10-1231-malvern-road-malvern-vic-3144-16097026,Herring Island,5517.9,487.2,3144,575.0
+492,314-14-elizabeth-street-malvern-vic-3144-16110243,Herring Island,5866.33,534.46,3144,650.0
+493,6-164-wattletree-road-malvern-vic-3144-16100356,Herring Island,6307.43,594.21,3144,285.0
+494,22-ethel-street-malvern-vic-3144-16099895,Herring Island,4908.87,416.19,3144,1600.0
+495,9-164-wattletree-road-malvern-vic-3144-16100352,Herring Island,6307.43,594.21,3144,310.0
+496,8-260-wattletree-road-malvern-vic-3144-16098780,Herring Island,6898.23,614.21,3144,375.0
+497,2-413a-waverley-road-malvern-east-vic-3145-16112451,Wattle Park,7526.41,752.6,3145,410.0
+498,2-4-prior-rd-malvern-east-vic-3145-16096071,Wattle Park,6575.78,748.52,3145,620.0
+499,27-clynden-avenue-malvern-east-vic-3145-16105966,Wattle Park,7812.73,733.47,3145,420.0
+500,4-5-winton-road-malvern-east-vic-3145-16103745,Wattle Park,7696.83,727.47,3145,520.0
+501,101-1443-dandenong-road-malvern-east-vic-3145-16113756,Karkarook Park (water authority land),5520.54,676.64,3145,495.0
+502,6-1403-dandenong-road-malvern-east-vic-3145-16094655,Karkarook Park (water authority land),5825.82,704.68,3145,350.0
+503,4-65-paxton-street-malvern-east-vic-3145-16108869,Wattle Park,8192.19,769.23,3145,420.0
+504,10-798-warrigal-road-malvern-east-vic-3145-16103154,Karkarook Park (water authority land),5939.87,718.54,3145,360.0
+505,5-23-camira-street-malvern-east-vic-3145-15363345,Karkarook Park (water authority land),6125.79,744.58,3145,300.0
+506,211-2a-clarence-street-malvern-east-vic-3145-16106072,Herring Island,8262.65,730.42,3145,350.0
+507,726-warrigal-road-malvern-east-vic-3145-16092294,Wattle Park,6325.47,704.31,3145,710.0
+508,31-moama-road-malvern-east-vic-3145-16092594,Herring Island,9020.93,755.78,3145,995.0
+509,12-abbotsford-avenue-malvern-east-vic-3145-16092573,Wattle Park,6795.65,703.97,3145,895.0
+510,62-queens-avenue-caulfield-east-vic-3145-16104907,Herring Island,9434.75,832.32,3145,495.0
+511,1855-malvern-road-malvern-east-vic-3145-16103632,Wattle Park,7763.75,720.15,3145,1700.0
+512,3-60-serrell-st-malvern-east-vic-3145-16107329,Wattle Park,8632.53,853.75,3145,630.0
+513,27-pepperell-lane-malvern-east-vic-3145-16109184,Wattle Park,8531.86,783.25,3145,780.0
+514,15-2a-bates-street-malvern-east-vic-3145-16108936,Herring Island,8811.01,732.53,3145,275.0
+515,402-2a-clarence-street-malvern-east-vic-3145-16095778,Herring Island,8262.65,730.42,3145,350.0
+516,10-2-4-baker-street-malvern-east-vic-3145-16103677,Wattle Park,8926.5,814.71,3145,450.0
+517,12-786-warrigal-road-malvern-east-vic-3145-16105663,,,,3145,360.0
+518,5-68-edgar-street-north-glen-iris-vic-3146-16105927,Herring Island,5876.35,554.48,3146,400.0
+519,4-17-hope-street-glen-iris-vic-3146-16110227,Herring Island,7116.65,568.33,3146,450.0
+520,10-299-burke-road-glen-iris-vic-3146-16103519,Herring Island,5941.21,448.16,3146,310.0
+521,144-high-st-glen-iris-vic-3146-16092883,Wattle Park,5716.39,530.65,3146,670.0
+522,4-16-wills-street-glen-iris-vic-3146-16111457,Lower Yarra River land,7003.6,696.93,3146,550.0
+523,4-1458-high-street-glen-iris-vic-3146-16103489,Herring Island,6305.5,577.02,3146,1550.0
+524,385-burke-road-glen-iris-vic-3146-16096642,Herring Island,6129.09,473.66,3146,600.0
+525,28-somerset-road-glen-iris-vic-3146-16108831,Wattle Park,4530.77,462.95,3146,480.0
+526,15-4-wills-street-glen-iris-vic-3146-16098084,Lower Yarra River land,7099.01,714.11,3146,380.0
+527,17-watson-street-glen-iris-vic-3146-16104587,Wattle Park,4913.04,461.44,3146,550.0
+528,10-katta-court-ashwood-vic-3147-16092329,Wattle Park,5611.98,535.87,3147,560.0
+529,102-4-yertchuk-avenue-ashwood-vic-3147-16095641,Wattle Park,4591.75,544.15,3147,495.0
+530,2-26-may-park-avenue-ashwood-vic-3147-16112429,Wattle Park,4733.54,476.37,3147,630.0
+531,404-70-batesford-road-chadstone-vic-3148-16094741,Wattle Park,5367.54,573.75,3148,390.0
+532,33-carramar-street-chadstone-vic-3148-16096061,Wattle Park,6519.98,709.7,3148,650.0
+533,2-23-amaroo-street-chadstone-vic-3148-15802799,Wattle Park,6276.48,651.26,3148,525.0
+534,1-20-carramar-street-chadstone-vic-3148-16100769,Wattle Park,6353.61,669.77,3148,600.0
+535,10-303-305-huntingdale-road-chadstone-vic-3148-16099550,Wattle Park,6779.32,638.19,3148,395.0
+536,2-16-thurloo-street-chadstone-vic-3148-16096767,Wattle Park,5949.28,694.58,3148,650.0
+537,2-14-hiscock-street-chadstone-vic-3148-15363745,Wattle Park,6674.39,723.48,3148,650.0
+538,2-103-waverley-road-chadstone-vic-3148-16098229,Wattle Park,6612.62,697.35,3148,560.0
+539,3-112-114-huntingdale-road-mount-waverley-vic-3149-14880327,Wattle Park,5057.09,485.85,3149,400.0
+540,1b-laura-grove-mount-waverley-vic-3149-16096160,Dandenong Valley Parklands,5054.25,485.83,3149,695.0
+541,111-436-442-huntingdale-road-mount-waverley-vic-3149-16105315,Wattle Park,7541.92,707.2,3149,370.0
+542,3-kingsley-grove-mount-waverley-vic-3149-16098328,Karkarook Park (water authority land),8918.52,875.53,3149,650.0
+543,6-hillside-road-mount-waverley-vic-3149-16099260,Wattle Park,5626.46,515.97,3149,580.0
+544,49-pascall-street-mount-waverley-vic-3149-16095717,Dandenong Valley Parklands,5085.93,510.53,3149,860.0
+545,8-pindari-drive-bayswater-vic-3153-16113044,Healesville Freeway Reserve,4562.53,408.26,3153,535.0
+546,6-11-kooyong-road-caulfield-north-vic-3161-16035335,Albert Park,3909.76,377.39,3161,375.0
+547,2-309-hawthorn-road-caulfield-north-vic-3161-16110754,St Kilda (Brookes Jetty),5842.85,546.57,3161,700.0
+548,7-norwood-rd-caulfield-north-vic-3161-16111976,Albert Park,3413.87,366.98,3161,600.0
+549,1-41-kooyong-rd-caulfield-north-vic-3161-16113276,Albert Park,4192.75,400.03,3161,720.0
+550,2-27-leaburn-avenue-caulfield-north-vic-3161-16099564,St Kilda (Brookes Jetty),4297.35,471.75,3161,1200.0
+551,7-94-eskdale-rd-caulfield-north-vic-3161-16111066,Herring Island,8158.69,766.49,3161,320.0
+552,201-6-station-st-caulfield-north-vic-3161-16108638,Herring Island,8405.03,758.87,3161,580.0
+553,station-street-caulfield-north-vic-3161-16094214,Herring Island,8424.14,770.92,3161,495.0
+554,6-374-dandenong-road-caulfield-north-vic-3161-16111921,Albert Park,3496.03,357.36,3161,575.0
+555,10-113-eskdale-road-caulfield-north-vic-3161-16112117,Herring Island,8473.02,780.15,3161,320.0
+556,3-54-kooyong-road-caulfield-north-vic-3161-16104819,Albert Park,4213.74,405.26,3161,550.0
+557,207-6-station-st-caulfield-north-vic-3161-16108569,Herring Island,8405.03,758.87,3161,480.0
+558,37a-bambra-road-caulfield-north-vic-3161-16098329,Middle Brighton Pier and Breakwater,7312.77,647.57,3161,640.0
+559,2-55-wanda-rd-caulfield-north-vic-3161-16093913,Albert Park,4198.34,417.8,3161,700.0
+560,3-31-wanda-road-caulfield-north-vic-3161-15230423,Albert Park,4429.74,443.27,3161,375.0
+561,station-street-caulfield-north-vic-3161-16094221,Herring Island,8424.14,770.92,3161,640.0
+562,108-67-77-hawthorn-road-caulfield-north-vic-3161-16113540,Albert Park,5085.39,444.19,3161,520.0
+563,6-labassa-grove-caulfield-north-vic-3161-16110340,Albert Park,3713.47,359.04,3161,625.0
+564,3-681-inkerman-road-caulfield-north-vic-3161-16107828,Albert Park,4602.38,439.76,3161,460.0
+565,5-120-murray-street-caulfield-vic-3162-16098698,St Kilda (Brookes Jetty),5634.63,561.08,3162,525.0
+566,43-bent-st-caulfield-south-vic-3162-16093981,Middle Brighton Pier and Breakwater,6052.17,589.3,3162,1200.0
+567,5-1011-glen-huntly-road-caulfield-vic-3162-16111675,,,,3162,440.0
+568,107-15-bond-street-caulfield-vic-3162-15367271,Herring Island,8371.73,757.68,3162,450.0
+569,20-sycamore-street-caulfield-south-vic-3162-16111960,Middle Brighton Pier and Breakwater,4751.66,481.96,3162,895.0
+570,3-1-frederick-street-caulfield-south-vic-3162-16106461,Middle Brighton Pier and Breakwater,5430.89,551.65,3162,495.0
+571,16-york-street-caulfield-south-vic-3162-16112581,Middle Brighton Pier and Breakwater,4527.9,469.04,3162,650.0
+572,2-276-hawthorn-road-caulfield-vic-3162-16097784,St Kilda (Brookes Jetty),5825.49,545.43,3162,485.0
+573,3-1-freeman-street-caulfield-vic-3162-16092052,Middle Brighton Pier and Breakwater,6409.51,608.33,3162,1100.0
+574,11-8-tattenham-street-caulfield-vic-3162-16110783,Herring Island,9474.91,814.59,3162,330.0
+575,1a-marriott-street-caulfield-vic-3162-16103818,Middle Brighton Pier and Breakwater,6827.56,619.86,3162,910.0
+576,1-142-booran-road-caulfield-south-vic-3162-16107934,Karkarook Park (water authority land),9281.71,851.0,3162,575.0
+577,201-136-murray-street-caulfield-vic-3162-10136316,St Kilda (Brookes Jetty),5499.53,527.38,3162,430.0
+578,2-17-railway-parade-murrumbeena-vic-3163-16109008,Karkarook Park (water authority land),6944.57,692.7,3163,360.0
+579,82-115-neerim-road-glen-huntly-vic-3163-16095621,,,,3163,350.0
+580,257-koornang-road-carnegie-vic-3163-16108611,Karkarook Park (water authority land),7363.26,708.9,3163,670.0
+581,3-25-shepparson-avenue-carnegie-vic-3163-16094973,,,,3163,340.0
+582,12-24-dunoon-street-murrumbeena-vic-3163-16110351,Karkarook Park (water authority land),7163.3,680.93,3163,330.0
+583,28-lyons-street-carnegie-vic-3163-16096310,Karkarook Park (water authority land),8028.82,786.86,3163,700.0
+584,3-10-adelaide-street-murrumbeena-vic-3163-16109631,Wattle Park,8332.59,828.58,3163,300.0
+585,14-13-rosedale-ave-glen-huntly-vic-3163-16103695,,,,3163,285.0
+586,6-20-gerald-st-murrumbeena-vic-3163-16097327,Karkarook Park (water authority land),6306.08,688.47,3163,350.0
+587,5-9-rosstown-road-carnegie-vic-3163-16110849,,,,3163,310.0
+588,7-15-rosedale-avenue-glen-huntly-vic-3163-16095521,,,,3163,400.0
+589,1-15-melbourne-street-murrumbeena-vic-3163-16103337,,,,3163,500.0
+590,1-velra-ave-murrumbeena-vic-3163-16091106,Karkarook Park (water authority land),4619.59,475.37,3163,750.0
+591,2-67-moonya-rd-carnegie-vic-3163-16098026,Karkarook Park (water authority land),6762.79,652.48,3163,320.0
+592,6-1204-glen-huntly-road-glen-huntly-vic-3163-16110831,,,,3163,480.0
+593,6-45-coorigil-road-carnegie-vic-3163-16091052,Karkarook Park (water authority land),7134.44,692.67,3163,290.0
+594,19-160-grange-road-carnegie-vic-3163-16092925,Karkarook Park (water authority land),8574.48,803.59,3163,280.0
+595,6-18-bute-st-murrumbeena-vic-3163-16112065,Karkarook Park (water authority land),6719.74,673.77,3163,290.0
+596,1140-dandenong-rd-carnegie-vic-3163-16097320,Wattle Park,8656.53,872.92,3163,510.0
+597,5-12a-toward-street-murrumbeena-vic-3163-16099704,Karkarook Park (water authority land),6778.96,667.95,3163,295.0
+598,3-29-mernda-ave-carnegie-vic-3163-16103178,Karkarook Park (water authority land),8229.19,857.54,3163,330.0
+599,10-5-wilson-street-murrumbeena-vic-3163-16104133,Wattle Park,8291.97,839.29,3163,230.0
+600,2-109-grange-road-glen-huntly-vic-3163-16091489,,,,3163,265.0
+601,22b-park-ave-glen-huntly-vic-3163-16094731,Karkarook Park (water authority land),8208.44,769.25,3163,780.0
+602,1-204-neerim-road-carnegie-vic-3163-15580163,,,,3163,295.0
+603,3-3-mackay-ave-carnegie-vic-3163-16098646,Karkarook Park (water authority land),8546.08,812.39,3163,460.0
+604,4-16-toward-street-murrumbeena-vic-3163-16094879,Karkarook Park (water authority land),6739.4,663.2,3163,425.0
+605,203-1298-glen-huntly-road-carnegie-vic-3163-16106830,Karkarook Park (water authority land),8284.13,785.4,3163,495.0
+606,3-4-beverley-street-glen-huntly-vic-3163-16109544,Karkarook Park (water authority land),9640.26,909.19,3163,450.0
+607,209-3-elliott-ave-carnegie-vic-3163-16097314,Wattle Park,9198.68,900.53,3163,580.0
+608,3-brisbane-street-murrumbeena-vic-3163-16099765,Wattle Park,7999.79,820.8,3163,495.0
+609,103-16-malane-street-bentleigh-east-vic-3165-16098175,Karkarook Park (water authority land),4613.33,525.03,3165,380.0
+610,310-24-becket-avenue-bentleigh-east-vic-3165-16098565,Karkarook Park (water authority land),4317.03,470.96,3165,360.0
+611,1-kadir-street-bentleigh-east-vic-3165-16110561,Karkarook Park (water authority land),3759.65,476.79,3165,420.0
+612,9a-9b-ludwell-crescent-bentleigh-east-vic-3165-16092784,Karkarook Park (water authority land),2856.45,392.68,3165,900.0
+613,26a-bonny-street-bentleigh-east-vic-3165-16058750,Karkarook Park (water authority land),2643.69,346.86,3165,1150.0
+614,6-27-gladwyn-avenue-bentleigh-east-vic-3165-15284183,Karkarook Park (water authority land),5497.98,565.04,3165,430.0
+615,3-54-hill-street-bentleigh-east-vic-3165-16091798,Karkarook Park (water authority land),3873.23,437.16,3165,400.0
+616,2-45-browns-road-bentleigh-east-vic-3165-16104783,Karkarook Park (water authority land),4313.55,470.12,3165,420.0
+617,7a-fraser-street-bentleigh-east-vic-3165-16104506,Karkarook Park (water authority land),4273.91,542.22,3165,950.0
+618,1-bethwyn-street-bentleigh-east-vic-3165-16103205,Karkarook Park (water authority land),5287.32,516.48,3165,495.0
+619,1-45-neville-st-bentleigh-east-vic-3165-16095004,Karkarook Park (water authority land),4038.88,469.05,3165,650.0
+620,202-53-browns-road-bentleigh-east-vic-3165-16097230,Karkarook Park (water authority land),4308.35,468.87,3165,545.0
+621,1-10-keith-street-oakleigh-east-vic-3166-16099635,Karkarook Park (water authority land),6120.86,624.49,3166,405.0
+622,1-2-mill-road-oakleigh-vic-3166-15374846,Karkarook Park (water authority land),4540.27,557.3,3166,630.0
+623,3-1845-dandenong-road-oakleigh-east-vic-3166-16092754,Karkarook Park (water authority land),7570.22,786.59,3166,950.0
+624,3-1-coane-street-oakleigh-east-vic-3166-16110864,Karkarook Park (water authority land),6660.22,658.75,3166,400.0
+625,9-parer-street-oakleigh-vic-3166-16093353,Karkarook Park (water authority land),4998.73,534.01,3166,540.0
+626,17-crown-close-oakleigh-east-vic-3166-16113552,Karkarook Park (water authority land),8430.75,843.28,3166,520.0
+627,3-60-patrick-street-oakleigh-east-vic-3166-16099764,Karkarook Park (water authority land),7663.68,793.12,3166,650.0
+628,2-1845-dandenong-road-oakleigh-east-vic-3166-16092807,Karkarook Park (water authority land),7570.22,786.59,3166,850.0
+629,3-14-carmichael-road-oakleigh-east-vic-3166-16091410,Karkarook Park (water authority land),7560.05,801.87,3166,650.0
+630,3-28a-carlisle-crescent-hughesdale-vic-3166-15840574,Karkarook Park (water authority land),6198.8,601.13,3166,510.0
+631,6-berrima-street-oakleigh-east-vic-3166-15137796,Karkarook Park (water authority land),8316.03,830.21,3166,450.0
+632,203-59-63-warrigal-road-hughesdale-vic-3166-13009899,Karkarook Park (water authority land),4887.83,608.95,3166,480.0
+633,7-1344-dandenong-road-hughesdale-vic-3166-16112445,,,,3166,390.0
+634,1-20-lincoln-street-oakleigh-vic-3166-16107897,Karkarook Park (water authority land),5861.38,626.45,3166,550.0
+635,16-silvan-street-oakleigh-south-vic-3167-15400067,Karkarook Park (water authority land),1959.9,254.79,3167,575.0
+636,3-15-elata-street-oakleigh-south-vic-3167-16099363,Karkarook Park (water authority land),4551.88,479.81,3167,430.0
+637,1-2-cunningham-place-oakleigh-south-vic-3167-16094025,Karkarook Park (water authority land),2385.99,270.91,3167,460.0
+638,1-40-glenbrook-avenue-clayton-vic-3168-16110445,Karkarook Park (water authority land),7468.0,765.88,3168,775.0
+639,118-864-blackburn-road-clayton-vic-3168-16103508,,,,3168,380.0
+640,4-28-banksia-street-clayton-vic-3168-16109082,Karkarook Park (water authority land),6792.71,712.37,3168,420.0
+641,2-1-manatunga-street-clayton-vic-3168-16099845,Karkarook Park (water authority land),7346.63,731.77,3168,650.0
+642,2-40-glenbrook-avenue-clayton-vic-3168-16110582,Karkarook Park (water authority land),7468.0,765.88,3168,550.0
+643,1-3-jaguar-drive-clayton-vic-3168-16022646,Karkarook Park,8063.59,889.92,3168,695.0
+644,20-2-greenfield-drive-clayton-vic-3168-15740628,Karkarook Park (water authority land),6851.8,807.35,3168,360.0
+645,3-40-glenbrook-avenue-clayton-vic-3168-16111672,Karkarook Park (water authority land),7468.0,765.88,3168,895.0
+646,1-4-6-mallawa-street-clayton-south-vic-3169-16092812,Karkarook Park (water authority land),5873.39,543.66,3169,380.0
+647,56-davanzo-avenue-clarinda-vic-3169-16092173,Karkarook Park (water authority land),2983.22,420.54,3169,460.0
+648,17-wandoo-avenue-clarinda-vic-3169-16108397,Karkarook Park (water authority land),4361.43,473.18,3169,495.0
+649,11-regent-avenue-springvale-vic-3171-16110391,Braeside Park,6208.87,723.01,3171,450.0
+650,2-9-virginia-street-springvale-vic-3171-16103573,Braeside Park,6360.54,788.44,3171,495.0
+651,33a-marcus-road-dingley-village-vic-3172-16097552,Braeside Park,1332.41,144.05,3172,650.0
+652,11-ridder-court-dingley-village-vic-3172-16104299,Braeside Park,3117.57,348.43,3172,470.0
+653,1-69-centre-dandenong-road-dingley-village-vic-3172-16099840,Braeside Park,838.55,105.44,3172,540.0
+654,130-stanley-road-keysborough-vic-3173-16093594,Braeside Park,4067.31,509.24,3173,850.0
+655,20-greenside-cres-keysborough-vic-3173-16110634,Braeside Park,3126.92,405.83,3173,850.0
+656,41-balgowlah-avenue-keysborough-vic-3173-16104670,Braeside Park,4373.46,497.74,3173,480.0
+657,2-1-mitchell-court-noble-park-vic-3174-16091711,Braeside Park,7476.13,740.07,3174,290.0
+658,3-15-leman-crescent-noble-park-vic-3174-16104774,Braeside Park,7273.45,766.49,3174,550.0
+659,24-kleine-street-noble-park-vic-3174-16102906,Braeside Park,5150.37,579.74,3174,530.0
+660,33-theodore-avenue-noble-park-vic-3174-16104719,Braeside Park,4642.19,535.28,3174,420.0
+661,710-stud-road-scoresby-vic-3179-15268201,Dandenong Valley Parklands,4722.8,644.62,3179,485.0
+662,1c-lewisham-road-windsor-vic-3181-16104364,Albert Park,2954.7,342.42,3181,750.0
+663,2-abeckett-street-prahran-vic-3181-16095838,Albert Reserve,3532.76,334.7,3181,1200.0
+664,g04-652-high-street-prahran-vic-3181-16111416,Albert Park,3560.17,430.97,3181,625.0
+665,62a-union-street-windsor-vic-3181-16096060,Albert Park,1195.71,167.0,3181,1000.0
+666,502-201-high-street-prahran-vic-3181-16108215,Albert Reserve,2195.64,259.63,3181,380.0
+667,72-perth-street-prahran-vic-3181-16108083,Albert Reserve,1477.6,195.67,3181,875.0
+668,2-22-ellesmere-road-prahran-vic-3181-16112401,Albert Park,2855.37,324.42,3181,500.0
+669,23-66-murray-street-prahran-vic-3181-16093824,Albert Park,3109.07,399.64,3181,400.0
+670,24-300-high-street-prahran-vic-3181-16092833,Albert Reserve,2458.48,286.66,3181,595.0
+671,304-152-peel-street-windsor-vic-3181-16108695,Albert Park,1783.37,268.93,3181,495.0
+672,2-2-rae-court-prahran-vic-3181-16092519,Albert Park,2962.52,338.51,3181,450.0
+673,4-2-4-jessamine-avenue-prahran-vic-3181-16096629,Albert Park,3622.97,405.53,3181,430.0
+674,22-174-peel-street-windsor-vic-3181-16109077,Albert Park,1559.52,240.25,3181,570.0
+675,1-1-ellesmere-road-windsor-vic-3181-16107246,Albert Park,2976.92,339.0,3181,330.0
+676,9-4-normanby-street-windsor-vic-3181-16103941,Albert Reserve,2841.71,334.65,3181,330.0
+677,110-22-chatham-street-prahran-vic-3181-16104912,Albert Reserve,1815.7,243.83,3181,360.0
+678,43-eastbourne-street-prahran-vic-3181-16099313,Albert Park,2236.19,290.48,3181,800.0
+679,7-680-malvern-road-prahran-vic-3181-16097081,Albert Reserve,3445.89,325.26,3181,500.0
+680,204-27-the-avenue-windsor-vic-3181-16103482,Albert Reserve,2872.99,325.74,3181,425.0
+681,5-327-dandenong-road-prahran-vic-3181-16112180,Albert Park,3541.19,367.74,3181,585.0
+682,42-321-chapel-street-prahran-vic-3181-16094332,Albert Reserve,2226.89,236.34,3181,495.0
+683,16-spring-street-prahran-vic-3181-16109263,Albert Reserve,3459.74,344.8,3181,550.0
+684,2-6-charlotte-place-st-kilda-vic-3182-16104068,Albert Park,1375.08,188.02,3182,690.0
+685,13-343-beaconsfield-parade-st-kilda-west-vic-3182-16108716,St Kilda Pier and Breakwater,876.78,125.31,3182,385.0
+686,35-233-canterbury-road-st-kilda-west-vic-3182-16109040,Albert Park,310.7,40.88,3182,360.0
+687,17-1-acland-street-st-kilda-vic-3182-16108171,Albert Park,678.06,100.71,3182,280.0
+688,69-chapel-street-st-kilda-vic-3182-16107526,Albert Park,1691.51,198.66,3182,650.0
+689,8-16-marine-parade-st-kilda-vic-3182-16107202,St Kilda (Brookes Jetty),490.37,38.46,3182,400.0
+690,205-211-44-barkly-street-st-kilda-vic-3182-15694325,Albert Park,645.14,90.21,3182,260.0
+691,15-39-41-wellington-street-st-kilda-vic-3182-16110681,Albert Park,824.76,104.54,3182,550.0
+692,18-11-17-park-street-st-kilda-west-vic-3182-16099197,Albert Park,552.31,76.22,3182,450.0
+693,2-47-brighton-road-st-kilda-vic-3182-16103420,St Kilda (Brookes Jetty),3234.36,333.64,3182,400.0
+694,202-8-blanche-street-st-kilda-vic-3182-16095573,Albert Park,1006.88,131.68,3182,600.0
+695,139-chapel-street-st-kilda-vic-3182-16110151,Albert Park,1889.92,223.62,3182,640.0
+696,9-26-loch-street-st-kilda-west-vic-3182-16108504,Albert Park,772.99,88.32,3182,495.0
+697,3-16-eildon-road-st-kilda-vic-3182-16110741,Albert Park,953.06,157.26,3182,575.0
+698,3505-14-16-the-esplanadr-st-kilda-vic-3182-16106828,Albert Park,1137.26,162.21,3182,1600.0
+699,39-220-barkly-street-st-kilda-vic-3182-14537180,St Kilda (Brookes Jetty),778.01,126.71,3182,800.0
+700,2-16-vale-st-st-kilda-vic-3182-16108973,Albert Park,1620.15,191.66,3182,320.0
+701,8-31-charnwood-road-st-kilda-vic-3182-16111421,Albert Park,1384.79,196.96,3182,420.0
+702,9-17-st-leondards-avenue-st-kilda-vic-3182-16110829,Albert Park,1158.35,200.19,3182,590.0
+703,10-15-inkerman-street-st-kilda-vic-3182-16111511,Albert Park,864.39,106.21,3182,630.0
+704,49-64-fitzroy-street-st-kilda-vic-3182-16095131,Albert Park,23.96,4.31,3182,430.0
+705,306-198-st-kilda-road-st-kilda-vic-3182-16113646,Albert Park,1514.52,210.71,3182,350.0
+706,9-39-eildon-rd-st-kilda-vic-3182-14637707,Albert Park,427.28,64.88,3182,400.0
+707,13-2a-robe-street-st-kilda-vic-3182-16113609,St Kilda (Brookes Jetty),1136.15,123.59,3182,675.0
+708,16-42-waterloo-crescent-st-kilda-vic-3182-16112116,Albert Park,953.8,130.26,3182,250.0
+709,2b-waterloo-crescent-st-kilda-vic-3182-16103682,Albert Park,830.85,114.77,3182,995.0
+710,6-50-fitzroy-street-st-kilda-vic-3182-16096820,Albert Park,236.16,35.44,3182,360.0
+711,1-3-7-sebastopol-street-st-kilda-vic-3182-16104975,Albert Park,2348.41,261.65,3182,330.0
+712,8-36-blessington-street-st-kilda-vic-3182-16110703,St Kilda (Brookes Jetty),1941.85,296.76,3182,345.0
+713,13-neptune-street-st-kilda-vic-3182-16108169,Albert Park,704.79,105.19,3182,580.0
+714,05-07-lambeth-place-st-kilda-vic-3182-16111844,Albert Park,1160.36,165.38,3182,345.0
+715,5-16-blessington-court-st-kilda-vic-3182-16091470,St Kilda (Brookes Jetty),426.45,49.82,3182,300.0
+716,207-11-13-jackson-street-st-kilda-vic-3182-16103822,Albert Park,758.78,118.31,3182,700.0
+717,2-44-robe-street-st-kilda-vic-3182-16100042,Albert Park,647.29,89.18,3182,420.0
+718,4-odessa-street-st-kilda-vic-3182-16094649,Albert Park,1257.0,180.03,3182,770.0
+719,15-18-princes-street-st-kilda-vic-3182-16027235,Albert Park,511.27,73.3,3182,495.0
+720,4-30-mitford-street-st-kilda-vic-3182-16099536,St Kilda (Brookes Jetty),1035.57,196.01,3182,395.0
+721,13-47-brighton-road-st-kilda-vic-3182-16099504,St Kilda (Brookes Jetty),1911.03,257.14,3182,440.0
+722,304a-33-inkerman-st-st-kilda-vic-3182-16104398,Albert Park,909.63,111.45,3182,470.0
+723,10-11-marine-parade-st-kilda-vic-3182-16091874,St Kilda (Brookes Jetty),559.4,43.43,3182,360.0
+724,1-2-2-woodstock-street-st-kilda-vic-3182-16093793,St Kilda (Brookes Jetty),2381.53,321.1,3182,375.0
+725,1-116-inkerman-road-st-kilda-vic-3182-15926395,Albert Park,1277.38,171.21,3182,280.0
+726,1-2a-robe-street-st-kilda-vic-3182-16095963,St Kilda (Brookes Jetty),1136.15,123.59,3182,595.0
+727,4-22-crimea-street-st-kilda-vic-3182-15808911,Albert Park,1318.46,185.02,3182,300.0
+728,30-233-235-canterbury-road-st-kilda-west-vic-3182-16108250,Albert Park,310.7,40.88,3182,310.0
+729,7-15-hotham-st-st-kilda-east-vic-3183-16104219,Albert Park,2537.79,288.99,3183,445.0
+730,1-107-grosvenor-street-balaclava-vic-3183-16096804,St Kilda (Brookes Jetty),3281.32,405.68,3183,495.0
+731,1-296-inkerman-st-st-kilda-east-vic-3183-16106154,Albert Park,2509.08,264.52,3183,385.0
+732,102-190-alma-rd-st-kilda-east-vic-3183-16098637,Albert Park,2756.29,295.22,3183,550.0
+733,301-2a-nelson-street-balaclava-vic-3183-16104630,St Kilda (Brookes Jetty),2486.44,354.71,3183,530.0
+734,12-55-alexandra-street-st-kilda-east-vic-3183-16096796,Albert Park,2652.94,287.97,3183,430.0
+735,12-203-alma-rd-st-kilda-east-vic-3183-16097827,Albert Park,2647.15,286.14,3183,440.0
+736,1-kalymna-grove-st-kilda-east-vic-3183-16110858,Albert Park,2932.13,300.36,3183,800.0
+737,6-75-westbury-street-st-kilda-east-vic-3183-16104087,Albert Park,2128.75,241.26,3183,430.0
+738,1-3-7-sebastopol-street-st-kilda-east-vic-3183-16104975,Albert Park,2348.41,261.65,3183,330.0
+739,8-8-cardigan-street-st-kilda-east-vic-3183-16094608,Albert Park,2654.74,280.02,3183,380.0
+740,8-9-celeste-court-st-kilda-east-vic-3183-16109885,Albert Park,3022.56,327.43,3183,300.0
+741,9a-rosamond-street-balaclava-vic-3183-16098659,St Kilda (Brookes Jetty),2185.93,295.58,3183,780.0
+742,1-5-te-arai-ave-st-kilda-east-vic-3183-16103327,Albert Park,3101.66,342.0,3183,525.0
+743,14-3-balston-street-balaclava-vic-3183-16112313,Albert Park,2346.19,264.36,3183,320.0
+744,10-4a-wando-grove-st-kilda-east-vic-3183-16099165,Albert Park,3179.07,361.48,3183,475.0
+745,602-71-inkerman-st-st-kilda-east-vic-3183-16091456,Albert Park,2393.65,255.53,3183,690.0
+746,27-4-wando-grove-st-kilda-east-vic-3183-16098295,Albert Park,3174.8,360.45,3183,290.0
+747,203-120-hotham-street-st-kilda-east-vic-3183-16098448,St Kilda (Brookes Jetty),3035.58,378.45,3183,690.0
+748,12-rosamond-street-balaclava-vic-3183-16113271,St Kilda (Brookes Jetty),2159.92,293.74,3183,695.0
+749,5-48-spray-street-elwood-vic-3184-16092133,St Kilda (Brookes Jetty),2507.51,288.08,3184,390.0
+750,9-40-ormond-road-elwood-vic-3184-16104855,St Kilda (Brookes Jetty),2149.8,221.48,3184,330.0
+751,5-111-ruskin-street-elwood-vic-3184-16104155,St Kilda (Brookes Jetty),1769.72,229.23,3184,800.0
+752,3-483-st-kilda-street-elwood-vic-3184-16094510,Middle Brighton Pier and Breakwater,2576.7,294.55,3184,825.0
+753,13-47-brighton-road-elwood-vic-3184-16099504,St Kilda (Brookes Jetty),1911.03,257.14,3184,440.0
+754,6-25-dickens-street-elwood-vic-3184-16099687,St Kilda (Brookes Jetty),1541.29,256.93,3184,490.0
+755,1-151-glen-huntly-rd-elwood-vic-3184-16095357,St Kilda (Brookes Jetty),2757.16,274.07,3184,400.0
+756,5-8-john-street-elwood-vic-3184-16106183,St Kilda (Brookes Jetty),2236.38,374.17,3184,420.0
+757,7-54-tennyson-street-elwood-vic-3184-16106407,St Kilda (Brookes Jetty),2117.72,334.64,3184,400.0
+758,89b-ruskin-street-elwood-vic-3184-16092997,St Kilda (Brookes Jetty),1569.03,231.3,3184,1200.0
+759,3-22-wave-street-elwood-vic-3184-16095176,St Kilda (Brookes Jetty),2507.79,270.36,3184,620.0
+760,4-49a-tennyson-street-elwood-vic-3184-16109927,St Kilda (Brookes Jetty),2282.9,345.21,3184,415.0
+761,3-24-26-burns-street-elwood-vic-3184-16092084,St Kilda (Brookes Jetty),2905.17,301.01,3184,480.0
+762,7-51-55-goldsmith-street-elwood-vic-3184-16104905,St Kilda (Brookes Jetty),2256.69,268.17,3184,1450.0
+763,1-9-robert-st-elwood-vic-3184-16108685,Albert Park,3082.03,361.0,3184,325.0
+764,g07-12-14-dickens-street-elwood-vic-3184-16098537,St Kilda (Brookes Jetty),1724.27,300.85,3184,425.0
+765,4-19-milton-street-elwood-vic-3184-16106784,St Kilda (Brookes Jetty),1980.8,301.78,3184,550.0
+766,1-9-poets-grove-elwood-vic-3184-16100027,St Kilda (Brookes Jetty),2911.42,324.85,3184,590.0
+767,3-46-foam-street-elwood-vic-3184-16109685,Middle Brighton Pier and Breakwater,2563.99,297.48,3184,490.0
+768,6-59-61-ormond-esplanade-elwood-vic-3184-16110347,St Kilda (Brookes Jetty),2209.74,222.38,3184,770.0
+769,1-1-ruskin-street-elwood-vic-3184-16106092,St Kilda (Brookes Jetty),1193.59,173.49,3184,595.0
+770,78-allison-road-elsternwick-vic-3185-16092486,St Kilda (Brookes Jetty),5324.15,523.88,3185,730.0
+771,1-540-glenhuntly-road-elsternwick-vic-3185-12838412,St Kilda (Brookes Jetty),4661.6,478.23,3185,345.0
+772,3-487-kooyong-road-elsternwick-vic-3185-16105411,Middle Brighton Pier and Breakwater,3762.0,392.36,3185,295.0
+773,2-9-oak-grove-ripponlea-vic-3185-16100046,St Kilda (Brookes Jetty),3131.58,411.59,3185,380.0
+774,4-22-allison-road-elsternwick-vic-3185-11212197,St Kilda (Brookes Jetty),4392.98,456.71,3185,450.0
+775,4-44-clarence-street-elsternwick-vic-3185-16110408,Middle Brighton Pier and Breakwater,4457.15,464.72,3185,350.0
+776,311-7-nepean-highway-elsternwick-vic-3185-16099376,St Kilda (Brookes Jetty),3446.96,384.93,3185,420.0
+777,26-clarence-street-elsternwick-vic-3185-12646931,Middle Brighton Pier and Breakwater,3983.41,451.84,3185,850.0
+778,7-6-ripon-grove-elsternwick-vic-3185-16100128,St Kilda (Brookes Jetty),3576.03,422.67,3185,340.0
+779,7-162-brighton-road-ripponlea-vic-3185-16100540,St Kilda (Brookes Jetty),3423.54,375.05,3185,395.0
+780,4-22-magnolia-road-gardenvale-vic-3185-16109985,Middle Brighton Pier and Breakwater,3483.86,376.02,3185,245.0
+781,504-415-glen-huntly-road-elsternwick-vic-3185-16107407,St Kilda (Brookes Jetty),3902.27,405.78,3185,399.0
+782,76-allison-road-elsternwick-vic-3185-16105190,St Kilda (Brookes Jetty),5326.99,521.86,3185,1200.0
+783,101-67-well-street-brighton-vic-3186-16091137,Middle Brighton Pier and Breakwater,2763.65,313.45,3186,1450.0
+784,3-21-brickwood-st-brighton-vic-3186-16109290,Middle Brighton Pier and Breakwater,2341.36,271.44,3186,510.0
+785,5-297-st-kilda-street-brighton-vic-3186-16092184,Middle Brighton Pier and Breakwater,435.76,65.15,3186,450.0
+786,2-876-hampton-street-brighton-vic-3186-16109894,Middle Brighton Pier and Breakwater,2989.3,315.27,3186,650.0
+787,148-bay-street-brighton-vic-3186-16111243,Middle Brighton Pier and Breakwater,1400.7,150.17,3186,1200.0
+788,145a-church-street-brighton-vic-3186-16108276,Middle Brighton Pier and Breakwater,1973.38,260.76,3186,595.0
+789,5-32-bay-street-brighton-vic-3186-16104811,Middle Brighton Pier and Breakwater,668.65,85.77,3186,810.0
+790,10-26-warleigh-grove-brighton-vic-3186-16111350,Middle Brighton Pier and Breakwater,2129.52,270.97,3186,595.0
+791,33-campbell-street-brighton-vic-3186-16104223,Middle Brighton Pier and Breakwater,1538.61,162.4,3186,1020.0
+792,107-7-9-cowra-street-brighton-vic-3186-16103475,Middle Brighton Pier and Breakwater,2440.21,292.36,3186,600.0
+793,4-14-enfield-road-brighton-vic-3186-16106550,Middle Brighton Pier and Breakwater,2603.04,322.21,3186,450.0
+794,310-380-bay-street-brighton-vic-3186-16097678,Middle Brighton Pier and Breakwater,2102.65,239.68,3186,675.0
+795,8-yuille-street-brighton-vic-3186-16105002,Sandringham Jetty and Breakwater,3048.89,331.63,3186,870.0
+796,1-huntley-street-brighton-vic-3186-16110309,Middle Brighton Pier and Breakwater,3168.09,307.32,3186,1150.0
+797,20a-burwah-avenue-brighton-east-vic-3187-16103434,Middle Brighton Pier and Breakwater,4547.07,434.98,3187,1250.0
+798,238a-were-street-brighton-east-vic-3187-16110215,Sandringham Jetty and Breakwater,3971.95,426.26,3187,1699.0
+799,2-mayrose-crescent-brighton-east-vic-3187-16103263,Sandringham Jetty and Breakwater,3075.33,317.81,3187,1090.0
+800,26-cummins-road-brighton-east-vic-3187-16105212,Sandringham Jetty and Breakwater,4624.61,454.18,3187,690.0
+801,2-10-alford-street-brighton-east-vic-3187-16094684,Middle Brighton Pier and Breakwater,2952.91,318.55,3187,620.0
+802,2b-parker-st-brighton-east-vic-3187-16091552,Middle Brighton Pier and Breakwater,4438.95,425.9,3187,975.0
+803,16a-plunket-street-brighton-east-vic-3187-16099058,Middle Brighton Pier and Breakwater,4000.69,394.52,3187,1400.0
+804,316b-south-road-hampton-east-vic-3188-16101248,Sandringham Jetty and Breakwater,4774.61,480.16,3188,900.0
+805,6-518-bluff-rd-hampton-vic-3188-16103170,Sandringham Jetty and Breakwater,4281.48,375.26,3188,350.0
+806,5-45-grenville-street-hampton-vic-3188-16094685,Sandringham Jetty and Breakwater,1769.25,216.16,3188,795.0
+807,209-427-hampton-street-hampton-vic-3188-16108518,Sandringham Jetty and Breakwater,1823.96,211.49,3188,350.0
+808,g01-43-crisp-street-hampton-vic-3188-16104598,Sandringham Jetty and Breakwater,1957.47,291.3,3188,1200.0
+809,207-2-willis-lane-hampton-east-vic-3188-16093050,Sandringham Jetty and Breakwater,1821.3,245.0,3188,320.0
+810,78a-teddington-road-hampton-vic-3188-16105795,Sandringham Jetty and Breakwater,4372.04,387.15,3188,1100.0
+811,205-6-dart-street-highett-vic-3190-16096414,Sandringham Jetty and Breakwater,4903.26,424.23,3190,480.0
+812,22a-tweed-st-highett-vic-3190-16103736,Sandringham Jetty and Breakwater,4141.62,371.7,3190,770.0
+813,46a-46b-turner-road-highett-vic-3190-16109315,Karkarook Park,3910.53,410.44,3190,995.0
+814,49-spring-road-highett-vic-3190-16111073,Sandringham Jetty and Breakwater,4505.79,397.43,3190,495.0
+815,208-20-station-street-highett-vic-3190-16092254,Karkarook Park,4746.73,566.59,3190,500.0
+816,124-abbott-st-sandringham-vic-3191-16111338,Sandringham Jetty and Breakwater,2169.67,214.76,3191,795.0
+817,3-198-bluff-road-sandringham-vic-3191-16100496,Black Rock Jetty,1929.71,183.8,3191,420.0
+818,803-222-bay-road-sandringham-vic-3191-16103691,Black Rock Jetty,3167.32,284.04,3191,390.0
+819,4-264-bluff-road-sandringham-vic-3191-16092529,Black Rock Jetty,2343.25,212.4,3191,550.0
+820,217-222-bay-road-sandringham-vic-3191-16103690,Black Rock Jetty,3167.32,284.04,3191,390.0
+821,3-188-bay-road-sandringham-vic-3191-16112438,Black Rock Jetty,2790.9,252.99,3191,630.0
+822,8-grange-road-sandringham-vic-3191-15431555,Sandringham Jetty and Breakwater,1977.18,241.82,3191,1300.0
+823,19-norwood-st-sandringham-vic-3191-16094744,Black Rock Jetty,1475.06,151.23,3191,1500.0
+824,201-26-30-waltham-street-sandringham-vic-3191-16102732,Sandringham Jetty and Breakwater,1212.46,151.85,3191,500.0
+825,610-2-6-railway-road-cheltenham-vic-3192-16092472,Ricketts Point Marine Sanctuary,5435.19,478.29,3192,450.0
+826,6-fairview-drive-cheltenham-vic-3192-16111130,Black Rock Jetty,4052.08,393.79,3192,795.0
+827,72b-ardoyne-st-black-rock-vic-3193-16109670,Black Rock Jetty,2003.8,228.32,3193,1200.0
+828,3-529-balcombe-rd-black-rock-vic-3193-16100369,Black Rock Jetty,1788.83,202.04,3193,550.0
+829,6-mckay-avenue-black-rock-vic-3193-16110627,Black Rock Jetty,1264.21,175.36,3193,850.0
+830,17-fourth-street-black-rock-vic-3193-16108263,Ricketts Point Marine Sanctuary,1506.07,136.96,3193,1100.0
+831,23-milan-street-mentone-vic-3194-16094642,Ricketts Point Marine Sanctuary,3585.59,413.36,3194,1300.0
+832,1-26-patty-street-mentone-vic-3194-16106737,Ricketts Point Marine Sanctuary,4375.15,413.96,3194,460.0
+833,2-41-albenca-street-mentone-vic-3194-15355277,Mordialloc Pier,4626.51,553.38,3194,430.0
+834,3-119-mcdonald-st-mordialloc-vic-3195-16111302,Mordialloc Pier,1909.89,276.73,3195,370.0
+835,40-kokoda-place-mordialloc-vic-3195-16096229,Mordialloc Pier,950.99,166.72,3195,550.0
+836,3-20-parkers-rd-parkdale-vic-3195-16096970,Mordialloc Pier,2262.56,248.95,3195,550.0
+837,14-rosella-road-parkdale-vic-3195-16103628,Mordialloc Pier,1601.49,227.32,3195,1100.0
+838,40-berry-avenue-edithvale-vic-3196-16105305,Patterson River,3819.26,311.5,3196,575.0
+839,5-8-10-turakina-avenue-edithvale-vic-3196-16104021,Mordialloc Pier,3995.28,396.62,3196,350.0
+840,10-216-station-street-edithvale-vic-3196-14486078,Mordialloc Pier,3720.74,344.78,3196,440.0
+841,2-62-screen-street-frankston-vic-3199-16094995,Bunarong Natural Features Reserve,2221.81,513.22,3199,440.0
+842,44-bushlark-drive-carrum-downs-vic-3201-16097673,The Pines Flora and Fauna Reserve,2063.28,164.8,3201,480.0
+843,g06-3-claire-street-mckinnon-vic-3204-15344621,Karkarook Park (water authority land),6665.32,636.63,3204,550.0
+844,6-4-holloway-street-ormond-vic-3204-16099235,Karkarook Park (water authority land),7526.21,736.19,3204,305.0
+845,2-7-ormond-road-ormond-vic-3204-16096904,Karkarook Park (water authority land),7213.45,711.25,3204,575.0
+846,g07-3-claire-street-mckinnon-vic-3204-15478778,Karkarook Park (water authority land),6665.32,636.63,3204,560.0
+847,9-clapperton-street-bentleigh-vic-3204-16092512,Middle Brighton Pier and Breakwater,4720.05,510.15,3204,760.0
+848,107-324-centre-road-bentleigh-vic-3204-16094020,Karkarook Park (water authority land),6228.45,613.93,3204,560.0
+849,6-47-wheeler-st-ormond-vic-3204-16098675,Karkarook Park (water authority land),7335.75,722.98,3204,525.0
+850,2-45-queen-street-ormond-vic-3204-16101296,Sandringham Jetty and Breakwater,7897.85,770.23,3204,1200.0
+851,g02-236-jasper-road-mckinnon-vic-3204-16111151,Karkarook Park (water authority land),6260.1,600.06,3204,550.0
+852,2-29-wheeler-street-ormond-vic-3204-16107896,Karkarook Park (water authority land),7197.93,706.44,3204,600.0
+853,2-9-lillimur-road-ormond-vic-3204-16107547,Karkarook Park (water authority land),7522.62,748.11,3204,300.0
+854,147-patterson-road-bentleigh-vic-3204-16099099,Karkarook Park (water authority land),4188.79,498.93,3204,1050.0
+855,1-210-tucker-road-bentleigh-vic-3204-16103255,Karkarook Park (water authority land),5316.68,536.39,3204,650.0
+856,8-bevan-street-ormond-vic-3204-16111581,Middle Brighton Pier and Breakwater,4972.53,536.27,3204,1500.0
+857,165-patterson-road-bentleigh-vic-3204-16096720,Karkarook Park (water authority land),4010.34,483.64,3204,930.0
+858,1207-39-park-street-south-melbourne-vic-3205-16093617,Albert Park,506.49,90.29,3205,585.0
+859,152-nelson-road-south-melbourne-vic-3205-16106350,Kerford Road and Lagoon Piers,1632.14,252.25,3205,1000.0
+860,209-97-palmerston-crescent-south-melbourne-vic-3205-16099232,Albert Park,581.45,119.37,3205,400.0
+861,3-56-smith-street-south-melbourne-vic-3205-16105162,Kerford Road and Lagoon Piers,1672.74,254.89,3205,480.0
+862,406-75-palmerston-crescent-south-melbourne-vic-3205-16093654,Albert Park,321.8,75.89,3205,425.0
+863,907-37-39-park-street-south-melbourne-vic-3205-15842582,Albert Park,506.49,90.29,3205,620.0
+864,2604-89-gladstone-street-south-melbourne-vic-3205-16097179,Albert Park,2723.28,337.69,3205,430.0
+865,511-37-39-park-street-south-melbourne-vic-3205-16111490,Albert Park,528.7,92.07,3205,600.0
+866,7-2-heather-street-south-melbourne-vic-3205-16094728,Albert Park,803.23,148.13,3205,750.0
+867,south-melbourne-vic-3205-15842582,Albert Park,889.44,154.23,3205,620.0
+868,84-palmerston-crescent-south-melbourne-vic-3205-16106315,Albert Park,492.15,102.49,3205,550.0
+869,409-85-market-street-south-melbourne-vic-3205-16092256,Albert Park,1854.51,260.78,3205,495.0
+870,72b-napier-street-south-melbourne-vic-3205-16109558,Albert Park,756.29,145.15,3205,495.0
+871,311-39-park-street-south-melbourne-vic-3205-16109887,Albert Park,506.49,90.29,3205,600.0
+872,24-henderson-street-south-melbourne-vic-3205-16091414,Kerford Road and Lagoon Piers,1245.49,197.37,3205,745.0
+873,303-88-beaconsfield-parade-albert-park-vic-3206-16095682,Kerford Road and Lagoon Piers,395.3,50.66,3206,1100.0
+874,43-bevan-street-albert-park-vic-3206-16109623,Kerford Road and Lagoon Piers,1544.38,181.16,3206,470.0
+875,33-nimmo-street-middle-park-vic-3206-16111553,Kerford Road and Lagoon Piers,1347.14,152.93,3206,865.0
+876,4-71-esplanade-west-port-melbourne-vic-3207-16092101,Kerford Road and Lagoon Piers,868.31,120.54,3207,470.0
+877,5-princes-place-port-melbourne-vic-3207-16095122,Kerford Road and Lagoon Piers,1298.96,155.13,3207,500.0
+878,135-spring-street-west-port-melbourne-vic-3207-16110342,Kerford Road and Lagoon Piers,1795.46,234.43,3207,750.0
+879,66-spring-street-east-port-melbourne-vic-3207-16111770,Kerford Road and Lagoon Piers,1726.96,214.67,3207,785.0
+880,84-nott-street-port-melbourne-vic-3207-16112150,Kerford Road and Lagoon Piers,1104.84,158.8,3207,850.0
+881,13-raglan-street-port-melbourne-vic-3207-16096777,Kerford Road and Lagoon Piers,2023.13,245.45,3207,645.0
+882,508-216-rouse-street-port-melbourne-vic-3207-16108824,Kerford Road and Lagoon Piers,950.33,121.72,3207,650.0
+883,1-368-graham-street-port-melbourne-vic-3207-16093260,Kerford Road and Lagoon Piers,1763.87,232.41,3207,740.0
+884,60-spring-street-east-port-melbourne-vic-3207-16113151,Kerford Road and Lagoon Piers,1777.04,225.58,3207,760.0
+885,503-147-beach-street-port-melbourne-vic-3207-16113115,Kerford Road and Lagoon Piers,2163.74,233.38,3207,1100.0
+886,7-2-graham-street-port-melbourne-vic-3207-16107609,Kerford Road and Lagoon Piers,646.74,86.55,3207,390.0
+887,1-08-91-dow-street-port-melbourne-vic-3207-16108681,Kerford Road and Lagoon Piers,653.57,97.6,3207,400.0
+888,17-120-princes-street-port-melbourne-vic-3207-16101214,Kerford Road and Lagoon Piers,1330.31,153.14,3207,650.0
+889,305-115-nott-street-port-melbourne-vic-3207-16105599,Kerford Road and Lagoon Piers,1117.94,159.79,3207,700.0
+890,2-hailar-lane-lara-vic-3212-16107512,Serendip Wetlands Education Facility,3444.06,355.75,3212,480.0
+891,4-17-colac-gr-belmont-vic-3216-15755710,Geelong Telegraph Station Historic Reserve,6269.32,675.98,3216,400.0
+892,100-settlement-road-belmont-vic-3216-16094466,Geelong Telegraph Station Historic Reserve,5159.84,594.39,3216,650.0
+893,10-chucklecreek-lane-armstrong-creek-vic-3217-16110820,Lake Connewarre Wildlife Reserve (hunting),2892.89,425.09,3217,420.0
+894,2-melville-avenue-geelong-west-vic-3218-16090991,Geelong Telegraph Station Historic Reserve,3090.62,354.49,3218,570.0
+895,2-melville-avenue-newtown-vic-3220-16090991,Geelong Telegraph Station Historic Reserve,3090.62,354.49,3220,570.0
+896,28-rimmington-way-rockbank-vic-3335-16099477,Mount Cottrell Nature Conservation Reserve,3320.87,334.51,3335,380.0
+897,6-cherry-cl-melton-west-vic-3337-16098222,Melton Gilgai Woodlands Nature Conservation Reserve,2782.41,420.85,3337,390.0
+898,425-greenhalghs-road-delacombe-vic-3356-16104213,Flax Mill Swamp Wildlife Reserve (no hunting),8071.64,778.47,3356,435.0
+899,10-arnold-place-wodonga-vic-3690-16109206,Wodonga Bushland Reserve,3976.07,482.66,3690,420.0
+900,11-macquarie-road-wodonga-vic-3690-16100280,Fell Timber Creek Nature Conservation Reserve,4426.74,409.63,3690,450.0
+901,38-vermont-street-wodonga-vic-3690-16093688,Wodonga Regional Park,3043.17,436.71,3690,420.0
+902,29-2-hanlon-court-wodonga-vic-3690-16106894,Fell Timber Creek Nature Conservation Reserve,4726.17,392.31,3690,200.0
+903,4-25-melrose-drive-wodonga-vic-3690-12527064,Wodonga Regional Park,3032.0,383.35,3690,300.0
+904,39-lawrence-street-wodonga-vic-3690-16114126,Proposed Murray River Park (part),2680.91,325.0,3690,420.0
+905,7-74-south-street-wodonga-vic-3690-16091669,Wodonga Regional Park,1412.47,241.3,3690,340.0
+906,1-koetong-crescent-west-wodonga-vic-3690-16112153,Wodonga Regional Park,4979.08,543.73,3690,530.0
+907,2-147-lawrence-street-wodonga-vic-3690-16107639,Wodonga Regional Park,2898.16,328.87,3690,650.0
+908,22-kiewa-east-road-tangambalanga-vic-3691-16101133,Beethang I100 Bushland Reserve,4091.77,411.12,3691,580.0
+909,283-mitta-north-road-eskdale-vic-3701-16100349,Mitta Mitta River K28 Streamside Reserve,2550.28,132.1,3701,300.0
+910,35-mahla-avenue-wollert-vic-3750-16092524,Plenty Gorge Parklands,11049.6,1138.37,3750,440.0
+911,7-mahla-ave-wollert-vic-3750-14803288,Plenty Gorge Parklands,10933.31,1110.46,3750,410.0
+912,20-flourish-walk-doreen-vic-3754-16109319,Plenty Gorge Parklands,331.72,47.76,3754,350.0
+913,3-outlook-drive-kalorama-vic-3766-16093096,Dandenong Ranges National Park,964.08,231.38,3766,520.0
+914,9-oakley-street-mount-dandenong-vic-3767-16111799,Fiddlers Green Bushland Reserve,759.48,116.09,3767,500.0
+915,30-beluga-street-mount-eliza-vic-3930-16104711,Port Phillip Bay Coastal Reserve (COM),5602.36,619.98,3930,1900.0
+916,71-balcombe-drive-mount-martha-vic-3934-16113110,Fossil Beach Geological Reserve,3468.41,298.88,3934,950.0
+917,4-cirrus-close-hampton-park-vic-3976-16112856,Cranbourne Wetlands Nature Conservation Reserve,3736.21,366.79,3976,420.0
+918,12-mccomb-lane-cranbourne-vic-3977-16106494,Langwarrin Bushland Reserve,4814.16,317.26,3977,435.0

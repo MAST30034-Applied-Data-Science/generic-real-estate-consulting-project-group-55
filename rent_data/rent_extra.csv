@@ -1,0 +1,920 @@
+,price,state,propertyType,bathrooms,bedrooms,carspaces,region,suburb,postcode,dateListed,listingSlug,latitude,longitude
+0,350.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,MALVERN EAST,3145,2022-09-27T11:19:49,211-2a-clarence-street-malvern-east-vic-3145-16106072,-37.8749466,145.041626
+1,400.0,VIC,ApartmentUnitFlat,1,2,1,Eastern Suburbs,GLEN IRIS,3146,2022-09-27T10:37:38,5-68-edgar-street-north-glen-iris-vic-3146-16105927,-37.8496933,145.0468
+2,440.0,VIC,Townhouse,2,2,1,Melbourne Region,FRANKSTON,3199,2022-09-19T12:03:45,2-62-screen-street-frankston-vic-3199-16094995,-38.1545563,145.142334
+3,720.0,VIC,ApartmentUnitFlat,1,3,2,Melbourne Region,CAULFIELD NORTH,3161,2022-09-30T14:35:17,1-41-kooyong-rd-caulfield-north-vic-3161-16113276,-37.86777,145.01828
+4,645.0,VIC,House,1,2,0,Melbourne Region,PORT MELBOURNE,3207,2022-09-20T10:18:33,13-raglan-street-port-melbourne-vic-3207-16096777,-37.8358955,144.947861
+5,600.0,VIC,ApartmentUnitFlat,1,3,1,Melbourne Region,DOCKLANDS,3008,2022-09-28T12:14:30,312-57-spencer-street-docklands-vic-3008-16108605,-37.8200455,144.954285
+6,495.0,VIC,House,1,2,1,Melbourne Region,MURRUMBEENA,3163,2022-09-21T13:25:29,3-brisbane-street-murrumbeena-vic-3163-16099765,-37.88608,145.069534
+7,520.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,NORTHCOTE,3070,2022-09-28T12:09:10,g04-66-waterloo-road-northcote-vic-3070-16108577,-37.7734,145.002884
+8,310.0,VIC,ApartmentUnitFlat,1,1,1,Eastern Suburbs,HAWTHORN,3122,2022-09-20T10:05:51,3-197-auburn-road-hawthorn-vic-3122-16096743,-37.8266258,145.044708
+9,780.0,VIC,Townhouse,2,3,1,Melbourne Region,BALACLAVA,3183,2022-09-20T21:40:53,9a-rosamond-street-balaclava-vic-3183-16098659,-37.87005,144.990982
+10,475.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,MELBOURNE,3000,2022-09-29T08:24:16,623-539-st-kilda-road-melbourne-vic-3000-16110078,-37.84524,144.979645
+11,530.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,ABBOTSFORD,3067,2022-09-28T13:44:43,1108-20-shamrock-street-abbotsford-vic-3067-15091677,-37.80992,145.008179
+12,460.0,VIC,ApartmentUnitFlat,1,2,1,Eastern Suburbs,HAWTHORN,3122,2022-09-27T13:08:20,13-112-riversdale-road-hawthorn-vic-3122-16106515,-37.8291969,145.036285
+13,475.0,VIC,ApartmentUnitFlat,1,2,0,Melbourne Region,MELBOURNE,3000,2022-09-20T16:09:11,501-243-franklin-street-melbourne-vic-3000-16098203,-37.8097649,144.956985
+14,550.0,VIC,House,2,2,2,Eastern Suburbs,MONT ALBERT,3127,2022-09-27T15:06:37,206-801-whitehorse-road-mont-albert-vic-3127-16107016,-37.81625,145.111069
+15,430.0,VIC,House,1,2,1,Eastern Suburbs,HAWTHORN,3122,2022-09-19T10:15:45,6-33-grove-rd-hawthorn-vic-3122-16094567,-37.81453,145.024948
+16,400.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,SOUTH YARRA,3141,2022-09-28T14:46:28,9-21-rockley-road-south-yarra-vic-3141-16109121,-37.8373375,144.999756
+17,340.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,ELSTERNWICK,3185,2022-09-21T14:39:27,7-6-ripon-grove-elsternwick-vic-3185-16100128,-37.8818665,144.998077
+18,670.0,VIC,Townhouse,3,3,2,Melbourne Region,HEIDELBERG,3084,2022-09-26T17:25:38,9-182-hawdon-street-heidelberg-vic-3084-16105331,-37.7491379,145.065918
+19,395.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,RIPPONLEA,3185,2022-09-21T16:10:44,7-162-brighton-road-ripponlea-vic-3185-16100540,-37.8817863,144.996445
+20,715.0,VIC,House,1,2,1,Eastern Suburbs,HAWTHORN,3122,2022-09-21T17:48:51,5-selbourne-street-hawthorn-vic-3122-16100969,-37.8204536,145.043533
+21,320.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,BALACLAVA,3183,2022-09-30T09:58:54,14-3-balston-street-balaclava-vic-3183-16112313,-37.8666725,144.99791
+22,420.0,VIC,House,1,3,2,Northern Victoria,WODONGA,3690,2022-09-16T16:15:09,38-vermont-street-wodonga-vic-3690-16093688,-36.1291161,146.880814
+23,590.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,FITZROY NORTH,3068,2022-09-28T13:03:26,g2-26-nicholson-street-fitzroy-north-vic-3068-16108768,-37.7745171,144.979218
+24,690.0,VIC,ApartmentUnitFlat,1,2,0,Melbourne Region,ST KILDA EAST,3183,2022-09-20T17:06:28,203-120-hotham-street-st-kilda-east-vic-3183-16098448,-37.87232,144.999435
+25,290.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,FAIRFIELD,3078,2022-09-21T16:45:47,3-43-gillies-street-fairfield-vic-3078-16100715,-37.7619057,145.020187
+26,500.0,VIC,ApartmentUnitFlat,2,2,2,Eastern Suburbs,DONCASTER EAST,3109,2022-09-16T18:37:56,205-1-redhill-terrace-doncaster-east-vic-3109-16094041,-37.76269,145.172913
+27,380.0,VIC,House,2,3,1,Melbourne Region,ROCKBANK,3335,2022-09-21T12:10:43,28-rimmington-way-rockbank-vic-3335-16099477,-37.7373734,144.665268
+28,795.0,VIC,House,2,3,1,Melbourne Region,SANDRINGHAM,3191,2022-09-29T15:05:32,124-abbott-st-sandringham-vic-3191-16111338,-37.9504128,145.015732
+29,635.0,VIC,House,1,2,0,Melbourne Region,FITZROY NORTH,3068,2022-09-21T09:16:04,15-queen-street-fitzroy-north-vic-3068-16098797,-37.7759323,144.982315
+30,450.0,VIC,ApartmentUnitFlat,1,2,0,Melbourne Region,PRAHRAN,3181,2022-09-16T10:48:49,2-2-rae-court-prahran-vic-3181-16092519,-37.85695,145.002441
+31,1100.0,VIC,ApartmentUnitFlat,2,2,2,Melbourne Region,ALBERT PARK,3206,2022-09-19T14:59:25,303-88-beaconsfield-parade-albert-park-vic-3206-16095682,-37.8472366,144.948151
+32,725.0,VIC,House,1,2,0,Melbourne Region,RICHMOND,3121,2022-09-29T14:49:56,14-lesney-street-richmond-vic-3121-16111270,-37.82691,144.998688
+33,1050.0,VIC,House,3,4,2,Melbourne Region,BENTLEIGH,3204,2022-09-21T10:35:35,147-patterson-road-bentleigh-vic-3204-16099099,-37.9268456,145.047379
+34,620.0,VIC,Townhouse,2,3,1,Melbourne Region,MALVERN EAST,3145,2022-09-19T16:30:23,2-4-prior-rd-malvern-east-vic-3145-16096071,-37.8835068,145.086838
+35,550.0,VIC,House,1,2,0,Melbourne Region,RICHMOND,3121,2022-09-28T15:35:20,20-davison-street-richmond-vic-3121-6782699,-37.8121529,145.008026
+36,535.0,VIC,House,2,4,0,Eastern Suburbs,BAYSWATER,3153,2022-09-30T13:28:49,8-pindari-drive-bayswater-vic-3153-16113044,-37.85475,145.252548
+37,430.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,BENTLEIGH EAST,3165,2022-09-16T17:00:51,6-27-gladwyn-avenue-bentleigh-east-vic-3165-15284183,-37.90997,145.058472
+38,480.0,VIC,House,1,4,5,Melbourne Region,KEYSBOROUGH,3173,2022-09-26T15:09:04,41-balgowlah-avenue-keysborough-vic-3173-16104670,-37.98861,145.1721
+39,540.0,VIC,House,2,4,0,Melbourne Region,OAKLEIGH,3166,2022-09-16T14:51:03,9-parer-street-oakleigh-vic-3166-16093353,-37.90934,145.097916
+40,425.0,VIC,ApartmentUnitFlat,1,2,0,Melbourne Region,MURRUMBEENA,3163,2022-09-19T11:37:03,4-16-toward-street-murrumbeena-vic-3163-16094879,-37.89308,145.069962
+41,320.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,NORTH MELBOURNE,3051,2022-09-21T13:10:43,101-96-curzon-street-north-melbourne-vic-3051-16099695,-37.8017273,144.948532
+42,530.0,VIC,ApartmentUnitFlat,1,2,2,Eastern Suburbs,CAMBERWELL,3124,2022-09-21T16:52:46,4-11-allambee-avenue-camberwell-vic-3124-16100759,-37.8344421,145.074066
+43,430.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,COLLINGWOOD,3066,2022-09-19T15:10:08,206-470-smith-street-collingwood-vic-3066-16095724,-37.79454,144.985321
+44,930.0,VIC,House,3,5,2,Melbourne Region,BENTLEIGH,3204,2022-09-20T09:57:37,165-patterson-road-bentleigh-vic-3204-16096720,-37.9270859,145.049271
+45,950.0,VIC,House,2,4,2,Melbourne Region,MOUNT MARTHA,3934,2022-09-30T13:45:03,71-balcombe-drive-mount-martha-vic-3934-16113110,-38.251976,145.06308
+46,650.0,VIC,House,2,3,0,Melbourne Region,BRUNSWICK,3056,2022-09-19T11:04:46,2b-donald-street-brunswick-vic-3056-16094762,-37.7576637,144.964157
+47,650.0,VIC,House,2,3,2,Melbourne Region,MOUNT WAVERLEY,3149,2022-09-20T16:35:22,3-kingsley-grove-mount-waverley-vic-3149-16098328,-37.8958435,145.125443
+48,390.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,PORT MELBOURNE,3207,2022-09-27T17:19:46,7-2-graham-street-port-melbourne-vic-3207-16107609,-37.84331,144.9457
+49,825.0,VIC,ApartmentUnitFlat,2,3,2,Melbourne Region,ARMADALE,3143,2022-09-28T18:23:55,19-60-wattletree-road-armadale-vic-3143-16109919,-37.8619232,145.021088
+50,850.0,VIC,ApartmentUnitFlat,2,3,2,Melbourne Region,ARMADALE,3143,2022-09-21T16:47:46,303-960-high-street-armadale-vic-3143-16100725,-37.85555,145.019867
+51,420.0,VIC,Townhouse,1,3,1,Melbourne Region,CLAYTON,3168,2022-09-28T14:37:59,4-28-banksia-street-clayton-vic-3168-16109082,-37.9164467,145.119141
+52,320.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,ALPHINGTON,3078,2022-09-21T12:26:20,1-150-grange-road-alphington-vic-3078-16099545,-37.77087,145.026749
+53,525.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,MELBOURNE,3004,2022-09-21T10:21:35,19-32-queens-road-melbourne-vic-3004-16099040,-37.8433838,144.976257
+54,850.0,VIC,House,2,3,1,Melbourne Region,BRUNSWICK,3056,2022-09-15T15:37:41,3-allan-street-brunswick-vic-3056-16091524,-37.7728424,144.968781
+55,590.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,ST KILDA,3182,2022-09-29T12:34:36,9-17-st-leondards-avenue-st-kilda-vic-3182-16110829,-37.86304,144.97789
+56,850.0,VIC,House,2,2,0,Melbourne Region,RICHMOND,3121,2022-09-21T16:31:46,79-buckingham-street-richmond-vic-3121-16100639,-37.8138771,145.003983
+57,650.0,VIC,House,1,2,2,Melbourne Region,RICHMOND,3121,2022-09-19T17:01:46,69-brighton-street-richmond-vic-3121-16096202,-37.82872,144.999283
+58,595.0,VIC,House,2,2,2,Melbourne Region,PRESTON,3072,2022-09-26T11:59:54,110-raglan-street-preston-vic-3072-16103893,-37.7505035,145.0185
+59,630.0,VIC,Townhouse,2,3,1,Melbourne Region,ASHWOOD,3147,2022-09-30T10:36:31,2-26-may-park-avenue-ashwood-vic-3147-16112429,-37.86777,145.097458
+60,1100.0,VIC,Townhouse,2,3,2,Melbourne Region,HAMPTON,3188,2022-09-27T10:01:46,78a-teddington-road-hampton-vic-3188-16105795,-37.936615,145.022766
+61,420.0,VIC,House,1,3,2,Northern Victoria,WODONGA,3690,2022-10-01T08:40:34,39-lawrence-street-wodonga-vic-3690-16114126,-36.1264839,146.900925
+62,570.0,VIC,House,2,2,2,Melbourne Region,NEWTOWN,3220,2022-09-15T13:19:31,2-melville-avenue-newtown-vic-3220-16090991,-38.1479263,144.327545
+63,410.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,ARMADALE,3143,2022-09-27T16:12:38,7-1-duncraig-avenue-armadale-vic-3143-16107324,-37.8616028,145.025284
+64,465.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,RICHMOND,3121,2022-09-26T16:41:10,g01-8-carroll-street-richmond-vic-3121-16105144,-37.8226471,144.9943
+65,810.0,VIC,Townhouse,3,3,2,Eastern Suburbs,CAMBERWELL,3124,2022-09-16T14:11:24,27-ellsworth-crescent-camberwell-vic-3124-16093229,-37.8412971,145.088455
+66,420.0,VIC,House,2,4,1,Melbourne Region,ARMSTRONG CREEK,3217,2022-09-29T12:32:10,10-chucklecreek-lane-armstrong-creek-vic-3217-16110820,-38.23343,144.373978
+67,1000.0,VIC,House,2,3,2,Eastern Suburbs,HAWTHORN EAST,3123,2022-09-21T09:00:41,33-broomfield-road-hawthorn-east-vic-3123-16098753,-37.831,145.045761
+68,260.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,BRUNSWICK WEST,3055,2022-09-28T16:26:34,5-548-moreland-road-brunswick-west-vic-3055-16109592,-37.7521744,144.934586
+69,570.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,WINDSOR,3181,2022-09-28T14:37:23,22-174-peel-street-windsor-vic-3181-16109077,-37.8562241,144.991531
+70,700.0,VIC,ApartmentUnitFlat,2,3,1,Melbourne Region,MELBOURNE,3004,2022-09-15T16:06:56,32-632-st-kilda-road-melbourne-vic-3004-16091641,-37.854332,144.981277
+71,650.0,VIC,Townhouse,2,4,2,Melbourne Region,OAKLEIGH EAST,3166,2022-09-15T15:10:28,3-14-carmichael-road-oakleigh-east-vic-3166-16091410,-37.8990555,145.113678
+72,530.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,FOOTSCRAY,3011,2022-09-29T13:59:20,1109-2-joseph-road-footscray-vic-3011-15421439,-37.80033,144.909653
+73,410.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,MALVERN EAST,3145,2022-09-30T10:42:00,2-413a-waverley-road-malvern-east-vic-3145-16112451,-37.8780975,145.067047
+74,530.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,MELBOURNE,3004,2022-09-30T16:27:59,702-74-queens-road-melbourne-vic-3004-16113717,-37.85222,144.979584
+75,575.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,MELBOURNE,3000,2022-09-29T15:50:45,1003-225-elizabeth-street-melbourne-vic-3000-16111540,-37.8132324,144.962311
+76,650.0,VIC,ApartmentUnitFlat,2,3,2,Melbourne Region,ARMADALE,3143,2022-09-15T14:21:26,9-62-wattletree-road-armadale-vic-3143-16091210,-37.8616524,145.021484
+77,500.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,NORTHCOTE,3070,2022-09-27T11:32:22,207-2-6-mccutcheon-street-northcote-vic-3070-15874383,-37.7679176,144.9998
+78,550.0,VIC,House,1,3,1,Melbourne Region,PASCOE VALE,3044,2022-09-28T12:09:14,72-austin-crescent-pascoe-vale-vic-3044-16108578,-37.7234955,144.931015
+79,750.0,VIC,ApartmentUnitFlat,2,3,2,Melbourne Region,CARLTON NORTH,3054,2022-09-21T11:39:37,29-1066-lygon-street-carlton-north-vic-3054-16099369,-37.7809334,144.970535
+80,650.0,VIC,Townhouse,2,2,1,Melbourne Region,BRUNSWICK EAST,3057,2022-09-28T15:47:31,4-31-33-o-connor-street-brunswick-east-vic-3057-16109419,-37.773365,144.972977
+81,650.0,VIC,ApartmentUnitFlat,2,2,1,Eastern Suburbs,HAWTHORN,3122,2022-09-20T09:24:32,304-708-burwood-rd-hawthorn-vic-3122-16096604,-37.824604,145.050552
+82,420.0,VIC,ApartmentUnitFlat,1,2,1,Eastern Suburbs,HAWTHORN EAST,3123,2022-09-27T11:32:42,23-11-auburn-gr-hawthorn-east-vic-3123-16106129,-37.8253,145.046387
+83,430.0,VIC,ApartmentUnitFlat,1,2,0,Melbourne Region,ST KILDA EAST,3183,2022-09-20T10:22:17,12-55-alexandra-street-st-kilda-east-vic-3183-16096796,-37.8644943,145.002914
+84,515.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,RICHMOND,3121,2022-09-21T09:20:32,308-71-canterbury-street-richmond-vic-3121-14973757,-37.8258171,145.00647
+85,1150.0,VIC,ApartmentUnitFlat,2,3,2,Melbourne Region,SOUTH YARRA,3141,2022-09-21T17:33:01,2-116-anderson-street-south-yarra-vic-3141-16100924,-37.8302956,144.98468
+86,470.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,ST KILDA,3182,2022-09-26T14:17:06,304a-33-inkerman-st-st-kilda-vic-3182-16104398,-37.8643532,144.982956
+87,560.0,VIC,House,1,5,4,Melbourne Region,ASHWOOD,3147,2022-09-16T09:56:27,10-katta-court-ashwood-vic-3147-16092329,-37.8707428,145.103409
+88,550.0,VIC,Townhouse,1,3,1,Melbourne Region,PARKDALE,3195,2022-09-20T11:09:01,3-20-parkers-rd-parkdale-vic-3195-16096970,-37.9976921,145.076385
+89,800.0,VIC,ApartmentUnitFlat,2,3,2,Melbourne Region,ARMADALE,3143,2022-09-21T09:48:50,102-8a-evergreen-mews-armadale-vic-3143-16098928,-37.8514061,145.013748
+90,495.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,WINDSOR,3181,2022-09-28T12:40:05,304-152-peel-street-windsor-vic-3181-16108695,-37.8559875,144.990234
+91,895.0,VIC,House,2,3,2,Melbourne Region,CAULFIELD SOUTH,3162,2022-09-29T17:41:18,20-sycamore-street-caulfield-south-vic-3162-16111960,-37.8893471,145.015884
+92,290.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,ST KILDA EAST,3183,2022-09-20T16:28:59,27-4-wando-grove-st-kilda-east-vic-3183-16098295,-37.86111,145.008347
+93,450.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,MALVERN,3144,2022-09-29T11:29:44,305-1200-high-street-malvern-vic-3144-15192944,-37.8565254,145.026978
+94,1200.0,VIC,House,3,4,2,Melbourne Region,PRESTON,3072,2022-09-20T10:09:37,78-oakover-road-preston-vic-3072-16096755,-37.7486954,144.99144
+95,580.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,MELBOURNE,3000,2022-09-24T15:37:44,3604-568-collins-street-melbourne-vic-3000-16102990,-37.8183746,144.955429
+96,770.0,VIC,House,1,3,0,Melbourne Region,BURNLEY,3121,2022-09-27T10:00:58,15-gibdon-street-burnley-vic-3121-16105787,-37.82915,145.011139
+97,260.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,BRUNSWICK WEST,3055,2022-09-29T22:35:11,19-552-moreland-road-brunswick-west-vic-3055-16112090,-37.7523346,144.934189
+98,800.0,VIC,Townhouse,2,3,1,Melbourne Region,BRUNSWICK,3056,2022-09-29T15:02:35,71-amelia-street-brunswick-vic-3056-16111322,-37.7763939,144.9662
+99,470.0,VIC,ApartmentUnitFlat,1,2,0,Melbourne Region,PORT MELBOURNE,3207,2022-09-15T22:37:16,4-71-esplanade-west-port-melbourne-vic-3207-16092101,-37.84029,144.94371
+100,595.0,VIC,ApartmentUnitFlat,2,2,0,Melbourne Region,RICHMOND,3121,2022-09-30T14:30:23,304-27-dickmann-street-richmond-vic-3121-16113260,-37.82505,144.997482
+101,1400.0,VIC,House,2,2,2,Melbourne Region,SOUTH YARRA,3141,2022-09-21T15:29:02,14-acland-street-south-yarra-vic-3141-16100335,-37.83336,144.9852
+102,500.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,SOUTH YARRA,3141,2022-09-26T14:44:49,1212-35-malcolm-street-south-yarra-vic-3141-16104529,-37.8369675,144.99646
+103,720.0,VIC,House,1,4,4,Eastern Suburbs,KEW,3101,2022-09-30T14:30:19,19-asquith-street-kew-vic-3101-16113258,-37.7979164,145.044144
+104,750.0,VIC,Townhouse,2,4,1,Eastern Suburbs,CANTERBURY,3126,2022-09-21T12:07:40,2e-hopetoun-avenue-canterbury-vic-3126-16099464,-37.8230057,145.07663
+105,410.0,VIC,Townhouse,2,4,2,Melbourne Region,WOLLERT,3750,2022-09-20T11:40:48,7-mahla-ave-wollert-vic-3750-14803288,-37.6235542,145.0377
+106,1250.0,VIC,Townhouse,2,2,2,Melbourne Region,BRIGHTON EAST,3187,2022-09-26T10:20:53,20a-burwah-avenue-brighton-east-vic-3187-16103434,-37.9207573,145.0206
+107,620.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,MELBOURNE,3004,2022-09-21T14:12:53,1310-450-st-kilda-road-melbourne-vic-3004-16099990,-37.83877,144.975571
+108,435.0,VIC,Townhouse,2,3,2,Melbourne Region,CRANBOURNE,3977,2022-09-27T13:00:46,12-mccomb-lane-cranbourne-vic-3977-16106494,-38.11063,145.255692
+109,340.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,CARNEGIE,3163,2022-09-19T11:59:36,3-25-shepparson-avenue-carnegie-vic-3163-16094973,-37.890152,145.057648
+110,650.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,PORT MELBOURNE,3207,2022-09-22T11:20:40,17-120-princes-street-port-melbourne-vic-3207-16101214,-37.83905,144.936966
+111,420.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,RICHMOND,3121,2022-09-21T17:28:14,607-253-bridge-road-richmond-vic-3121-16100906,-37.8183632,144.997955
+112,600.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,MELBOURNE,3000,2022-09-25T20:52:32,1014-22-24-jane-bell-lane-melbourne-vic-3000-16103081,-37.81022,144.966263
+113,275.0,VIC,ApartmentUnitFlat,1,1,0,Eastern Suburbs,HAWTHORN EAST,3123,2022-09-21T12:33:18,12-2-freeman-street-hawthorn-east-vic-3123-16099575,-37.8221664,145.051971
+114,600.0,VIC,ApartmentUnitFlat,2,2,1,Eastern Suburbs,HAWTHORN,3122,2022-09-28T15:10:38,109-39-riversdale-road-hawthorn-vic-3122-16109227,-37.8277855,145.029312
+115,850.0,VIC,Townhouse,2,3,2,Melbourne Region,PORT MELBOURNE,3207,2022-09-30T09:00:27,84-nott-street-port-melbourne-vic-3207-16112150,-37.8398933,144.939514
+116,690.0,VIC,ApartmentUnitFlat,2,2,2,Melbourne Region,ARMADALE,3143,2022-09-26T12:10:42,604-8c-evergreen-mews-armadale-vic-3143-15223873,-37.8516769,145.014069
+117,360.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,BENTLEIGH EAST,3165,2022-09-20T18:09:23,310-24-becket-avenue-bentleigh-east-vic-3165-16098565,-37.920887,145.05545
+118,360.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,ST KILDA,3182,2022-09-20T10:28:56,6-50-fitzroy-street-st-kilda-vic-3182-16096820,-37.8599625,144.976364
+119,875.0,VIC,ApartmentUnitFlat,2,2,2,Melbourne Region,SOUTH YARRA,3141,2022-09-26T11:31:06,3-1-alexandra-avenue-south-yarra-vic-3141-16103763,-37.8286743,144.985168
+120,330.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,MURRUMBEENA,3163,2022-09-29T10:22:20,12-24-dunoon-street-murrumbeena-vic-3163-16110351,-37.8928223,145.067474
+121,600.0,VIC,House,2,3,2,Eastern Suburbs,GLEN IRIS,3146,2022-09-20T09:35:28,385-burke-road-glen-iris-vic-3146-16096642,-37.849472,145.052887
+122,620.0,VIC,House,2,2,1,Melbourne Region,SOUTH MELBOURNE,3205,2022-09-20T11:42:50,907-37-39-park-street-south-melbourne-vic-3205-15842582,-37.8334,144.969055
+123,425.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,SOUTH MELBOURNE,3205,2022-09-16T16:08:41,406-75-palmerston-crescent-south-melbourne-vic-3205-16093654,-37.83546,144.969315
+124,500.0,VIC,House,1,2,0,Melbourne Region,RICHMOND,3121,2022-09-19T16:21:05,34-abinger-street-richmond-vic-3121-16096038,-37.8204041,145.001144
+125,485.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,NORTHCOTE,3070,2022-09-22T12:18:48,121-5-beavers-road-northcote-vic-3070-16088994,-37.76685,144.998459
+126,440.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,CAULFIELD,3162,2022-09-29T16:21:45,5-1011-glen-huntly-road-caulfield-vic-3162-16111675,-37.8881264,145.0338
+127,400.0,VIC,House,2,3,2,Melbourne Region,MANOR LAKES,3024,2022-09-19T16:07:49,51-spearmint-boulevard-manor-lakes-vic-3024-13582212,-37.863266,144.592377
+128,300.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,ST KILDA EAST,3183,2022-09-28T17:44:29,8-9-celeste-court-st-kilda-east-vic-3183-16109885,-37.8627739,145.0091
+129,500.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,RICHMOND,3121,2022-09-20T11:14:32,104-71-abinger-street-richmond-vic-3121-16096988,-37.8204575,145.004257
+130,415.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,MELBOURNE,3000,2022-09-20T10:26:44,2503-7-katherine-place-melbourne-vic-3000-16096811,-37.8201866,144.956467
+131,350.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,ARMADALE,3143,2022-09-16T09:35:54,16-2-armadale-street-armadale-vic-3143-16092266,-37.86053,145.018661
+132,330.0,VIC,ApartmentUnitFlat,1,1,2,Melbourne Region,ST KILDA,3182,2022-09-26T16:09:02,1-3-7-sebastopol-street-st-kilda-vic-3182-16104975,-37.8643074,144.997116
+133,650.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,MELBOURNE,3000,2022-09-30T18:36:25,1701-620-collins-street-melbourne-vic-3000-16114048,-37.81866,144.954346
+134,450.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,WEST MELBOURNE,3003,2022-09-27T13:12:33,407-386-spencer-street-west-melbourne-vic-3003-16106534,-37.8113632,144.950882
+135,430.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,MENTONE,3194,2022-09-16T15:37:37,2-41-albenca-street-mentone-vic-3194-15355277,-37.9779358,145.074127
+136,390.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,HUGHESDALE,3166,2022-09-30T10:40:04,7-1344-dandenong-road-hughesdale-vic-3166-16112445,-37.8899574,145.081863
+137,645.0,VIC,Townhouse,1,2,1,Melbourne Region,NORTHCOTE,3070,2022-09-26T11:14:01,9a-spencer-street-northcote-vic-3070-16103679,-37.7643623,144.996323
+138,1050.0,VIC,House,2,4,1,Melbourne Region,BRUNSWICK,3056,2022-09-27T15:30:24,2-horne-street-brunswick-vic-3056-16107121,-37.7728577,144.969254
+139,670.0,VIC,ApartmentUnitFlat,2,3,2,Melbourne Region,CARNEGIE,3163,2022-09-28T12:16:27,257-koornang-road-carnegie-vic-3163-16108611,-37.8962479,145.055481
+140,480.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,PARKVILLE,3052,2022-09-28T14:12:38,815-91-galada-avenue-parkville-vic-3052-16108978,-37.7786179,144.9393
+141,390.0,VIC,ApartmentUnitFlat,1,1,1,Eastern Suburbs,SURREY HILLS,3127,2022-09-26T11:30:55,g02-178-union-rd-surrey-hills-vic-3127-16103762,-37.82213,145.097778
+142,650.0,VIC,Townhouse,2,3,2,Melbourne Region,DINGLEY VILLAGE,3172,2022-09-20T13:45:42,33a-marcus-road-dingley-village-vic-3172-16097552,-37.98205,145.133759
+143,420.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,BRUNSWICK EAST,3057,2022-09-26T15:41:42,306-63-lygon-street-brunswick-east-vic-3057-16104850,-37.7771,144.970657
+144,760.0,VIC,House,1,2,1,Melbourne Region,PORT MELBOURNE,3207,2022-09-30T13:58:33,60-spring-street-east-port-melbourne-vic-3207-16113151,-37.83627,144.946121
+145,900.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,SOUTH YARRA,3141,2022-09-26T09:14:40,22-399-toorak-rd-south-yarra-vic-3141-16103168,-37.84005,145.003922
+146,575.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,MELBOURNE,3004,2022-09-21T10:04:02,507-23-queens-road-melbourne-vic-3004-16098966,-37.8411331,144.97551
+147,480.0,VIC,House,1,3,2,Melbourne Region,PASCOE VALE,3044,2022-09-21T16:35:01,20a-park-street-pascoe-vale-vic-3044-16100660,-37.72788,144.925415
+148,615.0,VIC,ApartmentUnitFlat,2,2,1,Eastern Suburbs,HAWTHORN EAST,3123,2022-08-31T12:18:46,ug05c-55-camberwell-road-hawthorn-east-vic-3123-16065863,-37.82587,145.050644
+149,400.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,ELWOOD,3184,2022-09-19T13:38:17,1-151-glen-huntly-rd-elwood-vic-3184-16095357,-37.88296,144.992126
+150,400.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,WEST MELBOURNE,3003,2022-09-19T15:22:58,214-15-31-batman-street-west-melbourne-vic-3003-14585741,-37.8107567,144.95224
+151,550.0,VIC,Townhouse,1,2,1,Eastern Suburbs,KEW EAST,3102,2022-09-26T11:46:32,4-15-munro-st-kew-east-vic-3102-16103832,-37.7916,145.062057
+152,420.0,VIC,House,1,3,1,Melbourne Region,MALVERN EAST,3145,2022-09-27T10:50:37,27-clynden-avenue-malvern-east-vic-3145-16105966,-37.869072,145.06218
+153,510.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,BRIGHTON,3186,2022-09-28T15:24:44,3-21-brickwood-st-brighton-vic-3186-16109290,-37.8953171,144.997177
+154,1200.0,VIC,ApartmentUnitFlat,2,2,2,Melbourne Region,SOUTHBANK,3006,2022-09-29T11:05:04,106-8-wells-st-southbank-vic-3006-16110505,-37.8261642,144.9688
+155,400.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,MELBOURNE,3000,2022-09-19T15:46:38,29-400-little-collins-street-melbourne-vic-3000-16022489,-37.8157959,144.961349
+156,420.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,RICHMOND,3121,2022-09-19T10:47:04,16-2a-brougham-street-richmond-vic-3121-16094696,-37.8218765,144.9996
+157,345.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,ST KILDA,3182,2022-09-29T17:03:50,05-07-lambeth-place-st-kilda-vic-3182-16111844,-37.86184,144.987518
+158,890.0,VIC,House,2,3,2,Melbourne Region,FAIRFIELD,3078,2022-09-21T12:05:03,23-palm-street-fairfield-vic-3078-16099457,-37.77151,145.0235
+159,445.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,ST KILDA EAST,3183,2022-09-26T13:32:54,7-15-hotham-st-st-kilda-east-vic-3183-16104219,-37.860775,145.000473
+160,550.0,VIC,ApartmentUnitFlat,3,3,0,Melbourne Region,TOORAK,3142,2022-09-26T10:17:55,2-424-toorak-road-toorak-vic-3142-16103422,-37.84113,145.00795
+161,320.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,HAMPTON EAST,3188,2022-09-16T13:18:59,207-2-willis-lane-hampton-east-vic-3188-16093050,-37.9375725,145.001663
+162,450.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,COBURG,3058,2022-09-20T11:55:10,714-11-urquhart-street-coburg-vic-3058-16097143,-37.7398872,144.968155
+163,550.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,WEST MELBOURNE,3003,2022-09-30T16:25:57,409-41-dryburgh-street-west-melbourne-vic-3003-16113705,-37.80606,144.942673
+164,400.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,ST KILDA,3182,2022-09-20T15:31:00,9-39-eildon-rd-st-kilda-vic-3182-14637707,-37.8612328,144.97818
+165,330.0,VIC,ApartmentUnitFlat,1,1,1,Eastern Suburbs,MITCHAM,3132,2022-09-27T14:44:49,229b-1-19-colombo-street-mitcham-vic-3132-16106908,-37.8175278,145.191864
+166,950.0,VIC,Townhouse,3,3,1,Melbourne Region,WEST MELBOURNE,3003,2022-09-26T09:28:42,260-adderley-street-west-melbourne-vic-3003-16103206,-37.80769,144.944016
+167,370.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,PARKVILLE,3052,2022-09-27T09:28:22,210-445-royal-parade-parkville-vic-3052-16105650,-37.78251,144.958908
+168,430.0,VIC,House,1,2,1,Melbourne Region,COBURG,3058,2022-09-26T17:27:39,1-flinders-street-coburg-vic-3058-15138487,-37.73762,144.953
+169,495.0,VIC,Townhouse,1,2,1,Melbourne Region,MOONEE PONDS,3039,2022-09-25T21:24:14,3-fortelny-way-moonee-ponds-vic-3039-16103083,-37.7660828,144.909546
+170,630.0,VIC,Townhouse,3,3,2,Melbourne Region,OAKLEIGH,3166,2022-09-19T14:51:50,1-2-mill-road-oakleigh-vic-3166-15374846,-37.9013557,145.088
+171,950.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,SOUTH YARRA,3141,2022-09-27T14:51:04,2-1-alexandra-avenue-south-yarra-vic-3141-16106940,-37.8286743,144.985168
+172,300.0,VIC,Studio,1,1,0,Melbourne Region,ST KILDA,3182,2022-09-15T15:24:48,5-16-blessington-court-st-kilda-vic-3182-16091470,-37.87193,144.977509
+173,450.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,RICHMOND,3121,2022-09-28T17:05:24,4-82-buckingham-street-richmond-vic-3121-16109770,-37.8142471,145.003967
+174,700.0,VIC,House,1,3,3,Melbourne Region,CARNEGIE,3163,2022-09-19T17:28:52,28-lyons-street-carnegie-vic-3163-16096310,-37.895237,145.0488
+175,1800.0,VIC,House,3,5,5,Melbourne Region,TOORAK,3142,2022-09-29T15:41:55,685-orrong-rd-toorak-vic-3142-16111493,-37.8431931,145.013229
+176,370.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,MORDIALLOC,3195,2022-09-29T14:58:46,3-119-mcdonald-st-mordialloc-vic-3195-16111302,-38.0008469,145.098145
+177,450.0,VIC,House,1,2,0,Melbourne Region,SOUTH YARRA,3141,2022-09-21T11:21:15,21-palermo-street-south-yarra-vic-3141-16099286,-37.8416862,144.9967
+178,550.0,VIC,Townhouse,1,2,1,Melbourne Region,BRUNSWICK,3056,2022-09-16T10:44:36,2-53-evans-street-brunswick-vic-3056-16092503,-37.77011,144.96875
+179,540.0,VIC,Townhouse,1,2,1,Melbourne Region,RICHMOND,3121,2022-09-20T09:49:08,2-7-jika-place-richmond-vic-3121-16096685,-37.8147659,144.9913
+180,400.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,PORT MELBOURNE,3207,2022-09-28T12:36:14,1-08-91-dow-street-port-melbourne-vic-3207-16108681,-37.8420639,144.940659
+181,280.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,FOOTSCRAY,3011,2022-09-26T18:26:48,15-99-109-creswick-street-footscray-vic-3011-16105427,-37.79782,144.891159
+182,410.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,COLLINGWOOD,3066,2022-09-28T13:38:31,207g-31-napoleon-street-collingwood-vic-3066-16108865,-37.8016472,144.985977
+183,1150.0,VIC,House,2,4,5,Melbourne Region,BRIGHTON,3186,2022-09-29T10:07:55,1-huntley-street-brighton-vic-3186-16110309,-37.8865051,144.997528
+184,670.0,VIC,House,1,3,1,Eastern Suburbs,GLEN IRIS,3146,2022-09-16T12:30:18,144-high-st-glen-iris-vic-3146-16092883,-37.8630257,145.074951
+185,470.0,VIC,House,1,1,0,Melbourne Region,ALBERT PARK,3206,2022-09-28T16:31:23,43-bevan-street-albert-park-vic-3206-16109623,-37.8400841,144.955978
+186,375.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,SOUTH YARRA,3141,2022-09-29T14:15:00,4-26-davis-avenue-south-yarra-vic-3141-16111137,-37.8409,144.990555
+187,550.0,VIC,Townhouse,3,4,2,Melbourne Region,NOBLE PARK,3174,2022-09-26T15:27:35,3-15-leman-crescent-noble-park-vic-3174-16104774,-37.9685745,145.182877
+188,1200.0,VIC,House,2,4,2,Melbourne Region,SOUTH YARRA,3141,2022-09-28T15:35:17,62-hawksburn-road-south-yarra-vic-3141-16109344,-37.8414345,145.002121
+189,460.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,MENTONE,3194,2022-09-27T14:02:56,1-26-patty-street-mentone-vic-3194-16106737,-37.9774246,145.057465
+190,650.0,VIC,Townhouse,2,3,2,Melbourne Region,OAKLEIGH EAST,3166,2022-09-21T13:25:14,3-60-patrick-street-oakleigh-east-vic-3166-16099764,-37.90643,145.12114
+191,850.0,VIC,Townhouse,2,3,2,Melbourne Region,OAKLEIGH EAST,3166,2022-09-16T12:07:13,2-1845-dandenong-road-oakleigh-east-vic-3166-16092807,-37.9080544,145.117859
+192,500.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,PRAHRAN,3181,2022-09-30T10:25:16,2-22-ellesmere-road-prahran-vic-3181-16112401,-37.85777,145.0008
+193,375.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,KENSINGTON,3031,2022-09-29T14:36:42,104-71-89-hobsons-road-kensington-vic-3031-16111222,-37.7962036,144.916809
+194,370.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,MOUNT WAVERLEY,3149,2022-09-26T17:21:52,111-436-442-huntingdale-road-mount-waverley-vic-3149-16105315,-37.883297,145.109055
+195,595.0,VIC,ApartmentUnitFlat,2,2,1,Eastern Suburbs,KEW,3101,2022-09-29T11:45:00,9-39-studley-park-rd-kew-vic-3101-16110655,-37.8071365,145.023972
+196,490.0,VIC,Townhouse,2,2,1,Melbourne Region,RESERVOIR,3073,2022-09-19T14:09:31,10-949-high-street-reservoir-vic-3073-15297144,-37.7104,145.008331
+197,500.0,VIC,ApartmentUnitFlat,1,2,2,Melbourne Region,SANDRINGHAM,3191,2022-09-23T17:16:58,201-26-30-waltham-street-sandringham-vic-3191-16102732,-37.94975,145.0036
+198,550.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,NORTH MELBOURNE,3051,2022-09-28T11:59:01,109-380-queensberry-street-north-melbourne-vic-3051-14961044,-37.8034744,144.955338
+199,495.0,VIC,House,1,2,1,Melbourne Region,HIGHETT,3190,2022-09-29T13:53:11,49-spring-road-highett-vic-3190-16111073,-37.94444,145.0324
+200,450.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,ABBOTSFORD,3067,2022-09-29T19:54:30,608-627-victoria-street-abbotsford-vic-3067-16112055,-37.81068,145.008652
+201,450.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,NORTH MELBOURNE,3051,2022-09-30T10:18:41,17-352-victoria-street-north-melbourne-vic-3051-16112376,-37.8055878,144.954422
+202,730.0,VIC,House,1,3,2,Melbourne Region,ELSTERNWICK,3185,2022-09-16T10:39:04,78-allison-road-elsternwick-vic-3185-16092486,-37.8824654,145.013062
+203,900.0,VIC,Townhouse,3,4,2,Melbourne Region,BENTLEIGH EAST,3165,2022-09-16T12:01:34,9a-9b-ludwell-crescent-bentleigh-east-vic-3165-16092784,-37.92544,145.073914
+204,650.0,VIC,House,1,2,1,Melbourne Region,RICHMOND,3121,2022-09-29T09:29:22,75-neptune-street-richmond-vic-3121-16110194,-37.82211,145.0069
+205,400.0,VIC,Villa,1,2,1,Melbourne Region,BELMONT,3216,2022-09-15T13:37:04,4-17-colac-gr-belmont-vic-3216-15755710,-38.1871376,144.327484
+206,400.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,BENTLEIGH EAST,3165,2022-09-15T16:45:16,3-54-hill-street-bentleigh-east-vic-3165-16091798,-37.92235,145.061188
+207,530.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,SOUTHBANK,3006,2022-09-19T09:21:58,3511-151-city-road-southbank-vic-3006-16094411,-37.8236656,144.963165
+208,465.0,VIC,ApartmentUnitFlat,1,2,1,Eastern Suburbs,CAMBERWELL,3124,2022-09-15T14:08:49,3-4-spencer-road-camberwell-vic-3124-16091161,-37.8317223,145.07077
+209,620.0,VIC,Townhouse,1,2,1,Melbourne Region,ESSENDON,3040,2022-09-20T21:36:49,4-8-10-lincoln-road-essendon-vic-3040-16098657,-37.7549973,144.908524
+210,800.0,VIC,ApartmentUnitFlat,2,2,2,Melbourne Region,MALVERN,3144,2022-09-28T16:38:06,g03-1271-1273-high-street-malvern-vic-3144-16109656,-37.8569336,145.0337
+211,470.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,MARIBYRNONG,3032,2022-09-27T17:00:42,307-55-cumberland-drive-maribyrnong-vic-3032-16107543,-37.7864952,144.900848
+212,595.0,VIC,ApartmentUnitFlat,2,2,1,Eastern Suburbs,KEW,3101,2022-09-29T11:45:00,202-39-studley-park-rd-kew-vic-3101-16110655,-37.8071365,145.023972
+213,495.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,CAULFIELD SOUTH,3162,2022-09-27T12:51:11,3-1-frederick-street-caulfield-south-vic-3162-16106461,-37.90236,145.032364
+214,1500.0,VIC,House,2,5,2,Eastern Suburbs,SURREY HILLS,3127,2022-09-30T12:02:39,12-kennealy-st-surrey-hills-vic-3127-16112779,-37.8264771,145.088516
+215,1699.0,VIC,NewHouseLand,3,3,2,Melbourne Region,BRIGHTON EAST,3187,2022-09-29T09:37:09,238a-were-street-brighton-east-vic-3187-16110215,-37.9276047,145.014572
+216,300.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,ST KILDA,3182,2022-09-27T11:23:44,4-22-crimea-street-st-kilda-vic-3182-15808911,-37.8591423,144.9884
+217,310.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,FLEMINGTON,3031,2022-09-26T11:24:03,5-48-farnham-street-flemington-vic-3031-16103716,-37.78277,144.93071
+218,420.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,FLEMINGTON,3031,2022-09-29T12:04:56,913-1-ascot-vale-road-flemington-vic-3031-14811213,-37.7867355,144.921188
+219,650.0,VIC,Townhouse,2,3,2,Melbourne Region,BENTLEIGH EAST,3165,2022-09-19T12:06:43,1-45-neville-st-bentleigh-east-vic-3165-16095004,-37.9235725,145.055038
+220,310.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,ST KILDA WEST,3182,2022-09-28T10:38:14,30-233-235-canterbury-road-st-kilda-west-vic-3182-16108250,-37.85915,144.9762
+221,520.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,FOOTSCRAY,3011,2022-09-28T20:41:08,1605-6-joseph-road-footscray-vic-3011-16109994,-37.799263,144.909683
+222,380.0,VIC,ApartmentUnitFlat,1,2,0,Melbourne Region,RIPPONLEA,3185,2022-09-21T14:24:26,2-9-oak-grove-ripponlea-vic-3185-16100046,-37.8760948,144.997025
+223,750.0,VIC,ApartmentUnitFlat,2,2,2,Melbourne Region,EAST MELBOURNE,3002,2022-09-20T09:54:27,29-8-wellington-crescent-east-melbourne-vic-3002-16096702,-37.8172226,144.977676
+224,290.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,MURRUMBEENA,3163,2022-09-29T20:09:53,6-18-bute-st-murrumbeena-vic-3163-16112065,-37.8937149,145.070374
+225,995.0,VIC,Townhouse,2,3,2,Melbourne Region,ST KILDA,3182,2022-09-26T11:15:34,2b-waterloo-crescent-st-kilda-vic-3182-16103682,-37.86142,144.982986
+226,525.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,CARLTON,3053,2022-09-29T13:41:05,10-21-university-street-carlton-vic-3053-10308643,-37.79962,144.969284
+227,520.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,CAULFIELD NORTH,3161,2022-09-30T15:42:18,108-67-77-hawthorn-road-caulfield-north-vic-3161-16113540,-37.87331,145.0249
+228,650.0,VIC,Townhouse,2,4,1,Melbourne Region,CLAYTON,3168,2022-09-21T13:43:01,2-1-manatunga-street-clayton-vic-3168-16099845,-37.9159737,145.125168
+229,650.0,VIC,House,1,2,1,Melbourne Region,NORTHCOTE,3070,2022-09-16T11:39:13,67-clarke-street-northcote-vic-3070-16092703,-37.7756271,144.991623
+230,460.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,BRUNSWICK WEST,3055,2022-09-19T19:48:26,804-1-olive-york-way-brunswick-west-vic-3055-15357145,-37.7580757,144.938766
+231,420.0,VIC,House,2,3,1,Northern Victoria,WODONGA,3690,2022-09-28T15:04:45,10-arnold-place-wodonga-vic-3690-16109206,-36.1368256,146.86763
+232,530.0,VIC,ApartmentUnitFlat,1,2,2,Melbourne Region,ARMADALE,3143,2022-09-20T22:45:18,8-18-mercer-road-armadale-vic-3143-16098674,-37.8541527,145.027
+233,495.0,VIC,Townhouse,2,3,1,Melbourne Region,SPRINGVALE,3171,2022-09-26T10:52:41,2-9-virginia-street-springvale-vic-3171-16103573,-37.9470749,145.154724
+234,1200.0,VIC,House,2,5,2,Melbourne Region,CAULFIELD SOUTH,3162,2022-09-16T17:38:54,43-bent-st-caulfield-south-vic-3162-16093981,-37.8934326,145.032608
+235,600.0,VIC,ApartmentUnitFlat,2,3,2,Melbourne Region,BRIGHTON,3186,2022-09-26T10:31:28,107-7-9-cowra-street-brighton-vic-3186-16103475,-37.9049377,145.007141
+236,895.0,VIC,House,2,3,0,Eastern Suburbs,HAWTHORN,3122,2022-09-30T11:08:49,7-connell-street-hawthorn-vic-3122-16112571,-37.8181458,145.02301
+237,365.0,VIC,ApartmentUnitFlat,1,1,1,Eastern Suburbs,DONCASTER EAST,3109,2022-09-16T16:02:18,21-872-874-doncaster-road-doncaster-east-vic-3109-16093627,-37.7874451,145.145615
+238,395.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,SOUTH YARRA,3141,2022-09-26T17:06:43,24-43-caroline-street-south-yarra-vic-3141-16105251,-37.8377876,144.987564
+239,250.0,VIC,Studio,1,1,1,Melbourne Region,ST KILDA,3182,2022-09-30T08:09:16,16-42-waterloo-crescent-st-kilda-vic-3182-16112116,-37.86259,144.983414
+240,325.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,RICHMOND,3121,2022-09-21T16:45:22,17-6-adam-street-richmond-vic-3121-16100713,-37.8284,145.007813
+241,585.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,MELBOURNE,3000,2022-09-01T16:59:38,701-101-therry-st-melbourne-vic-3000-16069017,-37.807415,144.959122
+242,395.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,SOUTH YARRA,3141,2022-09-16T14:31:15,510-77-river-street-south-yarra-vic-3141-16093296,-37.8368378,144.997452
+243,495.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,BALACLAVA,3183,2022-09-20T10:24:53,1-107-grosvenor-street-balaclava-vic-3183-16096804,-37.8737564,144.9976
+244,430.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,ARMADALE,3143,2022-09-30T14:06:03,13-7-sutherland-road-armadale-vic-3143-16113177,-37.8599,145.0164
+245,1200.0,VIC,Townhouse,2,3,2,Melbourne Region,CAULFIELD NORTH,3161,2022-09-21T12:29:39,2-27-leaburn-avenue-caulfield-north-vic-3161-16099564,-37.8711243,145.016479
+246,450.0,VIC,House,2,3,2,Northern Victoria,WODONGA,3690,2022-09-21T15:15:12,11-macquarie-road-wodonga-vic-3690-16100280,-36.1133728,146.844666
+247,1090.0,VIC,House,2,3,1,Melbourne Region,BRIGHTON EAST,3187,2022-09-26T09:44:40,2-mayrose-crescent-brighton-east-vic-3187-16103263,-37.9244728,145.005661
+248,540.0,VIC,Townhouse,2,2,1,Melbourne Region,COBURG,3058,2022-09-16T11:17:15,4-18-loch-street-coburg-vic-3058-16092618,-37.7474976,144.962326
+249,360.0,VIC,ApartmentUnitFlat,1,2,1,Eastern Suburbs,MITCHAM,3132,2022-09-30T16:21:06,2-8-rupert-street-mitcham-vic-3132-16113687,-37.82128,145.199265
+250,425.0,VIC,Townhouse,1,2,1,Melbourne Region,RESERVOIR,3073,2022-09-28T17:19:04,1-24-charlton-cres-reservoir-vic-3073-16109817,-37.7181931,145.023911
+251,730.0,VIC,Townhouse,3,4,2,Melbourne Region,BURWOOD,3125,2022-09-20T14:23:46,1a-monica-street-burwood-vic-3125-16097697,-37.84591,145.107224
+252,650.0,VIC,Townhouse,1,2,1,Melbourne Region,CLIFTON HILL,3068,2022-09-16T10:03:35,48-clifton-avenue-clifton-hill-vic-3068-16092358,-37.7908058,144.997482
+253,595.0,VIC,House,2,2,1,Melbourne Region,BRUNSWICK WEST,3055,2022-09-26T12:07:59,2-28-millward-street-brunswick-west-vic-3055-16103927,-37.77536,144.949417
+254,265.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,GLEN HUNTLY,3163,2022-09-15T15:28:20,2-109-grange-road-glen-huntly-vic-3163-16091489,-37.8890533,145.044922
+255,435.0,VIC,House,1,1,1,Melbourne Region,TOORAK,3142,2022-09-21T10:04:21,5-256-williams-road-toorak-vic-3142-16098967,-37.8426476,145.004684
+256,500.0,VIC,ApartmentUnitFlat,1,2,0,Melbourne Region,CARLTON,3053,2022-09-28T09:32:09,706-111-leicester-street-carlton-vic-3053-16108027,-37.8035,144.96022
+257,475.0,VIC,ApartmentUnitFlat,1,2,1,Eastern Suburbs,KEW EAST,3102,2022-09-26T15:57:15,105-18-cadow-street-kew-east-vic-3102-16104932,-37.7963371,145.05423
+258,780.0,VIC,ApartmentUnitFlat,2,3,1,Melbourne Region,MELBOURNE,3000,2022-09-18T13:59:24,232-538-little-lonsdale-street-melbourne-vic-3000-16094294,-37.8136978,144.9532
+259,380.0,VIC,House,2,4,1,Melbourne Region,WERRIBEE,3030,2022-09-19T15:38:14,1-3-weebill-court-werribee-vic-3030-14233278,-37.8792877,144.672455
+260,430.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,PRAHRAN,3181,2022-09-20T09:30:57,4-2-4-jessamine-avenue-prahran-vic-3181-16096629,-37.8583069,145.003265
+261,430.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,MELBOURNE,3000,2022-09-20T16:50:50,320-68-la-trobe-street-melbourne-vic-3000-16098385,-37.8083649,144.9668
+262,380.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,PRAHRAN,3181,2022-09-28T10:25:19,502-201-high-street-prahran-vic-3181-16108215,-37.85185,144.994827
+263,690.0,VIC,ApartmentUnitFlat,1,3,1,Melbourne Region,SOUTH YARRA,3141,2022-09-16T13:16:50,2-64-park-street-south-yarra-vic-3141-16093045,-37.8361549,144.982376
+264,400.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,FOOTSCRAY,3011,2022-09-27T11:08:34,1412-4-joseph-road-footscray-vic-3011-16106028,-37.7996826,144.909714
+265,620.0,VIC,ApartmentUnitFlat,1,3,2,Melbourne Region,BRIGHTON EAST,3187,2022-09-19T10:41:39,2-10-alford-street-brighton-east-vic-3187-16094684,-37.9119148,145.008743
+266,500.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,MELBOURNE,3000,2022-09-30T18:48:35,1202-620-collins-street-melbourne-vic-3000-16114058,-37.81866,144.954346
+267,500.0,VIC,House,2,2,1,Melbourne Region,FOOTSCRAY,3011,2022-09-26T12:37:43,1107-6-joseph-road-footscray-vic-3011-16104041,-37.799263,144.909683
+268,400.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,SOUTH MELBOURNE,3205,2022-09-21T11:09:07,209-97-palmerston-crescent-south-melbourne-vic-3205-16099232,-37.8361359,144.967529
+269,360.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,MARIBYRNONG,3032,2022-09-16T14:56:58,712-68-wests-road-maribyrnong-vic-3032-16093377,-37.770092,144.8825
+270,710.0,VIC,House,1,3,2,Melbourne Region,MALVERN EAST,3145,2022-09-16T09:45:48,726-warrigal-road-malvern-east-vic-3145-16092294,-37.8852119,145.089432
+271,680.0,VIC,Townhouse,3,3,3,Melbourne Region,NORTHCOTE,3070,2022-09-21T13:04:30,6-22-french-avenue-northcote-vic-3070-16099680,-37.7712364,145.014038
+272,910.0,VIC,Townhouse,2,4,2,Melbourne Region,CAULFIELD,3162,2022-09-26T11:42:59,1a-marriott-street-caulfield-vic-3162-16103818,-37.8821,145.029449
+273,1500.0,VIC,House,2,4,3,Melbourne Region,ORMOND,3204,2022-09-29T15:58:29,8-bevan-street-ormond-vic-3204-16111581,-37.9054031,145.026459
+274,400.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,MELBOURNE,3000,2022-09-27T16:39:45,309-501-little-collins-street-melbourne-vic-3000-16107439,-37.8169441,144.9581
+275,450.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,HEIDELBERG,3084,2022-09-30T15:40:23,4-74-darebin-st-heidelberg-vic-3084-16113528,-37.7533264,145.061874
+276,630.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,SOUTH YARRA,3141,2022-09-16T10:39:56,1008-2-claremont-street-south-yarra-vic-3141-14225672,-37.8387833,144.993729
+277,495.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,ST KILDA WEST,3182,2022-09-28T11:47:40,9-26-loch-street-st-kilda-west-vic-3182-16108504,-37.85791,144.973816
+278,480.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,HUGHESDALE,3166,2022-09-30T09:06:29,203-59-63-warrigal-road-hughesdale-vic-3166-13009899,-37.89888,145.086884
+279,600.0,VIC,Townhouse,2,3,1,Melbourne Region,COBURG,3058,2022-09-21T11:58:12,177-urquhart-street-coburg-vic-3058-16099429,-37.7409973,144.975784
+280,600.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,EAST MELBOURNE,3002,2022-09-19T16:35:44,811v-162-albert-street-east-melbourne-vic-3002-16096094,-37.8100433,144.985535
+281,575.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,BRUNSWICK EAST,3057,2022-09-19T15:25:07,106-273-lygon-street-brunswick-east-vic-3057-16095784,-37.770443,144.97171
+282,650.0,VIC,ApartmentUnitFlat,1,2,0,Melbourne Region,MELBOURNE,3000,2022-09-26T15:02:19,101-108-flinders-street-melbourne-vic-3000-16104629,-37.8161926,144.971191
+283,595.0,VIC,House,1,2,0,Melbourne Region,WILLIAMSTOWN,3016,2022-09-26T16:11:45,20-illawarra-street-williamstown-vic-3016-16104991,-37.869442,144.900589
+284,350.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,BRUNSWICK,3056,2022-09-30T15:21:26,116-288-albert-street-brunswick-vic-3056-16113457,-37.7690353,144.960632
+285,450.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,SOUTHBANK,3006,2022-09-29T14:44:17,1005-285-city-road-southbank-vic-3006-16111246,-37.82742,144.9588
+286,780.0,VIC,Townhouse,2,3,1,Melbourne Region,CARLTON,3053,2022-09-27T15:59:24,11-406-cardigan-street-carlton-vic-3053-16107251,-37.79469,144.967728
+287,850.0,VIC,House,2,4,2,Melbourne Region,KEYSBOROUGH,3173,2022-09-29T11:38:43,20-greenside-cres-keysborough-vic-3173-16110634,-38.0061646,145.1516
+288,245.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,GARDENVALE,3185,2022-09-28T20:01:18,4-22-magnolia-road-gardenvale-vic-3185-16109985,-37.89919,145.010223
+289,550.0,VIC,House,2,2,1,Melbourne Region,CLAYTON,3168,2022-09-29T11:24:02,2-40-glenbrook-avenue-clayton-vic-3168-16110582,-37.909893,145.123947
+290,770.0,VIC,Townhouse,2,3,1,Melbourne Region,ELWOOD,3184,2022-09-29T10:20:54,6-59-61-ormond-esplanade-elwood-vic-3184-16110347,-37.886795,144.983826
+291,420.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,PARKVILLE,3052,2022-09-20T10:47:41,12-283-royal-parade-parkville-vic-3052-16096882,-37.7868042,144.9587
+292,450.0,VIC,ApartmentUnitFlat,2,2,1,Eastern Suburbs,CAMBERWELL,3124,2022-09-21T14:50:20,301-1150-toorak-road-camberwell-vic-3124-16100175,-37.8485832,145.077377
+293,480.0,VIC,House,2,3,4,Melbourne Region,CARRUM DOWNS,3201,2022-09-20T14:18:25,44-bushlark-drive-carrum-downs-vic-3201-16097673,-38.1058159,145.175491
+294,360.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,CLAYTON,3168,2022-09-30T11:44:37,20-2-greenfield-drive-clayton-vic-3168-15740628,-37.92322,145.128662
+295,490.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,EAST MELBOURNE,3002,2022-09-28T14:50:55,unit-101m-201-powlett-street-east-melbourne-vic-3002-16109142,-37.8096581,144.985626
+296,480.0,VIC,House,2,4,2,Melbourne Region,TARNEIT,3029,2022-09-21T17:58:00,106-stratus-street-tarneit-vic-3029-16100986,-37.83998,144.638885
+297,550.0,VIC,House,1,2,1,Eastern Suburbs,CAMBERWELL,3124,2022-09-21T13:29:58,568-camberwell-road-camberwell-vic-3124-16098540,-37.8450546,145.072052
+298,1200.0,VIC,House,3,5,2,Melbourne Region,BRUNSWICK,3056,2022-09-15T15:02:32,399-brunswick-road-brunswick-vic-3056-16091358,-37.77558,144.950272
+299,550.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,FITZROY NORTH,3068,2022-09-21T08:24:16,304-38-nicholson-street-fitzroy-north-vic-3068-16098711,-37.7739868,144.979355
+300,495.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,SOUTH MELBOURNE,3205,2022-09-16T09:34:14,409-85-market-street-south-melbourne-vic-3205-16092256,-37.8302574,144.957916
+301,900.0,VIC,House,3,4,1,Melbourne Region,NIDDRIE,3042,2022-09-30T09:45:56,51-carrington-road-niddrie-vic-3042-16112270,-37.7377243,144.887589
+302,380.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,BENTLEIGH EAST,3165,2022-09-20T16:05:01,103-16-malane-street-bentleigh-east-vic-3165-16098175,-37.91831,145.055222
+303,410.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,MELBOURNE,3000,2022-09-27T10:07:41,401-408-lonsdale-street-melbourne-vic-3000-16014585,-37.8126,144.9604
+304,575.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,RICHMOND,3121,2022-09-19T11:23:16,218-71-abinger-street-richmond-vic-3121-16094828,-37.8204575,145.004257
+305,340.0,VIC,Townhouse,1,2,2,Northern Victoria,WODONGA,3690,2022-09-15T16:11:35,7-74-south-street-wodonga-vic-3690-16091669,-36.11603,146.88002
+306,430.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,ST KILDA,3182,2022-09-19T12:37:46,49-64-fitzroy-street-st-kilda-vic-3182-16095131,-37.8590431,144.977753
+307,350.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,EAST MELBOURNE,3002,2022-09-28T13:04:40,18-29-george-street-east-melbourne-vic-3002-16108770,-37.81585,144.989212
+308,420.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,MALVERN EAST,3145,2022-09-28T13:39:00,4-65-paxton-street-malvern-east-vic-3145-16108869,-37.87095,145.0569
+309,480.0,VIC,House,1,2,0,Melbourne Region,CLIFTON HILL,3068,2022-09-27T09:57:48,478-wellington-street-clifton-hill-vic-3068-16105769,-37.7901268,144.989044
+310,395.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,ST KILDA,3182,2022-09-21T12:25:19,4-30-mitford-street-st-kilda-vic-3182-16099536,-37.8727379,144.982391
+311,550.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,ST KILDA,3182,2022-09-29T11:50:33,15-39-41-wellington-street-st-kilda-vic-3182-16110681,-37.8565254,144.985489
+312,825.0,VIC,House,2,3,2,Melbourne Region,RICHMOND,3121,2022-09-21T17:06:23,158-burnley-street-richmond-vic-3121-13706826,-37.8183,145.008255
+313,385.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,ST KILDA EAST,3183,2022-09-27T11:39:32,1-296-inkerman-st-st-kilda-east-vic-3183-16106154,-37.86626,145.001022
+314,450.0,VIC,ApartmentUnitFlat,1,2,2,Melbourne Region,BRIGHTON,3186,2022-09-16T09:06:42,5-297-st-kilda-street-brighton-vic-3186-16092184,-37.90554,144.987534
+315,650.0,VIC,House,1,2,0,Melbourne Region,RICHMOND,3121,2022-09-26T11:50:23,21-dover-street-richmond-vic-3121-16103850,-37.826088,144.992264
+316,1400.0,VIC,House,3,4,4,Melbourne Region,BRIGHTON EAST,3187,2022-09-21T10:24:29,16a-plunket-street-brighton-east-vic-3187-16099058,-37.9202957,145.014679
+317,280.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,ST KILDA,3182,2022-09-28T10:14:07,17-1-acland-street-st-kilda-vic-3182-16108171,-37.8627357,144.973877
+318,1200.0,VIC,House,2,4,1,Melbourne Region,PRAHRAN,3181,2022-09-19T15:37:57,2-abeckett-street-prahran-vic-3181-16095838,-37.84929,145.009583
+319,495.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,MALVERN EAST,3145,2022-09-30T16:36:30,101-1443-dandenong-road-malvern-east-vic-3145-16113756,-37.89232,145.086685
+320,750.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,WEST MELBOURNE,3003,2022-09-16T16:22:47,6-18-ireland-street-west-melbourne-vic-3003-16093709,-37.8076057,144.945618
+321,350.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,SOUTHBANK,3006,2022-09-16T14:53:02,1204-33-clarke-street-southbank-vic-3006-16093367,-37.8261566,144.959274
+322,1300.0,VIC,House,2,3,1,Melbourne Region,RICHMOND,3121,2022-09-30T12:47:09,57-lord-st-richmond-vic-3121-16112934,-37.8217125,145.004883
+323,570.0,VIC,Townhouse,1,2,1,Melbourne Region,NORTHCOTE,3070,2022-09-30T13:20:34,2-274-st-georges-road-northcote-vic-3070-16113021,-37.76238,144.993042
+324,330.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,PARKVILLE,3052,2022-09-26T14:50:05,17-228-the-avenue-parkville-vic-3052-16104553,-37.7821121,144.957962
+325,1200.0,VIC,Townhouse,2,3,2,Melbourne Region,ELWOOD,3184,2022-09-16T13:02:55,89b-ruskin-street-elwood-vic-3184-16092997,-37.87886,144.982239
+326,390.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,CHADSTONE,3148,2022-09-19T10:58:19,404-70-batesford-road-chadstone-vic-3148-16094741,-37.8759346,145.093063
+327,550.0,VIC,House,1,2,1,Melbourne Region,BRUNSWICK EAST,3057,2022-09-27T09:13:21,45-victoria-street-brunswick-east-vic-3057-16105604,-37.7686577,144.979141
+328,395.0,VIC,House,1,2,2,Melbourne Region,ALTONA MEADOWS,3028,2022-09-29T08:42:50,36a-featherby-way-altona-meadows-vic-3028-16110093,-37.89061,144.780365
+329,350.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,SOUTH YARRA,3141,2022-09-20T14:00:33,16-174-toorak-road-west-south-yarra-vic-3141-16097614,-37.8380127,144.985748
+330,440.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,HEIDELBERG,3084,2022-09-26T11:26:16,level-2-5-9-martin-street-heidelberg-vic-3084-16103734,-37.7539444,145.059631
+331,645.0,VIC,House,1,2,0,Melbourne Region,RICHMOND,3121,2022-09-15T15:51:36,73-fraser-street-richmond-vic-3121-16091575,-37.8221169,145.0061
+332,640.0,VIC,House,1,2,2,Melbourne Region,RICHMOND,3121,2022-09-16T08:54:04,57-lincoln-street-richmond-vic-3121-16092170,-37.8128548,145.003632
+333,550.0,VIC,House,1,2,0,Melbourne Region,FITZROY NORTH,3068,2022-09-16T12:24:05,45-mckean-street-fitzroy-north-vic-3068-16092855,-37.7896538,144.9841
+334,550.0,VIC,ApartmentUnitFlat,1,3,1,Melbourne Region,SANDRINGHAM,3191,2022-09-16T10:54:29,4-264-bluff-road-sandringham-vic-3191-16092529,-37.95682,145.020279
+335,700.0,VIC,House,1,2,2,Melbourne Region,BRUNSWICK,3056,2022-09-21T18:36:44,7-walters-street-brunswick-vic-3056-16101017,-37.7593155,144.956039
+336,350.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,DOREEN,3754,2022-09-28T15:31:05,20-flourish-walk-doreen-vic-3754-16109319,-37.61849,145.125549
+337,390.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,SANDRINGHAM,3191,2022-09-26T11:17:00,217-222-bay-road-sandringham-vic-3191-16103690,-37.9549637,145.02565
+338,650.0,VIC,ApartmentUnitFlat,2,2,0,Melbourne Region,MELBOURNE,3000,2022-09-15T13:30:12,4010-639-lonsdale-street-melbourne-vic-3000-16091026,-37.8150673,144.953415
+339,575.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,CAULFIELD NORTH,3161,2022-09-29T17:26:32,6-374-dandenong-road-caulfield-north-vic-3161-16111921,-37.86082,145.011139
+340,500.0,VIC,Townhouse,2,2,1,Melbourne Region,PRESTON,3072,2022-09-26T12:07:00,4-492-plenty-road-preston-vic-3072-16103925,-37.7377243,145.012375
+341,1200.0,VIC,House,3,4,2,Melbourne Region,ELSTERNWICK,3185,2022-09-26T16:50:17,76-allison-road-elsternwick-vic-3185-16105190,-37.8824425,145.0129
+342,330.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,CARNEGIE,3163,2022-09-26T09:18:05,3-29-mernda-ave-carnegie-vic-3163-16103178,-37.8933678,145.048889
+343,1175.0,VIC,House,4,4,2,Eastern Suburbs,DEEPDENE,3103,2022-09-26T14:41:37,2-bennett-street-deepdene-vic-3103-16104504,-37.8091927,145.066681
+344,695.0,VIC,House,2,3,2,Melbourne Region,MOUNT WAVERLEY,3149,2022-09-19T16:51:23,1b-laura-grove-mount-waverley-vic-3149-16096160,-37.8662453,145.143921
+345,400.0,VIC,ApartmentUnitFlat,1,2,1,Eastern Suburbs,TEMPLESTOWE LOWER,3107,2022-09-15T16:01:20,10-208-210-high-street-templestowe-lower-vic-3107-16091613,-37.77274,145.1153
+346,865.0,VIC,House,1,2,0,Melbourne Region,MIDDLE PARK,3206,2022-09-29T15:54:35,33-nimmo-street-middle-park-vic-3206-16111553,-37.84977,144.962845
+347,470.0,VIC,ApartmentUnitFlat,1,3,2,Melbourne Region,DINGLEY VILLAGE,3172,2022-09-26T13:54:06,11-ridder-court-dingley-village-vic-3172-16104299,-37.97414,145.1166
+348,320.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,BRUNSWICK WEST,3055,2022-09-26T11:35:09,1-3-guthrie-street-brunswick-west-vic-3055-16103784,-37.7743378,144.942535
+349,730.0,VIC,House,1,3,1,Melbourne Region,THORNBURY,3071,2022-09-19T08:24:38,47-speight-street-thornbury-vic-3071-16094346,-37.7622375,145.010742
+350,450.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,BRIGHTON,3186,2022-09-27T13:15:58,4-14-enfield-road-brighton-vic-3186-16106550,-37.9032021,145.0069
+351,450.0,VIC,ApartmentUnitFlat,1,2,0,Melbourne Region,ST KILDA WEST,3182,2022-09-21T11:01:31,18-11-17-park-street-st-kilda-west-vic-3182-16099197,-37.8605576,144.973679
+352,350.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,HAMPTON,3188,2022-09-26T09:15:17,6-518-bluff-rd-hampton-vic-3188-16103170,-37.9364738,145.024323
+353,550.0,VIC,House,1,3,1,Eastern Suburbs,GLEN IRIS,3146,2022-09-26T14:55:23,17-watson-street-glen-iris-vic-3146-16104587,-37.85381,145.07399
+354,495.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,CARNEGIE,3163,2022-09-27T14:27:04,203-1298-glen-huntly-road-carnegie-vic-3163-16106830,-37.8907967,145.051361
+355,340.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,ABBOTSFORD,3067,2022-09-21T17:03:59,6-241-nicholson-street-abbotsford-vic-3067-11018248,-37.80075,144.99733
+356,300.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,MALVERN EAST,3145,2022-09-19T16:37:46,5-23-camira-street-malvern-east-vic-3145-15363345,-37.89141,145.087692
+357,520.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,MELBOURNE,3000,2022-09-15T18:46:42,1411-250-elizabeth-street-melbourne-vic-3000-16092022,-37.8125648,144.962814
+358,575.0,VIC,ApartmentUnitFlat,1,3,0,Melbourne Region,ST KILDA,3182,2022-09-29T12:06:18,3-16-eildon-road-st-kilda-vic-3182-16110741,-37.86306,144.976517
+359,650.0,VIC,ApartmentUnitFlat,1,3,1,Melbourne Region,BRIGHTON,3186,2022-09-28T17:54:11,2-876-hampton-street-brighton-vic-3186-16109894,-37.910038,145.008041
+360,380.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,MELBOURNE,3000,2022-09-18T15:12:35,7-562-little-bourke-street-melbourne-vic-3000-16094300,-37.81516,144.9557
+361,625.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,PRAHRAN,3181,2022-09-29T15:26:27,g04-652-high-street-prahran-vic-3181-16111416,-37.8543129,145.0096
+362,700.0,VIC,Townhouse,2,3,1,Melbourne Region,CAULFIELD NORTH,3161,2022-09-29T12:12:33,2-309-hawthorn-road-caulfield-north-vic-3161-16110754,-37.88267,145.023163
+363,500.0,VIC,ApartmentUnitFlat,2,3,1,Eastern Suburbs,DONCASTER,3108,2022-09-26T10:43:37,717-101-tram-road-doncaster-vic-3108-16103524,-37.78801,145.1245
+364,470.0,VIC,ApartmentUnitFlat,1,2,1,Eastern Suburbs,HAWTHORN,3122,2022-09-20T16:57:43,2-70-power-street-hawthorn-vic-3122-16075968,-37.8180466,145.0267
+365,525.0,VIC,ApartmentUnitFlat,2,3,1,Melbourne Region,OAK PARK,3046,2022-09-26T17:02:42,2-12-sylvester-street-oak-park-vic-3046-16105234,-37.720974,144.9138
+366,350.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,ALTONA MEADOWS,3028,2022-09-27T15:20:02,207-79-merton-street-altona-meadows-vic-3028-16107073,-37.87221,144.777725
+367,375.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,CAULFIELD NORTH,3161,2022-08-12T08:08:14,6-11-kooyong-road-caulfield-north-vic-3161-16035335,-37.8644638,145.018921
+368,580.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,CAULFIELD NORTH,3161,2022-09-28T12:22:48,201-6-station-st-caulfield-north-vic-3161-16108638,-37.8766174,145.036331
+369,800.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,ELWOOD,3184,2022-09-26T13:11:38,5-111-ruskin-street-elwood-vic-3184-16104155,-37.8801956,144.981766
+370,380.0,VIC,ApartmentUnitFlat,1,1,2,Melbourne Region,NORTH MELBOURNE,3051,2022-09-30T12:30:25,4-19-chapman-street-north-melbourne-vic-3051-16112887,-37.79741,144.9495
+371,500.0,VIC,ApartmentUnitFlat,1,2,1,Eastern Suburbs,SURREY HILLS,3127,2022-09-21T13:45:11,1-969-riversdale-road-surrey-hills-vic-3127-16099850,-37.8356743,145.097534
+372,290.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,CARNEGIE,3163,2022-09-15T13:39:09,6-45-coorigil-road-carnegie-vic-3163-16091052,-37.89587,145.05983
+373,580.0,VIC,Townhouse,2,3,0,Eastern Suburbs,BOX HILL,3128,2022-09-21T08:48:12,8-27-oxford-street-box-hill-vic-3128-16098733,-37.821743,145.119644
+374,530.0,VIC,ApartmentUnitFlat,2,2,0,Melbourne Region,MELBOURNE,3000,2022-09-21T17:07:26,601-8-exploration-lane-melbourne-vic-3000-16081723,-37.8091125,144.96846
+375,1295.0,VIC,House,2,4,0,Melbourne Region,NORTH MELBOURNE,3051,2022-09-16T15:57:58,494-abbotsford-street-north-melbourne-vic-3051-16093609,-37.7945938,144.94722
+376,650.0,VIC,Townhouse,3,3,2,Melbourne Region,CHADSTONE,3148,2022-09-19T16:27:54,33-carramar-street-chadstone-vic-3148-16096061,-37.87921,145.101425
+377,350.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,MALVERN EAST,3145,2022-09-19T10:33:10,6-1403-dandenong-road-malvern-east-vic-3145-16094655,-37.8909645,145.084045
+378,875.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,TOORAK,3142,2022-09-29T15:14:29,4-24-lascelles-avenue-toorak-vic-3142-16111381,-37.8395653,145.013168
+379,385.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,ST KILDA WEST,3182,2022-09-28T12:44:40,13-343-beaconsfield-parade-st-kilda-west-vic-3182-16108716,-37.8587456,144.971
+380,360.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,ST KILDA WEST,3182,2022-09-28T14:29:28,35-233-canterbury-road-st-kilda-west-vic-3182-16109040,-37.85915,144.9762
+381,495.0,VIC,House,1,3,1,Melbourne Region,CLARINDA,3169,2022-09-28T11:18:12,17-wandoo-avenue-clarinda-vic-3169-16108397,-37.92938,145.107224
+382,490.0,VIC,ApartmentUnitFlat,1,2,0,Melbourne Region,ELWOOD,3184,2022-09-21T13:06:41,6-25-dickens-street-elwood-vic-3184-16099687,-37.87241,144.985046
+383,450.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,CAULFIELD,3162,2022-09-21T10:59:14,107-15-bond-street-caulfield-vic-3162-15367271,-37.8762779,145.036713
+384,440.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,EDITHVALE,3196,2022-09-19T15:05:46,10-216-station-street-edithvale-vic-3196-14486078,-38.03754,145.108826
+385,400.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,ELWOOD,3184,2022-09-27T12:38:48,7-54-tennyson-street-elwood-vic-3184-16106407,-37.87397,144.987717
+386,380.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,ABBOTSFORD,3067,2022-09-20T14:26:47,814-4-acacia-place-abbotsford-vic-3067-16097710,-37.8115959,145.014038
+387,450.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,CHELTENHAM,3192,2022-09-16T10:36:28,610-2-6-railway-road-cheltenham-vic-3192-16092472,-37.9661522,145.056381
+388,410.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,FOOTSCRAY,3011,2022-09-26T10:00:19,1908-6-joseph-road-footscray-vic-3011-15399494,-37.799263,144.909683
+389,420.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,ELSTERNWICK,3185,2022-09-21T11:40:17,311-7-nepean-highway-elsternwick-vic-3185-16099376,-37.8841934,144.99855
+390,440.0,VIC,House,2,4,2,Melbourne Region,DONNYBROOK,3064,2022-09-20T15:49:01,27-rocco-avenue-donnybrook-vic-3064-16098102,-37.5388374,144.968079
+391,380.0,VIC,ApartmentUnitFlat,1,1,1,Eastern Suburbs,GLEN IRIS,3146,2022-09-20T15:46:34,15-4-wills-street-glen-iris-vic-3146-16098084,-37.8533134,145.053177
+392,390.0,VIC,House,1,2,1,Eastern Suburbs,HAWTHORN EAST,3123,2022-09-15T15:50:34,2-119-victoria-road-hawthorn-east-vic-3123-16091571,-37.8227463,145.054123
+393,900.0,VIC,Townhouse,3,3,2,Melbourne Region,BRUNSWICK EAST,3057,2022-09-28T15:36:37,5-31-33-o-connor-street-brunswick-east-vic-3057-16109350,-37.773365,144.972977
+394,675.0,VIC,ApartmentUnitFlat,1,3,2,Melbourne Region,ST KILDA,3182,2022-09-30T16:00:43,13-2a-robe-street-st-kilda-vic-3182-16113609,-37.865757,144.975876
+395,575.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,SOUTHBANK,3006,2022-09-26T11:46:22,808-250-city-road-southbank-vic-3006-16103830,-37.8257332,144.959671
+396,950.0,VIC,Townhouse,3,4,2,Melbourne Region,BENTLEIGH EAST,3165,2022-09-26T14:41:58,7a-fraser-street-bentleigh-east-vic-3165-16104506,-37.917263,145.06366
+397,650.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,SOUTHBANK,3006,2022-09-20T16:26:44,4008-45-clarke-street-southbank-vic-3006-16098289,-37.8269,144.959534
+398,870.0,VIC,House,2,4,3,Melbourne Region,BRIGHTON,3186,2022-09-26T16:14:40,8-yuille-street-brighton-vic-3186-16105002,-37.9273834,144.9992
+399,740.0,VIC,Townhouse,2,2,1,Melbourne Region,BRUNSWICK,3056,2022-09-20T08:20:27,1-339-brunswick-road-brunswick-vic-3056-16096511,-37.77621,144.9544
+400,550.0,VIC,House,1,2,0,Melbourne Region,RICHMOND,3121,2022-09-27T10:02:41,18-park-grove-richmond-vic-3121-16105798,-37.82556,145.013092
+401,450.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,SOUTH YARRA,3141,2022-09-15T15:32:34,203-5-7-wilson-street-south-yarra-vic-3141-15197334,-37.8436241,144.995743
+402,450.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,ASCOT VALE,3032,2022-09-27T09:54:49,207-8-burrowes-street-ascot-vale-vic-3032-16105755,-37.7785,144.914139
+403,430.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,SOUTH MELBOURNE,3205,2022-09-20T12:07:04,2604-89-gladstone-street-south-melbourne-vic-3205-16097179,-37.8301544,144.950058
+404,700.0,VIC,Townhouse,1,2,2,Melbourne Region,RICHMOND,3121,2022-09-21T09:32:04,5-19-palmer-street-richmond-vic-3121-16098868,-37.8183,145.00589
+405,575.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,CAULFIELD SOUTH,3162,2022-09-28T08:54:16,1-142-booran-road-caulfield-south-vic-3162-16107934,-37.8919754,145.037338
+406,700.0,VIC,Townhouse,1,3,0,Eastern Suburbs,KEW,3101,2022-09-28T09:39:07,1-12-stawell-street-kew-vic-3101-16108050,-37.8051,145.027359
+407,580.0,VIC,House,1,3,2,Melbourne Region,MOUNT WAVERLEY,3149,2022-09-21T11:13:28,6-hillside-road-mount-waverley-vic-3149-16099260,-37.86567,145.113235
+408,540.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,SOUTH YARRA,3141,2022-09-26T11:32:18,1101-77-river-street-south-yarra-vic-3141-15537769,-37.8368378,144.997452
+409,650.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,SOUTH YARRA,3141,2022-09-20T12:19:49,504-649-chapel-street-south-yarra-vic-3141-16097235,-37.8374367,144.99556
+410,850.0,VIC,Townhouse,2,3,1,Melbourne Region,MOONEE PONDS,3039,2022-09-20T13:09:57,25-maple-walk-moonee-ponds-vic-3039-16097397,-37.7675362,144.919891
+411,640.0,VIC,Townhouse,2,2,1,Melbourne Region,RICHMOND,3121,2022-09-26T11:33:48,12-murray-street-richmond-vic-3121-16103776,-37.8218231,145.004379
+412,475.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,FOOTSCRAY,3011,2022-09-28T20:49:18,801-8-joseph-road-footscray-vic-3011-16109999,-37.7992134,144.909912
+413,285.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,GLEN HUNTLY,3163,2022-09-26T11:18:31,14-13-rosedale-ave-glen-huntly-vic-3163-16103695,-37.8904,145.043961
+414,810.0,VIC,ApartmentUnitFlat,3,3,1,Melbourne Region,BRIGHTON,3186,2022-09-26T15:33:19,5-32-bay-street-brighton-vic-3186-16104811,-37.9038925,144.988052
+415,1100.0,VIC,House,1,3,2,Melbourne Region,PARKDALE,3195,2022-09-26T11:03:27,14-rosella-road-parkdale-vic-3195-16103628,-38.0022964,145.080627
+416,750.0,VIC,House,2,3,2,Melbourne Region,MURRUMBEENA,3163,2022-09-15T13:53:37,1-velra-ave-murrumbeena-vic-3163-16091106,-37.90746,145.073044
+417,520.0,VIC,House,1,3,2,Eastern Suburbs,KALORAMA,3766,2022-09-16T13:31:29,3-outlook-drive-kalorama-vic-3766-16093096,-37.826683,145.3711
+418,600.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,ST KILDA,3182,2022-09-19T14:34:57,202-8-blanche-street-st-kilda-vic-3182-16095573,-37.86527,144.9824
+419,600.0,VIC,House,1,2,0,Melbourne Region,CAULFIELD NORTH,3161,2022-09-29T17:50:31,7-norwood-rd-caulfield-north-vic-3161-16111976,-37.8612976,145.011429
+420,330.0,VIC,ApartmentUnitFlat,1,1,2,Melbourne Region,ST KILDA EAST,3183,2022-09-26T16:09:02,1-3-7-sebastopol-street-st-kilda-east-vic-3183-16104975,-37.8643074,144.997116
+421,425.0,VIC,ApartmentUnitFlat,1,2,1,Eastern Suburbs,HAWTHORN EAST,3123,2022-09-28T11:52:11,2-21-munro-st-hawthorn-east-vic-3123-16108516,-37.8288422,145.047043
+422,425.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,ELWOOD,3184,2022-09-20T17:44:39,g07-12-14-dickens-street-elwood-vic-3184-16098537,-37.8712158,144.986526
+423,350.0,VIC,ApartmentUnitFlat,1,1,1,Eastern Suburbs,HAWTHORN,3122,2022-09-26T10:34:56,4-32-power-street-hawthorn-vic-3122-16103495,-37.8156776,145.027
+424,625.0,VIC,House,1,2,2,Melbourne Region,CAULFIELD NORTH,3161,2022-09-29T10:20:07,6-labassa-grove-caulfield-north-vic-3161-16110340,-37.8701172,145.011658
+425,500.0,VIC,ApartmentUnitFlat,1,2,0,Melbourne Region,MELBOURNE,3000,2022-09-20T11:17:18,1713-25-therry-street-melbourne-vic-3000-16097001,-37.8069572,144.9611
+426,550.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,ABBOTSFORD,3067,2022-09-26T11:40:20,c306-11-shamrock-street-abbotsford-vic-3067-16103805,-37.8103561,145.007751
+427,445.0,VIC,Townhouse,1,2,1,Melbourne Region,PASCOE VALE,3044,2022-09-21T09:53:53,1b-hazel-grove-pascoe-vale-vic-3044-16098940,-37.73119,144.939529
+428,440.0,VIC,House,2,3,2,Melbourne Region,ALTONA MEADOWS,3028,2022-09-18T21:41:42,74-myers-parade-altona-meadows-vic-3028-16094320,-37.8771744,144.773026
+429,700.0,VIC,Townhouse,2,3,2,Melbourne Region,MALVERN,3144,2022-09-19T14:52:56,1e-wilmot-street-malvern-vic-3144-16095645,-37.88253,145.05304
+430,590.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,ELWOOD,3184,2022-09-21T14:21:00,1-9-poets-grove-elwood-vic-3184-16100027,-37.8815155,144.990341
+431,950.0,VIC,Townhouse,3,4,2,Melbourne Region,OAKLEIGH EAST,3166,2022-09-16T11:51:22,3-1845-dandenong-road-oakleigh-east-vic-3166-16092754,-37.9080544,145.117859
+432,620.0,VIC,House,2,2,1,Melbourne Region,SOUTH MELBOURNE,3205,2022-09-20T11:42:50,south-melbourne-vic-3205-15842582,-37.83389,144.963943
+433,795.0,VIC,Townhouse,2,3,1,Melbourne Region,CHELTENHAM,3192,2022-09-29T14:11:17,6-fairview-drive-cheltenham-vic-3192-16111130,-37.9610023,145.0413
+434,620.0,VIC,Townhouse,1,2,1,Melbourne Region,ESSENDON,3040,2022-09-19T14:28:55,1-8-10-lincoln-road-essendon-vic-3040-16095553,-37.7549973,144.908524
+435,1100.0,VIC,House,1,4,1,Melbourne Region,BRUNSWICK,3056,2022-09-23T11:52:03,476b-sydney-road-brunswick-vic-3056-16101831,-37.7668152,144.962372
+436,580.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,SOUTH YARRA,3141,2022-09-29T17:36:38,unit-1607-50-claremont-st-south-yarra-vic-3141-16111948,-37.8364449,144.994354
+437,520.0,VIC,Townhouse,2,2,1,Melbourne Region,MALVERN EAST,3145,2022-09-26T11:27:36,4-5-winton-road-malvern-east-vic-3145-16103745,-37.8735,145.065216
+438,420.0,VIC,House,1,3,1,Melbourne Region,NOBLE PARK,3174,2022-09-26T15:16:52,33-theodore-avenue-noble-park-vic-3174-16104719,-37.97524,145.169342
+439,650.0,VIC,House,1,2,1,Melbourne Region,CARLTON NORTH,3054,2022-09-16T12:07:11,24-macpherson-street-carlton-north-vic-3054-16092806,-37.7862663,144.976074
+440,485.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,FOOTSCRAY,3011,2022-09-19T17:50:04,1205-8-joseph-road-footscray-vic-3011-16096365,-37.7992134,144.909912
+441,810.0,VIC,House,1,3,0,Eastern Suburbs,HAWTHORN EAST,3123,2022-09-27T16:15:54,26-hastings-road-hawthorn-east-vic-3123-16107338,-37.83265,145.050949
+442,550.0,VIC,ApartmentUnitFlat,1,2,0,Melbourne Region,CAULFIELD NORTH,3161,2022-09-26T15:34:57,3-54-kooyong-road-caulfield-north-vic-3161-16104819,-37.8679771,145.018723
+443,525.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,ST KILDA EAST,3183,2022-09-26T09:54:54,1-5-te-arai-ave-st-kilda-east-vic-3183-16103327,-37.86231,145.008118
+444,760.0,VIC,House,1,3,2,Melbourne Region,BENTLEIGH,3204,2022-09-16T10:46:40,9-clapperton-street-bentleigh-vic-3204-16092512,-37.9180527,145.024551
+445,700.0,VIC,Townhouse,2,3,2,Melbourne Region,THORNBURY,3071,2022-09-21T13:50:57,348-gooch-street-thornbury-vic-3071-16099884,-37.7609,145.027283
+446,650.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,PORT MELBOURNE,3207,2022-09-28T13:23:10,508-216-rouse-street-port-melbourne-vic-3207-16108824,-37.8409538,144.937912
+447,450.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,PASCOE VALE,3044,2022-09-21T11:27:18,2-6-8-keogh-court-pascoe-vale-vic-3044-16099318,-37.7279968,144.943726
+448,820.0,VIC,ApartmentUnitFlat,2,2,0,Melbourne Region,MELBOURNE,3000,2022-09-01T14:03:00,816-101-therry-st-melbourne-vic-3000-16068338,-37.807415,144.959122
+449,690.0,VIC,House,1,4,2,Melbourne Region,BRIGHTON EAST,3187,2022-09-26T16:55:44,26-cummins-road-brighton-east-vic-3187-16105212,-37.9294739,145.026474
+450,380.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,ALTONA MEADOWS,3028,2022-09-29T13:14:35,30-390-queen-street-altona-meadows-vic-3028-16110953,-37.87195,144.778183
+451,650.0,VIC,House,2,3,2,Melbourne Region,CAULFIELD SOUTH,3162,2022-09-30T11:10:44,16-york-street-caulfield-south-vic-3162-16112581,-37.8927155,145.016937
+452,280.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,CARNEGIE,3163,2022-09-16T12:40:22,19-160-grange-road-carnegie-vic-3163-16092925,-37.8930779,145.04657
+453,410.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,FOOTSCRAY,3011,2022-09-27T11:34:31,1404-4-joseph-road-footscray-vic-3011-15362715,-37.7996826,144.909714
+454,390.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,FOOTSCRAY,3011,2022-09-27T15:29:46,808-2-joseph-road-footscray-vic-3011-15874277,-37.80033,144.909653
+455,430.0,VIC,ApartmentUnitFlat,1,2,1,Eastern Suburbs,SURREY HILLS,3127,2022-09-28T14:33:11,4-13-blackburn-street-surrey-hills-vic-3127-16109055,-37.82188,145.0989
+456,420.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,BRUNSWICK,3056,2022-09-26T10:02:20,208-611-sydney-road-brunswick-vic-3056-15144017,-37.7626076,144.9626
+457,1100.0,VIC,House,3,6,2,Eastern Suburbs,CAMBERWELL,3124,2022-09-15T19:14:36,24-prospect-hill-road-camberwell-vic-3124-16092042,-37.82875,145.060486
+458,1600.0,VIC,House,2,4,2,Eastern Suburbs,KEW,3101,2022-09-30T17:30:12,21-findon-crescent-kew-vic-3101-16113943,-37.811142,145.01947
+459,475.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,ABBOTSFORD,3067,2022-09-20T11:20:48,114-4-acacia-place-abbotsford-vic-3067-16097009,-37.8115959,145.014038
+460,1800.0,VIC,ApartmentUnitFlat,3,3,3,Melbourne Region,EAST MELBOURNE,3002,2022-09-27T10:43:20,806-296-victoria-parade-east-melbourne-vic-3002-13799976,-37.8091927,144.9816
+461,800.0,VIC,House,2,3,2,Eastern Suburbs,BALWYN,3103,2022-09-29T17:12:11,63-monash-ave-balwyn-vic-3103-16111877,-37.8030357,145.072876
+462,895.0,VIC,House,4,4,2,Melbourne Region,CLAYTON,3168,2022-09-29T16:21:29,3-40-glenbrook-avenue-clayton-vic-3168-16111672,-37.909893,145.123947
+463,370.0,VIC,ApartmentUnitFlat,1,2,1,Eastern Suburbs,HAWTHORN EAST,3123,2022-09-20T09:50:38,8-1091-burke-road-hawthorn-east-vic-3123-16096688,-37.81829,145.058853
+464,560.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,MCKINNON,3204,2022-09-29T14:41:59,g07-3-claire-street-mckinnon-vic-3204-15478778,-37.91229,145.039719
+465,650.0,VIC,Townhouse,2,3,3,Northern Victoria,WODONGA,3690,2022-09-27T17:29:05,2-147-lawrence-street-wodonga-vic-3690-16107639,-36.1252,146.891724
+466,740.0,VIC,Townhouse,1,2,1,Melbourne Region,PORT MELBOURNE,3207,2022-09-16T14:22:39,1-368-graham-street-port-melbourne-vic-3207-16093260,-37.8361969,144.935669
+467,450.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,COBURG,3058,2022-09-26T13:48:54,413-11-urquhart-street-coburg-vic-3058-15467995,-37.7398872,144.968155
+468,330.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,ELWOOD,3184,2022-09-26T15:42:43,9-40-ormond-road-elwood-vic-3184-16104855,-37.8839455,144.984863
+469,430.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,SOUTH YARRA,3141,2022-09-29T15:22:50,4-470-punt-road-south-yarra-vic-3141-16111404,-37.835083,144.987381
+470,500.0,VIC,ApartmentUnitFlat,2,1,0,Melbourne Region,MELBOURNE,3000,2022-09-19T16:39:50,313-394-collins-street-melbourne-vic-3000-15401052,-37.81668,144.961044
+471,600.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,BRUNSWICK,3056,2022-09-21T13:59:27,306-267-277-lygon-street-brunswick-vic-3056-16099911,-37.770443,144.97171
+472,595.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,BRIGHTON,3186,2022-09-28T10:49:27,145a-church-street-brighton-vic-3186-16108276,-37.9157639,144.996674
+473,550.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,ELWOOD,3184,2022-09-27T14:13:52,4-19-milton-street-elwood-vic-3184-16106784,-37.87523,144.987381
+474,1100.0,VIC,Townhouse,2,3,2,Eastern Suburbs,KEW,3101,2022-09-16T10:19:15,4-92-brougham-street-kew-vic-3101-16092405,-37.8030357,145.0313
+475,1350.0,VIC,House,1,4,0,Melbourne Region,FITZROY,3065,2022-09-29T10:52:26,33-bell-street-fitzroy-vic-3065-16110446,-37.7999458,144.976
+476,420.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,ELWOOD,3184,2022-09-27T11:43:28,5-8-john-street-elwood-vic-3184-16106183,-37.87838,144.98851
+477,700.0,VIC,House,2,3,3,Eastern Suburbs,KEW,3101,2022-09-29T15:30:48,21-high-street-kew-vic-3101-16111438,-37.8116646,145.0244
+478,550.0,VIC,House,1,3,1,Melbourne Region,BRUNSWICK,3056,2022-09-30T08:52:26,213-albert-street-brunswick-vic-3056-16112143,-37.7689934,144.964432
+479,360.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,MALVERN EAST,3145,2022-09-26T09:09:13,10-798-warrigal-road-malvern-east-vic-3145-16103154,-37.890873,145.088242
+480,630.0,VIC,ApartmentUnitFlat,1,3,2,Melbourne Region,SANDRINGHAM,3191,2022-09-30T10:38:54,3-188-bay-road-sandringham-vic-3191-16112438,-37.9541054,145.019821
+481,480.0,VIC,House,1,2,2,Eastern Suburbs,GLEN IRIS,3146,2022-09-28T13:26:31,28-somerset-road-glen-iris-vic-3146-16108831,-37.8509521,145.074921
+482,500.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,ESSENDON,3040,2022-09-27T09:40:46,6-5-winifred-essendon-vic-3040-16105691,-37.7448921,144.911438
+483,460.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,TOORAK,3142,2022-09-29T14:21:30,2-12-chastleton-avenue-toorak-vic-3142-16111165,-37.8349876,145.0138
+484,495.0,VIC,ApartmentUnitFlat,1,2,0,Melbourne Region,PRAHRAN,3181,2022-09-19T00:58:10,42-321-chapel-street-prahran-vic-3181-16094332,-37.8475266,144.993759
+485,575.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,ORMOND,3204,2022-09-20T10:51:28,2-7-ormond-road-ormond-vic-3204-16096904,-37.9033279,145.045074
+486,550.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,SOUTH YARRA,3141,2022-09-28T11:46:25,1215-7-claremont-street-south-yarra-vic-3141-16108496,-37.8382072,144.993546
+487,310.0,VIC,House,1,2,1,Eastern Suburbs,HAWTHORN EAST,3123,2022-09-21T11:16:24,11-115-victoria-rd-hawthorn-east-vic-3123-16099268,-37.82262,145.053574
+488,690.0,VIC,Townhouse,2,2,1,Melbourne Region,ST KILDA,3182,2022-09-26T12:46:12,2-6-charlotte-place-st-kilda-vic-3182-16104068,-37.8580437,144.990921
+489,410.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,SOUTH YARRA,3141,2022-09-21T16:29:39,1-16-darling-street-south-yarra-vic-3141-16100628,-37.8375359,144.991928
+490,500.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,HIGHETT,3190,2022-09-16T09:32:15,208-20-station-street-highett-vic-3190-16092254,-37.9501038,145.043716
+491,440.0,VIC,House,3,4,2,Melbourne Region,WOLLERT,3750,2022-09-16T10:50:28,35-mahla-avenue-wollert-vic-3750-16092524,-37.62257,145.037842
+492,395.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,WEST MELBOURNE,3003,2022-09-26T18:09:21,5-61-stanley-street-west-melbourne-vic-3003-16105408,-37.80838,144.949585
+493,575.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,BRUNSWICK EAST,3057,2022-09-28T08:13:20,204-294-lygon-street-brunswick-east-vic-3057-15429522,-37.7696571,144.9723
+494,670.0,VIC,House,1,2,0,Melbourne Region,THORNBURY,3071,2022-09-27T17:30:34,16-rossmoyne-street-thornbury-vic-3071-16107643,-37.7575073,145.0022
+495,1150.0,VIC,House,2,5,0,Melbourne Region,SOUTH YARRA,3141,2022-09-29T14:55:38,4-peter-st-south-yarra-vic-3141-16111285,-37.8426132,144.988831
+496,360.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,MURRUMBEENA,3163,2022-09-28T14:20:18,2-17-railway-parade-murrumbeena-vic-3163-16109008,-37.8917236,145.069351
+497,460.0,VIC,ApartmentUnitFlat,2,3,2,Melbourne Region,OAKLEIGH SOUTH,3167,2022-09-16T18:11:59,1-2-cunningham-place-oakleigh-south-vic-3167-16094025,-37.94187,145.094543
+498,425.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,WINDSOR,3181,2022-09-26T10:32:59,204-27-the-avenue-windsor-vic-3181-16103482,-37.855217,144.9977
+499,510.0,VIC,ApartmentUnitFlat,1,3,2,Melbourne Region,HUGHESDALE,3166,2022-09-30T11:31:41,3-28a-carlisle-crescent-hughesdale-vic-3166-15840574,-37.8976,145.080688
+500,350.0,VIC,ApartmentUnitFlat,1,1,1,Eastern Suburbs,HAWTHORN,3122,2022-09-28T09:39:14,18-112-riversdale-road-hawthorn-vic-3122-16108055,-37.8291969,145.036285
+501,600.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,SOUTH MELBOURNE,3205,2022-09-29T15:41:13,511-37-39-park-street-south-melbourne-vic-3205-16111490,-37.8332672,144.969254
+502,840.0,VIC,Townhouse,3,3,1,Melbourne Region,RICHMOND,3121,2022-09-21T11:50:05,5-4-little-buckingham-street-richmond-vic-3121-16099408,-37.8142471,145.0008
+503,570.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,MELBOURNE,3000,2022-09-29T14:15:05,1202-31-spring-street-melbourne-vic-3000-16111139,-37.8145065,144.974075
+504,415.0,VIC,ApartmentUnitFlat,1,2,0,Melbourne Region,ELWOOD,3184,2022-09-28T18:28:48,4-49a-tennyson-street-elwood-vic-3184-16109927,-37.8766937,144.988739
+505,650.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,RICHMOND,3121,2022-09-28T17:21:57,3-17-moorhouse-street-richmond-vic-3121-13330833,-37.8174973,144.991119
+506,530.0,VIC,House,1,3,5,Northern Victoria,WEST WODONGA,3690,2022-09-30T09:01:10,1-koetong-crescent-west-wodonga-vic-3690-16112153,-36.11654,146.854782
+507,575.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,SOUTHBANK,3006,2022-09-16T19:50:49,3201-245-city-road-southbank-vic-3006-16094069,-37.82664,144.959671
+508,700.0,VIC,House,1,3,1,Eastern Suburbs,CAMBERWELL,3124,2022-09-28T14:43:07,3-aisbett-ave-camberwell-vic-3124-16109108,-37.8488846,145.0889
+509,1020.0,VIC,Townhouse,1,3,0,Melbourne Region,BRIGHTON,3186,2022-09-26T13:34:03,33-campbell-street-brighton-vic-3186-16104223,-37.8990669,144.9932
+510,360.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,PRAHRAN,3181,2022-09-26T15:54:07,110-22-chatham-street-prahran-vic-3181-16104912,-37.8490753,144.993088
+511,800.0,VIC,House,1,2,1,Melbourne Region,PRAHRAN,3181,2022-09-21T11:26:30,43-eastbourne-street-prahran-vic-3181-16099313,-37.85316,144.995941
+512,500.0,VIC,Townhouse,1,1,1,Melbourne Region,PORT MELBOURNE,3207,2022-09-19T12:34:08,5-princes-place-port-melbourne-vic-3207-16095122,-37.8398552,144.936661
+513,290.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,NOBLE PARK,3174,2022-09-15T16:22:19,2-1-mitchell-court-noble-park-vic-3174-16091711,-37.95938,145.1766
+514,500.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,COLLINGWOOD,3066,2022-09-16T16:10:32,106-35-victoria-parade-collingwood-vic-3066-16093671,-37.80861,144.9838
+515,340.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,RICHMOND,3121,2022-09-27T09:58:35,6-183-coppin-street-richmond-vic-3121-16105773,-37.8245163,145.003036
+516,1200.0,VIC,ApartmentUnitFlat,2,3,2,Melbourne Region,HAMPTON,3188,2022-09-26T14:57:23,g01-43-crisp-street-hampton-vic-3188-16104598,-37.9408073,145.00708
+517,310.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,CARNEGIE,3163,2022-09-29T12:41:26,5-9-rosstown-road-carnegie-vic-3163-16110849,-37.8839531,145.052689
+518,400.0,VIC,ApartmentUnitFlat,1,2,1,Eastern Suburbs,KEW EAST,3102,2022-09-27T13:18:18,6-8-clyde-street-kew-east-vic-3102-16106556,-37.79625,145.055435
+519,795.0,VIC,ApartmentUnitFlat,2,3,2,Melbourne Region,ABBOTSFORD,3067,2022-09-26T15:31:18,112-4-acacia-place-abbotsford-vic-3067-16104805,-37.8115959,145.014038
+520,750.0,VIC,House,1,3,1,Melbourne Region,PORT MELBOURNE,3207,2022-09-29T10:20:15,135-spring-street-west-port-melbourne-vic-3207-16110342,-37.83508,144.943222
+521,440.0,VIC,ApartmentUnitFlat,2,2,1,Eastern Suburbs,DONCASTER EAST,3109,2022-09-16T10:34:54,211-7-red-hill-terrace-doncaster-east-vic-3109-16092464,-37.762928,145.172241
+522,345.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,ELSTERNWICK,3185,2022-09-19T15:02:09,1-540-glenhuntly-road-elsternwick-vic-3185-12838412,-37.88615,145.012268
+523,550.0,VIC,House,1,2,3,Eastern Suburbs,SURREY HILLS,3127,2022-09-19T14:24:33,937-riversdale-road-surrey-hills-vic-3127-16095527,-37.83534,145.094345
+524,650.0,VIC,SemiDetached,2,2,0,Melbourne Region,FITZROY NORTH,3068,2022-09-30T13:16:44,108a-queens-parade-fitzroy-north-vic-3068-16113014,-37.7913322,144.983444
+525,780.0,VIC,House,2,3,2,Melbourne Region,BRUNSWICK EAST,3057,2022-09-30T09:50:26,46-nicholson-street-brunswick-east-vic-3057-16112281,-37.7728233,144.979645
+526,370.0,VIC,ApartmentUnitFlat,2,2,2,Eastern Suburbs,BOX HILL,3128,2022-09-30T12:39:00,1-52-medway-street-box-hill-vic-3128-16112906,-37.811306,145.12468
+527,585.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,PRAHRAN,3181,2022-09-30T09:13:04,5-327-dandenong-road-prahran-vic-3181-16112180,-37.859726,145.009781
+528,1300.0,VIC,House,4,4,8,Eastern Suburbs,BALWYN,3103,2022-09-19T14:50:32,6-eyre-st-balwyn-vic-3103-16095631,-37.805397,145.063232
+529,350.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,ST KILDA,3182,2022-09-30T16:12:30,306-198-st-kilda-road-st-kilda-vic-3182-16113646,-37.8618355,144.985321
+530,400.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,RICHMOND,3121,2022-09-20T16:20:15,3-52-baker-street-richmond-vic-3121-16098254,-37.81236,145.003662
+531,495.0,VIC,ApartmentUnitFlat,2,2,1,Eastern Suburbs,HAWTHORN EAST,3123,2022-09-30T11:30:12,6-30-munro-st-hawthorn-east-vic-3123-16112646,-37.8296471,145.046448
+532,400.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,ST KILDA,3182,2022-09-26T10:17:16,2-47-brighton-road-st-kilda-vic-3182-16103420,-37.88249,144.995926
+533,500.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,MURRUMBEENA,3163,2022-09-26T09:58:13,1-15-melbourne-street-murrumbeena-vic-3163-16103337,-37.8893433,145.067917
+534,1300.0,VIC,House,2,4,2,Melbourne Region,SANDRINGHAM,3191,2022-09-21T16:02:17,8-grange-road-sandringham-vic-3191-15431555,-37.94795,145.011475
+535,550.0,VIC,ApartmentUnitFlat,1,2,2,Melbourne Region,ARMADALE,3143,2022-09-21T09:34:16,6-507-dandenong-road-armadale-vic-3143-16098888,-37.86245,145.020111
+536,650.0,VIC,ApartmentUnitFlat,2,2,1,Eastern Suburbs,HAWTHORN EAST,3123,2022-09-20T09:24:32,304-708-burwood-rd-hawthorn-east-vic-3123-16096604,-37.824604,145.050552
+537,400.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,TOORAK,3142,2022-09-28T10:25:00,7-2a-burnie-street-toorak-vic-3142-16108212,-37.8359032,145.007767
+538,745.0,VIC,House,1,3,0,Melbourne Region,SOUTH MELBOURNE,3205,2022-09-15T15:12:31,24-henderson-street-south-melbourne-vic-3205-16091414,-37.84019,144.947327
+539,600.0,VIC,House,2,3,2,Melbourne Region,CHADSTONE,3148,2022-09-21T16:53:32,1-20-carramar-street-chadstone-vic-3148-16100769,-37.8781776,145.102936
+540,390.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,COLLINGWOOD,3066,2022-09-16T14:24:40,303-11-hoddle-street-collingwood-vic-3066-16093268,-37.8089676,144.9911
+541,370.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,NORTH MELBOURNE,3051,2022-09-15T14:51:42,502-46-villiers-street-north-melbourne-vic-3051-16091326,-37.7995338,144.9534
+542,540.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,ALPHINGTON,3078,2022-09-19T12:01:29,201-21-mills-boulevard-alphington-vic-3078-16094987,-37.7831764,145.026962
+543,925.0,VIC,House,2,2,1,Melbourne Region,BRUNSWICK,3056,2022-09-27T16:05:53,8-jenkin-street-brunswick-vic-3056-16107288,-37.77366,144.97377
+544,800.0,VIC,House,1,2,0,Melbourne Region,ST KILDA EAST,3183,2022-09-29T12:44:16,1-kalymna-grove-st-kilda-east-vic-3183-16110858,-37.8666077,145.005035
+545,330.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,BRUNSWICK WEST,3055,2022-09-21T10:45:31,10-55-heller-street-brunswick-west-vic-3055-16099137,-37.77476,144.94722
+546,365.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,SOUTH YARRA,3141,2022-09-21T09:38:54,unit-901-50-claremont-st-south-yarra-vic-3141-16098894,-37.8364449,144.994354
+547,650.0,VIC,ApartmentUnitFlat,2,2,2,Eastern Suburbs,CAMBERWELL,3124,2022-09-19T15:13:25,g02-555-burke-road-camberwell-vic-3124-16095744,-37.84312,145.054123
+548,650.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,MALVERN,3144,2022-09-29T09:46:24,314-14-elizabeth-street-malvern-vic-3144-16110243,-37.8517265,145.037064
+549,800.0,VIC,House,1,2,2,Eastern Suburbs,HAWTHORN,3122,2022-09-30T17:30:36,10-edlington-street-hawthorn-vic-3122-16113945,-37.82463,145.043747
+550,370.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,FOOTSCRAY,3011,2022-09-20T22:47:21,9-67-ballarat-rd-footscray-vic-3011-16098677,-37.79508,144.902847
+551,1600.0,VIC,House,4,5,2,Eastern Suburbs,CAMBERWELL,3124,2022-09-27T12:45:14,14-thomas-st-camberwell-vic-3124-16106434,-37.84305,145.095123
+552,405.0,VIC,Townhouse,1,2,2,Melbourne Region,OAKLEIGH EAST,3166,2022-09-21T12:51:58,1-10-keith-street-oakleigh-east-vic-3166-16099635,-37.9119835,145.113785
+553,570.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,MELBOURNE,3000,2022-09-29T17:18:40,5707b-639-little-lonsdale-street-melbourne-vic-3000-16111904,-37.8141937,144.952164
+554,475.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,MARIBYRNONG,3032,2022-09-16T08:48:31,704-68-wests-road-maribyrnong-vic-3032-16092164,-37.770092,144.8825
+555,600.0,VIC,Townhouse,2,4,2,Eastern Suburbs,DONCASTER EAST,3109,2022-09-29T15:05:22,1-383-serpells-road-doncaster-east-vic-3109-16111336,-37.7716637,145.17543
+556,1500.0,VIC,House,2,3,2,Melbourne Region,SANDRINGHAM,3191,2022-09-19T10:59:00,19-norwood-st-sandringham-vic-3191-16094744,-37.9595833,145.0121
+557,410.0,VIC,Studio,1,1,0,Melbourne Region,MELBOURNE,3000,2022-09-20T14:39:29,3008-288-spencer-street-melbourne-vic-3000-16097762,-37.8137741,144.952087
+558,400.0,VIC,ApartmentUnitFlat,1,2,0,Eastern Suburbs,BALWYN,3103,2022-09-27T12:45:25,101-20-weir-street-balwyn-vic-3103-16106435,-37.81606,145.084442
+559,740.0,VIC,House,1,3,1,Melbourne Region,THORNBURY,3071,2022-09-28T11:57:25,59-comas-grove-thornbury-vic-3071-16108541,-37.75137,144.98526
+560,340.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,NORTHCOTE,3070,2022-09-15T16:41:03,8-133-clarke-street-northcote-vic-3070-16091779,-37.7758446,144.994461
+561,420.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,ST KILDA,3182,2022-09-29T15:26:46,8-31-charnwood-road-st-kilda-vic-3182-16111421,-37.8591461,144.987244
+562,995.0,VIC,Townhouse,2,4,2,Melbourne Region,HIGHETT,3190,2022-09-28T15:30:38,46a-46b-turner-road-highett-vic-3190-16109315,-37.95199,145.053574
+563,380.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,CLAYTON SOUTH,3169,2022-09-16T12:09:29,1-4-6-mallawa-street-clayton-south-vic-3169-16092812,-37.93505,145.126312
+564,1500.0,VIC,House,2,4,1,Melbourne Region,ARMADALE,3143,2022-09-16T11:30:33,74-sutherland-road-armadale-vic-3143-16092668,-37.856617,145.017548
+565,650.0,VIC,House,2,4,2,Melbourne Region,CHADSTONE,3148,2022-09-20T10:14:52,2-16-thurloo-street-chadstone-vic-3148-16096767,-37.878788,145.09491
+566,595.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,ELWOOD,3184,2022-09-27T11:24:23,1-1-ruskin-street-elwood-vic-3184-16106092,-37.8738,144.981873
+567,800.0,VIC,ApartmentUnitFlat,2,3,1,Melbourne Region,ST KILDA,3182,2022-09-28T11:45:08,39-220-barkly-street-st-kilda-vic-3182-14537180,-37.8708839,144.980713
+568,460.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,CAULFIELD NORTH,3161,2022-09-27T21:10:20,3-681-inkerman-road-caulfield-north-vic-3161-16107828,-37.8696976,145.024475
+569,325.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,ELWOOD,3184,2022-09-28T12:36:39,1-9-robert-st-elwood-vic-3184-16108685,-37.8786278,144.991333
+570,325.0,VIC,ApartmentUnitFlat,1,1,1,Eastern Suburbs,HAWTHORN,3122,2022-09-16T11:16:32,13-23-power-street-hawthorn-vic-3122-16092614,-37.81572,145.027908
+571,800.0,VIC,ApartmentUnitFlat,1,3,3,Melbourne Region,MALVERN,3144,2022-09-28T17:05:04,2-445-glenferrie-road-malvern-vic-3144-16109767,-37.8441544,145.031143
+572,380.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,ST KILDA EAST,3183,2022-09-19T10:23:05,8-8-cardigan-street-st-kilda-east-vic-3183-16094608,-37.86523,145.001358
+573,550.0,VIC,Villa,2,3,1,Melbourne Region,OAK PARK,3046,2022-09-19T14:35:29,2-14-gregory-street-oak-park-vic-3046-16095581,-37.7228127,144.915787
+574,450.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,SOUTHBANK,3006,2022-09-29T14:56:17,2902-250-city-road-southbank-vic-3006-16111286,-37.8257332,144.959671
+575,275.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,MALVERN EAST,3145,2022-09-28T14:01:32,15-2a-bates-street-malvern-east-vic-3145-16108936,-37.87528,145.044067
+576,600.0,VIC,House,1,2,0,Melbourne Region,YARRAVILLE,3013,2022-09-19T16:20:55,7-regent-street-yarraville-vic-3013-16096035,-37.81255,144.888489
+577,520.0,VIC,ApartmentUnitFlat,1,2,0,Melbourne Region,MELBOURNE,3000,2022-09-16T17:18:31,1309-199-william-street-melbourne-vic-3000-16093914,-37.8145027,144.957611
+578,550.0,VIC,House,1,2,0,Melbourne Region,COLLINGWOOD,3066,2022-09-26T17:36:59,47-bedford-street-collingwood-vic-3066-16105364,-37.8015175,144.9845
+579,410.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,SOUTH YARRA,3141,2022-09-21T09:16:55,709-12-14-claremont-street-south-yarra-vic-3141-16098801,-37.8380165,144.994019
+580,475.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,ST KILDA EAST,3183,2022-09-21T10:53:24,10-4a-wando-grove-st-kilda-east-vic-3183-16099165,-37.86107,145.008347
+581,520.0,VIC,ApartmentUnitFlat,1,2,0,Melbourne Region,WEST MELBOURNE,3003,2022-09-28T10:10:46,2613-65-dudley-street-west-melbourne-vic-3003-16108153,-37.8102226,144.9507
+582,1150.0,VIC,House,3,4,2,Melbourne Region,BENTLEIGH EAST,3165,2022-08-26T09:49:22,26a-bonny-street-bentleigh-east-vic-3165-16058750,-37.9319458,145.060654
+583,1700.0,VIC,House,3,5,6,Melbourne Region,MALVERN EAST,3145,2022-09-26T11:04:45,1855-malvern-road-malvern-east-vic-3145-16103632,-37.86614,145.05835
+584,550.0,VIC,House,1,2,0,Melbourne Region,SOUTH MELBOURNE,3205,2022-09-27T12:16:43,84-palmerston-crescent-south-melbourne-vic-3205-16106315,-37.835228,144.968552
+585,400.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,PRAHRAN,3181,2022-09-16T16:52:29,23-66-murray-street-prahran-vic-3181-16093824,-37.8507767,145.001923
+586,295.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,ELSTERNWICK,3185,2022-09-26T18:10:45,3-487-kooyong-road-elsternwick-vic-3185-16105411,-37.8968773,145.012543
+587,610.0,VIC,House,1,2,0,Melbourne Region,NORTHCOTE,3070,2022-09-29T09:57:15,29-turnball-grove-northcote-vic-3070-16110278,-37.77018,144.997131
+588,640.0,VIC,House,1,3,1,Melbourne Region,ST KILDA,3182,2022-09-29T09:16:14,139-chapel-street-st-kilda-vic-3182-16110151,-37.8674355,144.99028
+589,480.0,VIC,House,1,3,2,Eastern Suburbs,DONCASTER EAST,3109,2022-09-19T10:21:29,50-thea-grove-doncaster-east-vic-3109-16094598,-37.7985878,145.155655
+590,495.0,VIC,ApartmentUnitFlat,1,2,1,Eastern Suburbs,CAMBERWELL,3124,2022-09-20T10:41:55,1-3-crescent-road-camberwell-vic-3124-16096867,-37.8355026,145.0633
+591,525.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,ORMOND,3204,2022-09-20T22:46:10,6-47-wheeler-st-ormond-vic-3204-16098675,-37.90465,145.040527
+592,900.0,VIC,House,2,4,3,Eastern Suburbs,CAMBERWELL,3124,2022-09-27T14:11:03,4-gilmour-road-camberwell-vic-3124-16106772,-37.8414345,145.090836
+593,400.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,GLEN HUNTLY,3163,2022-09-19T14:22:32,7-15-rosedale-avenue-glen-huntly-vic-3163-16095521,-37.8905373,145.044189
+594,400.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,MELBOURNE,3000,2022-09-19T15:46:38,33-400-little-collins-street-melbourne-vic-3000-16022489,-37.8157959,144.961349
+595,260.0,VIC,Studio,1,1,1,Melbourne Region,ST KILDA,3182,2022-09-06T15:02:43,205-211-44-barkly-street-st-kilda-vic-3182-15694325,-37.8605232,144.9828
+596,495.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,SOUTH MELBOURNE,3205,2022-09-28T16:17:57,72b-napier-street-south-melbourne-vic-3205-16109558,-37.8348,144.966446
+597,450.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,PRESTON,3072,2022-09-30T11:54:34,19-122-high-street-preston-vic-3072-16112735,-37.7476273,145.002625
+598,900.0,VIC,House,2,4,2,Eastern Suburbs,HAWTHORN,3122,2022-09-19T09:10:26,10-henrietta-st-hawthorn-vic-3122-16094383,-37.82809,145.035446
+599,360.0,VIC,ApartmentUnitFlat,1,1,1,Eastern Suburbs,BALWYN,3103,2022-09-28T12:05:22,110-182-whitehorse-road-balwyn-vic-3103-15840276,-37.812397,145.075333
+600,1200.0,VIC,House,2,3,2,Melbourne Region,BRIGHTON,3186,2022-09-29T14:42:59,148-bay-street-brighton-vic-3186-16111243,-37.9049721,144.997
+601,560.0,VIC,ApartmentUnitFlat,2,3,1,Melbourne Region,CHADSTONE,3148,2022-09-20T16:15:43,2-103-waverley-road-chadstone-vic-3148-16098229,-37.8810959,145.100266
+602,600.0,VIC,ApartmentUnitFlat,2,2,0,Melbourne Region,SOUTHBANK,3006,2022-09-20T11:32:22,2512-70-southbank-boulevard-southbank-vic-3006-16097066,-37.8231926,144.963989
+603,900.0,VIC,Townhouse,3,4,1,Melbourne Region,HAMPTON EAST,3188,2022-09-22T13:23:57,316b-south-road-hampton-east-vic-3188-16101248,-37.9328575,145.030151
+604,460.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,CARLTON,3053,2022-09-30T18:18:48,1-43-barkly-street-carlton-vic-3053-16114029,-37.8004227,144.970978
+605,430.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,ST KILDA EAST,3183,2022-09-26T12:53:45,6-75-westbury-street-st-kilda-east-vic-3183-16104087,-37.8642769,144.996017
+606,425.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,SOUTH YARRA,3141,2022-09-21T10:34:47,106-471-malvern-road-south-yarra-vic-3141-16099095,-37.84784,145.002182
+607,420.0,VIC,House,1,2,2,Melbourne Region,BENTLEIGH EAST,3165,2022-09-29T11:18:43,1-kadir-street-bentleigh-east-vic-3165-16110561,-37.9104767,145.079819
+608,400.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,OAKLEIGH EAST,3166,2022-09-29T12:46:14,3-1-coane-street-oakleigh-east-vic-3166-16110864,-37.9101677,145.116455
+609,230.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,MURRUMBEENA,3163,2022-09-26T13:04:25,10-5-wilson-street-murrumbeena-vic-3163-16104133,-37.88724,145.07399
+610,575.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,MALVERN,3144,2022-09-20T11:24:14,10-1231-malvern-road-malvern-vic-3144-16097026,-37.8519745,145.034409
+611,450.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,RESERVOIR,3073,2022-09-30T15:07:00,1-125-henty-street-reservoir-vic-3073-16113414,-37.7185364,144.992462
+612,920.0,VIC,House,2,4,2,Eastern Suburbs,KEW,3101,2022-09-19T16:00:14,2-grace-court-kew-vic-3101-16095943,-37.7935143,145.027267
+613,750.0,VIC,House,1,3,2,Melbourne Region,THORNBURY,3071,2022-09-28T15:04:42,118-normanby-avenue-thornbury-vic-3071-16109205,-37.7581062,144.9894
+614,320.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,SOUTH YARRA,3141,2022-09-28T14:24:45,2-31-howitt-street-south-yarra-vic-3141-16109026,-37.8467751,145.002823
+615,1000.0,VIC,Townhouse,2,3,1,Melbourne Region,WINDSOR,3181,2022-09-19T16:27:23,62a-union-street-windsor-vic-3181-16096060,-37.8539925,144.986465
+616,630.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,SOUTH YARRA,3141,2022-09-26T10:01:21,2-55-avoca-street-south-yarra-vic-3141-16103349,-37.8362846,144.989365
+617,550.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,COLLINGWOOD,3066,2022-09-15T14:33:25,207-6-mater-street-collingwood-vic-3066-16091253,-37.7951965,144.985321
+618,1100.0,VIC,ApartmentUnitFlat,2,3,2,Melbourne Region,PORT MELBOURNE,3207,2022-09-30T13:47:15,503-147-beach-street-port-melbourne-vic-3207-16113115,-37.83985,144.926651
+619,475.0,VIC,ApartmentUnitFlat,1,2,1,Eastern Suburbs,KEW,3101,2022-09-21T17:06:31,3-1a-wimba-avenue-kew-vic-3101-16100819,-37.8084755,145.050323
+620,330.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,RICHMOND,3121,2022-09-21T10:13:52,6-44-type-street-richmond-vic-3121-16099000,-37.821537,145.009323
+621,495.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,EAST MELBOURNE,3002,2022-09-27T16:59:25,p18w-189-powlett-street-east-melbourne-vic-3002-16107539,-37.8104057,144.985947
+622,600.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,SOUTH MELBOURNE,3205,2022-09-28T17:45:29,311-39-park-street-south-melbourne-vic-3205-16109887,-37.8334,144.969055
+623,425.0,VIC,ApartmentUnitFlat,1,2,1,Eastern Suburbs,RINGWOOD EAST,3135,2022-09-30T10:54:50,3-20-24-dublin-road-ringwood-east-vic-3135-16112504,-37.80628,145.246933
+624,680.0,VIC,Townhouse,1,3,2,Melbourne Region,THORNBURY,3071,2022-09-15T14:06:56,3-291-rathmines-street-thornbury-vic-3071-16091151,-37.7641029,145.018616
+625,770.0,VIC,House,2,3,0,Melbourne Region,ST KILDA,3182,2022-09-19T10:32:34,4-odessa-street-st-kilda-vic-3182-16094649,-37.8617744,144.988892
+626,400.0,VIC,ApartmentUnitFlat,1,2,1,Eastern Suburbs,BOX HILL,3128,2022-09-29T10:03:10,205-6-8-wellington-road-box-hill-vic-3128-16110292,-37.8162537,145.117645
+627,450.0,VIC,House,1,3,2,Melbourne Region,OAKLEIGH EAST,3166,2022-09-27T15:59:46,6-berrima-street-oakleigh-east-vic-3166-15137796,-37.9009781,145.122818
+628,395.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,EAST MELBOURNE,3002,2022-09-21T14:01:05,1-62-simpson-st-east-melbourne-vic-3002-16099921,-37.8106651,144.9891
+629,500.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,MELBOURNE,3004,2022-09-26T13:34:07,906-14-queens-road-melbourne-vic-3004-16104224,-37.83892,144.974991
+630,680.0,VIC,House,1,2,0,Melbourne Region,NORTHCOTE,3070,2022-09-16T15:11:06,8-victoria-road-northcote-vic-3070-16093432,-37.7820053,145.009979
+631,220.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,MELBOURNE,3000,2022-09-23T17:06:30,703-500-flinders-street-melbourne-vic-3000-16102690,-37.82002,144.957825
+632,675.0,VIC,ApartmentUnitFlat,2,2,2,Melbourne Region,BRIGHTON,3186,2022-09-20T14:19:33,310-380-bay-street-brighton-vic-3186-16097678,-37.90595,145.0048
+633,775.0,VIC,House,3,4,2,Melbourne Region,CLAYTON,3168,2022-09-29T10:51:38,1-40-glenbrook-avenue-clayton-vic-3168-16110445,-37.909893,145.123947
+634,525.0,VIC,Townhouse,2,2,1,Melbourne Region,CHADSTONE,3148,2022-09-21T14:30:52,2-23-amaroo-street-chadstone-vic-3148-15802799,-37.8773232,145.10025
+635,350.0,VIC,ApartmentUnitFlat,1,1,1,Eastern Suburbs,HAWTHORN,3122,2022-09-28T17:46:17,16-197-auburn-road-hawthorn-vic-3122-16109889,-37.8266258,145.044708
+636,630.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,ST KILDA,3182,2022-09-29T15:45:18,10-15-inkerman-street-st-kilda-vic-3182-16111511,-37.8642769,144.982452
+637,395.0,VIC,ApartmentUnitFlat,1,2,1,Eastern Suburbs,SURREY HILLS,3127,2022-09-26T09:12:36,3-34-durham-road-surrey-hills-vic-3127-16103162,-37.8290977,145.090271
+638,360.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,SOUTH YARRA,3141,2022-09-20T09:48:42,5-90-toorak-road-west-south-yarra-vic-3141-16096683,-37.8376846,144.9814
+639,330.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,WINDSOR,3181,2022-09-26T12:12:13,9-4-normanby-street-windsor-vic-3181-16103941,-37.853508,145.001419
+640,950.0,VIC,House,2,3,1,Melbourne Region,ARMADALE,3143,2022-09-20T15:29:07,49-northcote-road-armadale-vic-3143-16097996,-37.85329,145.016846
+641,975.0,VIC,Townhouse,2,3,2,Melbourne Region,ABBOTSFORD,3067,2022-09-20T15:59:03,12-valiant-street-abbotsford-vic-3067-16098146,-37.80097,144.998947
+642,375.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,FITZROY NORTH,3068,2022-09-20T12:00:52,103-38-nicholson-street-fitzroy-north-vic-3068-16097154,-37.7739868,144.979355
+643,1150.0,VIC,House,2,5,2,Eastern Suburbs,CAMBERWELL,3124,2022-09-30T10:49:15,9-pine-camberwell-vic-3124-16112483,-37.840168,145.056625
+644,380.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,PARKVILLE,3052,2022-09-26T15:20:31,21-361-royal-parade-parkville-vic-3052-16104740,-37.7851372,144.958481
+645,780.0,VIC,House,1,3,0,Melbourne Region,MALVERN EAST,3145,2022-09-28T15:00:40,27-pepperell-lane-malvern-east-vic-3145-16109184,-37.87731,145.059265
+646,400.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,MELBOURNE,3000,2022-09-20T11:15:30,312b-399-bourke-street-melbourne-vic-3000-16096996,-37.8147278,144.962128
+647,700.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,PORT MELBOURNE,3207,2022-09-27T09:09:24,305-115-nott-street-port-melbourne-vic-3207-16105599,-37.83992,144.938858
+648,480.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,CAULFIELD NORTH,3161,2022-09-28T12:07:07,207-6-station-st-caulfield-north-vic-3161-16108569,-37.8766174,145.036331
+649,725.0,VIC,Townhouse,2,3,1,Eastern Suburbs,HAWTHORN,3122,2022-09-28T16:29:42,9-312-316-barkers-road-hawthorn-vic-3122-16109610,-37.815712,145.042358
+650,600.0,VIC,ApartmentUnitFlat,2,2,0,Melbourne Region,RICHMOND,3121,2022-09-30T11:30:21,301-27-dickmann-street-richmond-vic-3121-16112647,-37.82505,144.997482
+651,640.0,VIC,House,1,2,1,Melbourne Region,CAULFIELD NORTH,3161,2022-09-20T16:35:44,37a-bambra-road-caulfield-north-vic-3161-16098329,-37.8773575,145.030441
+652,450.0,VIC,ApartmentUnitFlat,1,2,1,Eastern Suburbs,HAWTHORN,3122,2022-09-26T15:41:29,4-3-finchley-court-hawthorn-vic-3122-16104849,-37.82463,145.033859
+653,630.0,VIC,ApartmentUnitFlat,2,3,2,Melbourne Region,FOOTSCRAY,3011,2022-09-21T17:14:12,210-12-napier-street-footscray-vic-3011-16100855,-37.8052177,144.905212
+654,600.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,NORTH MELBOURNE,3051,2022-09-20T09:31:56,104-16-cobden-street-north-melbourne-vic-3051-16096636,-37.805912,144.957321
+655,900.0,VIC,ApartmentUnitFlat,2,3,1,Melbourne Region,COLLINGWOOD,3066,2022-09-15T14:29:52,1-127-cambridge-street-collingwood-vic-3066-16091234,-37.80358,144.9855
+656,620.0,VIC,ApartmentUnitFlat,1,3,1,Melbourne Region,ELWOOD,3184,2022-09-19T12:50:45,3-22-wave-street-elwood-vic-3184-16095176,-37.88362,144.9894
+657,1100.0,VIC,House,2,4,2,Eastern Suburbs,BALWYN,3103,2022-09-15T16:48:29,128-gordon-street-balwyn-vic-3103-16091813,-37.8089523,145.0766
+658,690.0,VIC,ApartmentUnitFlat,2,3,2,Melbourne Region,FOOTSCRAY,3011,2022-09-28T20:18:40,1806-8-joseph-road-footscray-vic-3011-16109988,-37.7992134,144.909912
+659,310.0,VIC,House,1,1,1,Melbourne Region,MALVERN,3144,2022-09-21T15:32:34,9-164-wattletree-road-malvern-vic-3144-16100352,-37.8630371,145.029892
+660,925.0,VIC,House,2,4,3,Melbourne Region,RICHMOND,3121,2022-09-21T15:37:57,429-burnley-street-richmond-vic-3121-16100386,-37.82905,145.007034
+661,500.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,COLLINGWOOD,3066,2022-09-20T09:06:48,1008-68-cambridge-street-collingwood-vic-3066-16096565,-37.8068428,144.985535
+662,525.0,VIC,ApartmentUnitFlat,1,2,1,Eastern Suburbs,HAWTHORN,3122,2022-09-28T11:50:39,103-567-569-glenferrie-road-hawthorn-vic-3122-16108509,-37.82672,145.03418
+663,770.0,VIC,House,2,3,2,Melbourne Region,TOORAK,3142,2022-09-28T15:14:59,66-albany-road-toorak-vic-3142-16109249,-37.84379,145.02005
+664,850.0,VIC,House,2,3,0,Melbourne Region,BLACK ROCK,3193,2022-09-29T11:36:50,6-mckay-avenue-black-rock-vic-3193-16110627,-37.96611,145.01918
+665,250.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,CARLTON,3053,2022-09-26T17:06:52,37-109-lygon-street-carlton-vic-3053-16105252,-37.804512,144.966
+666,350.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,HAMPTON,3188,2022-09-28T11:52:13,209-427-hampton-street-hampton-vic-3188-16108518,-37.934597,145.002716
+667,550.0,VIC,ApartmentUnitFlat,1,2,2,Melbourne Region,BLACK ROCK,3193,2022-09-21T15:36:17,3-529-balcombe-rd-black-rock-vic-3193-16100369,-37.97689,145.024216
+668,300.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,ARMADALE,3143,2022-09-28T16:31:19,17-29-kooyong-road-armadale-vic-3143-16109622,-37.8603,145.019485
+669,320.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,CAULFIELD NORTH,3161,2022-09-29T13:51:40,7-94-eskdale-rd-caulfield-north-vic-3161-16111066,-37.87677,145.033386
+670,580.0,VIC,House,3,4,4,Northern Victoria,TANGAMBALANGA,3691,2022-09-22T00:31:58,22-kiewa-east-road-tangambalanga-vic-3691-16101133,-36.2519951,147.026764
+671,450.0,VIC,House,2,3,2,Melbourne Region,FAWKNER,3060,2022-09-20T09:44:16,46-mutton-road-fawkner-vic-3060-15915330,-37.71208,144.968521
+672,900.0,VIC,ApartmentUnitFlat,2,4,2,Eastern Suburbs,KEW EAST,3102,2022-09-26T13:42:47,3-17-munro-st-kew-east-vic-3102-16104263,-37.7914352,145.062027
+673,450.0,VIC,Townhouse,2,3,2,Melbourne Region,LALOR,3075,2022-09-16T15:26:47,24-6-hensley-road-lalor-vic-3075-16093487,-37.6640778,145.011169
+674,550.0,VIC,ApartmentUnitFlat,2,3,2,Melbourne Region,OAKLEIGH,3166,2022-09-28T08:10:09,1-20-lincoln-street-oakleigh-vic-3166-16107897,-37.89937,145.099442
+675,550.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,MELBOURNE,3000,2022-09-28T12:37:48,315-118-russell-street-melbourne-vic-3000-16108688,-37.8135872,144.968719
+676,475.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,TOORAK,3142,2022-09-20T15:57:15,1-791-malvern-road-toorak-vic-3142-16098134,-37.8500252,145.020248
+677,500.0,VIC,ApartmentUnitFlat,1,2,0,Melbourne Region,PRAHRAN,3181,2022-09-20T11:35:47,7-680-malvern-road-prahran-vic-3181-16097081,-37.8491554,145.009186
+678,1300.0,VIC,House,2,4,4,Melbourne Region,MENTONE,3194,2022-09-19T10:31:40,23-milan-street-mentone-vic-3194-16094642,-37.9862251,145.059418
+679,730.0,VIC,Townhouse,2,2,1,Melbourne Region,BRUNSWICK,3056,2022-09-29T09:43:31,42-cassels-road-brunswick-vic-3056-16110238,-37.75684,144.960037
+680,525.0,VIC,ApartmentUnitFlat,1,2,0,Melbourne Region,RICHMOND,3121,2022-09-26T14:21:44,98a-stawell-street-richmond-vic-3121-16104417,-37.8249321,145.009567
+681,600.0,VIC,Townhouse,1,3,1,Melbourne Region,ORMOND,3204,2022-09-28T08:09:09,2-29-wheeler-street-ormond-vic-3204-16107896,-37.90585,145.04007
+682,650.0,VIC,Townhouse,1,3,1,Eastern Suburbs,KEW,3101,2022-09-30T09:13:30,5-33-parkhill-road-kew-vic-3101-16112182,-37.8048744,145.049484
+683,485.0,VIC,House,2,3,2,Eastern Suburbs,SCORESBY,3179,2022-09-30T11:02:46,710-stud-road-scoresby-vic-3179-15268201,-37.8945656,145.232468
+684,400.0,VIC,ApartmentUnitFlat,1,2,3,Melbourne Region,MOUNT WAVERLEY,3149,2022-09-30T11:00:45,3-112-114-huntingdale-road-mount-waverley-vic-3149-14880327,-37.86029,145.113922
+685,785.0,VIC,House,1,2,1,Melbourne Region,PORT MELBOURNE,3207,2022-09-29T16:43:41,66-spring-street-east-port-melbourne-vic-3207-16111770,-37.83627,144.945923
+686,510.0,VIC,House,1,3,1,Melbourne Region,CARNEGIE,3163,2022-09-20T12:41:34,1140-dandenong-rd-carnegie-vic-3163-16097320,-37.88512,145.0631
+687,260.0,VIC,Studio,1,1,0,Melbourne Region,CARLTON,3053,2022-09-21T16:47:50,108-139-143-bouverie-street-carlton-vic-3053-16100726,-37.803257,144.961716
+688,570.0,VIC,House,1,3,0,Melbourne Region,BRUNSWICK,3056,2022-09-26T08:18:19,110-brunswick-road-brunswick-vic-3056-16103107,-37.7780647,144.966415
+689,300.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,ORMOND,3204,2022-09-27T17:02:01,2-9-lillimur-road-ormond-vic-3204-16107547,-37.90274,145.040924
+690,570.0,VIC,House,2,2,2,Melbourne Region,GEELONG WEST,3218,2022-09-15T13:19:31,2-melville-avenue-geelong-west-vic-3218-16090991,-38.1479263,144.327545
+691,500.0,VIC,ApartmentUnitFlat,1,2,0,Melbourne Region,CARLTON,3053,2022-09-26T11:52:47,112-124-palmerston-street-carlton-vic-3053-16103862,-37.7962,144.9711
+692,1000.0,VIC,House,1,3,1,Melbourne Region,SOUTH MELBOURNE,3205,2022-09-27T12:25:07,152-nelson-road-south-melbourne-vic-3205-16106350,-37.8380966,144.951141
+693,500.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,WILLIAMSTOWN NORTH,3016,2022-09-28T14:04:09,3-107-park-crescent-williamstown-north-vic-3016-16108944,-37.8541,144.875809
+694,610.0,VIC,House,1,3,1,Melbourne Region,BRUNSWICK EAST,3057,2022-09-28T12:10:08,147-stewart-st-brunswick-east-vic-3057-16108585,-37.7645874,144.974808
+695,375.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,BRUNSWICK WEST,3055,2022-09-26T10:13:13,6-230-dawson-street-brunswick-west-vic-3055-16103397,-37.7687721,144.940125
+696,1200.0,VIC,Townhouse,3,4,2,Melbourne Region,ORMOND,3204,2022-09-22T16:31:07,2-45-queen-street-ormond-vic-3204-16101296,-37.9040031,145.0357
+697,305.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,ORMOND,3204,2022-09-21T11:10:20,6-4-holloway-street-ormond-vic-3204-16099235,-37.901947,145.045349
+698,420.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,BENTLEIGH EAST,3165,2022-09-26T15:28:43,2-45-browns-road-bentleigh-east-vic-3165-16104783,-37.92161,145.055649
+699,495.0,VIC,House,2,3,1,Melbourne Region,CAULFIELD EAST,3145,2022-09-26T15:52:28,62-queens-avenue-caulfield-east-vic-3145-16104907,-37.8820953,145.044235
+700,625.0,VIC,ApartmentUnitFlat,2,2,1,Eastern Suburbs,HAWTHORN EAST,3123,2022-09-26T12:31:32,107-35-camberwell-road-hawthorn-east-vic-3123-16104010,-37.8252258,145.0499
+701,400.0,VIC,ApartmentUnitFlat,1,2,0,Melbourne Region,ST KILDA,3182,2022-09-27T15:48:57,8-16-marine-parade-st-kilda-vic-3182-16107202,-37.8705635,144.9765
+702,330.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,WINDSOR,3181,2022-09-27T15:58:27,1-1-ellesmere-road-windsor-vic-3181-16107246,-37.8570862,144.999542
+703,260.0,VIC,House,1,1,1,Melbourne Region,THORNBURY,3071,2022-09-30T13:16:32,8-52-pender-street-thornbury-vic-3071-16113012,-37.7545357,145.008926
+704,440.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,ST KILDA EAST,3183,2022-09-20T14:52:50,12-203-alma-rd-st-kilda-east-vic-3183-16097827,-37.86359,145.005264
+705,860.0,VIC,House,3,4,2,Melbourne Region,MOUNT WAVERLEY,3149,2022-09-19T15:08:26,49-pascall-street-mount-waverley-vic-3149-16095717,-37.8618965,145.143265
+706,450.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,FITZROY NORTH,3068,2022-09-29T18:10:21,02-378-st-georges-road-fitzroy-north-vic-3068-16111995,-37.7784843,144.988251
+707,450.0,VIC,ApartmentUnitFlat,1,2,0,Melbourne Region,MELBOURNE,3000,2022-09-26T12:10:17,513-118-franklin-street-melbourne-vic-3000-15397839,-37.8082047,144.958908
+708,285.0,VIC,House,1,1,1,Melbourne Region,MALVERN,3144,2022-09-21T15:32:54,6-164-wattletree-road-malvern-vic-3144-16100356,-37.8630371,145.029892
+709,380.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,BRUNSWICK,3056,2022-09-28T14:19:31,4-653-park-street-brunswick-vic-3056-16109007,-37.7782745,144.965
+710,300.0,VIC,ApartmentUnitFlat,1,2,1,Northern Victoria,WODONGA,3690,2022-09-28T13:01:44,4-25-melrose-drive-wodonga-vic-3690-12527064,-36.1175652,146.8676
+711,650.0,VIC,House,1,4,2,Melbourne Region,RICHMOND,3121,2022-09-28T10:57:18,5-lightfoot-street-richmond-vic-3121-10274422,-37.82171,145.011551
+712,450.0,VIC,House,1,3,1,Melbourne Region,SPRINGVALE,3171,2022-09-29T10:35:44,11-regent-avenue-springvale-vic-3171-16110391,-37.94519,145.144928
+713,420.0,VIC,House,1,3,4,Melbourne Region,HAMPTON PARK,3976,2022-09-30T12:23:21,4-cirrus-close-hampton-park-vic-3976-16112856,-38.04617,145.272263
+714,350.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,BRUNSWICK,3056,2022-09-26T15:42:37,3-138-mitchell-street-brunswick-vic-3056-16104854,-37.7601967,144.975967
+715,650.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,ABBOTSFORD,3067,2022-09-24T10:48:51,406-631-victoria-street-abbotsford-vic-3067-16102921,-37.8111572,145.008911
+716,1450.0,VIC,ApartmentUnitFlat,2,3,2,Melbourne Region,BRIGHTON,3186,2022-09-15T14:01:31,101-67-well-street-brighton-vic-3186-16091137,-37.9180756,144.997849
+717,650.0,VIC,Townhouse,2,5,2,Melbourne Region,CHADSTONE,3148,2022-09-21T11:28:51,2-14-hiscock-street-chadstone-vic-3148-15363745,-37.8827629,145.099274
+718,550.0,VIC,ApartmentUnitFlat,2,2,2,Eastern Suburbs,HAWTHORN,3122,2022-09-26T11:36:09,20-523-burwood-road-hawthorn-vic-3122-16103788,-37.82321,145.041336
+719,450.0,VIC,ApartmentUnitFlat,1,2,1,Eastern Suburbs,GLEN IRIS,3146,2022-09-29T09:41:09,4-17-hope-street-glen-iris-vic-3146-16110227,-37.86279,145.049469
+720,640.0,VIC,Townhouse,2,3,1,Eastern Suburbs,MONT ALBERT,3127,2022-09-26T16:44:30,3-1-nangnak-lane-mont-albert-vic-3127-16105157,-37.81567,145.110245
+721,560.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,ARMADALE,3143,2022-09-29T11:23:36,1-25-rose-street-armadale-vic-3143-10042843,-37.8507652,145.016281
+722,580.0,VIC,ApartmentUnitFlat,2,3,2,Melbourne Region,CARNEGIE,3163,2022-09-20T12:40:39,209-3-elliott-ave-carnegie-vic-3163-16097314,-37.88839,145.060089
+723,700.0,VIC,ApartmentUnitFlat,2,2,2,Melbourne Region,ST KILDA,3182,2022-09-26T11:45:04,207-11-13-jackson-street-st-kilda-vic-3182-16103822,-37.86239,144.975128
+724,425.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,RICHMOND,3121,2022-09-19T10:24:30,46-73-river-street-richmond-vic-3121-16094613,-37.8191528,145.013062
+725,375.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,MALVERN,3144,2022-09-21T09:10:14,8-260-wattletree-road-malvern-vic-3144-16098780,-37.8640938,145.039368
+726,490.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,ELWOOD,3184,2022-09-28T16:45:46,3-46-foam-street-elwood-vic-3184-16109685,-37.88796,144.988739
+727,310.0,VIC,ApartmentUnitFlat,1,1,0,Eastern Suburbs,GLEN IRIS,3146,2022-09-26T10:40:58,10-299-burke-road-glen-iris-vic-3146-16103519,-37.8528557,145.0521
+728,265.0,VIC,ApartmentUnitFlat,1,1,0,Eastern Suburbs,HAWTHORN,3122,2022-09-19T11:49:14,34-589-glenferrie-road-hawthorn-vic-3122-16094937,-37.82464,145.0347
+729,395.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,BRUNSWICK WEST,3055,2022-09-15T15:23:41,5-490-492-moreland-road-brunswick-west-vic-3055-16091467,-37.7527771,144.939911
+730,360.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,ST KILDA,3182,2022-09-15T17:08:46,10-11-marine-parade-st-kilda-vic-3182-16091874,-37.8699455,144.976425
+731,295.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,MURRUMBEENA,3163,2022-09-21T13:10:43,5-12a-toward-street-murrumbeena-vic-3163-16099704,-37.89272,145.069962
+732,395.0,VIC,ApartmentUnitFlat,1,2,2,Eastern Suburbs,CAMBERWELL,3124,2022-09-27T09:24:21,4-105-wattle-valley-road-camberwell-vic-3124-16105634,-37.83628,145.080673
+733,520.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,SOUTHBANK,3006,2022-09-29T16:40:12,3-100-coventry-street-southbank-vic-3006-16111756,-37.829567,144.967331
+734,295.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,CARNEGIE,3163,2022-09-21T13:47:44,1-204-neerim-road-carnegie-vic-3163-15580163,-37.88737,145.0497
+735,280.0,VIC,Studio,1,1,0,Melbourne Region,ST KILDA,3182,2022-09-29T09:34:20,1-116-inkerman-road-st-kilda-vic-3182-15926395,-37.86448,144.987122
+736,595.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,ST KILDA,3182,2022-09-19T16:10:05,1-2a-robe-street-st-kilda-vic-3182-16095963,-37.865757,144.975876
+737,540.0,VIC,House,2,3,1,Melbourne Region,DINGLEY VILLAGE,3172,2022-09-21T13:42:45,1-69-centre-dandenong-road-dingley-village-vic-3172-16099840,-37.9847374,145.1348
+738,370.0,VIC,House,2,3,2,Melbourne Region,TRUGANINA,3029,2022-09-29T15:14:47,10-talliver-terrace-truganina-vic-3029-16111383,-37.8474655,144.717117
+739,630.0,VIC,House,1,3,1,Melbourne Region,THORNBURY,3071,2022-09-28T09:26:38,13-fenwick-street-thornbury-vic-3071-16108011,-37.7617874,145.003189
+740,1900.0,VIC,House,2,4,2,Melbourne Region,MOUNT ELIZA,3930,2022-09-26T15:15:12,30-beluga-street-mount-eliza-vic-3930-16104711,-38.197258,145.075684
+741,450.0,VIC,ApartmentUnitFlat,1,2,2,Melbourne Region,GLEN HUNTLY,3163,2022-09-28T16:16:19,3-4-beverley-street-glen-huntly-vic-3163-16109544,-37.89166,145.039215
+742,520.0,VIC,House,1,3,2,Eastern Suburbs,VERMONT SOUTH,3133,2022-09-16T10:29:08,2-ritz-street-vermont-south-vic-3133-15960853,-37.8549728,145.177155
+743,695.0,VIC,Townhouse,3,4,2,Melbourne Region,CLAYTON,3168,2022-08-04T11:56:27,1-3-jaguar-drive-clayton-vic-3168-16022646,-37.92342,145.132217
+744,470.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,SOUTH YARRA,3141,2022-09-28T09:25:43,505-79-river-street-south-yarra-vic-3141-16108010,-37.8363342,144.997589
+745,495.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,ST KILDA,3182,2022-08-08T12:39:56,15-18-princes-street-st-kilda-vic-3182-16027235,-37.85868,144.981628
+746,1100.0,VIC,Townhouse,2,3,2,Melbourne Region,CAULFIELD,3162,2022-09-15T19:59:26,3-1-freeman-street-caulfield-vic-3162-16092052,-37.8860359,145.029877
+747,600.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,COLLINGWOOD,3066,2022-09-21T11:14:38,706-75-wellington-street-collingwood-vic-3066-15210408,-37.80639,144.9859
+748,460.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,CARNEGIE,3163,2022-09-20T20:42:35,3-3-mackay-ave-carnegie-vic-3163-16098646,-37.8963737,145.042328
+749,895.0,VIC,House,2,4,2,Melbourne Region,MALVERN EAST,3145,2022-09-16T11:07:10,12-abbotsford-avenue-malvern-east-vic-3145-16092573,-37.88137,145.081665
+750,440.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,ST KILDA,3182,2022-09-21T12:16:11,13-47-brighton-road-st-kilda-vic-3182-16099504,-37.8705139,144.988052
+751,375.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,ST KILDA,3182,2022-09-16T16:43:38,1-2-2-woodstock-street-st-kilda-vic-3182-16093793,-37.87184,144.99176
+752,630.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,SOUTH YARRA,3141,2022-09-19T15:18:40,1601-7-claremont-street-south-yarra-vic-3141-15452608,-37.8382072,144.993546
+753,520.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,FOOTSCRAY,3011,2022-09-27T15:21:12,512-4-joseph-rd-footscray-vic-3011-15583218,-37.7996826,144.909714
+754,590.0,VIC,House,1,3,1,Eastern Suburbs,BALWYN,3103,2022-09-27T09:54:43,44-elliott-ave-balwyn-vic-3103-16105752,-37.8047142,145.07309
+755,450.0,VIC,ApartmentUnitFlat,1,2,0,Melbourne Region,ELSTERNWICK,3185,2022-09-16T13:45:49,4-22-allison-road-elsternwick-vic-3185-11212197,-37.88176,145.007278
+756,200.0,VIC,ApartmentUnitFlat,1,1,0,Northern Victoria,WODONGA,3690,2022-09-27T14:40:56,29-2-hanlon-court-wodonga-vic-3690-16106894,-36.12921,146.863831
+757,520.0,VIC,Townhouse,2,3,1,Melbourne Region,OAKLEIGH EAST,3166,2022-09-30T15:45:00,17-crown-close-oakleigh-east-vic-3166-16113552,-37.89971,145.123291
+758,875.0,VIC,House,1,3,0,Melbourne Region,PRAHRAN,3181,2022-09-28T09:47:15,72-perth-street-prahran-vic-3181-16108083,-37.846962,144.9881
+759,770.0,VIC,House,2,3,2,Melbourne Region,HIGHETT,3190,2022-09-26T11:26:32,22a-tweed-st-highett-vic-3190-16103736,-37.9454536,145.030319
+760,430.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,SOUTH YARRA,3141,2022-09-20T11:32:48,1305-45-claremont-street-south-yarra-vic-3141-16097070,-37.8364754,144.9938
+761,400.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,THORNBURY,3071,2022-09-21T18:36:46,13-58-clarendon-street-thornbury-vic-3071-16101018,-37.7602348,145.004349
+762,750.0,VIC,House,2,2,1,Melbourne Region,WINDSOR,3181,2022-09-26T14:07:50,1c-lewisham-road-windsor-vic-3181-16104364,-37.85796,144.9986
+763,560.0,VIC,Townhouse,1,2,1,Melbourne Region,THORNBURY,3071,2022-09-28T11:57:25,4-86-normanby-avenue-thornbury-vic-3071-16108540,-37.75844,144.991882
+764,525.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,CAULFIELD,3162,2022-09-21T07:18:45,5-120-murray-street-caulfield-vic-3162-16098698,-37.8857727,145.0202
+765,750.0,VIC,House,2,2,0,Melbourne Region,RICHMOND,3121,2022-09-27T10:01:12,75-cutter-street-richmond-vic-3121-16105791,-37.8258629,145.008591
+766,720.0,VIC,House,2,3,3,Eastern Suburbs,KEW EAST,3102,2022-09-21T13:37:57,46-elm-grove-kew-east-vic-3102-16099817,-37.7876129,145.048019
+767,595.0,VIC,ApartmentUnitFlat,1,2,2,Melbourne Region,PRAHRAN,3181,2022-09-16T12:16:37,24-300-high-street-prahran-vic-3181-16092833,-37.8526077,144.9977
+768,370.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,SEDDON,3011,2022-09-26T15:48:56,6-217-buckley-street-seddon-vic-3011-16104892,-37.802597,144.887115
+769,350.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,MALVERN EAST,3145,2022-09-19T15:21:32,402-2a-clarence-street-malvern-east-vic-3145-16095778,-37.8749466,145.041626
+770,480.0,VIC,House,2,4,0,Melbourne Region,LARA,3212,2022-09-27T16:52:51,2-hailar-lane-lara-vic-3212-16107512,-38.01889,144.397247
+771,485.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,CAULFIELD,3162,2022-09-20T14:43:07,2-276-hawthorn-road-caulfield-vic-3162-16097784,-37.88274,145.02243
+772,560.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,BENTLEIGH,3204,2022-09-16T18:07:05,107-324-centre-road-bentleigh-vic-3204-16094020,-37.917984,145.033508
+773,680.0,VIC,ApartmentUnitFlat,2,2,2,Melbourne Region,SOUTH YARRA,3141,2022-09-28T09:41:34,402-1-chapel-mews-south-yarra-vic-3141-16108066,-37.8356934,144.996628
+774,425.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,MELBOURNE,3000,2022-09-20T11:15:30,g06-501-little-collins-street-melbourne-vic-3000-16096996,-37.8169441,144.9581
+775,1200.0,VIC,House,2,3,2,Melbourne Region,BLACK ROCK,3193,2022-09-28T16:42:18,72b-ardoyne-st-black-rock-vic-3193-16109670,-37.9726524,145.024841
+776,700.0,VIC,House,2,3,1,Melbourne Region,RICHMOND,3121,2022-09-20T09:43:40,19-canterbury-street-richmond-vic-3121-16096668,-37.82389,145.00676
+777,550.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,WEST MELBOURNE,3003,2022-09-28T13:06:16,102-9-dryburgh-street-west-melbourne-vic-3003-15235467,-37.8066177,144.942413
+778,450.0,VIC,ApartmentUnitFlat,1,2,0,Melbourne Region,MELBOURNE,3000,2022-09-26T14:58:29,3006-31-a-beckett-street-melbourne-vic-3000-16104600,-37.8088875,144.962555
+779,520.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,MELBOURNE,3004,2022-09-21T12:56:12,1402-82-queens-rd-melbourne-vic-3004-16099647,-37.85401,144.980331
+780,440.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,BRUNSWICK EAST,3057,2022-09-23T12:00:04,4-162-lygon-street-brunswick-east-vic-3057-16101848,-37.7731743,144.971634
+781,620.0,VIC,House,2,2,0,Melbourne Region,SOUTH YARRA,3141,2022-09-27T13:04:05,1311-18-claremont-street-south-yarra-vic-3141-16106506,-37.83767,144.99411
+782,495.0,VIC,Villa,2,2,1,Melbourne Region,ASHWOOD,3147,2022-09-19T14:51:54,102-4-yertchuk-avenue-ashwood-vic-3147-16095641,-37.8606262,145.10704
+783,400.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,FOOTSCRAY,3011,2022-09-15T16:53:12,1508-6-joseph-road-footscray-vic-3011-16091829,-37.799263,144.909683
+784,1050.0,VIC,House,1,3,0,Melbourne Region,NORTH MELBOURNE,3051,2022-09-26T14:33:26,27-carroll-street-north-melbourne-vic-3051-16104463,-37.7953072,144.945587
+785,395.0,VIC,ApartmentUnitFlat,1,2,1,Eastern Suburbs,KEW,3101,2022-08-16T10:16:23,g09-59-earl-street-kew-vic-3101-14910454,-37.7950439,145.035248
+786,950.0,VIC,House,1,2,0,Melbourne Region,TOORAK,3142,2022-09-19T18:02:23,11-mell-street-toorak-vic-3142-16096375,-37.8470573,145.006363
+787,350.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,GLEN HUNTLY,3163,2022-09-19T14:46:59,82-115-neerim-road-glen-huntly-vic-3163-16095621,-37.88742,145.042
+788,520.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,DOCKLANDS,3008,2022-09-27T18:16:49,1108-81-south-wharf-drive-docklands-vic-3008-16107733,-37.8223343,144.9358
+789,700.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,SOUTH YARRA,3141,2022-09-26T11:04:51,4-35-marne-street-south-yarra-vic-3141-16103633,-37.83588,144.983856
+790,350.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,COLLINGWOOD,3066,2022-09-28T12:09:16,3-15-17-bendigo-street-collingwood-vic-3066-16108579,-37.79607,144.99263
+791,600.0,VIC,ApartmentUnitFlat,1,3,1,Melbourne Region,TOORAK,3142,2022-09-30T15:23:56,21-425-toorak-road-toorak-vic-3142-16113469,-37.8401222,145.006653
+792,430.0,VIC,ApartmentUnitFlat,1,2,3,Melbourne Region,OAKLEIGH SOUTH,3167,2022-09-21T11:38:34,3-15-elata-street-oakleigh-south-vic-3167-16099363,-37.9121323,145.094635
+793,580.0,VIC,House,1,2,1,Melbourne Region,ST KILDA,3182,2022-09-28T10:13:45,13-neptune-street-st-kilda-vic-3182-16108169,-37.86332,144.978714
+794,600.0,VIC,House,1,3,2,Eastern Suburbs,BLACKBURN NORTH,3130,2022-09-30T12:55:23,88-surrey-road-blackburn-north-vic-3130-16112949,-37.80706,145.158173
+795,1080.0,VIC,House,2,3,0,Melbourne Region,ABBOTSFORD,3067,2022-09-26T14:22:22,13-trenerry-crescent-abbotsford-vic-3067-14338216,-37.799675,144.999756
+796,350.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,ELSTERNWICK,3185,2022-09-29T10:42:14,4-44-clarence-street-elsternwick-vic-3185-16110408,-37.8920479,145.01207
+797,345.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,ST KILDA,3182,2022-09-29T11:55:29,8-36-blessington-street-st-kilda-vic-3182-16110703,-37.8697357,144.9819
+798,495.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,CAULFIELD NORTH,3161,2022-09-17T14:25:52,station-street-caulfield-north-vic-3161-16094214,-37.87688,145.038132
+799,670.0,VIC,ApartmentUnitFlat,1,3,1,Melbourne Region,TOORAK,3142,2022-09-28T17:36:49,24-723-orrong-road-toorak-vic-3142-16109865,-37.8390236,145.014114
+800,405.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,FOOTSCRAY,3011,2022-09-30T16:23:58,1108-2-joseph-road-footscray-vic-3011-16113701,-37.80033,144.909653
+801,400.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,ABBOTSFORD,3067,2022-09-24T09:54:52,722-627-victoria-street-abbotsford-vic-3067-16102907,-37.81068,145.008652
+802,300.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,MURRUMBEENA,3163,2022-09-28T16:33:16,3-10-adelaide-street-murrumbeena-vic-3163-16109631,-37.8872261,145.068787
+803,350.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,EDITHVALE,3196,2022-09-26T12:33:25,5-8-10-turakina-avenue-edithvale-vic-3196-16104021,-38.0401344,145.108
+804,1600.0,VIC,House,2,5,2,Melbourne Region,MALVERN,3144,2022-09-21T13:55:52,22-ethel-street-malvern-vic-3144-16099895,-37.8475838,145.038254
+805,975.0,VIC,House,2,3,2,Melbourne Region,BRIGHTON EAST,3187,2022-09-15T15:43:17,2b-parker-st-brighton-east-vic-3187-16091552,-37.91933,145.018234
+806,995.0,VIC,House,2,3,2,Melbourne Region,MALVERN EAST,3145,2022-09-16T11:11:33,31-moama-road-malvern-east-vic-3145-16092594,-37.878067,145.051208
+807,1200.0,VIC,Townhouse,3,5,2,Melbourne Region,RICHMOND,3121,2022-09-21T13:00:05,13a-laity-street-richmond-vic-3121-16099660,-37.8131638,145.001236
+808,450.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,MALVERN EAST,3145,2022-09-26T11:13:29,10-2-4-baker-street-malvern-east-vic-3145-16103677,-37.87931,145.061478
+809,550.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,SOUTHBANK,3006,2022-09-27T17:22:55,56-28-southgate-avenue-southbank-vic-3006-16107621,-37.8206635,144.967789
+810,1100.0,VIC,House,2,3,3,Eastern Suburbs,CANTERBURY,3126,2022-09-28T15:31:14,78-wattle-valley-rd-canterbury-vic-3126-16109321,-37.83232,145.082138
+811,850.0,VIC,House,2,4,2,Melbourne Region,KEYSBOROUGH,3173,2022-09-16T15:54:18,130-stanley-road-keysborough-vic-3173-16093594,-38.0040779,145.16684
+812,595.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,BRIGHTON,3186,2022-09-29T15:08:05,10-26-warleigh-grove-brighton-vic-3186-16111350,-37.9044342,145.003555
+813,700.0,VIC,House,1,3,2,Melbourne Region,RICHMOND,3121,2022-09-30T14:30:12,94-lennox-street-richmond-vic-3121-16113257,-37.814476,144.995071
+814,1175.0,VIC,ApartmentUnitFlat,2,3,2,Eastern Suburbs,HAWTHORN,3122,2022-09-21T14:28:41,104-77-riversdale-road-hawthorn-vic-3122-16100086,-37.82829,145.032913
+815,800.0,VIC,Townhouse,2,2,1,Melbourne Region,RICHMOND,3121,2022-09-21T10:38:51,2-81-abinger-street-richmond-vic-3121-16099075,-37.820488,145.004776
+816,360.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,MALVERN EAST,3145,2022-09-27T09:32:50,12-786-warrigal-road-malvern-east-vic-3145-16105663,-37.8900871,145.088348
+817,795.0,VIC,ApartmentUnitFlat,2,2,2,Melbourne Region,HAMPTON,3188,2022-09-19T10:41:49,5-45-grenville-street-hampton-vic-3188-16094685,-37.93526,145.002274
+818,695.0,VIC,House,1,2,0,Melbourne Region,RICHMOND,3121,2022-09-15T15:18:11,11-shamrock-street-richmond-vic-3121-16091440,-37.82714,144.9987
+819,550.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,COLLINGWOOD,3066,2022-09-29T12:23:04,11g-21-northumberland-street-collingwood-vic-3066-16110786,-37.8075027,144.986786
+820,975.0,VIC,House,2,3,2,Eastern Suburbs,CAMBERWELL,3124,2022-09-26T14:40:44,54-athelstan-road-camberwell-vic-3124-16104500,-37.8429375,145.06366
+821,575.0,VIC,House,1,3,2,Melbourne Region,EDITHVALE,3196,2022-09-26T17:19:21,40-berry-avenue-edithvale-vic-3196-16105305,-38.0428963,145.116318
+822,480.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,SOUTH MELBOURNE,3205,2022-09-26T16:45:31,3-56-smith-street-south-melbourne-vic-3205-16105162,-37.83719,144.950989
+823,1250.0,VIC,House,3,3,2,Eastern Suburbs,CAMBERWELL,3124,2022-09-28T16:26:46,43-cochrane-avenue-camberwell-vic-3124-16109593,-37.83994,145.060516
+824,400.0,VIC,ApartmentUnitFlat,1,2,0,Melbourne Region,BRUNSWICK EAST,3057,2022-09-19T14:45:44,101-392-lygon-street-brunswick-east-vic-3057-16095591,-37.7661,144.9729
+825,730.0,VIC,ApartmentUnitFlat,2,3,2,Eastern Suburbs,MONT ALBERT,3127,2022-09-16T11:49:18,201-43-zetland-road-mont-albert-vic-3127-16092749,-37.81711,145.111771
+826,475.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,SOUTH YARRA,3141,2022-09-26T15:50:26,1-16-18-millswyn-street-south-yarra-vic-3141-16104898,-37.83705,144.98027
+827,460.0,VIC,House,1,3,2,Melbourne Region,CLARINDA,3169,2022-09-16T08:57:06,56-davanzo-avenue-clarinda-vic-3169-16092173,-37.9451942,145.10675
+828,325.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,BRUNSWICK WEST,3055,2022-09-30T09:06:13,12-39-heller-street-brunswick-west-vic-3055-16112167,-37.775013,144.948242
+829,585.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,SOUTH MELBOURNE,3205,2022-09-16T15:59:12,1207-39-park-street-south-melbourne-vic-3205-16093617,-37.8334,144.969055
+830,395.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,CHADSTONE,3148,2022-09-21T12:28:40,10-303-305-huntingdale-road-chadstone-vic-3148-16099550,-37.87646,145.109879
+831,320.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,CARNEGIE,3163,2022-09-20T15:34:47,2-67-moonya-rd-carnegie-vic-3163-16098026,-37.89735,145.0631
+832,420.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,ST KILDA,3182,2022-09-21T14:24:24,2-44-robe-street-st-kilda-vic-3182-16100042,-37.8631744,144.979813
+833,500.0,VIC,House,1,3,1,Eastern Suburbs,MOUNT DANDENONG,3767,2022-09-29T16:51:07,9-oakley-street-mount-dandenong-vic-3767-16111799,-37.84582,145.359009
+834,365.0,VIC,Townhouse,1,2,2,Melbourne Region,IVANHOE,3079,2022-09-20T15:16:50,3-91-livingstone-street-ivanhoe-vic-3079-16097930,-37.766613,145.0331
+835,450.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,FITZROY NORTH,3068,2022-09-20T16:25:09,304-11-reid-street-fitzroy-north-vic-3068-16098276,-37.7850037,144.978088
+836,350.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,MURRUMBEENA,3163,2022-09-20T12:43:52,6-20-gerald-st-murrumbeena-vic-3163-16097327,-37.8956375,145.070282
+837,1450.0,VIC,House,3,4,2,Melbourne Region,ELWOOD,3184,2022-09-26T15:51:51,7-51-55-goldsmith-street-elwood-vic-3184-16104905,-37.8801041,144.984833
+838,350.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,MALVERN,3144,2022-09-26T15:12:36,7-36-johnstone-street-malvern-vic-3144-16104691,-37.8682747,145.035233
+839,690.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,ST KILDA EAST,3183,2022-09-15T15:21:56,602-71-inkerman-st-st-kilda-east-vic-3183-16091456,-37.8666229,144.999619
+840,695.0,VIC,House,1,2,1,Melbourne Region,BALACLAVA,3183,2022-09-30T14:32:36,12-rosamond-street-balaclava-vic-3183-16113271,-37.86976,144.991119
+841,550.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,MCKINNON,3204,2022-09-27T00:02:52,g06-3-claire-street-mckinnon-vic-3204-15344621,-37.91229,145.039719
+842,590.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,SOUTHBANK,3006,2022-09-16T18:12:38,3104-45-clarke-street-southbank-vic-3006-14397368,-37.8269,144.959534
+843,390.0,VIC,House,2,4,2,Melbourne Region,MELTON WEST,3337,2022-09-20T16:14:27,6-cherry-cl-melton-west-vic-3337-16098222,-37.6644936,144.543823
+844,595.0,VIC,House,1,2,1,Melbourne Region,FITZROY,3065,2022-09-21T12:02:08,g05-237-napier-street-fitzroy-vic-3065-16099451,-37.80062,144.980164
+845,430.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,CAULFIELD,3162,2022-09-28T17:17:06,201-136-murray-street-caulfield-vic-3162-10136316,-37.8859673,145.021942
+846,545.0,VIC,ApartmentUnitFlat,2,2,2,Melbourne Region,BENTLEIGH EAST,3165,2022-09-20T12:17:33,202-53-browns-road-bentleigh-east-vic-3165-16097230,-37.92126,145.055954
+847,840.0,VIC,House,1,3,1,Melbourne Region,TOORAK,3142,2022-09-21T11:16:57,4-mandeville-crescent-toorak-vic-3142-16099272,-37.84914,145.014526
+848,700.0,VIC,ApartmentUnitFlat,2,3,2,Melbourne Region,CAULFIELD NORTH,3161,2022-09-16T17:17:44,2-55-wanda-rd-caulfield-north-vic-3161-16093913,-37.86726,145.019852
+849,640.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,CAULFIELD NORTH,3161,2022-09-17T14:50:11,station-street-caulfield-north-vic-3161-16094221,-37.87688,145.038132
+850,525.0,VIC,House,1,2,2,Melbourne Region,BRUNSWICK EAST,3057,2022-09-28T11:15:39,2-parkview-avenue-brunswick-east-vic-3057-16108388,-37.7635422,144.981079
+851,1400.0,VIC,House,2,5,2,Eastern Suburbs,CANTERBURY,3126,2022-09-30T10:12:06,31-rubens-grove-canterbury-vic-3126-16112358,-37.8180923,145.0667
+852,410.0,VIC,ApartmentUnitFlat,1,2,0,Melbourne Region,ABBOTSFORD,3067,2022-09-16T15:48:54,201a-8-grosvenor-street-abbotsford-vic-3067-16093576,-37.81088,145.0069
+853,680.0,VIC,ApartmentUnitFlat,2,2,2,Eastern Suburbs,CAMBERWELL,3124,2022-09-28T16:18:47,202-555-burke-road-camberwell-vic-3124-16109562,-37.84312,145.054123
+854,580.0,VIC,House,1,2,0,Melbourne Region,CARLTON NORTH,3054,2022-09-20T10:48:57,159-richardson-street-carlton-north-vic-3054-16096889,-37.7846222,144.970642
+855,550.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,MCKINNON,3204,2022-09-29T14:17:22,g02-236-jasper-road-mckinnon-vic-3204-16111151,-37.91213,145.043
+856,320.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,CAULFIELD NORTH,3161,2022-09-30T08:09:17,10-113-eskdale-road-caulfield-north-vic-3161-16112117,-37.87741,145.0342
+857,390.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,ELWOOD,3184,2022-09-16T08:10:23,5-48-spray-street-elwood-vic-3184-16092133,-37.8843,144.988266
+858,590.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,MELBOURNE,3004,2022-09-28T17:36:50,1011-77-queens-road-melbourne-vic-3004-16109866,-37.85271,144.979721
+859,400.0,VIC,Townhouse,2,2,1,Melbourne Region,PASCOE VALE,3044,2022-09-16T16:07:32,7-55-pleasant-street-pascoe-vale-vic-3044-15507181,-37.7268944,144.932434
+860,399.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,ELSTERNWICK,3185,2022-09-27T16:32:27,504-415-glen-huntly-road-elsternwick-vic-3185-16107407,-37.8847427,145.005569
+861,600.0,VIC,House,1,3,1,Eastern Suburbs,BALWYN NORTH,3104,2022-09-20T16:17:34,23-bolinda-road-balwyn-north-vic-3104-16098242,-37.79184,145.086884
+862,550.0,VIC,Townhouse,2,2,2,Melbourne Region,ABBOTSFORD,3067,2022-09-29T13:18:40,71-84-trenerry-crescent-abbotsford-vic-3067-16110976,-37.7978172,144.998062
+863,480.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,ELWOOD,3184,2022-09-15T21:46:27,3-24-26-burns-street-elwood-vic-3184-16092084,-37.8819275,144.993225
+864,1300.0,VIC,ApartmentUnitFlat,2,3,2,Melbourne Region,EAST MELBOURNE,3002,2022-09-28T22:14:25,23-102-jolimont-road-east-melbourne-vic-3002-16110025,-37.8181953,144.978943
+865,750.0,VIC,Townhouse,2,3,2,Eastern Suburbs,BLACKBURN SOUTH,3130,2022-09-27T17:30:50,2-11-barrina-street-blackburn-south-vic-3130-16107646,-37.83525,145.140457
+866,480.0,VIC,Townhouse,1,2,1,Melbourne Region,GLEN HUNTLY,3163,2022-09-29T12:35:56,6-1204-glen-huntly-road-glen-huntly-vic-3163-16110831,-37.88984,145.044083
+867,380.0,VIC,ApartmentUnitFlat,1,1,1,Eastern Suburbs,HAWTHORN,3122,2022-09-26T13:42:06,8-1b-kinkora-road-hawthorn-vic-3122-16104258,-37.81607,145.028366
+868,420.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,SANDRINGHAM,3191,2022-09-21T16:04:02,3-198-bluff-road-sandringham-vic-3191-16100496,-37.96094,145.019638
+869,550.0,VIC,Townhouse,2,2,1,Melbourne Region,MORDIALLOC,3195,2022-09-19T17:07:38,40-kokoda-place-mordialloc-vic-3195-16096229,-38.008934,145.089737
+870,1370.0,VIC,House,2,3,4,Melbourne Region,TOORAK,3142,2022-09-27T08:57:26,17a-clendon-road-toorak-vic-3142-16105569,-37.8495369,145.01532
+871,360.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,MARIBYRNONG,3032,2022-09-29T08:05:42,1001b-2-wests-road-maribyrnong-vic-3032-16110067,-37.7737427,144.881653
+872,550.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,ST KILDA EAST,3183,2022-09-20T20:21:30,102-190-alma-rd-st-kilda-east-vic-3183-16098637,-37.8631477,145.006287
+873,540.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,SOUTH YARRA,3141,2022-09-26T11:30:42,1205-77-river-street-south-yarra-vic-3141-14520896,-37.8368378,144.997452
+874,530.0,VIC,House,1,4,3,Melbourne Region,NOBLE PARK,3174,2022-09-24T09:51:38,24-kleine-street-noble-park-vic-3174-16102906,-37.97089,145.16983
+875,330.0,VIC,ApartmentUnitFlat,1,1,0,Melbourne Region,FITZROY,3065,2022-09-28T16:39:28,14-65-george-street-fitzroy-vic-3065-16109661,-37.8066063,144.98027
+876,690.0,VIC,ApartmentUnitFlat,2,3,0,Melbourne Region,TOORAK,3142,2022-09-19T16:51:26,3-20-tintern-avenue-toorak-vic-3142-16096159,-37.8422356,145.006
+877,650.0,VIC,House,1,3,2,Melbourne Region,BENTLEIGH,3204,2022-09-26T09:41:45,1-210-tucker-road-bentleigh-vic-3204-16103255,-37.91484,145.052139
+878,400.0,VIC,ApartmentUnitFlat,1,1,1,Eastern Suburbs,HAWTHORN EAST,3123,2022-09-28T16:30:50,209-8-montrose-street-hawthorn-east-vic-3123-16109618,-37.823204,145.046188
+879,395.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,BRUNSWICK,3056,2022-09-21T11:31:23,14-116-albert-street-brunswick-vic-3056-16099340,-37.77005,144.971466
+880,330.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,CAULFIELD,3162,2022-09-29T12:20:18,11-8-tattenham-street-caulfield-vic-3162-16110783,-37.8827972,145.0472
+881,1100.0,VIC,House,2,4,2,Melbourne Region,BLACK ROCK,3193,2022-09-28T10:42:26,17-fourth-street-black-rock-vic-3193-16108263,-37.98036,145.021561
+882,865.0,VIC,House,1,3,1,Melbourne Region,TOORAK,3142,2022-09-27T08:50:37,7-burnie-street-toorak-vic-3142-16105562,-37.835762,145.009827
+883,825.0,VIC,Townhouse,1,3,2,Melbourne Region,ELWOOD,3184,2022-09-19T09:57:37,3-483-st-kilda-street-elwood-vic-3184-16094510,-37.88656,144.9912
+884,425.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,RESERVOIR,3073,2022-09-27T11:19:51,2-123-cheddar-road-reservoir-vic-3073-16106073,-37.7025681,145.017242
+885,650.0,VIC,House,1,3,1,Melbourne Region,ST KILDA,3182,2022-09-27T16:56:29,69-chapel-street-st-kilda-vic-3182-16107526,-37.8637962,144.990936
+886,370.0,VIC,ApartmentUnitFlat,1,2,1,Eastern Suburbs,HAWTHORN EAST,3123,2022-09-28T16:30:09,2-31-33-caroline-street-hawthorn-east-vic-3123-16109612,-37.82895,145.046249
+887,780.0,VIC,Townhouse,2,3,2,Melbourne Region,GLEN HUNTLY,3163,2022-09-19T10:55:12,22b-park-ave-glen-huntly-vic-3163-16094731,-37.89605,145.045
+888,780.0,VIC,House,1,2,1,Melbourne Region,RICHMOND,3121,2022-09-19T10:32:46,40-wellington-street-richmond-vic-3121-16094652,-37.8261528,144.989441
+889,495.0,VIC,House,1,3,2,Melbourne Region,BENTLEIGH EAST,3165,2022-09-26T09:25:59,1-bethwyn-street-bentleigh-east-vic-3165-16103205,-37.911,145.0597
+890,375.0,VIC,ApartmentUnitFlat,1,1,1,Eastern Suburbs,HAWTHORN,3122,2022-09-20T10:30:32,5-56-58-burwood-road-hawthorn-vic-3122-16096828,-37.8215,145.02417
+891,850.0,VIC,House,1,3,2,Melbourne Region,ELSTERNWICK,3185,2022-09-27T13:52:08,26-clarence-street-elsternwick-vic-3185-12646931,-37.8918953,145.010437
+892,440.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,ELWOOD,3184,2022-09-21T12:16:11,13-47-brighton-road-elwood-vic-3184-16099504,-37.8705139,144.988052
+893,460.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,BRUNSWICK,3056,2022-09-26T13:02:46,1-80-mitchell-street-brunswick-vic-3056-16104131,-37.7595634,144.970322
+894,375.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,CAULFIELD NORTH,3161,2022-09-29T13:41:19,3-31-wanda-road-caulfield-north-vic-3161-15230423,-37.8676529,145.02182
+895,480.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,HIGHETT,3190,2022-09-19T18:34:44,205-6-dart-street-highett-vic-3190-16096414,-37.94649,145.039841
+896,640.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,RICHMOND,3121,2022-09-29T11:06:27,402-77-abinger-street-richmond-vic-3121-16110511,-37.820446,145.004425
+897,330.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,MOONEE PONDS,3039,2022-09-19T16:44:11,10-8-eddy-strret-moonee-ponds-vic-3039-16096123,-37.7647858,144.920273
+898,435.0,VIC,House,2,4,2,South Western Victoria,DELACOMBE,3356,2022-09-26T13:32:02,425-greenhalghs-road-delacombe-vic-3356-16104213,-37.5834465,143.796616
+899,1200.0,VIC,Townhouse,2,3,2,Eastern Suburbs,KEW,3101,2022-09-16T10:14:28,3-92-brougham-street-kew-vic-3101-16092388,-37.803,145.031189
+900,750.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,SOUTH MELBOURNE,3205,2022-09-19T10:53:57,7-2-heather-street-south-melbourne-vic-3205-16094728,-37.8336143,144.964859
+901,1600.0,VIC,ApartmentUnitFlat,2,2,2,Melbourne Region,ST KILDA,3182,2022-09-27T14:27:04,3505-14-16-the-esplanadr-st-kilda-vic-3182-16106828,-37.8650169,144.974686
+902,630.0,VIC,ApartmentUnitFlat,1,3,1,Melbourne Region,MALVERN EAST,3145,2022-09-27T16:13:05,3-60-serrell-st-malvern-east-vic-3145-16107329,-37.879982,145.063126
+903,625.0,VIC,House,2,2,0,Melbourne Region,CARLTON NORTH,3054,2022-09-20T13:56:00,10-sutton-street-carlton-north-vic-3054-16097594,-37.78859,144.973022
+904,320.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,ST KILDA,3182,2022-09-28T14:11:09,2-16-vale-st-st-kilda-vic-3182-16108973,-37.8661537,144.983368
+905,550.0,VIC,House,1,2,0,Melbourne Region,PRAHRAN,3181,2022-09-28T15:17:30,16-spring-street-prahran-vic-3181-16109263,-37.85061,145.003891
+906,300.0,VIC,House,1,2,1,Northern Victoria,ESKDALE,3701,2022-09-21T15:31:47,283-mitta-north-road-eskdale-vic-3701-16100349,-36.45078,147.286163
+907,550.0,VIC,ApartmentUnitFlat,1,2,1,Eastern Suburbs,GLEN IRIS,3146,2022-09-29T15:36:48,4-16-wills-street-glen-iris-vic-3146-16111457,-37.85374,145.054047
+908,460.0,VIC,ApartmentUnitFlat,1,2,0,Melbourne Region,NORTHCOTE,3070,2022-09-21T12:10:59,202-2-separation-street-northcote-vic-3070-16099480,-37.769516,144.9996
+909,600.0,VIC,ApartmentUnitFlat,1,3,2,Eastern Suburbs,CAMBERWELL,3124,2022-09-20T13:58:27,2-14-rowell-avenue-camberwell-vic-3124-16097609,-37.8370323,145.060974
+910,1550.0,VIC,Townhouse,3,3,2,Eastern Suburbs,GLEN IRIS,3146,2022-09-26T10:33:47,4-1458-high-street-glen-iris-vic-3146-16103489,-37.85859,145.042511
+911,750.0,VIC,Townhouse,2,3,2,Melbourne Region,ESSENDON,3040,2022-09-15T14:00:53,12-8-10-lincoln-road-essendon-vic-3040-16091133,-37.7549973,144.908524
+912,380.0,VIC,House,1,1,1,Melbourne Region,BRUNSWICK EAST,3057,2022-09-21T10:42:02,313-1-brunswick-road-brunswick-east-vic-3057-16099118,-37.77868,144.977585
+913,650.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,BELMONT,3216,2022-09-19T09:46:32,100-settlement-road-belmont-vic-3216-16094466,-38.18181,144.3418
+914,530.0,VIC,ApartmentUnitFlat,2,2,1,Melbourne Region,BALACLAVA,3183,2022-09-26T15:02:23,301-2a-nelson-street-balaclava-vic-3183-16104630,-37.8660431,144.993927
+915,380.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,CLAYTON,3168,2022-09-26T10:39:19,118-864-blackburn-road-clayton-vic-3168-16103508,-37.9200134,145.13974
+916,575.0,VIC,House,2,4,2,Melbourne Region,OAKLEIGH SOUTH,3167,2022-09-29T12:48:25,16-silvan-street-oakleigh-south-vic-3167-15400067,-37.9375267,145.0871
+917,440.0,VIC,ApartmentUnitFlat,1,2,1,Melbourne Region,PASCOE VALE,3044,2022-09-29T08:55:20,1-255-derby-street-pascoe-vale-vic-3044-15378014,-37.71624,144.9483
+918,390.0,VIC,ApartmentUnitFlat,1,1,1,Melbourne Region,SANDRINGHAM,3191,2022-09-26T11:17:02,803-222-bay-road-sandringham-vic-3191-16103691,-37.9549637,145.02565

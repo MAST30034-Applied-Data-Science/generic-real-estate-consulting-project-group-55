@@ -1,0 +1,920 @@
+,rent_address,school_name,min_distance,min_duration,postcode,price
+0,3604-568-collins-street-melbourne-vic-3000-16102990,Avoca Primary School,1048.17,132.1,3000,580.0
+1,g06-501-little-collins-street-melbourne-vic-3000-16096996,Allansford and District Primary School,263.92,44.17,3000,425.0
+2,3006-31-a-beckett-street-melbourne-vic-3000-16104600,Bacchus Marsh Primary School,961.1,114.08,3000,450.0
+3,601-8-exploration-lane-melbourne-vic-3000-16081723,Avoca Primary School,378.07,58.11,3000,530.0
+4,1202-620-collins-street-melbourne-vic-3000-16114058,Allansford and District Primary School,897.47,114.01,3000,500.0
+5,1411-250-elizabeth-street-melbourne-vic-3000-16092022,Bacchus Marsh Primary School,866.52,101.11,3000,520.0
+6,1202-31-spring-street-melbourne-vic-3000-16111139,Alberton Primary School,643.27,95.98,3000,570.0
+7,1003-225-elizabeth-street-melbourne-vic-3000-16111540,Bacchus Marsh Primary School,759.2,105.01,3000,575.0
+8,1014-22-24-jane-bell-lane-melbourne-vic-3000-16103081,Avoca Primary School,585.41,86.18,3000,600.0
+9,2503-7-katherine-place-melbourne-vic-3000-16096811,Avenel Primary School,909.65,119.54,3000,415.0
+10,1701-620-collins-street-melbourne-vic-3000-16114048,Allansford and District Primary School,897.47,114.01,3000,650.0
+11,703-500-flinders-street-melbourne-vic-3000-16102690,Avenel Primary School,835.65,103.36,3000,220.0
+12,312b-399-bourke-street-melbourne-vic-3000-16096996,Warrandyte Primary School,568.14,70.43,3000,400.0
+13,33-400-little-collins-street-melbourne-vic-3000-16022489,Avenel Primary School,573.43,73.2,3000,400.0
+14,315-118-russell-street-melbourne-vic-3000-16108688,Allansford and District Primary School,437.87,68.33,3000,550.0
+15,623-539-st-kilda-road-melbourne-vic-3000-16110078,Avenel Primary School,596.98,61.09,3000,475.0
+16,501-243-franklin-street-melbourne-vic-3000-16098203,Allansford and District Primary School,679.1,94.82,3000,475.0
+17,513-118-franklin-street-melbourne-vic-3000-15397839,Warrandyte Primary School,828.84,98.91,3000,450.0
+18,401-408-lonsdale-street-melbourne-vic-3000-16014585,Warrandyte Primary School,803.16,97.51,3000,410.0
+19,1713-25-therry-street-melbourne-vic-3000-16097001,Bacchus Marsh Primary School,667.09,90.87,3000,500.0
+20,101-108-flinders-street-melbourne-vic-3000-16104629,Alberton Primary School,645.35,83.96,3000,650.0
+21,309-501-little-collins-street-melbourne-vic-3000-16107439,Allansford and District Primary School,263.92,44.17,3000,400.0
+22,816-101-therry-st-melbourne-vic-3000-16068338,Warrandyte Primary School,619.91,78.53,3000,820.0
+23,1309-199-william-street-melbourne-vic-3000-16093914,Avenel Primary School,572.32,87.6,3000,520.0
+24,4010-639-lonsdale-street-melbourne-vic-3000-16091026,Allansford and District Primary School,654.44,103.89,3000,650.0
+25,320-68-la-trobe-street-melbourne-vic-3000-16098385,Avoca Primary School,591.48,78.82,3000,430.0
+26,5707b-639-little-lonsdale-street-melbourne-vic-3000-16111904,Allansford and District Primary School,409.87,84.65,3000,570.0
+27,3008-288-spencer-street-melbourne-vic-3000-16097762,Allansford and District Primary School,414.76,85.82,3000,410.0
+28,701-101-therry-st-melbourne-vic-3000-16069017,Warrandyte Primary School,619.91,78.53,3000,585.0
+29,313-394-collins-street-melbourne-vic-3000-15401052,Avoca Primary School,697.7,85.25,3000,500.0
+30,29-400-little-collins-street-melbourne-vic-3000-16022489,Avenel Primary School,573.43,73.2,3000,400.0
+31,232-538-little-lonsdale-street-melbourne-vic-3000-16094294,Allansford and District Primary School,305.41,59.58,3000,780.0
+32,7-562-little-bourke-street-melbourne-vic-3000-16094300,Allansford and District Primary School,469.61,78.98,3000,380.0
+33,806-296-victoria-parade-east-melbourne-vic-3002-13799976,Avoca Primary School,775.67,118.84,3002,1800.0
+34,23-102-jolimont-road-east-melbourne-vic-3002-16110025,Allansford and District Primary School,1305.91,210.2,3002,1300.0
+35,811v-162-albert-street-east-melbourne-vic-3002-16096094,Allansford and District Primary School,673.8,100.71,3002,600.0
+36,18-29-george-street-east-melbourne-vic-3002-16108770,Avenel Primary School,797.89,109.42,3002,350.0
+37,29-8-wellington-crescent-east-melbourne-vic-3002-16096702,Allansford and District Primary School,1194.79,167.28,3002,750.0
+38,p18w-189-powlett-street-east-melbourne-vic-3002-16107539,Avoca Primary School,593.84,87.81,3002,495.0
+39,unit-101m-201-powlett-street-east-melbourne-vic-3002-16109142,Allansford and District Primary School,439.14,58.85,3002,490.0
+40,1-62-simpson-st-east-melbourne-vic-3002-16099921,Allansford and District Primary School,975.38,146.21,3002,395.0
+41,6-18-ireland-street-west-melbourne-vic-3003-16093709,Avoca Primary School,956.79,124.98,3003,750.0
+42,102-9-dryburgh-street-west-melbourne-vic-3003-15235467,Allansford and District Primary School,1678.69,282.83,3003,550.0
+43,2613-65-dudley-street-west-melbourne-vic-3003-16108153,Allansford and District Primary School,643.08,89.26,3003,520.0
+44,407-386-spencer-street-west-melbourne-vic-3003-16106534,Allansford and District Primary School,498.39,67.17,3003,450.0
+45,260-adderley-street-west-melbourne-vic-3003-16103206,Avoca Primary School,1172.9,148.27,3003,950.0
+46,409-41-dryburgh-street-west-melbourne-vic-3003-16113705,Allansford and District Primary School,1622.4,263.53,3003,550.0
+47,214-15-31-batman-street-west-melbourne-vic-3003-14585741,Allansford and District Primary School,461.78,61.05,3003,400.0
+48,5-61-stanley-street-west-melbourne-vic-3003-16105408,Avoca Primary School,807.27,118.04,3003,395.0
+49,19-32-queens-road-melbourne-vic-3004-16099040,Avoca Primary School,948.03,105.92,3004,525.0
+50,32-632-st-kilda-road-melbourne-vic-3004-16091641,Allansford and District Primary School,725.01,99.62,3004,700.0
+51,507-23-queens-road-melbourne-vic-3004-16098966,Allansford and District Primary School,782.88,98.95,3004,575.0
+52,906-14-queens-road-melbourne-vic-3004-16104224,Alberton Primary School,504.78,82.36,3004,500.0
+53,1011-77-queens-road-melbourne-vic-3004-16109866,Allansford and District Primary School,500.32,86.98,3004,590.0
+54,1310-450-st-kilda-road-melbourne-vic-3004-16099990,Alberton Primary School,502.79,82.07,3004,620.0
+55,702-74-queens-road-melbourne-vic-3004-16113717,Allansford and District Primary School,444.64,78.96,3004,530.0
+56,1402-82-queens-rd-melbourne-vic-3004-16099647,Allansford and District Primary School,667.77,91.38,3004,520.0
+57,1204-33-clarke-street-southbank-vic-3006-16093367,Allansford and District Primary School,962.77,134.03,3006,350.0
+58,3511-151-city-road-southbank-vic-3006-16094411,Allansford and District Primary School,758.23,112.2,3006,530.0
+59,4008-45-clarke-street-southbank-vic-3006-16098289,Allansford and District Primary School,931.7,129.89,3006,650.0
+60,808-250-city-road-southbank-vic-3006-16103830,Allansford and District Primary School,1348.24,174.32,3006,575.0
+61,3-100-coventry-street-southbank-vic-3006-16111756,Alberton Primary School,677.08,116.32,3006,520.0
+62,3201-245-city-road-southbank-vic-3006-16094069,Allansford and District Primary School,900.88,122.65,3006,575.0
+63,2512-70-southbank-boulevard-southbank-vic-3006-16097066,Alberton Primary School,1007.57,151.6,3006,600.0
+64,56-28-southgate-avenue-southbank-vic-3006-16107621,Alberton Primary School,1485.66,238.74,3006,550.0
+65,1005-285-city-road-southbank-vic-3006-16111246,Allansford and District Primary School,785.62,104.33,3006,450.0
+66,2902-250-city-road-southbank-vic-3006-16111286,Allansford and District Primary School,1348.24,174.32,3006,450.0
+67,3104-45-clarke-street-southbank-vic-3006-14397368,Allansford and District Primary School,931.7,129.89,3006,590.0
+68,106-8-wells-st-southbank-vic-3006-16110505,Alberton Primary School,684.35,145.48,3006,1200.0
+69,1108-81-south-wharf-drive-docklands-vic-3008-16107733,Alberton Primary School,3073.35,435.14,3008,520.0
+70,312-57-spencer-street-docklands-vic-3008-16108605,Avoca Primary School,997.15,133.48,3008,600.0
+71,512-4-joseph-rd-footscray-vic-3011-15583218,Allansford and District Primary School,538.41,74.09,3011,520.0
+72,1806-8-joseph-road-footscray-vic-3011-16109988,Allansford and District Primary School,568.21,77.66,3011,690.0
+73,210-12-napier-street-footscray-vic-3011-16100855,Allansford and District Primary School,783.18,103.15,3011,630.0
+74,1508-6-joseph-road-footscray-vic-3011-16091829,Allansford and District Primary School,559.68,76.64,3011,400.0
+75,6-217-buckley-street-seddon-vic-3011-16104892,Alberton Primary School,1144.89,175.52,3011,370.0
+76,1205-8-joseph-road-footscray-vic-3011-16096365,Allansford and District Primary School,568.21,77.66,3011,485.0
+77,15-99-109-creswick-street-footscray-vic-3011-16105427,Alberton Primary School,266.4,33.93,3011,280.0
+78,1107-6-joseph-road-footscray-vic-3011-16104041,Allansford and District Primary School,559.68,76.64,3011,500.0
+79,801-8-joseph-road-footscray-vic-3011-16109999,Allansford and District Primary School,568.21,77.66,3011,475.0
+80,1109-2-joseph-road-footscray-vic-3011-15421439,Allansford and District Primary School,610.37,82.72,3011,530.0
+81,1108-2-joseph-road-footscray-vic-3011-16113701,Allansford and District Primary School,610.37,82.72,3011,405.0
+82,9-67-ballarat-rd-footscray-vic-3011-16098677,Alberton Primary School,1030.17,136.56,3011,370.0
+83,1908-6-joseph-road-footscray-vic-3011-15399494,Allansford and District Primary School,559.68,76.64,3011,410.0
+84,1412-4-joseph-road-footscray-vic-3011-16106028,Allansford and District Primary School,538.41,74.09,3011,400.0
+85,808-2-joseph-road-footscray-vic-3011-15874277,Allansford and District Primary School,610.37,82.72,3011,390.0
+86,1404-4-joseph-road-footscray-vic-3011-15362715,Allansford and District Primary School,538.41,74.09,3011,410.0
+87,1605-6-joseph-road-footscray-vic-3011-16109994,Allansford and District Primary School,559.68,76.64,3011,520.0
+88,7-regent-street-yarraville-vic-3013-16096035,Alberton Primary School,492.81,69.71,3013,600.0
+89,3-107-park-crescent-williamstown-north-vic-3016-16108944,Allansford and District Primary School,1226.46,123.54,3016,500.0
+90,20-illawarra-street-williamstown-vic-3016-16104991,Alberton Primary School,828.65,136.08,3016,595.0
+91,51-spearmint-boulevard-manor-lakes-vic-3024-13582212,Alberton Primary School,1769.71,247.41,3024,400.0
+92,74-myers-parade-altona-meadows-vic-3028-16094320,Alberton Primary School,1677.7,169.44,3028,440.0
+93,36a-featherby-way-altona-meadows-vic-3028-16110093,Alberton Primary School,904.09,93.7,3028,395.0
+94,207-79-merton-street-altona-meadows-vic-3028-16107073,Alberton Primary School,585.58,57.95,3028,350.0
+95,30-390-queen-street-altona-meadows-vic-3028-16110953,Alberton Primary School,601.25,53.77,3028,380.0
+96,10-talliver-terrace-truganina-vic-3029-16111383,Alberton Primary School,1252.68,181.62,3029,370.0
+97,106-stratus-street-tarneit-vic-3029-16100986,Avenel Primary School,3341.18,361.3,3029,480.0
+98,1-3-weebill-court-werribee-vic-3030-14233278,Allansford and District Primary School,1896.45,272.87,3030,380.0
+99,5-48-farnham-street-flemington-vic-3031-16103716,Bacchus Marsh Primary School,470.97,66.38,3031,310.0
+100,104-71-89-hobsons-road-kensington-vic-3031-16111222,Alberton Primary School,1562.69,220.22,3031,375.0
+101,913-1-ascot-vale-road-flemington-vic-3031-14811213,Allansford and District Primary School,731.16,76.65,3031,420.0
+102,704-68-wests-road-maribyrnong-vic-3032-16092164,Allansford and District Primary School,1292.24,186.06,3032,475.0
+103,1001b-2-wests-road-maribyrnong-vic-3032-16110067,Alberton Primary School,1297.46,152.77,3032,360.0
+104,712-68-wests-road-maribyrnong-vic-3032-16093377,Allansford and District Primary School,1292.24,186.06,3032,360.0
+105,307-55-cumberland-drive-maribyrnong-vic-3032-16107543,Alberton Primary School,1098.23,158.21,3032,470.0
+106,207-8-burrowes-street-ascot-vale-vic-3032-16105755,Allansford and District Primary School,438.72,52.52,3032,450.0
+107,3-fortelny-way-moonee-ponds-vic-3039-16103083,Alberton Primary School,467.73,101.06,3039,495.0
+108,25-maple-walk-moonee-ponds-vic-3039-16097397,Allansford and District Primary School,1125.1,137.84,3039,850.0
+109,10-8-eddy-strret-moonee-ponds-vic-3039-16096123,Allansford and District Primary School,876.79,107.01,3039,330.0
+110,1-8-10-lincoln-road-essendon-vic-3040-16095553,Avenel Primary School,421.32,53.99,3040,620.0
+111,6-5-winifred-essendon-vic-3040-16105691,Avenel Primary School,970.44,142.77,3040,500.0
+112,4-8-10-lincoln-road-essendon-vic-3040-16098657,Avenel Primary School,421.32,53.99,3040,620.0
+113,12-8-10-lincoln-road-essendon-vic-3040-16091133,Avenel Primary School,421.32,53.99,3040,750.0
+114,51-carrington-road-niddrie-vic-3042-16112270,Allansford and District Primary School,1302.16,245.4,3042,900.0
+115,2-6-8-keogh-court-pascoe-vale-vic-3044-16099318,Warrandyte Primary School,689.31,165.43,3044,450.0
+116,20a-park-street-pascoe-vale-vic-3044-16100660,Avoca Primary School,1169.98,143.25,3044,480.0
+117,1-255-derby-street-pascoe-vale-vic-3044-15378014,Alberton Primary School,606.09,98.5,3044,440.0
+118,72-austin-crescent-pascoe-vale-vic-3044-16108578,Avoca Primary School,1091.54,159.34,3044,550.0
+119,1b-hazel-grove-pascoe-vale-vic-3044-16098940,Alberton Primary School,266.83,27.04,3044,445.0
+120,7-55-pleasant-street-pascoe-vale-vic-3044-15507181,Alberton Primary School,1169.19,142.4,3044,400.0
+121,2-12-sylvester-street-oak-park-vic-3046-16105234,Alberton Primary School,883.3,211.99,3046,525.0
+122,2-14-gregory-street-oak-park-vic-3046-16095581,Avoca Primary School,855.96,163.43,3046,550.0
+123,101-96-curzon-street-north-melbourne-vic-3051-16099695,Alberton Primary School,827.59,128.09,3051,320.0
+124,17-352-victoria-street-north-melbourne-vic-3051-16112376,Belmont Primary School,120.55,14.91,3051,450.0
+125,494-abbotsford-street-north-melbourne-vic-3051-16093609,Avenel Primary School,327.93,44.24,3051,1295.0
+126,4-19-chapman-street-north-melbourne-vic-3051-16112887,Warrandyte Primary School,600.21,86.15,3051,380.0
+127,27-carroll-street-north-melbourne-vic-3051-16104463,Warrandyte Primary School,591.28,127.01,3051,1050.0
+128,109-380-queensberry-street-north-melbourne-vic-3051-14961044,Belmont Primary School,140.02,27.73,3051,550.0
+129,502-46-villiers-street-north-melbourne-vic-3051-16091326,Belmont Primary School,799.39,106.7,3051,370.0
+130,104-16-cobden-street-north-melbourne-vic-3051-16096636,Warrandyte Primary School,679.22,80.17,3051,600.0
+131,12-283-royal-parade-parkville-vic-3052-16096882,Avoca Primary School,1934.13,243.54,3052,420.0
+132,17-228-the-avenue-parkville-vic-3052-16104553,Alberton Primary School,1506.39,224.31,3052,330.0
+133,815-91-galada-avenue-parkville-vic-3052-16108978,Bacchus Marsh Primary School,985.31,114.64,3052,480.0
+134,210-445-royal-parade-parkville-vic-3052-16105650,Allansford and District Primary School,1541.91,230.71,3052,370.0
+135,21-361-royal-parade-parkville-vic-3052-16104740,Avoca Primary School,1839.16,243.7,3052,380.0
+136,112-124-palmerston-street-carlton-vic-3053-16103862,Avoca Primary School,367.55,58.82,3053,500.0
+137,1-43-barkly-street-carlton-vic-3053-16114029,Allansford and District Primary School,523.58,76.3,3053,460.0
+138,10-21-university-street-carlton-vic-3053-10308643,Avoca Primary School,518.5,63.67,3053,525.0
+139,37-109-lygon-street-carlton-vic-3053-16105252,Alberton Primary School,674.3,67.27,3053,250.0
+140,706-111-leicester-street-carlton-vic-3053-16108027,Bacchus Marsh Primary School,727.18,120.22,3053,500.0
+141,108-139-143-bouverie-street-carlton-vic-3053-16100726,Bacchus Marsh Primary School,763.12,110.77,3053,260.0
+142,11-406-cardigan-street-carlton-vic-3053-16107251,Avoca Primary School,963.67,84.16,3053,780.0
+143,159-richardson-street-carlton-north-vic-3054-16096889,Avoca Primary School,660.11,91.26,3054,580.0
+144,10-sutton-street-carlton-north-vic-3054-16097594,Alberton Primary School,716.36,113.32,3054,625.0
+145,29-1066-lygon-street-carlton-north-vic-3054-16099369,Allansford and District Primary School,358.61,53.43,3054,750.0
+146,24-macpherson-street-carlton-north-vic-3054-16092806,Allansford and District Primary School,924.59,141.29,3054,650.0
+147,5-548-moreland-road-brunswick-west-vic-3055-16109592,Allansford and District Primary School,1363.29,165.4,3055,260.0
+148,19-552-moreland-road-brunswick-west-vic-3055-16112090,Allansford and District Primary School,1332.57,162.64,3055,260.0
+149,10-55-heller-street-brunswick-west-vic-3055-16099137,Avoca Primary School,592.6,76.72,3055,330.0
+150,804-1-olive-york-way-brunswick-west-vic-3055-15357145,Allansford and District Primary School,585.74,68.19,3055,460.0
+151,2-28-millward-street-brunswick-west-vic-3055-16103927,Avoca Primary School,534.9,62.6,3055,595.0
+152,1-3-guthrie-street-brunswick-west-vic-3055-16103784,Allansford and District Primary School,600.21,86.43,3055,320.0
+153,5-490-492-moreland-road-brunswick-west-vic-3055-16091467,Allansford and District Primary School,1076.77,92.75,3055,395.0
+154,12-39-heller-street-brunswick-west-vic-3055-16112167,Avoca Primary School,786.75,74.2,3055,325.0
+155,6-230-dawson-street-brunswick-west-vic-3055-16103397,Allansford and District Primary School,469.62,65.81,3055,375.0
+156,208-611-sydney-road-brunswick-vic-3056-15144017,Allansford and District Primary School,789.07,96.58,3056,420.0
+157,42-cassels-road-brunswick-vic-3056-16110238,Alberton Primary School,870.9,117.32,3056,730.0
+158,110-brunswick-road-brunswick-vic-3056-16103107,Alberton Primary School,962.26,98.28,3056,570.0
+159,8-jenkin-street-brunswick-vic-3056-16107288,Warrandyte Primary School,917.04,106.33,3056,925.0
+160,116-288-albert-street-brunswick-vic-3056-16113457,Alberton Primary School,191.68,23.82,3056,350.0
+161,2-horne-street-brunswick-vic-3056-16107121,Avoca Primary School,959.87,97.48,3056,1050.0
+162,2-53-evans-street-brunswick-vic-3056-16092503,Allansford and District Primary School,783.56,109.04,3056,550.0
+163,213-albert-street-brunswick-vic-3056-16112143,Allansford and District Primary School,321.4,42.5,3056,550.0
+164,476b-sydney-road-brunswick-vic-3056-16101831,Alberton Primary School,322.79,40.08,3056,1100.0
+165,3-138-mitchell-street-brunswick-vic-3056-16104854,Avoca Primary School,1012.62,134.34,3056,350.0
+166,14-116-albert-street-brunswick-vic-3056-16099340,Allansford and District Primary School,1273.96,134.27,3056,395.0
+167,399-brunswick-road-brunswick-vic-3056-16091358,Avoca Primary School,523.58,60.5,3056,1200.0
+168,71-amelia-street-brunswick-vic-3056-16111322,Alberton Primary School,958.2,108.79,3056,800.0
+169,2b-donald-street-brunswick-vic-3056-16094762,Alberton Primary School,513.27,72.3,3056,650.0
+170,3-allan-street-brunswick-vic-3056-16091524,Avoca Primary School,918.48,90.03,3056,850.0
+171,7-walters-street-brunswick-vic-3056-16101017,Alberton Primary School,669.67,71.55,3056,700.0
+172,4-653-park-street-brunswick-vic-3056-16109007,Alberton Primary School,918.42,93.41,3056,380.0
+173,1-339-brunswick-road-brunswick-vic-3056-16096511,Avoca Primary School,714.81,64.21,3056,740.0
+174,1-80-mitchell-street-brunswick-vic-3056-16104131,Avoca Primary School,550.58,73.58,3056,460.0
+175,306-267-277-lygon-street-brunswick-vic-3056-16099911,Alberton Primary School,1240.91,105.98,3056,600.0
+176,306-63-lygon-street-brunswick-east-vic-3057-16104850,Alberton Primary School,500.28,49.24,3057,420.0
+177,5-31-33-o-connor-street-brunswick-east-vic-3057-16109350,Avenel Primary School,970.79,110.03,3057,900.0
+178,313-1-brunswick-road-brunswick-east-vic-3057-16099118,Belmont Primary School,403.38,71.69,3057,380.0
+179,2-parkview-avenue-brunswick-east-vic-3057-16108388,Alberton Primary School,334.84,52.6,3057,525.0
+180,4-162-lygon-street-brunswick-east-vic-3057-16101848,Alberton Primary School,932.7,82.61,3057,440.0
+181,204-294-lygon-street-brunswick-east-vic-3057-15429522,Allansford and District Primary School,1305.97,138.36,3057,575.0
+182,106-273-lygon-street-brunswick-east-vic-3057-16095784,Alberton Primary School,1240.91,105.98,3057,575.0
+183,4-31-33-o-connor-street-brunswick-east-vic-3057-16109419,Avenel Primary School,970.79,110.03,3057,650.0
+184,101-392-lygon-street-brunswick-east-vic-3057-16095591,Alberton Primary School,823.08,105.48,3057,400.0
+185,46-nicholson-street-brunswick-east-vic-3057-16112281,Warrandyte Primary School,462.64,50.53,3057,780.0
+186,45-victoria-street-brunswick-east-vic-3057-16105604,Allansford and District Primary School,605.66,104.29,3057,550.0
+187,147-stewart-st-brunswick-east-vic-3057-16108585,Allansford and District Primary School,733.59,106.06,3057,610.0
+188,1-flinders-street-coburg-vic-3058-15138487,Allansford and District Primary School,297.18,32.65,3058,430.0
+189,714-11-urquhart-street-coburg-vic-3058-16097143,Avoca Primary School,134.9,32.37,3058,450.0
+190,413-11-urquhart-street-coburg-vic-3058-15467995,Avoca Primary School,134.9,32.37,3058,450.0
+191,4-18-loch-street-coburg-vic-3058-16092618,Allansford and District Primary School,1325.38,174.78,3058,540.0
+192,177-urquhart-street-coburg-vic-3058-16099429,Allansford and District Primary School,855.2,125.27,3058,600.0
+193,46-mutton-road-fawkner-vic-3060-15915330,Alberton Primary School,1020.98,91.04,3060,450.0
+194,27-rocco-avenue-donnybrook-vic-3064-16098102,Alberton Primary School,7793.93,594.27,3064,440.0
+195,33-bell-street-fitzroy-vic-3065-16110446,Bacchus Marsh Primary School,467.58,87.71,3065,1350.0
+196,g05-237-napier-street-fitzroy-vic-3065-16099451,Alberton Primary School,227.93,48.32,3065,595.0
+197,14-65-george-street-fitzroy-vic-3065-16109661,Allansford and District Primary School,614.59,81.82,3065,330.0
+198,1008-68-cambridge-street-collingwood-vic-3066-16096565,Avoca Primary School,127.25,24.79,3066,500.0
+199,206-470-smith-street-collingwood-vic-3066-16095724,Ballarat Primary School (Dana Street),804.09,128.63,3066,430.0
+200,47-bedford-street-collingwood-vic-3066-16105364,Belmont Primary School,319.02,76.56,3066,550.0
+201,207g-31-napoleon-street-collingwood-vic-3066-16108865,Belmont Primary School,424.03,92.28,3066,410.0
+202,1-127-cambridge-street-collingwood-vic-3066-16091234,Avoca Primary School,477.63,85.97,3066,900.0
+203,106-35-victoria-parade-collingwood-vic-3066-16093671,Avoca Primary School,216.49,32.46,3066,500.0
+204,207-6-mater-street-collingwood-vic-3066-16091253,Belmont Primary School,865.67,147.39,3066,550.0
+205,3-15-17-bendigo-street-collingwood-vic-3066-16108579,Alberton Primary School,1049.94,172.77,3066,350.0
+206,706-75-wellington-street-collingwood-vic-3066-15210408,Avenel Primary School,244.24,36.43,3066,600.0
+207,11g-21-northumberland-street-collingwood-vic-3066-16110786,Avenel Primary School,266.88,55.45,3066,550.0
+208,303-11-hoddle-street-collingwood-vic-3066-16093268,Avenel Primary School,796.25,104.08,3066,390.0
+209,406-631-victoria-street-abbotsford-vic-3067-16102921,Allansford and District Primary School,651.33,79.28,3067,650.0
+210,722-627-victoria-street-abbotsford-vic-3067-16102907,Avoca Primary School,751.19,104.17,3067,400.0
+211,201a-8-grosvenor-street-abbotsford-vic-3067-16093576,Allansford and District Primary School,844.39,100.1,3067,410.0
+212,112-4-acacia-place-abbotsford-vic-3067-16104805,Allansford and District Primary School,917.87,111.34,3067,795.0
+213,1108-20-shamrock-street-abbotsford-vic-3067-15091677,Allansford and District Primary School,1001.47,137.8,3067,530.0
+214,71-84-trenerry-crescent-abbotsford-vic-3067-16110976,Avenel Primary School,900.16,128.7,3067,550.0
+215,13-trenerry-crescent-abbotsford-vic-3067-14338216,Avoca Primary School,680.66,106.12,3067,1080.0
+216,814-4-acacia-place-abbotsford-vic-3067-16097710,Allansford and District Primary School,917.87,111.34,3067,380.0
+217,6-241-nicholson-street-abbotsford-vic-3067-11018248,Avenel Primary School,789.76,112.96,3067,340.0
+218,12-valiant-street-abbotsford-vic-3067-16098146,Avenel Primary School,734.67,152.2,3067,975.0
+219,608-627-victoria-street-abbotsford-vic-3067-16112055,Avoca Primary School,751.19,104.17,3067,450.0
+220,114-4-acacia-place-abbotsford-vic-3067-16097009,Allansford and District Primary School,917.87,111.34,3067,475.0
+221,c306-11-shamrock-street-abbotsford-vic-3067-16103805,Allansford and District Primary School,970.9,130.46,3067,550.0
+222,478-wellington-street-clifton-hill-vic-3068-16105769,Warrandyte Primary School,336.23,42.93,3068,480.0
+223,304-11-reid-street-fitzroy-north-vic-3068-16098276,Allansford and District Primary School,629.77,110.31,3068,450.0
+224,103-38-nicholson-street-fitzroy-north-vic-3068-16097154,Warrandyte Primary School,361.88,39.74,3068,375.0
+225,48-clifton-avenue-clifton-hill-vic-3068-16092358,Alberton Primary School,924.62,181.46,3068,650.0
+226,108a-queens-parade-fitzroy-north-vic-3068-16113014,Warrandyte Primary School,781.75,113.39,3068,650.0
+227,02-378-st-georges-road-fitzroy-north-vic-3068-16111995,Avoca Primary School,268.23,37.99,3068,450.0
+228,15-queen-street-fitzroy-north-vic-3068-16098797,Belmont Primary School,470.78,84.74,3068,635.0
+229,304-38-nicholson-street-fitzroy-north-vic-3068-16098711,Warrandyte Primary School,361.88,39.74,3068,550.0
+230,g2-26-nicholson-street-fitzroy-north-vic-3068-16108768,Avenel Primary School,270.93,29.16,3068,590.0
+231,45-mckean-street-fitzroy-north-vic-3068-16092855,Warrandyte Primary School,663.22,113.97,3068,550.0
+232,207-2-6-mccutcheon-street-northcote-vic-3070-15874383,Warrandyte Primary School,528.84,65.07,3070,500.0
+233,6-22-french-avenue-northcote-vic-3070-16099680,Alberton Primary School,1337.84,163.62,3070,680.0
+234,8-133-clarke-street-northcote-vic-3070-16091779,Warrandyte Primary School,637.78,95.4,3070,340.0
+235,8-victoria-road-northcote-vic-3070-16093432,Allansford and District Primary School,1103.89,171.43,3070,680.0
+236,9a-spencer-street-northcote-vic-3070-16103679,Avoca Primary School,910.95,127.41,3070,645.0
+237,121-5-beavers-road-northcote-vic-3070-16088994,Warrandyte Primary School,664.42,82.76,3070,485.0
+238,67-clarke-street-northcote-vic-3070-16092703,Avenel Primary School,529.18,66.33,3070,650.0
+239,29-turnball-grove-northcote-vic-3070-16110278,Alberton Primary School,380.62,83.93,3070,610.0
+240,202-2-separation-street-northcote-vic-3070-16099480,Belmont Primary School,269.98,32.74,3070,460.0
+241,2-274-st-georges-road-northcote-vic-3070-16113021,Avoca Primary School,681.72,85.25,3070,570.0
+242,g04-66-waterloo-road-northcote-vic-3070-16108577,Allansford and District Primary School,582.5,139.8,3070,520.0
+243,4-86-normanby-avenue-thornbury-vic-3071-16108540,Alberton Primary School,764.32,106.53,3071,560.0
+244,47-speight-street-thornbury-vic-3071-16094346,Alberton Primary School,307.58,54.08,3071,730.0
+245,13-58-clarendon-street-thornbury-vic-3071-16101018,Alberton Primary School,501.07,85.85,3071,400.0
+246,16-rossmoyne-street-thornbury-vic-3071-16107643,Avenel Primary School,279.85,36.71,3071,670.0
+247,348-gooch-street-thornbury-vic-3071-16099884,Alberton Primary School,1126.45,182.22,3071,700.0
+248,59-comas-grove-thornbury-vic-3071-16108541,Alberton Primary School,955.66,123.24,3071,740.0
+249,3-291-rathmines-street-thornbury-vic-3071-16091151,Belmont Primary School,522.05,90.56,3071,680.0
+250,13-fenwick-street-thornbury-vic-3071-16108011,Allansford and District Primary School,721.01,119.96,3071,630.0
+251,8-52-pender-street-thornbury-vic-3071-16113012,Avoca Primary School,556.7,85.85,3071,260.0
+252,118-normanby-avenue-thornbury-vic-3071-16109205,Avoca Primary School,786.97,104.57,3071,750.0
+253,78-oakover-road-preston-vic-3072-16096755,Allansford and District Primary School,292.55,62.25,3072,1200.0
+254,4-492-plenty-road-preston-vic-3072-16103925,Avoca Primary School,844.95,101.64,3072,500.0
+255,110-raglan-street-preston-vic-3072-16103893,Alberton Primary School,839.95,80.99,3072,595.0
+256,19-122-high-street-preston-vic-3072-16112735,Avenel Primary School,470.61,58.61,3072,450.0
+257,2-123-cheddar-road-reservoir-vic-3073-16106073,Avoca Primary School,511.69,100.58,3073,425.0
+258,10-949-high-street-reservoir-vic-3073-15297144,Alberton Primary School,296.08,67.76,3073,490.0
+259,1-24-charlton-cres-reservoir-vic-3073-16109817,Alberton Primary School,480.54,85.57,3073,425.0
+260,1-125-henty-street-reservoir-vic-3073-16113414,Alberton Primary School,740.12,114.96,3073,450.0
+261,24-6-hensley-road-lalor-vic-3075-16093487,Avoca Primary School,644.88,157.49,3075,450.0
+262,1-150-grange-road-alphington-vic-3078-16099545,Alberton Primary School,1432.92,151.67,3078,320.0
+263,23-palm-street-fairfield-vic-3078-16099457,Alberton Primary School,986.8,162.28,3078,890.0
+264,201-21-mills-boulevard-alphington-vic-3078-16094987,Allansford and District Primary School,1008.81,184.12,3078,540.0
+265,3-43-gillies-street-fairfield-vic-3078-16100715,Warrandyte Primary School,363.51,87.24,3078,290.0
+266,3-91-livingstone-street-ivanhoe-vic-3079-16097930,Warrandyte Primary School,785.75,80.54,3079,365.0
+267,4-74-darebin-st-heidelberg-vic-3084-16113528,Alberton Primary School,572.25,98.83,3084,450.0
+268,level-2-5-9-martin-street-heidelberg-vic-3084-16103734,Allansford and District Primary School,430.63,55.91,3084,440.0
+269,9-182-hawdon-street-heidelberg-vic-3084-16105331,Alberton Primary School,833.05,105.35,3084,670.0
+270,3-1a-wimba-avenue-kew-vic-3101-16100819,Alberton Primary School,619.52,59.55,3101,475.0
+271,202-39-studley-park-rd-kew-vic-3101-16110655,Alberton Primary School,1079.66,167.74,3101,595.0
+272,21-findon-crescent-kew-vic-3101-16113943,Alberton Primary School,1570.73,155.5,3101,1600.0
+273,3-92-brougham-street-kew-vic-3101-16092388,Belmont Primary School,124.45,17.92,3101,1200.0
+274,2-grace-court-kew-vic-3101-16095943,Allansford and District Primary School,1324.91,134.89,3101,920.0
+275,9-39-studley-park-rd-kew-vic-3101-16110655,Alberton Primary School,1079.66,167.74,3101,595.0
+276,1-12-stawell-street-kew-vic-3101-16108050,Warrandyte Primary School,682.21,84.84,3101,700.0
+277,21-high-street-kew-vic-3101-16111438,Avoca Primary School,859.1,100.04,3101,700.0
+278,4-92-brougham-street-kew-vic-3101-16092405,Belmont Primary School,126.8,18.26,3101,1100.0
+279,g09-59-earl-street-kew-vic-3101-14910454,Allansford and District Primary School,1124.98,100.17,3101,395.0
+280,19-asquith-street-kew-vic-3101-16113258,Alberton Primary School,623.56,62.89,3101,720.0
+281,5-33-parkhill-road-kew-vic-3101-16112182,Allansford and District Primary School,1132.46,97.2,3101,650.0
+282,4-15-munro-st-kew-east-vic-3102-16103832,Alberton Primary School,594.61,82.86,3102,550.0
+283,46-elm-grove-kew-east-vic-3102-16099817,Allansford and District Primary School,1182.65,190.21,3102,720.0
+284,6-8-clyde-street-kew-east-vic-3102-16106556,Avoca Primary School,883.64,153.38,3102,400.0
+285,105-18-cadow-street-kew-east-vic-3102-16104932,Avoca Primary School,402.45,96.59,3102,475.0
+286,3-17-munro-st-kew-east-vic-3102-16104263,Alberton Primary School,612.38,85.43,3102,900.0
+287,6-eyre-st-balwyn-vic-3103-16095631,Alberton Primary School,520.46,45.12,3103,1300.0
+288,2-bennett-street-deepdene-vic-3103-16104504,Allansford and District Primary School,489.39,60.62,3103,1175.0
+289,63-monash-ave-balwyn-vic-3103-16111877,Avoca Primary School,936.21,94.07,3103,800.0
+290,101-20-weir-street-balwyn-vic-3103-16106435,Avenel Primary School,642.04,81.82,3103,400.0
+291,128-gordon-street-balwyn-vic-3103-16091813,Alberton Primary School,1009.82,97.82,3103,1100.0
+292,110-182-whitehorse-road-balwyn-vic-3103-15840276,Alberton Primary School,713.31,91.96,3103,360.0
+293,44-elliott-ave-balwyn-vic-3103-16105752,Avenel Primary School,1025.49,111.82,3103,590.0
+294,23-bolinda-road-balwyn-north-vic-3104-16098242,Avenel Primary School,445.17,70.75,3104,600.0
+295,10-208-210-high-street-templestowe-lower-vic-3107-16091613,Alberton Primary School,720.84,61.5,3107,400.0
+296,717-101-tram-road-doncaster-vic-3108-16103524,Alberton Primary School,711.79,123.21,3108,500.0
+297,1-383-serpells-road-doncaster-east-vic-3109-16111336,Alberton Primary School,1006.23,199.82,3109,600.0
+298,21-872-874-doncaster-road-doncaster-east-vic-3109-16093627,Allansford and District Primary School,892.47,76.28,3109,365.0
+299,205-1-redhill-terrace-doncaster-east-vic-3109-16094041,Avenel Primary School,1770.13,242.79,3109,500.0
+300,211-7-red-hill-terrace-doncaster-east-vic-3109-16092464,Avenel Primary School,1843.25,260.33,3109,440.0
+301,50-thea-grove-doncaster-east-vic-3109-16094598,Allansford and District Primary School,760.3,138.5,3109,480.0
+302,2-7-jika-place-richmond-vic-3121-16096685,Avenel Primary School,767.52,107.99,3121,540.0
+303,75-cutter-street-richmond-vic-3121-16105791,Avenel Primary School,1428.63,181.2,3121,750.0
+304,34-abinger-street-richmond-vic-3121-16096038,Bacchus Marsh Primary School,415.02,70.09,3121,500.0
+305,15-gibdon-street-burnley-vic-3121-16105787,Allansford and District Primary School,1820.97,228.35,3121,770.0
+306,104-71-abinger-street-richmond-vic-3121-16096988,Warrandyte Primary School,458.92,71.57,3121,500.0
+307,40-wellington-street-richmond-vic-3121-16094652,Avoca Primary School,833.24,147.24,3121,780.0
+308,6-44-type-street-richmond-vic-3121-16099000,Belmont Primary School,765.49,107.79,3121,330.0
+309,14-lesney-street-richmond-vic-3121-16111270,Alberton Primary School,530.95,81.62,3121,725.0
+310,94-lennox-street-richmond-vic-3121-16113257,Allansford and District Primary School,101.88,10.48,3121,700.0
+311,4-82-buckingham-street-richmond-vic-3121-16109770,Avoca Primary School,438.09,89.89,3121,450.0
+312,158-burnley-street-richmond-vic-3121-13706826,Belmont Primary School,383.71,70.59,3121,825.0
+313,402-77-abinger-street-richmond-vic-3121-16110511,Warrandyte Primary School,473.33,75.03,3121,640.0
+314,308-71-canterbury-street-richmond-vic-3121-14973757,Alberton Primary School,1096.59,174.6,3121,515.0
+315,301-27-dickmann-street-richmond-vic-3121-16112647,Warrandyte Primary School,536.42,63.83,3121,600.0
+316,79-buckingham-street-richmond-vic-3121-16100639,Avoca Primary School,442.61,90.7,3121,850.0
+317,69-brighton-street-richmond-vic-3121-16096202,Alberton Primary School,106.87,25.65,3121,650.0
+318,429-burnley-street-richmond-vic-3121-16100386,Alberton Primary School,1597.32,231.11,3121,925.0
+319,18-park-grove-richmond-vic-3121-16105798,Alberton Primary School,1288.44,240.44,3121,550.0
+320,11-shamrock-street-richmond-vic-3121-16091440,Alberton Primary School,303.38,72.81,3121,695.0
+321,19-canterbury-street-richmond-vic-3121-16096668,Belmont Primary School,984.62,126.93,3121,700.0
+322,2-81-abinger-street-richmond-vic-3121-16099075,Warrandyte Primary School,503.85,86.96,3121,800.0
+323,20-davison-street-richmond-vic-3121-6782699,Allansford and District Primary School,468.74,94.21,3121,550.0
+324,218-71-abinger-street-richmond-vic-3121-16094828,Warrandyte Primary School,458.92,71.57,3121,575.0
+325,304-27-dickmann-street-richmond-vic-3121-16113260,Warrandyte Primary School,536.42,63.83,3121,595.0
+326,5-4-little-buckingham-street-richmond-vic-3121-16099408,Avenel Primary School,661.2,64.72,3121,840.0
+327,5-19-palmer-street-richmond-vic-3121-16098868,Avenel Primary School,352.22,71.8,3121,700.0
+328,57-lincoln-street-richmond-vic-3121-16092170,Avoca Primary School,601.88,126.33,3121,640.0
+329,3-17-moorhouse-street-richmond-vic-3121-13330833,Avenel Primary School,552.07,73.31,3121,650.0
+330,16-2a-brougham-street-richmond-vic-3121-16094696,Bacchus Marsh Primary School,145.37,27.32,3121,420.0
+331,75-neptune-street-richmond-vic-3121-16110194,Avenel Primary School,841.55,137.17,3121,650.0
+332,73-fraser-street-richmond-vic-3121-16091575,Avenel Primary School,781.09,97.69,3121,645.0
+333,57-lord-st-richmond-vic-3121-16112934,Warrandyte Primary School,634.21,113.64,3121,1300.0
+334,98a-stawell-street-richmond-vic-3121-16104417,Warrandyte Primary School,1215.54,170.16,3121,525.0
+335,6-183-coppin-street-richmond-vic-3121-16105773,Avenel Primary School,848.54,92.55,3121,340.0
+336,5-lightfoot-street-richmond-vic-3121-10274422,Warrandyte Primary School,780.69,123.22,3121,650.0
+337,13a-laity-street-richmond-vic-3121-16099660,Alberton Primary School,709.87,109.56,3121,1200.0
+338,3-52-baker-street-richmond-vic-3121-16098254,Avoca Primary School,668.62,141.92,3121,400.0
+339,46-73-river-street-richmond-vic-3121-16094613,Avoca Primary School,547.79,62.98,3121,425.0
+340,607-253-bridge-road-richmond-vic-3121-16100906,Bacchus Marsh Primary School,487.62,64.49,3121,420.0
+341,12-murray-street-richmond-vic-3121-16103776,Warrandyte Primary School,676.45,119.99,3121,640.0
+342,21-dover-street-richmond-vic-3121-16103850,Alberton Primary School,1184.18,173.13,3121,650.0
+343,17-6-adam-street-richmond-vic-3121-16100713,Alberton Primary School,1662.8,232.9,3121,325.0
+344,g01-8-carroll-street-richmond-vic-3121-16105144,Bacchus Marsh Primary School,661.84,96.06,3121,465.0
+345,4-3-finchley-court-hawthorn-vic-3122-16104849,Avoca Primary School,268.35,38.54,3122,450.0
+346,109-39-riversdale-road-hawthorn-vic-3122-16109227,Belmont Primary School,354.18,47.65,3122,600.0
+347,6-33-grove-rd-hawthorn-vic-3122-16094567,Avoca Primary School,707.03,101.0,3122,430.0
+348,13-23-power-street-hawthorn-vic-3122-16092614,Avoca Primary School,513.02,66.13,3122,325.0
+349,8-1b-kinkora-road-hawthorn-vic-3122-16104258,Avoca Primary School,645.0,82.03,3122,380.0
+350,16-197-auburn-road-hawthorn-vic-3122-16109889,Allansford and District Primary School,673.96,52.38,3122,350.0
+351,34-589-glenferrie-road-hawthorn-vic-3122-16094937,Alberton Primary School,161.64,18.63,3122,265.0
+352,3-197-auburn-road-hawthorn-vic-3122-16096743,Allansford and District Primary School,673.96,52.38,3122,310.0
+353,9-312-316-barkers-road-hawthorn-vic-3122-16109610,Warrandyte Primary School,527.61,61.83,3122,725.0
+354,10-edlington-street-hawthorn-vic-3122-16113945,Avoca Primary School,530.13,42.66,3122,800.0
+355,5-selbourne-street-hawthorn-vic-3122-16100969,Avoca Primary School,515.63,102.62,3122,715.0
+356,304-708-burwood-rd-hawthorn-vic-3122-16096604,Avoca Primary School,879.25,72.52,3122,650.0
+357,103-567-569-glenferrie-road-hawthorn-vic-3122-16108509,Avoca Primary School,30.21,2.17,3122,525.0
+358,10-henrietta-st-hawthorn-vic-3122-16094383,Avoca Primary School,231.89,23.63,3122,900.0
+359,104-77-riversdale-road-hawthorn-vic-3122-16100086,Avoca Primary School,371.73,26.76,3122,1175.0
+360,18-112-riversdale-road-hawthorn-vic-3122-16108055,Avoca Primary School,438.05,31.54,3122,350.0
+361,5-56-58-burwood-road-hawthorn-vic-3122-16096828,Warrandyte Primary School,372.24,47.65,3122,375.0
+362,4-32-power-street-hawthorn-vic-3122-16103495,Avoca Primary School,715.76,113.09,3122,350.0
+363,7-connell-street-hawthorn-vic-3122-16112571,Alberton Primary School,635.48,88.04,3122,895.0
+364,13-112-riversdale-road-hawthorn-vic-3122-16106515,Avoca Primary School,438.05,31.54,3122,460.0
+365,2-70-power-street-hawthorn-vic-3122-16075968,Belmont Primary School,553.78,75.19,3122,470.0
+366,20-523-burwood-road-hawthorn-vic-3122-16103788,Avoca Primary School,45.87,3.3,3122,550.0
+367,2-31-33-caroline-street-hawthorn-east-vic-3123-16109612,Avoca Primary School,868.15,102.86,3123,370.0
+368,209-8-montrose-street-hawthorn-east-vic-3123-16109618,Allansford and District Primary School,560.06,53.51,3123,400.0
+369,107-35-camberwell-road-hawthorn-east-vic-3123-16104010,Belmont Primary School,782.48,90.25,3123,625.0
+370,2-119-victoria-road-hawthorn-east-vic-3123-16091571,Allansford and District Primary School,583.68,77.05,3123,390.0
+371,11-115-victoria-rd-hawthorn-east-vic-3123-16099268,Alberton Primary School,678.77,89.25,3123,310.0
+372,12-2-freeman-street-hawthorn-east-vic-3123-16099575,Alberton Primary School,401.69,80.67,3123,275.0
+373,23-11-auburn-gr-hawthorn-east-vic-3123-16106129,Allansford and District Primary School,685.48,62.4,3123,420.0
+374,2-21-munro-st-hawthorn-east-vic-3123-16108516,Avoca Primary School,850.75,106.67,3123,425.0
+375,33-broomfield-road-hawthorn-east-vic-3123-16098753,Avenel Primary School,1278.05,113.95,3123,1000.0
+376,304-708-burwood-rd-hawthorn-east-vic-3123-16096604,Avoca Primary School,879.25,72.52,3123,650.0
+377,8-1091-burke-road-hawthorn-east-vic-3123-16096688,Belmont Primary School,19.51,2.01,3123,370.0
+378,26-hastings-road-hawthorn-east-vic-3123-16107338,Warrandyte Primary School,477.88,57.03,3123,810.0
+379,6-30-munro-st-hawthorn-east-vic-3123-16112646,Avenel Primary School,759.85,76.87,3123,495.0
+380,ug05c-55-camberwell-road-hawthorn-east-vic-3123-16065863,Belmont Primary School,685.86,82.52,3123,615.0
+381,1-3-crescent-road-camberwell-vic-3124-16096867,Alberton Primary School,640.92,88.64,3124,495.0
+382,3-aisbett-ave-camberwell-vic-3124-16109108,Allansford and District Primary School,570.16,67.89,3124,700.0
+383,9-pine-camberwell-vic-3124-16112483,Alberton Primary School,1327.06,170.11,3124,1150.0
+384,14-thomas-st-camberwell-vic-3124-16106434,Alberton Primary School,203.87,22.26,3124,1600.0
+385,g02-555-burke-road-camberwell-vic-3124-16095744,Allansford and District Primary School,1119.47,89.03,3124,650.0
+386,3-4-spencer-road-camberwell-vic-3124-16091161,Alberton Primary School,393.62,46.32,3124,465.0
+387,301-1150-toorak-road-camberwell-vic-3124-16100175,Alberton Primary School,763.61,99.83,3124,450.0
+388,24-prospect-hill-road-camberwell-vic-3124-16092042,Alberton Primary School,759.71,114.2,3124,1100.0
+389,4-gilmour-road-camberwell-vic-3124-16106772,Alberton Primary School,819.83,92.61,3124,900.0
+390,4-105-wattle-valley-road-camberwell-vic-3124-16105634,Warrandyte Primary School,340.95,28.82,3124,395.0
+391,43-cochrane-avenue-camberwell-vic-3124-16109593,Allansford and District Primary School,1186.16,107.26,3124,1250.0
+392,54-athelstan-road-camberwell-vic-3124-16104500,Alberton Primary School,587.53,87.54,3124,975.0
+393,4-11-allambee-avenue-camberwell-vic-3124-16100759,Warrandyte Primary School,850.89,90.53,3124,530.0
+394,568-camberwell-road-camberwell-vic-3124-16098540,Alberton Primary School,1340.06,125.06,3124,550.0
+395,2-14-rowell-avenue-camberwell-vic-3124-16097609,Alberton Primary School,727.81,105.66,3124,600.0
+396,27-ellsworth-crescent-camberwell-vic-3124-16093229,Avoca Primary School,1012.03,218.82,3124,810.0
+397,202-555-burke-road-camberwell-vic-3124-16109562,Allansford and District Primary School,1119.47,89.03,3124,680.0
+398,1a-monica-street-burwood-vic-3125-16097697,Allansford and District Primary School,735.05,144.43,3125,730.0
+399,2e-hopetoun-avenue-canterbury-vic-3126-16099464,Avenel Primary School,1006.39,120.44,3126,750.0
+400,78-wattle-valley-rd-canterbury-vic-3126-16109321,Alberton Primary School,314.77,34.34,3126,1100.0
+401,31-rubens-grove-canterbury-vic-3126-16112358,Avenel Primary School,266.25,37.66,3126,1400.0
+402,12-kennealy-st-surrey-hills-vic-3127-16112779,Alberton Primary School,1009.05,139.17,3127,1500.0
+403,3-34-durham-road-surrey-hills-vic-3127-16103162,Alberton Primary School,958.57,120.78,3127,395.0
+404,206-801-whitehorse-road-mont-albert-vic-3127-16107016,Alberton Primary School,1074.16,123.71,3127,550.0
+405,1-969-riversdale-road-surrey-hills-vic-3127-16099850,Alberton Primary School,807.45,69.38,3127,500.0
+406,3-1-nangnak-lane-mont-albert-vic-3127-16105157,Allansford and District Primary School,1086.6,132.71,3127,640.0
+407,201-43-zetland-road-mont-albert-vic-3127-16092749,Alberton Primary School,1299.6,165.02,3127,730.0
+408,g02-178-union-rd-surrey-hills-vic-3127-16103762,Avenel Primary School,341.09,24.56,3127,390.0
+409,937-riversdale-road-surrey-hills-vic-3127-16095527,Allansford and District Primary School,1089.94,94.8,3127,550.0
+410,4-13-blackburn-street-surrey-hills-vic-3127-16109055,Avenel Primary School,188.81,20.7,3127,430.0
+411,8-27-oxford-street-box-hill-vic-3128-16098733,Alberton Primary School,1645.82,183.74,3128,580.0
+412,205-6-8-wellington-road-box-hill-vic-3128-16110292,Alberton Primary School,1295.97,219.6,3128,400.0
+413,1-52-medway-street-box-hill-vic-3128-16112906,Avoca Primary School,1298.78,141.74,3128,370.0
+414,88-surrey-road-blackburn-north-vic-3130-16112949,Allansford and District Primary School,710.88,88.98,3130,600.0
+415,2-11-barrina-street-blackburn-south-vic-3130-16107646,Allansford and District Primary School,1089.16,173.07,3130,750.0
+416,2-8-rupert-street-mitcham-vic-3132-16113687,Alberton Primary School,1198.94,109.49,3132,360.0
+417,229b-1-19-colombo-street-mitcham-vic-3132-16106908,Allansford and District Primary School,352.4,38.85,3132,330.0
+418,2-ritz-street-vermont-south-vic-3133-15960853,Allansford and District Primary School,509.64,96.18,3133,520.0
+419,3-20-24-dublin-road-ringwood-east-vic-3135-16112504,Avoca Primary School,2135.77,273.04,3135,425.0
+420,505-79-river-street-south-yarra-vic-3141-16108010,Avoca Primary School,146.63,25.67,3141,470.0
+421,1205-77-river-street-south-yarra-vic-3141-14520896,Avoca Primary School,81.54,13.59,3141,540.0
+422,3-1-alexandra-avenue-south-yarra-vic-3141-16103763,Alberton Primary School,413.9,59.49,3141,875.0
+423,1101-77-river-street-south-yarra-vic-3141-15537769,Avoca Primary School,81.54,13.59,3141,540.0
+424,4-peter-st-south-yarra-vic-3141-16111285,Alberton Primary School,406.83,49.63,3141,1150.0
+425,4-35-marne-street-south-yarra-vic-3141-16103633,Avoca Primary School,571.06,86.8,3141,700.0
+426,2-64-park-street-south-yarra-vic-3141-16093045,Avoca Primary School,691.36,106.47,3141,690.0
+427,504-649-chapel-street-south-yarra-vic-3141-16097235,Avoca Primary School,59.75,10.23,3141,650.0
+428,510-77-river-street-south-yarra-vic-3141-16093296,Avoca Primary School,81.54,13.59,3141,395.0
+429,4-26-davis-avenue-south-yarra-vic-3141-16111137,Alberton Primary School,531.02,84.57,3141,375.0
+430,2-1-alexandra-avenue-south-yarra-vic-3141-16106940,Alberton Primary School,413.9,59.49,3141,950.0
+431,21-palermo-street-south-yarra-vic-3141-16099286,Allansford and District Primary School,509.17,82.45,3141,450.0
+432,62-hawksburn-road-south-yarra-vic-3141-16109344,Avoca Primary School,799.05,117.62,3141,1200.0
+433,unit-1607-50-claremont-st-south-yarra-vic-3141-16111948,Avoca Primary School,988.67,127.82,3141,580.0
+434,unit-901-50-claremont-st-south-yarra-vic-3141-16098894,Avoca Primary School,988.67,127.82,3141,365.0
+435,1008-2-claremont-street-south-yarra-vic-3141-14225672,Avoca Primary School,746.13,90.93,3141,630.0
+436,4-470-punt-road-south-yarra-vic-3141-16111404,Avoca Primary School,540.79,65.73,3141,430.0
+437,106-471-malvern-road-south-yarra-vic-3141-16099095,Avenel Primary School,1050.48,127.89,3141,425.0
+438,402-1-chapel-mews-south-yarra-vic-3141-16108066,Allansford and District Primary School,269.05,30.86,3141,680.0
+439,2-31-howitt-street-south-yarra-vic-3141-16109026,Avoca Primary School,1175.59,161.54,3141,320.0
+440,1212-35-malcolm-street-south-yarra-vic-3141-16104529,Avoca Primary School,162.26,25.21,3141,500.0
+441,1311-18-claremont-street-south-yarra-vic-3141-16106506,Avoca Primary School,1126.34,152.6,3141,620.0
+442,24-43-caroline-street-south-yarra-vic-3141-16105251,Avoca Primary School,405.18,65.48,3141,395.0
+443,709-12-14-claremont-street-south-yarra-vic-3141-16098801,Avoca Primary School,1165.91,159.73,3141,410.0
+444,1601-7-claremont-street-south-yarra-vic-3141-15452608,Avoca Primary School,1192.89,164.58,3141,630.0
+445,2-116-anderson-street-south-yarra-vic-3141-16100924,Allansford and District Primary School,168.63,22.4,3141,1150.0
+446,9-21-rockley-road-south-yarra-vic-3141-16109121,Avoca Primary School,726.42,104.61,3141,400.0
+447,22-399-toorak-rd-south-yarra-vic-3141-16103168,Avoca Primary School,837.53,104.89,3141,900.0
+448,203-5-7-wilson-street-south-yarra-vic-3141-15197334,Alberton Primary School,827.98,86.17,3141,450.0
+449,1215-7-claremont-street-south-yarra-vic-3141-16108496,Avoca Primary School,1192.89,164.58,3141,550.0
+450,1305-45-claremont-street-south-yarra-vic-3141-16097070,Avoca Primary School,954.56,124.58,3141,430.0
+451,5-90-toorak-road-west-south-yarra-vic-3141-16096683,Avoca Primary School,629.95,71.29,3141,360.0
+452,16-174-toorak-road-west-south-yarra-vic-3141-16097614,Avoca Primary School,246.86,37.41,3141,350.0
+453,1-16-18-millswyn-street-south-yarra-vic-3141-16104898,Warrandyte Primary School,672.01,90.75,3141,475.0
+454,2-55-avoca-street-south-yarra-vic-3141-16103349,Avenel Primary School,671.7,104.2,3141,630.0
+455,14-acland-street-south-yarra-vic-3141-16100335,Avoca Primary School,327.93,46.71,3141,1400.0
+456,1-16-darling-street-south-yarra-vic-3141-16100628,Avenel Primary School,764.59,89.64,3141,410.0
+457,7-2a-burnie-street-toorak-vic-3142-16108212,Alberton Primary School,2104.84,280.79,3142,400.0
+458,1-791-malvern-road-toorak-vic-3142-16098134,Allansford and District Primary School,561.42,54.32,3142,475.0
+459,2-424-toorak-road-toorak-vic-3142-16103422,Alberton Primary School,1381.24,133.18,3142,550.0
+460,2-12-chastleton-avenue-toorak-vic-3142-16111165,Alberton Primary School,1363.75,226.46,3142,460.0
+461,5-256-williams-road-toorak-vic-3142-16098967,Avenel Primary School,1129.63,128.92,3142,435.0
+462,685-orrong-rd-toorak-vic-3142-16111493,Allansford and District Primary School,687.1,57.65,3142,1800.0
+463,7-burnie-street-toorak-vic-3142-16105562,Alberton Primary School,2167.05,295.72,3142,865.0
+464,21-425-toorak-road-toorak-vic-3142-16113469,Avoca Primary School,1334.26,181.84,3142,600.0
+465,4-24-lascelles-avenue-toorak-vic-3142-16111381,Alberton Primary School,1261.2,120.53,3142,875.0
+466,17a-clendon-road-toorak-vic-3142-16105569,Warrandyte Primary School,199.16,33.74,3142,1370.0
+467,66-albany-road-toorak-vic-3142-16109249,Avoca Primary School,774.85,138.25,3142,770.0
+468,11-mell-street-toorak-vic-3142-16096375,Allansford and District Primary School,1045.35,161.9,3142,950.0
+469,3-20-tintern-avenue-toorak-vic-3142-16096159,Avoca Primary School,1178.72,161.44,3142,690.0
+470,24-723-orrong-road-toorak-vic-3142-16109865,Alberton Primary School,1167.87,107.92,3142,670.0
+471,4-mandeville-crescent-toorak-vic-3142-16099272,Avenel Primary School,67.31,15.03,3142,840.0
+472,13-7-sutherland-road-armadale-vic-3143-16113177,Avenel Primary School,895.93,120.8,3143,430.0
+473,1-25-rose-street-armadale-vic-3143-10042843,Alberton Primary School,310.83,74.59,3143,560.0
+474,102-8a-evergreen-mews-armadale-vic-3143-16098928,Avoca Primary School,511.22,74.04,3143,800.0
+475,49-northcote-road-armadale-vic-3143-16097996,Alberton Primary School,197.51,47.4,3143,950.0
+476,74-sutherland-road-armadale-vic-3143-16092668,Avoca Primary School,1059.44,137.44,3143,1500.0
+477,9-62-wattletree-road-armadale-vic-3143-16091210,Avoca Primary School,1280.43,200.33,3143,650.0
+478,6-507-dandenong-road-armadale-vic-3143-16098888,Alberton Primary School,1725.97,131.74,3143,550.0
+479,7-1-duncraig-avenue-armadale-vic-3143-16107324,Warrandyte Primary School,965.14,170.56,3143,410.0
+480,303-960-high-street-armadale-vic-3143-16100725,Alberton Primary School,715.45,78.32,3143,850.0
+481,16-2-armadale-street-armadale-vic-3143-16092266,Avenel Primary School,1034.92,132.96,3143,350.0
+482,17-29-kooyong-road-armadale-vic-3143-16109622,Alberton Primary School,1256.29,126.01,3143,300.0
+483,8-18-mercer-road-armadale-vic-3143-16098674,Avenel Primary School,788.06,120.01,3143,530.0
+484,19-60-wattletree-road-armadale-vic-3143-16109919,Alberton Primary School,1442.9,145.36,3143,825.0
+485,604-8c-evergreen-mews-armadale-vic-3143-15223873,Avoca Primary School,511.22,74.04,3143,690.0
+486,9-164-wattletree-road-malvern-vic-3144-16100352,Warrandyte Primary School,891.14,148.79,3144,310.0
+487,1e-wilmot-street-malvern-vic-3144-16095645,Avenel Primary School,1253.06,112.61,3144,700.0
+488,g03-1271-1273-high-street-malvern-vic-3144-16109656,Avoca Primary School,117.92,12.13,3144,800.0
+489,7-36-johnstone-street-malvern-vic-3144-16104691,Alberton Primary School,817.13,91.78,3144,350.0
+490,6-164-wattletree-road-malvern-vic-3144-16100356,Warrandyte Primary School,891.14,148.79,3144,285.0
+491,2-445-glenferrie-road-malvern-vic-3144-16109767,Alberton Primary School,1452.84,122.24,3144,800.0
+492,10-1231-malvern-road-malvern-vic-3144-16097026,Alberton Primary School,492.42,109.91,3144,575.0
+493,8-260-wattletree-road-malvern-vic-3144-16098780,Allansford and District Primary School,868.58,69.44,3144,375.0
+494,314-14-elizabeth-street-malvern-vic-3144-16110243,Alberton Primary School,1010.42,169.38,3144,650.0
+495,305-1200-high-street-malvern-vic-3144-15192944,Avenel Primary School,577.44,76.05,3144,450.0
+496,22-ethel-street-malvern-vic-3144-16099895,Alberton Primary School,1140.47,205.4,3144,1600.0
+497,10-2-4-baker-street-malvern-east-vic-3145-16103677,Avenel Primary School,556.14,47.7,3145,450.0
+498,211-2a-clarence-street-malvern-east-vic-3145-16106072,Alberton Primary School,623.74,69.79,3145,350.0
+499,5-23-camira-street-malvern-east-vic-3145-15363345,Alberton Primary School,989.4,125.65,3145,300.0
+500,27-pepperell-lane-malvern-east-vic-3145-16109184,Avoca Primary School,161.5,16.24,3145,780.0
+501,1855-malvern-road-malvern-east-vic-3145-16103632,Avoca Primary School,813.82,128.93,3145,1700.0
+502,726-warrigal-road-malvern-east-vic-3145-16092294,Allansford and District Primary School,1131.82,152.64,3145,710.0
+503,402-2a-clarence-street-malvern-east-vic-3145-16095778,Alberton Primary School,623.74,69.79,3145,350.0
+504,101-1443-dandenong-road-malvern-east-vic-3145-16113756,Alberton Primary School,384.15,57.7,3145,495.0
+505,31-moama-road-malvern-east-vic-3145-16092594,Avoca Primary School,612.78,90.94,3145,995.0
+506,2-4-prior-rd-malvern-east-vic-3145-16096071,Alberton Primary School,782.22,100.56,3145,620.0
+507,3-60-serrell-st-malvern-east-vic-3145-16107329,Avenel Primary School,764.04,101.94,3145,630.0
+508,15-2a-bates-street-malvern-east-vic-3145-16108936,Avoca Primary School,1070.47,161.21,3145,275.0
+509,4-5-winton-road-malvern-east-vic-3145-16103745,Allansford and District Primary School,703.89,93.82,3145,520.0
+510,6-1403-dandenong-road-malvern-east-vic-3145-16094655,Alberton Primary School,689.43,85.74,3145,350.0
+511,10-798-warrigal-road-malvern-east-vic-3145-16103154,Alberton Primary School,803.47,99.61,3145,360.0
+512,62-queens-avenue-caulfield-east-vic-3145-16104907,Allansford and District Primary School,970.17,93.24,3145,495.0
+513,2-413a-waverley-road-malvern-east-vic-3145-16112451,Avoca Primary School,844.58,86.86,3145,410.0
+514,12-abbotsford-avenue-malvern-east-vic-3145-16092573,Allansford and District Primary School,25.91,4.66,3145,895.0
+515,12-786-warrigal-road-malvern-east-vic-3145-16105663,Alberton Primary School,702.56,91.54,3145,360.0
+516,27-clynden-avenue-malvern-east-vic-3145-16105966,Warrandyte Primary School,846.37,82.17,3145,420.0
+517,4-65-paxton-street-malvern-east-vic-3145-16108869,Warrandyte Primary School,804.84,72.98,3145,420.0
+518,10-299-burke-road-glen-iris-vic-3146-16103519,Avoca Primary School,618.51,95.92,3146,310.0
+519,28-somerset-road-glen-iris-vic-3146-16108831,Allansford and District Primary School,1211.55,169.99,3146,480.0
+520,17-watson-street-glen-iris-vic-3146-16104587,Alberton Primary School,1393.81,120.21,3146,550.0
+521,5-68-edgar-street-north-glen-iris-vic-3146-16105927,Allansford and District Primary School,1305.14,203.35,3146,400.0
+522,4-16-wills-street-glen-iris-vic-3146-16111457,Avenel Primary School,870.49,130.02,3146,550.0
+523,385-burke-road-glen-iris-vic-3146-16096642,Avoca Primary School,977.05,141.96,3146,600.0
+524,144-high-st-glen-iris-vic-3146-16092883,Avoca Primary School,673.72,76.67,3146,670.0
+525,4-1458-high-street-glen-iris-vic-3146-16103489,Alberton Primary School,954.59,139.65,3146,1550.0
+526,15-4-wills-street-glen-iris-vic-3146-16098084,Avenel Primary School,965.9,147.2,3146,380.0
+527,4-17-hope-street-glen-iris-vic-3146-16110227,Avoca Primary School,314.21,35.67,3146,450.0
+528,2-26-may-park-avenue-ashwood-vic-3147-16112429,Avoca Primary School,831.76,119.7,3147,630.0
+529,102-4-yertchuk-avenue-ashwood-vic-3147-16095641,Allansford and District Primary School,140.31,33.67,3147,495.0
+530,10-katta-court-ashwood-vic-3147-16092329,Allansford and District Primary School,1091.18,118.06,3147,560.0
+531,33-carramar-street-chadstone-vic-3148-16096061,Allansford and District Primary School,55.13,13.23,3148,650.0
+532,2-16-thurloo-street-chadstone-vic-3148-16096767,Allansford and District Primary School,800.6,147.31,3148,650.0
+533,2-23-amaroo-street-chadstone-vic-3148-15802799,Allansford and District Primary School,395.31,82.34,3148,525.0
+534,404-70-batesford-road-chadstone-vic-3148-16094741,Allansford and District Primary School,1110.82,169.73,3148,390.0
+535,10-303-305-huntingdale-road-chadstone-vic-3148-16099550,Allansford and District Primary School,1235.68,167.75,3148,395.0
+536,2-103-waverley-road-chadstone-vic-3148-16098229,Alberton Primary School,125.4,13.93,3148,560.0
+537,1-20-carramar-street-chadstone-vic-3148-16100769,Allansford and District Primary School,221.8,53.23,3148,600.0
+538,2-14-hiscock-street-chadstone-vic-3148-15363745,Alberton Primary School,367.38,56.35,3148,650.0
+539,3-kingsley-grove-mount-waverley-vic-3149-16098328,Allansford and District Primary School,1952.31,212.46,3149,650.0
+540,6-hillside-road-mount-waverley-vic-3149-16099260,Warrandyte Primary School,544.56,46.54,3149,580.0
+541,111-436-442-huntingdale-road-mount-waverley-vic-3149-16105315,Allansford and District Primary School,931.93,83.4,3149,370.0
+542,1b-laura-grove-mount-waverley-vic-3149-16096160,Avoca Primary School,453.17,68.33,3149,695.0
+543,3-112-114-huntingdale-road-mount-waverley-vic-3149-14880327,Alberton Primary School,553.51,95.29,3149,400.0
+544,49-pascall-street-mount-waverley-vic-3149-16095717,Avoca Primary School,886.99,142.35,3149,860.0
+545,8-pindari-drive-bayswater-vic-3153-16113044,Allansford and District Primary School,764.27,120.18,3153,535.0
+546,201-6-station-st-caulfield-north-vic-3161-16108638,Allansford and District Primary School,547.69,53.25,3161,580.0
+547,6-11-kooyong-road-caulfield-north-vic-3161-16035335,Alberton Primary School,1156.46,113.95,3161,375.0
+548,37a-bambra-road-caulfield-north-vic-3161-16098329,Avoca Primary School,730.82,61.22,3161,640.0
+549,7-norwood-rd-caulfield-north-vic-3161-16111976,Avoca Primary School,441.1,61.22,3161,600.0
+550,2-309-hawthorn-road-caulfield-north-vic-3161-16110754,Alberton Primary School,799.81,78.54,3161,700.0
+551,2-27-leaburn-avenue-caulfield-north-vic-3161-16099564,Alberton Primary School,596.36,48.43,3161,1200.0
+552,1-41-kooyong-rd-caulfield-north-vic-3161-16113276,Alberton Primary School,784.44,84.19,3161,720.0
+553,3-54-kooyong-road-caulfield-north-vic-3161-16104819,Alberton Primary School,807.83,89.61,3161,550.0
+554,7-94-eskdale-rd-caulfield-north-vic-3161-16111066,Allansford and District Primary School,732.56,89.1,3161,320.0
+555,207-6-station-st-caulfield-north-vic-3161-16108569,Allansford and District Primary School,547.69,53.25,3161,480.0
+556,6-374-dandenong-road-caulfield-north-vic-3161-16111921,Avoca Primary School,302.02,29.18,3161,575.0
+557,3-31-wanda-road-caulfield-north-vic-3161-15230423,Alberton Primary School,1141.73,111.59,3161,375.0
+558,station-street-caulfield-north-vic-3161-16094214,Allansford and District Primary School,711.78,66.38,3161,495.0
+559,10-113-eskdale-road-caulfield-north-vic-3161-16112117,Allansford and District Primary School,615.69,74.53,3161,320.0
+560,station-street-caulfield-north-vic-3161-16094221,Allansford and District Primary School,711.78,66.38,3161,640.0
+561,2-55-wanda-rd-caulfield-north-vic-3161-16093913,Alberton Primary School,995.32,118.38,3161,700.0
+562,108-67-77-hawthorn-road-caulfield-north-vic-3161-16113540,Alberton Primary School,352.63,23.08,3161,520.0
+563,3-681-inkerman-road-caulfield-north-vic-3161-16107828,Alberton Primary School,694.53,45.91,3161,460.0
+564,6-labassa-grove-caulfield-north-vic-3161-16110340,Alberton Primary School,1019.71,68.2,3161,625.0
+565,16-york-street-caulfield-south-vic-3162-16112581,Avoca Primary School,459.16,110.19,3162,650.0
+566,201-136-murray-street-caulfield-vic-3162-10136316,Allansford and District Primary School,456.49,59.34,3162,430.0
+567,5-1011-glen-huntly-road-caulfield-vic-3162-16111675,Allansford and District Primary School,702.11,67.14,3162,440.0
+568,43-bent-st-caulfield-south-vic-3162-16093981,Alberton Primary School,319.57,61.56,3162,1200.0
+569,2-276-hawthorn-road-caulfield-vic-3162-16097784,Alberton Primary School,782.45,77.4,3162,485.0
+570,5-120-murray-street-caulfield-vic-3162-16098698,Alberton Primary School,591.6,93.05,3162,525.0
+571,107-15-bond-street-caulfield-vic-3162-15367271,Allansford and District Primary School,514.39,52.06,3162,450.0
+572,3-1-freeman-street-caulfield-vic-3162-16092052,Avenel Primary School,585.61,68.46,3162,1100.0
+573,3-1-frederick-street-caulfield-south-vic-3162-16106461,Belmont Primary School,303.57,33.58,3162,495.0
+574,1a-marriott-street-caulfield-vic-3162-16103818,Warrandyte Primary School,1003.65,80.0,3162,910.0
+575,1-142-booran-road-caulfield-south-vic-3162-16107934,Avoca Primary School,700.37,71.54,3162,575.0
+576,11-8-tattenham-street-caulfield-vic-3162-16110783,Avoca Primary School,718.92,69.91,3162,330.0
+577,20-sycamore-street-caulfield-south-vic-3162-16111960,Alberton Primary School,546.2,123.3,3162,895.0
+578,3-4-beverley-street-glen-huntly-vic-3163-16109544,Avoca Primary School,864.07,126.43,3163,450.0
+579,6-18-bute-st-murrumbeena-vic-3163-16112065,Allansford and District Primary School,1524.23,181.52,3163,290.0
+580,6-1204-glen-huntly-road-glen-huntly-vic-3163-16110831,Avoca Primary School,486.18,52.51,3163,480.0
+581,5-9-rosstown-road-carnegie-vic-3163-16110849,Alberton Primary School,975.18,166.38,3163,310.0
+582,5-12a-toward-street-murrumbeena-vic-3163-16099704,Alberton Primary School,1255.32,178.96,3163,295.0
+583,3-3-mackay-ave-carnegie-vic-3163-16098646,Avenel Primary School,467.05,57.6,3163,460.0
+584,1-204-neerim-road-carnegie-vic-3163-15580163,Avoca Primary School,293.61,26.94,3163,295.0
+585,6-45-coorigil-road-carnegie-vic-3163-16091052,Alberton Primary School,911.55,91.45,3163,290.0
+586,7-15-rosedale-avenue-glen-huntly-vic-3163-16095521,Alberton Primary School,452.28,47.14,3163,400.0
+587,3-10-adelaide-street-murrumbeena-vic-3163-16109631,Alberton Primary School,277.4,53.91,3163,300.0
+588,2-67-moonya-rd-carnegie-vic-3163-16098026,Allansford and District Primary School,784.77,85.88,3163,320.0
+589,82-115-neerim-road-glen-huntly-vic-3163-16095621,Allansford and District Primary School,467.04,49.21,3163,350.0
+590,10-5-wilson-street-murrumbeena-vic-3163-16104133,Alberton Primary School,640.46,123.8,3163,230.0
+591,1140-dandenong-rd-carnegie-vic-3163-16097320,Allansford and District Primary School,1249.71,153.99,3163,510.0
+592,6-20-gerald-st-murrumbeena-vic-3163-16097327,Allansford and District Primary School,1606.01,201.15,3163,350.0
+593,22b-park-ave-glen-huntly-vic-3163-16094731,Allansford and District Primary School,298.63,23.89,3163,780.0
+594,4-16-toward-street-murrumbeena-vic-3163-16094879,Allansford and District Primary School,1543.89,170.95,3163,425.0
+595,209-3-elliott-ave-carnegie-vic-3163-16097314,Alberton Primary School,885.67,109.04,3163,580.0
+596,2-109-grange-road-glen-huntly-vic-3163-16091489,Avenel Primary School,349.96,35.53,3163,265.0
+597,1-velra-ave-murrumbeena-vic-3163-16091106,Alberton Primary School,687.58,78.27,3163,750.0
+598,14-13-rosedale-ave-glen-huntly-vic-3163-16103695,Alberton Primary School,503.64,56.38,3163,285.0
+599,3-25-shepparson-avenue-carnegie-vic-3163-16094973,Alberton Primary School,676.28,85.9,3163,340.0
+600,257-koornang-road-carnegie-vic-3163-16108611,Alberton Primary School,694.14,60.06,3163,670.0
+601,28-lyons-street-carnegie-vic-3163-16096310,Allansford and District Primary School,369.96,39.38,3163,700.0
+602,203-1298-glen-huntly-road-carnegie-vic-3163-16106830,Alberton Primary School,271.47,23.27,3163,495.0
+603,2-17-railway-parade-murrumbeena-vic-3163-16109008,Alberton Primary School,1089.71,154.21,3163,360.0
+604,19-160-grange-road-carnegie-vic-3163-16092925,Allansford and District Primary School,167.23,22.41,3163,280.0
+605,3-29-mernda-ave-carnegie-vic-3163-16103178,Allansford and District Primary School,760.88,97.7,3163,330.0
+606,1-15-melbourne-street-murrumbeena-vic-3163-16103337,Alberton Primary School,846.09,111.46,3163,500.0
+607,3-brisbane-street-murrumbeena-vic-3163-16099765,Alberton Primary School,71.89,10.09,3163,495.0
+608,12-24-dunoon-street-murrumbeena-vic-3163-16110351,Allansford and District Primary School,1258.79,131.96,3163,330.0
+609,1-45-neville-st-bentleigh-east-vic-3165-16095004,Avenel Primary School,975.55,120.65,3165,650.0
+610,1-bethwyn-street-bentleigh-east-vic-3165-16103205,Allansford and District Primary School,925.26,84.59,3165,495.0
+611,1-kadir-street-bentleigh-east-vic-3165-16110561,Alberton Primary School,782.67,97.66,3165,420.0
+612,310-24-becket-avenue-bentleigh-east-vic-3165-16098565,Avoca Primary School,1253.7,122.56,3165,360.0
+613,3-54-hill-street-bentleigh-east-vic-3165-16091798,Avoca Primary School,938.11,100.08,3165,400.0
+614,9a-9b-ludwell-crescent-bentleigh-east-vic-3165-16092784,Avoca Primary School,758.64,135.59,3165,900.0
+615,6-27-gladwyn-avenue-bentleigh-east-vic-3165-15284183,Alberton Primary School,905.39,112.59,3165,430.0
+616,103-16-malane-street-bentleigh-east-vic-3165-16098175,Avenel Primary School,1194.33,116.19,3165,380.0
+617,2-45-browns-road-bentleigh-east-vic-3165-16104783,Avoca Primary School,1250.23,121.72,3165,420.0
+618,202-53-browns-road-bentleigh-east-vic-3165-16097230,Avoca Primary School,1245.02,120.48,3165,545.0
+619,26a-bonny-street-bentleigh-east-vic-3165-16058750,Avenel Primary School,1043.19,137.13,3165,1150.0
+620,7a-fraser-street-bentleigh-east-vic-3165-16104506,Allansford and District Primary School,1178.06,185.96,3165,950.0
+621,1-20-lincoln-street-oakleigh-vic-3166-16107897,Alberton Primary School,1011.68,152.74,3166,550.0
+622,1-2-mill-road-oakleigh-vic-3166-15374846,Allansford and District Primary School,196.95,38.04,3166,630.0
+623,3-28a-carlisle-crescent-hughesdale-vic-3166-15840574,Allansford and District Primary School,1148.57,157.78,3166,510.0
+624,7-1344-dandenong-road-hughesdale-vic-3166-16112445,Avoca Primary School,1259.05,150.39,3166,390.0
+625,9-parer-street-oakleigh-vic-3166-16093353,Alberton Primary School,910.3,156.68,3166,540.0
+626,1-10-keith-street-oakleigh-east-vic-3166-16099635,Alberton Primary School,1422.52,180.0,3166,405.0
+627,3-1-coane-street-oakleigh-east-vic-3166-16110864,Alberton Primary School,1420.43,175.19,3166,400.0
+628,3-60-patrick-street-oakleigh-east-vic-3166-16099764,Alberton Primary School,1229.35,165.96,3166,650.0
+629,3-1845-dandenong-road-oakleigh-east-vic-3166-16092754,Alberton Primary School,1133.95,161.26,3166,950.0
+630,6-berrima-street-oakleigh-east-vic-3166-15137796,Castlemaine Primary School,1781.7,170.44,3166,450.0
+631,3-14-carmichael-road-oakleigh-east-vic-3166-16091410,Allansford and District Primary School,883.99,97.93,3166,650.0
+632,203-59-63-warrigal-road-hughesdale-vic-3166-13009899,Avoca Primary School,544.51,89.69,3166,480.0
+633,17-crown-close-oakleigh-east-vic-3166-16113552,Castlemaine Primary School,1675.76,148.12,3166,520.0
+634,2-1845-dandenong-road-oakleigh-east-vic-3166-16092807,Alberton Primary School,1133.95,161.26,3166,850.0
+635,16-silvan-street-oakleigh-south-vic-3167-15400067,Campbells Creek Primary School,2779.68,312.8,3167,575.0
+636,3-15-elata-street-oakleigh-south-vic-3167-16099363,Alberton Primary School,1350.19,166.46,3167,430.0
+637,1-2-cunningham-place-oakleigh-south-vic-3167-16094025,Castlemaine Primary School,1997.56,258.33,3167,460.0
+638,4-28-banksia-street-clayton-vic-3168-16109082,Allansford and District Primary School,1150.08,173.09,3168,420.0
+639,118-864-blackburn-road-clayton-vic-3168-16103508,Cudgee Primary School,1700.6,157.83,3168,380.0
+640,2-1-manatunga-street-clayton-vic-3168-16099845,Allansford and District Primary School,557.54,108.81,3168,650.0
+641,1-3-jaguar-drive-clayton-vic-3168-16022646,Allansford and District Primary School,1579.02,292.14,3168,695.0
+642,1-40-glenbrook-avenue-clayton-vic-3168-16110445,Alberton Primary School,1014.62,132.01,3168,775.0
+643,20-2-greenfield-drive-clayton-vic-3168-15740628,Avoca Primary School,1013.68,198.21,3168,360.0
+644,3-40-glenbrook-avenue-clayton-vic-3168-16111672,Alberton Primary School,1014.62,132.01,3168,895.0
+645,2-40-glenbrook-avenue-clayton-vic-3168-16110582,Alberton Primary School,1014.62,132.01,3168,550.0
+646,17-wandoo-avenue-clarinda-vic-3169-16108397,Alberton Primary School,717.53,102.6,3169,495.0
+647,56-davanzo-avenue-clarinda-vic-3169-16092173,Alberton Primary School,1837.21,286.2,3169,460.0
+648,1-4-6-mallawa-street-clayton-south-vic-3169-16092812,Alberton Primary School,1692.0,144.42,3169,380.0
+649,11-regent-avenue-springvale-vic-3171-16110391,Belmont Primary School,724.47,110.11,3171,450.0
+650,2-9-virginia-street-springvale-vic-3171-16103573,Alberton Primary School,577.31,102.07,3171,495.0
+651,33a-marcus-road-dingley-village-vic-3172-16097552,Alberton Primary School,120.78,8.69,3172,650.0
+652,11-ridder-court-dingley-village-vic-3172-16104299,Alberton Primary School,1877.03,270.04,3172,470.0
+653,1-69-centre-dandenong-road-dingley-village-vic-3172-16099840,Alberton Primary School,373.08,29.92,3172,540.0
+654,130-stanley-road-keysborough-vic-3173-16093594,Alberton Primary School,1333.37,158.94,3173,850.0
+655,20-greenside-cres-keysborough-vic-3173-16110634,Alberton Primary School,1789.17,207.32,3173,850.0
+656,41-balgowlah-avenue-keysborough-vic-3173-16104670,Avoca Primary School,1091.36,219.32,3173,480.0
+657,33-theodore-avenue-noble-park-vic-3174-16104719,Warrandyte Primary School,798.86,111.07,3174,420.0
+658,3-15-leman-crescent-noble-park-vic-3174-16104774,Avenel Primary School,217.3,52.15,3174,550.0
+659,24-kleine-street-noble-park-vic-3174-16102906,Alberton Primary School,401.29,65.94,3174,530.0
+660,2-1-mitchell-court-noble-park-vic-3174-16091711,Alberton Primary School,1795.51,135.6,3174,290.0
+661,710-stud-road-scoresby-vic-3179-15268201,Alberton Primary School,838.85,122.49,3179,485.0
+662,42-321-chapel-street-prahran-vic-3181-16094332,Avoca Primary School,712.01,68.98,3181,495.0
+663,4-2-4-jessamine-avenue-prahran-vic-3181-16096629,Bacchus Marsh Primary School,981.69,108.43,3181,430.0
+664,2-2-rae-court-prahran-vic-3181-16092519,Avenel Primary School,726.46,86.41,3181,450.0
+665,502-201-high-street-prahran-vic-3181-16108215,Allansford and District Primary School,355.97,39.39,3181,380.0
+666,43-eastbourne-street-prahran-vic-3181-16099313,Allansford and District Primary School,591.91,65.16,3181,800.0
+667,110-22-chatham-street-prahran-vic-3181-16104912,Avoca Primary School,485.92,58.11,3181,360.0
+668,5-327-dandenong-road-prahran-vic-3181-16112180,Warrandyte Primary School,278.04,22.98,3181,585.0
+669,204-27-the-avenue-windsor-vic-3181-16103482,Alberton Primary School,428.04,76.14,3181,425.0
+670,304-152-peel-street-windsor-vic-3181-16108695,Belmont Primary School,513.78,92.36,3181,495.0
+671,16-spring-street-prahran-vic-3181-16109263,Belmont Primary School,958.8,114.94,3181,550.0
+672,22-174-peel-street-windsor-vic-3181-16109077,Belmont Primary School,413.41,69.14,3181,570.0
+673,2-22-ellesmere-road-prahran-vic-3181-16112401,Warrandyte Primary School,619.32,72.32,3181,500.0
+674,23-66-murray-street-prahran-vic-3181-16093824,Belmont Primary School,1083.92,121.35,3181,400.0
+675,9-4-normanby-street-windsor-vic-3181-16103941,Bacchus Marsh Primary School,908.85,125.8,3181,330.0
+676,72-perth-street-prahran-vic-3181-16108083,Avenel Primary School,689.23,93.35,3181,875.0
+677,1c-lewisham-road-windsor-vic-3181-16104364,Warrandyte Primary School,718.65,90.32,3181,750.0
+678,24-300-high-street-prahran-vic-3181-16092833,Allansford and District Primary School,618.82,66.43,3181,595.0
+679,62a-union-street-windsor-vic-3181-16096060,Avenel Primary School,690.68,103.73,3181,1000.0
+680,g04-652-high-street-prahran-vic-3181-16111416,Avoca Primary School,330.85,46.57,3181,625.0
+681,7-680-malvern-road-prahran-vic-3181-16097081,Avenel Primary School,550.01,68.63,3181,500.0
+682,1-1-ellesmere-road-windsor-vic-3181-16107246,Warrandyte Primary School,740.87,86.91,3181,330.0
+683,2-abeckett-street-prahran-vic-3181-16095838,Avenel Primary School,541.01,70.4,3181,1200.0
+684,207-11-13-jackson-street-st-kilda-vic-3182-16103822,Alberton Primary School,864.29,143.66,3182,700.0
+685,4-30-mitford-street-st-kilda-vic-3182-16099536,Warrandyte Primary School,151.44,36.34,3182,395.0
+686,39-220-barkly-street-st-kilda-vic-3182-14537180,Allansford and District Primary School,498.02,112.04,3182,800.0
+687,49-64-fitzroy-street-st-kilda-vic-3182-16095131,Alberton Primary School,204.44,43.16,3182,430.0
+688,3-16-eildon-road-st-kilda-vic-3182-16110741,Alberton Primary School,1058.57,182.61,3182,575.0
+689,15-39-41-wellington-street-st-kilda-vic-3182-16110681,Alberton Primary School,795.4,117.29,3182,550.0
+690,306-198-st-kilda-road-st-kilda-vic-3182-16113646,Warrandyte Primary School,969.32,111.35,3182,350.0
+691,2-47-brighton-road-st-kilda-vic-3182-16103420,Allansford and District Primary School,965.02,137.73,3182,400.0
+692,8-16-marine-parade-st-kilda-vic-3182-16107202,Alberton Primary School,1105.34,193.63,3182,400.0
+693,10-11-marine-parade-st-kilda-vic-3182-16091874,Alberton Primary School,1174.37,198.6,3182,360.0
+694,8-31-charnwood-road-st-kilda-vic-3182-16111421,Ballarat Primary School (Dana Street),542.56,67.32,3182,420.0
+695,1-116-inkerman-road-st-kilda-vic-3182-15926395,Alberton Primary School,800.6,113.45,3182,280.0
+696,17-1-acland-street-st-kilda-vic-3182-16108171,Alberton Primary School,783.58,126.07,3182,280.0
+697,2-44-robe-street-st-kilda-vic-3182-16100042,Allansford and District Primary School,752.8,114.53,3182,420.0
+698,13-47-brighton-road-st-kilda-vic-3182-16099504,Alberton Primary School,653.83,102.06,3182,440.0
+699,2-6-charlotte-place-st-kilda-vic-3182-16104068,Wodonga Primary School,959.67,135.21,3182,690.0
+700,1-2-2-woodstock-street-st-kilda-vic-3182-16093793,Alberton Primary School,997.52,125.29,3182,375.0
+701,18-11-17-park-street-st-kilda-west-vic-3182-16099197,Alberton Primary School,657.82,101.57,3182,450.0
+702,8-36-blessington-street-st-kilda-vic-3182-16110703,Allansford and District Primary School,460.86,110.6,3182,345.0
+703,15-18-princes-street-st-kilda-vic-3182-16027235,Alberton Primary School,481.92,86.06,3182,495.0
+704,1-2a-robe-street-st-kilda-vic-3182-16095963,Alberton Primary School,1289.01,183.83,3182,595.0
+705,9-26-loch-street-st-kilda-west-vic-3182-16108504,Alberton Primary School,878.5,113.67,3182,495.0
+706,202-8-blanche-street-st-kilda-vic-3182-16095573,Avenel Primary School,1109.56,188.44,3182,600.0
+707,3505-14-16-the-esplanadr-st-kilda-vic-3182-16106828,Alberton Primary School,1242.77,187.56,3182,1600.0
+708,139-chapel-street-st-kilda-vic-3182-16110151,Alberton Primary School,646.4,75.42,3182,640.0
+709,2b-waterloo-crescent-st-kilda-vic-3182-16103682,Allansford and District Primary School,801.49,127.53,3182,995.0
+710,205-211-44-barkly-street-st-kilda-vic-3182-15694325,Allansford and District Primary School,615.79,102.97,3182,260.0
+711,05-07-lambeth-place-st-kilda-vic-3182-16111844,Bacchus Marsh Primary School,573.56,46.25,3182,345.0
+712,2-16-vale-st-st-kilda-vic-3182-16108973,Alberton Primary School,1202.3,151.72,3182,320.0
+713,13-343-beaconsfield-parade-st-kilda-west-vic-3182-16108716,Alberton Primary School,1091.02,166.38,3182,385.0
+714,9-17-st-leondards-avenue-st-kilda-vic-3182-16110829,Alberton Primary School,1263.86,225.54,3182,590.0
+715,10-15-inkerman-street-st-kilda-vic-3182-16111511,Allansford and District Primary School,969.91,131.56,3182,630.0
+716,1-3-7-sebastopol-street-st-kilda-vic-3182-16104975,Bacchus Marsh Primary School,721.39,85.2,3182,330.0
+717,9-39-eildon-rd-st-kilda-vic-3182-14637707,Alberton Primary School,532.79,90.23,3182,400.0
+718,16-42-waterloo-crescent-st-kilda-vic-3182-16112116,Allansford and District Primary School,924.44,143.01,3182,250.0
+719,4-odessa-street-st-kilda-vic-3182-16094649,Bacchus Marsh Primary School,421.07,42.97,3182,770.0
+720,35-233-canterbury-road-st-kilda-west-vic-3182-16109040,Alberton Primary School,416.21,66.24,3182,360.0
+721,13-2a-robe-street-st-kilda-vic-3182-16113609,Alberton Primary School,1289.01,183.83,3182,675.0
+722,6-50-fitzroy-street-st-kilda-vic-3182-16096820,Alberton Primary School,341.67,60.8,3182,360.0
+723,69-chapel-street-st-kilda-vic-3182-16107526,Berwick Primary School,367.56,26.46,3182,650.0
+724,304a-33-inkerman-st-st-kilda-vic-3182-16104398,Alberton Primary School,942.88,131.87,3182,470.0
+725,5-16-blessington-court-st-kilda-vic-3182-16091470,Alberton Primary School,940.73,199.19,3182,300.0
+726,30-233-235-canterbury-road-st-kilda-west-vic-3182-16108250,Alberton Primary School,416.21,66.24,3182,310.0
+727,13-neptune-street-st-kilda-vic-3182-16108169,Alberton Primary School,810.3,130.54,3182,580.0
+728,4-22-crimea-street-st-kilda-vic-3182-15808911,Ballarat Primary School (Dana Street),452.91,51.19,3182,300.0
+729,9a-rosamond-street-balaclava-vic-3183-16098659,Alberton Primary School,801.92,99.77,3183,780.0
+730,1-3-7-sebastopol-street-st-kilda-east-vic-3183-16104975,Bacchus Marsh Primary School,721.39,85.2,3183,330.0
+731,301-2a-nelson-street-balaclava-vic-3183-16104630,Ballarat Primary School (Dana Street),1048.95,168.3,3183,530.0
+732,8-9-celeste-court-st-kilda-east-vic-3183-16109885,Avoca Primary School,788.18,93.75,3183,300.0
+733,12-203-alma-rd-st-kilda-east-vic-3183-16097827,Belmont Primary School,1018.76,96.68,3183,440.0
+734,12-rosamond-street-balaclava-vic-3183-16113271,Alberton Primary School,775.9,97.93,3183,695.0
+735,1-5-te-arai-ave-st-kilda-east-vic-3183-16103327,Avenel Primary School,665.89,75.61,3183,525.0
+736,8-8-cardigan-street-st-kilda-east-vic-3183-16094608,Bacchus Marsh Primary School,485.21,64.51,3183,380.0
+737,203-120-hotham-street-st-kilda-east-vic-3183-16098448,Avenel Primary School,503.86,54.83,3183,690.0
+738,7-15-hotham-st-st-kilda-east-vic-3183-16104219,Warrandyte Primary School,575.41,69.75,3183,445.0
+739,14-3-balston-street-balaclava-vic-3183-16112313,Ballarat Primary School (Dana Street),478.6,70.59,3183,320.0
+740,1-296-inkerman-st-st-kilda-east-vic-3183-16106154,Bacchus Marsh Primary School,339.56,49.01,3183,385.0
+741,27-4-wando-grove-st-kilda-east-vic-3183-16098295,Warrandyte Primary School,669.71,85.75,3183,290.0
+742,10-4a-wando-grove-st-kilda-east-vic-3183-16099165,Warrandyte Primary School,673.97,86.77,3183,475.0
+743,102-190-alma-rd-st-kilda-east-vic-3183-16098637,Warrandyte Primary School,943.45,92.47,3183,550.0
+744,1-kalymna-grove-st-kilda-east-vic-3183-16110858,Belmont Primary School,743.64,67.74,3183,800.0
+745,12-55-alexandra-street-st-kilda-east-vic-3183-16096796,Belmont Primary School,730.79,64.72,3183,430.0
+746,1-107-grosvenor-street-balaclava-vic-3183-16096804,Bacchus Marsh Primary School,749.6,82.06,3183,495.0
+747,6-75-westbury-street-st-kilda-east-vic-3183-16104087,Avoca Primary School,552.83,47.28,3183,430.0
+748,602-71-inkerman-st-st-kilda-east-vic-3183-16091456,Bacchus Marsh Primary School,285.5,44.44,3183,690.0
+749,5-8-john-street-elwood-vic-3184-16106183,Allansford and District Primary School,529.25,127.02,3184,420.0
+750,1-9-robert-st-elwood-vic-3184-16108685,Allansford and District Primary School,617.75,96.45,3184,325.0
+751,5-48-spray-street-elwood-vic-3184-16092133,Avoca Primary School,375.56,87.31,3184,390.0
+752,6-25-dickens-street-elwood-vic-3184-16099687,Avenel Primary School,226.63,54.39,3184,490.0
+753,1-1-ruskin-street-elwood-vic-3184-16106092,Warrandyte Primary School,277.3,66.55,3184,595.0
+754,5-111-ruskin-street-elwood-vic-3184-16104155,Avenel Primary School,401.89,81.65,3184,800.0
+755,3-24-26-burns-street-elwood-vic-3184-16092084,Allansford and District Primary School,633.84,141.37,3184,480.0
+756,7-54-tennyson-street-elwood-vic-3184-16106407,Warrandyte Primary School,608.61,146.06,3184,400.0
+757,89b-ruskin-street-elwood-vic-3184-16092997,Avenel Primary School,594.62,127.9,3184,1200.0
+758,3-22-wave-street-elwood-vic-3184-16095176,Avoca Primary School,413.56,57.58,3184,620.0
+759,7-51-55-goldsmith-street-elwood-vic-3184-16104905,Avoca Primary School,357.77,69.45,3184,1450.0
+760,13-47-brighton-road-elwood-vic-3184-16099504,Alberton Primary School,653.83,102.06,3184,440.0
+761,g07-12-14-dickens-street-elwood-vic-3184-16098537,Allansford and District Primary School,409.62,98.3,3184,425.0
+762,1-151-glen-huntly-rd-elwood-vic-3184-16095357,Allansford and District Primary School,597.74,141.28,3184,400.0
+763,3-483-st-kilda-street-elwood-vic-3184-16094510,Alberton Primary School,904.71,160.38,3184,825.0
+764,4-19-milton-street-elwood-vic-3184-16106784,Warrandyte Primary School,719.67,157.06,3184,550.0
+765,1-9-poets-grove-elwood-vic-3184-16100027,Allansford and District Primary School,463.73,109.13,3184,590.0
+766,4-49a-tennyson-street-elwood-vic-3184-16109927,Allansford and District Primary School,844.75,149.9,3184,415.0
+767,3-46-foam-street-elwood-vic-3184-16109685,Belmont Primary School,1128.86,143.46,3184,490.0
+768,9-40-ormond-road-elwood-vic-3184-16104855,Avoca Primary School,418.88,58.11,3184,330.0
+769,6-59-61-ormond-esplanade-elwood-vic-3184-16110347,Avoca Primary School,871.44,106.96,3184,770.0
+770,4-22-allison-road-elsternwick-vic-3185-11212197,Warrandyte Primary School,271.34,47.35,3185,450.0
+771,4-44-clarence-street-elsternwick-vic-3185-16110408,Warrandyte Primary School,1264.27,147.38,3185,350.0
+772,2-9-oak-grove-ripponlea-vic-3185-16100046,Avenel Primary School,754.79,78.61,3185,380.0
+773,4-22-magnolia-road-gardenvale-vic-3185-16109985,Allansford and District Primary School,990.74,130.83,3185,245.0
+774,26-clarence-street-elsternwick-vic-3185-12646931,Avenel Primary School,1129.1,168.86,3185,850.0
+775,3-487-kooyong-road-elsternwick-vic-3185-16105411,Avoca Primary School,1268.87,147.17,3185,295.0
+776,7-162-brighton-road-ripponlea-vic-3185-16100540,Belmont Primary School,878.03,154.86,3185,395.0
+777,504-415-glen-huntly-road-elsternwick-vic-3185-16107407,Avenel Primary School,393.93,45.48,3185,399.0
+778,78-allison-road-elsternwick-vic-3185-16092486,Belmont Primary School,676.59,115.32,3185,730.0
+779,1-540-glenhuntly-road-elsternwick-vic-3185-12838412,Warrandyte Primary School,820.62,111.31,3185,345.0
+780,76-allison-road-elsternwick-vic-3185-16105190,Belmont Primary School,634.57,107.93,3185,1200.0
+781,7-6-ripon-grove-elsternwick-vic-3185-16100128,Belmont Primary School,678.09,145.7,3185,340.0
+782,311-7-nepean-highway-elsternwick-vic-3185-16099376,Bacchus Marsh Primary School,669.44,126.43,3185,420.0
+783,3-21-brickwood-st-brighton-vic-3186-16109290,Allansford and District Primary School,191.32,45.92,3186,510.0
+784,5-297-st-kilda-street-brighton-vic-3186-16092184,Allansford and District Primary School,1294.4,151.98,3186,450.0
+785,5-32-bay-street-brighton-vic-3186-16104811,Avoca Primary School,1123.65,140.31,3186,810.0
+786,2-876-hampton-street-brighton-vic-3186-16109894,Alberton Primary School,1097.56,116.59,3186,650.0
+787,107-7-9-cowra-street-brighton-vic-3186-16103475,Allansford and District Primary School,1159.07,186.8,3186,600.0
+788,8-yuille-street-brighton-vic-3186-16105002,Warrandyte Primary School,825.05,148.15,3186,870.0
+789,145a-church-street-brighton-vic-3186-16108276,Alberton Primary School,598.16,93.23,3186,595.0
+790,101-67-well-street-brighton-vic-3186-16091137,Avoca Primary School,702.06,98.92,3186,1450.0
+791,4-14-enfield-road-brighton-vic-3186-16106550,Avenel Primary School,1378.88,214.32,3186,450.0
+792,33-campbell-street-brighton-vic-3186-16104223,Allansford and District Primary School,621.0,74.32,3186,1020.0
+793,10-26-warleigh-grove-brighton-vic-3186-16111350,Avenel Primary School,905.36,163.07,3186,595.0
+794,310-380-bay-street-brighton-vic-3186-16097678,Avenel Primary School,878.49,131.79,3186,675.0
+795,1-huntley-street-brighton-vic-3186-16110309,Alberton Primary School,676.92,131.23,3186,1150.0
+796,148-bay-street-brighton-vic-3186-16111243,Avenel Primary School,329.46,66.96,3186,1200.0
+797,20a-burwah-avenue-brighton-east-vic-3187-16103434,Allansford and District Primary School,187.26,17.88,3187,1250.0
+798,2-10-alford-street-brighton-east-vic-3187-16094684,Alberton Primary School,1061.17,119.87,3187,620.0
+799,2b-parker-st-brighton-east-vic-3187-16091552,Allansford and District Primary School,171.03,15.86,3187,975.0
+800,2-mayrose-crescent-brighton-east-vic-3187-16103263,Avoca Primary School,734.57,91.95,3187,1090.0
+801,16a-plunket-street-brighton-east-vic-3187-16099058,Alberton Primary School,508.52,44.6,3187,1400.0
+802,26-cummins-road-brighton-east-vic-3187-16105212,Warrandyte Primary School,1050.0,114.3,3187,690.0
+803,238a-were-street-brighton-east-vic-3187-16110215,Alberton Primary School,1451.41,178.85,3187,1699.0
+804,209-427-hampton-street-hampton-vic-3188-16108518,Alberton Primary School,142.51,19.1,3188,350.0
+805,g01-43-crisp-street-hampton-vic-3188-16104598,Alberton Primary School,1175.1,172.46,3188,1200.0
+806,207-2-willis-lane-hampton-east-vic-3188-16093050,Alberton Primary School,566.72,86.75,3188,320.0
+807,5-45-grenville-street-hampton-vic-3188-16094685,Alberton Primary School,310.34,41.57,3188,795.0
+808,6-518-bluff-rd-hampton-vic-3188-16103170,Avoca Primary School,229.69,15.03,3188,350.0
+809,316b-south-road-hampton-east-vic-3188-16101248,Allansford and District Primary School,899.06,215.77,3188,900.0
+810,78a-teddington-road-hampton-vic-3188-16105795,Avoca Primary School,320.25,26.92,3188,1100.0
+811,208-20-station-street-highett-vic-3190-16092254,Alberton Primary School,1438.07,220.39,3190,500.0
+812,22a-tweed-st-highett-vic-3190-16103736,Avenel Primary School,248.83,40.05,3190,770.0
+813,205-6-dart-street-highett-vic-3190-16096414,Alberton Primary School,1015.02,166.74,3190,480.0
+814,49-spring-road-highett-vic-3190-16111073,Warrandyte Primary School,218.07,54.56,3190,495.0
+815,46a-46b-turner-road-highett-vic-3190-16109315,Alberton Primary School,1561.83,136.03,3190,995.0
+816,217-222-bay-road-sandringham-vic-3191-16103690,Alberton Primary School,592.97,108.44,3191,390.0
+817,8-grange-road-sandringham-vic-3191-15431555,Alberton Primary School,631.32,121.77,3191,1300.0
+818,201-26-30-waltham-street-sandringham-vic-3191-16102732,Alberton Primary School,733.56,111.14,3191,500.0
+819,3-188-bay-road-sandringham-vic-3191-16112438,Allansford and District Primary School,612.92,72.46,3191,630.0
+820,4-264-bluff-road-sandringham-vic-3191-16092529,Allansford and District Primary School,204.58,34.7,3191,550.0
+821,124-abbott-st-sandringham-vic-3191-16111338,Avenel Primary School,823.8,94.71,3191,795.0
+822,3-198-bluff-road-sandringham-vic-3191-16100496,Avoca Primary School,694.55,81.64,3191,420.0
+823,803-222-bay-road-sandringham-vic-3191-16103691,Alberton Primary School,592.97,108.44,3191,390.0
+824,19-norwood-st-sandringham-vic-3191-16094744,Alberton Primary School,1410.12,158.87,3191,1500.0
+825,6-fairview-drive-cheltenham-vic-3192-16111130,Berwick Primary School,1939.8,209.06,3192,795.0
+826,610-2-6-railway-road-cheltenham-vic-3192-16092472,Alberton Primary School,533.79,87.64,3192,450.0
+827,6-mckay-avenue-black-rock-vic-3193-16110627,Alberton Primary School,891.29,140.3,3193,850.0
+828,72b-ardoyne-st-black-rock-vic-3193-16109670,Alberton Primary School,549.93,131.98,3193,1200.0
+829,17-fourth-street-black-rock-vic-3193-16108263,Alberton Primary School,751.84,94.65,3193,1100.0
+830,3-529-balcombe-rd-black-rock-vic-3193-16100369,Avoca Primary School,107.87,11.07,3193,550.0
+831,1-26-patty-street-mentone-vic-3194-16106737,Allansford and District Primary School,758.7,119.11,3194,460.0
+832,23-milan-street-mentone-vic-3194-16094642,Warrandyte Primary School,701.06,158.18,3194,1300.0
+833,2-41-albenca-street-mentone-vic-3194-15355277,Avenel Primary School,1032.05,187.64,3194,430.0
+834,40-kokoda-place-mordialloc-vic-3195-16096229,Alberton Primary School,519.95,79.48,3195,550.0
+835,14-rosella-road-parkdale-vic-3195-16103628,Alberton Primary School,1349.16,192.2,3195,1100.0
+836,3-20-parkers-rd-parkdale-vic-3195-16096970,Alberton Primary School,1263.77,140.93,3195,550.0
+837,3-119-mcdonald-st-mordialloc-vic-3195-16111302,Alberton Primary School,1085.62,140.2,3195,370.0
+838,40-berry-avenue-edithvale-vic-3196-16105305,Alberton Primary School,1140.82,143.41,3196,575.0
+839,10-216-station-street-edithvale-vic-3196-14486078,Alberton Primary School,476.18,65.07,3196,440.0
+840,5-8-10-turakina-avenue-edithvale-vic-3196-16104021,Alberton Primary School,651.93,100.54,3196,350.0
+841,2-62-screen-street-frankston-vic-3199-16094995,Allansford and District Primary School,1365.55,158.93,3199,440.0
+842,44-bushlark-drive-carrum-downs-vic-3201-16097673,Alberton Primary School,638.58,121.63,3201,480.0
+843,2-9-lillimur-road-ormond-vic-3204-16107547,Avoca Primary School,126.41,22.98,3204,300.0
+844,g07-3-claire-street-mckinnon-vic-3204-15478778,Allansford and District Primary School,854.72,73.72,3204,560.0
+845,2-45-queen-street-ormond-vic-3204-16101296,Belmont Primary School,186.61,18.17,3204,1200.0
+846,g06-3-claire-street-mckinnon-vic-3204-15344621,Allansford and District Primary School,854.72,73.72,3204,550.0
+847,2-7-ormond-road-ormond-vic-3204-16096904,Avoca Primary School,516.63,101.62,3204,575.0
+848,g02-236-jasper-road-mckinnon-vic-3204-16111151,Avoca Primary School,555.26,44.76,3204,550.0
+849,107-324-centre-road-bentleigh-vic-3204-16094020,Alberton Primary School,972.42,91.31,3204,560.0
+850,2-29-wheeler-street-ormond-vic-3204-16107896,Warrandyte Primary School,485.22,64.4,3204,600.0
+851,6-4-holloway-street-ormond-vic-3204-16099235,Avoca Primary School,524.84,86.55,3204,305.0
+852,147-patterson-road-bentleigh-vic-3204-16099099,Avoca Primary School,719.75,65.6,3204,1050.0
+853,9-clapperton-street-bentleigh-vic-3204-16092512,Avoca Primary School,893.61,126.6,3204,760.0
+854,165-patterson-road-bentleigh-vic-3204-16096720,Alberton Primary School,611.0,50.36,3204,930.0
+855,1-210-tucker-road-bentleigh-vic-3204-16103255,Avoca Primary School,550.59,49.29,3204,650.0
+856,8-bevan-street-ormond-vic-3204-16111581,Alberton Primary School,764.9,155.02,3204,1500.0
+857,6-47-wheeler-st-ormond-vic-3204-16098675,Belmont Primary School,347.5,47.87,3204,525.0
+858,311-39-park-street-south-melbourne-vic-3205-16109887,Avoca Primary School,758.24,135.52,3205,600.0
+859,907-37-39-park-street-south-melbourne-vic-3205-15842582,Avoca Primary School,758.24,135.52,3205,620.0
+860,409-85-market-street-south-melbourne-vic-3205-16092256,Allansford and District Primary School,624.8,106.72,3205,495.0
+861,south-melbourne-vic-3205-15842582,Warrandyte Primary School,556.93,70.44,3205,620.0
+862,511-37-39-park-street-south-melbourne-vic-3205-16111490,Avoca Primary School,780.45,137.29,3205,600.0
+863,406-75-palmerston-crescent-south-melbourne-vic-3205-16093654,Warrandyte Primary School,491.71,89.44,3205,425.0
+864,84-palmerston-crescent-south-melbourne-vic-3205-16106315,Warrandyte Primary School,383.21,74.59,3205,550.0
+865,2604-89-gladstone-street-south-melbourne-vic-3205-16097179,Alberton Primary School,127.59,20.4,3205,430.0
+866,24-henderson-street-south-melbourne-vic-3205-16091414,Avoca Primary School,832.93,186.79,3205,745.0
+867,3-56-smith-street-south-melbourne-vic-3205-16105162,Belmont Primary School,402.53,96.6,3205,480.0
+868,209-97-palmerston-crescent-south-melbourne-vic-3205-16099232,Warrandyte Primary School,249.26,51.29,3205,400.0
+869,152-nelson-road-south-melbourne-vic-3205-16106350,Bacchus Marsh Primary School,436.73,103.43,3205,1000.0
+870,1207-39-park-street-south-melbourne-vic-3205-16093617,Avoca Primary School,758.24,135.52,3205,585.0
+871,72b-napier-street-south-melbourne-vic-3205-16109558,Avenel Primary School,370.51,67.09,3205,495.0
+872,7-2-heather-street-south-melbourne-vic-3205-16094728,Avenel Primary School,642.56,85.13,3205,750.0
+873,33-nimmo-street-middle-park-vic-3206-16111553,Alberton Primary School,583.16,89.48,3206,865.0
+874,43-bevan-street-albert-park-vic-3206-16109623,Alberton Primary School,437.95,65.23,3206,470.0
+875,303-88-beaconsfield-parade-albert-park-vic-3206-16095682,Avoca Primary School,619.92,79.39,3206,1100.0
+876,5-princes-place-port-melbourne-vic-3207-16095122,Alberton Primary School,875.55,160.63,3207,500.0
+877,305-115-nott-street-port-melbourne-vic-3207-16105599,Alberton Primary School,808.67,81.27,3207,700.0
+878,84-nott-street-port-melbourne-vic-3207-16112150,Alberton Primary School,750.1,69.36,3207,850.0
+879,17-120-princes-street-port-melbourne-vic-3207-16101214,Alberton Primary School,708.8,130.12,3207,650.0
+880,13-raglan-street-port-melbourne-vic-3207-16096777,Avoca Primary School,767.56,114.05,3207,645.0
+881,66-spring-street-east-port-melbourne-vic-3207-16111770,Avoca Primary School,471.38,83.27,3207,785.0
+882,60-spring-street-east-port-melbourne-vic-3207-16113151,Avoca Primary School,521.47,94.18,3207,760.0
+883,508-216-rouse-street-port-melbourne-vic-3207-16108824,Allansford and District Primary School,964.03,162.73,3207,650.0
+884,503-147-beach-street-port-melbourne-vic-3207-16113115,Alberton Primary School,1285.29,201.79,3207,1100.0
+885,1-08-91-dow-street-port-melbourne-vic-3207-16108681,Avoca Primary School,841.56,134.2,3207,400.0
+886,135-spring-street-west-port-melbourne-vic-3207-16110342,Avenel Primary School,275.72,69.91,3207,750.0
+887,7-2-graham-street-port-melbourne-vic-3207-16107609,Avoca Primary School,352.62,57.45,3207,390.0
+888,4-71-esplanade-west-port-melbourne-vic-3207-16092101,Avenel Primary School,611.8,95.17,3207,470.0
+889,1-368-graham-street-port-melbourne-vic-3207-16093260,Alberton Primary School,644.96,125.07,3207,740.0
+890,2-hailar-lane-lara-vic-3212-16107512,Alberton Primary School,1386.95,183.86,3212,480.0
+891,100-settlement-road-belmont-vic-3216-16094466,Alberton Primary School,964.1,192.49,3216,650.0
+892,4-17-colac-gr-belmont-vic-3216-15755710,Avoca Primary School,330.38,38.5,3216,400.0
+893,10-chucklecreek-lane-armstrong-creek-vic-3217-16110820,Avoca Primary School,916.51,96.07,3217,420.0
+894,2-melville-avenue-geelong-west-vic-3218-16090991,Avoca Primary School,669.25,92.21,3218,570.0
+895,2-melville-avenue-newtown-vic-3220-16090991,Avoca Primary School,669.25,92.21,3220,570.0
+896,28-rimmington-way-rockbank-vic-3335-16099477,Alberton Primary School,2376.04,280.79,3335,380.0
+897,6-cherry-cl-melton-west-vic-3337-16098222,Alberton Primary School,338.61,48.76,3337,390.0
+898,425-greenhalghs-road-delacombe-vic-3356-16104213,Allansford and District Primary School,2226.03,245.7,3356,435.0
+899,11-macquarie-road-wodonga-vic-3690-16100280,Allansford and District Primary School,712.0,92.04,3690,450.0
+900,1-koetong-crescent-west-wodonga-vic-3690-16112153,Alberton Primary School,1203.09,122.46,3690,530.0
+901,7-74-south-street-wodonga-vic-3690-16091669,Avoca Primary School,949.14,133.29,3690,340.0
+902,29-2-hanlon-court-wodonga-vic-3690-16106894,Avenel Primary School,192.45,38.14,3690,200.0
+903,4-25-melrose-drive-wodonga-vic-3690-12527064,Alberton Primary School,1422.12,133.07,3690,300.0
+904,39-lawrence-street-wodonga-vic-3690-16114126,Alberton Primary School,1419.63,148.38,3690,420.0
+905,38-vermont-street-wodonga-vic-3690-16093688,Avoca Primary School,640.18,83.14,3690,420.0
+906,10-arnold-place-wodonga-vic-3690-16109206,Alberton Primary School,1190.77,136.44,3690,420.0
+907,2-147-lawrence-street-wodonga-vic-3690-16107639,Alberton Primary School,824.6,101.92,3690,650.0
+908,22-kiewa-east-road-tangambalanga-vic-3691-16101133,Alberton Primary School,1282.62,142.72,3691,580.0
+909,283-mitta-north-road-eskdale-vic-3701-16100349,Alberton Primary School,4349.92,201.54,3701,300.0
+910,7-mahla-ave-wollert-vic-3750-14803288,Alberton Primary School,111.46,20.52,3750,410.0
+911,35-mahla-avenue-wollert-vic-3750-16092524,Alberton Primary School,227.75,48.43,3750,440.0
+912,20-flourish-walk-doreen-vic-3754-16109319,Alberton Primary School,608.25,98.83,3754,350.0
+913,3-outlook-drive-kalorama-vic-3766-16093096,Alberton Primary School,3241.73,436.9,3766,520.0
+914,9-oakley-street-mount-dandenong-vic-3767-16111799,Alberton Primary School,1366.3,247.11,3767,500.0
+915,30-beluga-street-mount-eliza-vic-3930-16104711,Alberton Primary School,1370.7,252.62,3930,1900.0
+916,71-balcombe-drive-mount-martha-vic-3934-16113110,Alberton Primary School,1043.17,159.58,3934,950.0
+917,4-cirrus-close-hampton-park-vic-3976-16112856,Alberton Primary School,379.45,82.92,3976,420.0
+918,12-mccomb-lane-cranbourne-vic-3977-16106494,Allansford and District Primary School,1036.5,146.3,3977,435.0

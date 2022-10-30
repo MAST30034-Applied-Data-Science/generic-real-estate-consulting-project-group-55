@@ -1,0 +1,101 @@
+rent_address,stop_name,min_distance,min_duration
+1-1204-glen-huntly-road-glen-huntly-vic-3163-16083529,NULL,NULL,NULL
+7-23-bendigo-avenue-elwood-vic-3184-16085426,St Kilda (Brookes Jetty),2189.8,229.06
+1-12-omar-street-caulfield-south-vic-3162-16085399,Middle Brighton Pier and Breakwater,5275.73,515.32
+602-250-city-road-southbank-vic-3006-16085393,Albert Park,1887.4,311.58
+26-william-street-dromana-vic-3936-16085361,Port Phillip Bay Coastal Reserve (COM),575.61,78.07
+2-14-binns-street-montmorency-vic-3094-16085351,Eltham Bushland Reserve,3331.88,366.18
+603-101-river-street-south-yarra-vic-3141-16085330,Parks Victoria Depot - Barkly Ave Park,2759.88,261.08
+80a-waverley-street-moonee-ponds-vic-3039-16085329,"Pipemakers, Burndap and Footscay Park Parklands (COM)",2665.59,334.73
+12-174-george-street-east-melbourne-vic-3002-14217723,Lower Yarra River land,2269.9,310.97
+1-15-tintern-avenue-toorak-vic-3142-16085299,Herring Island,2915.56,354.06
+210-26-warleigh-grove-brighton-vic-3186-15226300,Middle Brighton Pier and Breakwater,2129.52,270.97
+205-95-ormond-road-elwood-vic-3184-16085196,St Kilda (Brookes Jetty),2403.05,253.7
+15-64-auburn-rd-hawthorn-vic-3122-16085195,Lower Yarra River land,3238.52,324.64
+609-14-david-street-richmond-vic-3121-16085191,Lower Yarra River land,419.77,89.56
+409-108-bay-street-port-melbourne-vic-3207-16085177,Kerford Road and Lagoon Piers,937.17,98.08
+107k-211-powlett-street-east-melbourne-vic-3002-16085151,Lower Yarra River land,1624.92,202.91
+44-francis-cres-glen-iris-vic-3146-16085112,Wattle Park,6984.81,643.13
+4-52-lyndhurst-street-richmond-vic-3121-16085100,Lower Yarra River land,1569.73,178.7
+203-highfield-road-camberwell-vic-3124-16085093,Wattle Park,3033.67,283.06
+6-6-denbigh-road-armadale-vic-3143-16085067,Albert Park,4095.55,442.14
+17-king-street-richmond-vic-3121-16085050,Princes Warf,2389.57,401.81
+1105-162-albert-street-east-melbourne-vic-3002-16084999,Lower Yarra River land,1783.3,234.63
+10-5-allard-street-brunswick-west-vic-3055-16084995,Lower Maribyrnong River land,5330.57,542.96
+eg07-11-flockhart-street-abbotsford-vic-3067-16084992,Lower Yarra River land (addition) Park,125.09,30.02
+11a-131-lonsdale-sreet-melbourne-vic-3000-16084984,Carlton Court House Historic Reserve,1984.06,265.17
+7-1a-hughenden-road-st-kilda-east-vic-3183-16084967,Albert Park,2971.77,325.15
+28-wilson-street-highett-vic-3190-16084920,Sandringham Jetty and Breakwater,3812.02,348.21
+6-bass-street-flinders-vic-3929-16084910,Flinders Jetty,445.81,75.39
+g06-81-cemetery-road-carlton-vic-3053-16084878,Carlton Court House Historic Reserve,1045.16,120.6
+4-4-6-wilson-street-wodonga-vic-3690-16084871,Wodonga Bushland Reserve,2822.9,344.52
+3-402-toorak-road-toorak-vic-3142-16084857,Herring Island,2841.21,322.57
+303-81-riversdale-road-hawthorn-vic-3122-16084849,Lower Yarra River land,2729.7,303.08
+204-378-390-st-george-road-fitzroy-north-vic-3068-16084845,Yarra Bend Park,3200.79,347.04
+37-margot-street-chadstone-vic-3148-16084833,Wattle Park,6000.36,677.01
+16-teal-court-wodonga-vic-3690-16084825,Fell Timber Creek Nature Conservation Reserve,4143.93,424.4
+4-5-bell-court-wodonga-vic-3690-16084806,Proposed Murray River Park (part),1796.01,265.89
+40-daintree-way-wodonga-vic-3690-16084804,Fell Timber Creek Nature Conservation Reserve,4382.42,400.92
+3-27-ruskin-street-elwood-vic-3184-16084771,St Kilda (Brookes Jetty),1590.62,208.15
+3-23-auburn-grove-hawthorn-vic-3122-16084647,Lower Yarra River land,3281.51,341.64
+911-408-lonsdale-street-melbourne-vic-3000-16084620,Carlton Court House Historic Reserve,2293.95,269.53
+9-huon-street-wodonga-vic-3690-16084603,Wodonga Regional Park,1503.73,194.71
+38-park-crescent-caulfield-north-vic-3161-16084584,Herring Island,7675.45,715.16
+2-kurrajong-avenue-st-kilda-east-vic-3183-16084549,Albert Park,2853.8,317.33
+349-fitzroy-street-fitzroy-vic-3065-16084496,Carlton Court House Historic Reserve,892.81,142.01
+2-24-o-connor-street-reservoir-vic-3073-16084487,Merri Creek Park,6827.11,576.24
+1102-32-bray-street-south-yarra-vic-3141-16084480,Albert Reserve,2510.9,269.73
+1203-77-river-street-south-yarra-vic-3141-16084470,Albert Park,2756.08,339.73
+78-hawke-street-west-melbourne-vic-3003-16084403,Carlton Court House Historic Reserve,3269.95,375.92
+6-566-glenferrie-road-hawthorn-vic-3122-16084160,Lower Yarra River land,2505.49,264.37
+1-48-pearl-drive-craigieburn-vic-3064-16084074,Greenvale Reservoir Park,6459.63,979.5
+1003-8-joseph-road-footscray-vic-3011-16084073,Lower Maribyrnong River land,805.35,104.57
+2-116-jasper-road-bentleigh-vic-3204-16084051,Karkarook Park (water authority land),6016.76,582.54
+918-422-collins-st-melbourne-vic-3000-16084005,Albert Park,2824.64,405.28
+104-somerset-street-richmond-vic-3121-16083987,Lower Yarra River land (addition) Park,931.6,178.09
+12-30-james-street-windsor-vic-3181-16083970,Albert Park,2148.82,338.47
+105-333-ascot-vale-rd-moonee-ponds-vic-3039-16083963,Lower Maribyrnong River land,3635.06,385.88
+1-6-turner-road-highett-vic-3190-16083938,Karkarook Park,4297.85,496.1
+1-6-rattray-avenue-wodonga-vic-3690-16083917,Wodonga Regional Park,1446.1,210.66
+3-492-plenty-road-preston-vic-3072-16083908,Gresswell Forest (part a) Nature Conservation Reserve,5584.28,658.9
+30-80-enterprise-dr-bundoora-vic-3083-16083831,Plenty Gorge Parklands (COM),2502.25,470.86
+12-park-street-abbotsford-vic-3067-16083814,Lower Yarra River land,1035.01,133.61
+1492-malvern-road-glen-iris-vic-3146-16051441,Herring Island,6517.46,522.92
+214-54-nott-street-port-melbourne-vic-3207-16083798,Kerford Road and Lagoon Piers,1061.77,146.05
+4-5-southey-court-elwood-vic-3184-16083693,St Kilda (Brookes Jetty),1993.57,300.52
+714-20-shamrock-street-abbotsford-vic-3067-16083651,Lower Yarra River land (addition) Park,16.88,4.05
+2a-stephens-street-caulfield-vic-3162-16083642,Herring Island,8754.74,772.46
+2-193-bambra-road-caulfield-south-vic-3162-16083583,Middle Brighton Pier and Breakwater,6031.98,566.13
+1-36-burnley-street-richmond-vic-3121-16083578,Lower Yarra River land,674.88,76.35
+30-goulburn-way-eynesbury-vic-3338-16083577,Melbourne Strategic Assessment Reserve,15104.92,997.07
+3-59-avoca-street-south-yarra-vic-3141-16083571,Albert Park,2057.29,288.06
+4-melrose-street-mont-albert-north-vic-3129-16083561,Wattle Park,5416.85,536.77
+19-baker-street-richmond-vic-3121-16083535,Lower Yarra River land (addition) Park,797.74,105.14
+2a-anderson-street-bentleigh-vic-3204-16083500,Karkarook Park (water authority land),5202.9,598.98
+504-1-olive-york-way-brunswick-west-vic-3055-15727179,Lower Maribyrnong River land,6047.8,637.71
+313-15-bond-street-caulfield-vic-3162-16083470,Herring Island,8371.73,757.68
+1-28-wilgah-street-st-kilda-east-vic-3183-16083469,Albert Park,2959.06,307.21
+2-117-tennyson-street-elwood-vic-3184-16083454,St Kilda (Brookes Jetty),2740.96,292.8
+105-26-barkly-street-brunswick-east-vic-3057-16083390,Carlton Court House Historic Reserve,2980.07,330.05
+31-55-hotham-street-st-kilda-east-vic-3183-16083388,Albert Park,2578.17,270.05
+4-23-albert-street-east-melbourne-vic-3002-16083380,Carlton Court House Historic Reserve,2238.32,265.89
+2-36-crisp-st-hampton-vic-3188-16083355,Sandringham Jetty and Breakwater,1878.65,295.73
+13-warburton-road-camberwell-vic-3124-16083344,Wattle Park,4098.78,455.57
+1-salford-avenue-balwyn-vic-3103-16083324,Wattle Park,4701.0,433.32
+612-30-burnley-street-richmond-vic-3121-16083288,Lower Yarra River land,229.95,27.84
+314-284-highett-rd-highett-vic-3190-16083284,Sandringham Jetty and Breakwater,4761.42,408.55
+2-610-neerim-road-hughesdale-vic-3166-15940344,Karkarook Park (water authority land),6791.39,645.69
+92-brunswick-road-brunswick-vic-3056-16083215,Carlton Court House Historic Reserve,2796.75,294.6
+2-22-carr-street-brighton-east-vic-3187-16083096,Sandringham Jetty and Breakwater,5038.84,518.15
+902-627-victoria-street-abbotsford-vic-3067-16083095,Lower Yarra River land,206.09,41.05
+133-ramsden-street-clifton-hill-vic-3068-16083078,Lower Yarra River land,1142.67,160.18
+3-47-wellington-street-geelong-west-vic-3218-16082980,Geelong Telegraph Station Historic Reserve,1858.77,252.17
+3-113-osborne-street-south-yarra-vic-3141-16082959,Albert Reserve,2379.41,276.02
+514-6-acacia-place-abbotsford-vic-3067-16082921,Lower Yarra River land,0.0,0.0
+4-165-clarke-street-northcote-vic-3070-16082860,Yarra Bend Park,2681.64,276.92
+112a-bluff-road-black-rock-vic-3193-16082856,Black Rock Jetty,900.81,134.55
+47-gilbert-road-preston-vic-3072-16082846,Yarra Bend Park,6712.5,571.55
+10-10-larbert-road-noble-park-vic-3174-16082810,Braeside Park,7548.93,763.81
+410-92-maroondah-highway-ringwood-vic-3134-16082788,Mullum Mullum Park,2053.06,223.37
+390-duke-street-sunshine-north-vic-3020-15333130,Cairnlea Estate Nature Conservation Reserve,5315.71,541.28
+26-huon-street-wodonga-vic-3690-16082752,Wodonga Regional Park,1221.75,201.66
